@@ -2,6 +2,8 @@ backend:
   name: github
   repo: satoshi3090/afrus
   branch: main
+  base_url: https://afrus.vercel.app
+  auth_endpoint: api/auth
   auth_scope: repo
   use_graphql: true
   squash_merges: true

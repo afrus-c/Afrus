@@ -2,12 +2,7 @@
   "redirects": [
     {
       "source": "/admin",
-      "destination": "https://afrusculture.netlify.app/admin/",
-      "permanent": false
-    },
-    {
-      "source": "/admin/",
-      "destination": "https://afrusculture.netlify.app/admin/",
+      "destination": "/admin/",
       "permanent": false
     }
   ]
