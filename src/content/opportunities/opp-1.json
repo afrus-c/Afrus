@@ -1,0 +1,81 @@
+{
+  "id": "opp-1",
+  "title": "Russian Government Full Academic Scholarships 2026/2027",
+  "category": "scholarship",
+  "location": "Moscow, St. Petersburg, Kazan, Novosibirsk",
+  "deadline": "October 30, 2026",
+  "description": "100% tuition-covered government scholarships for Bachelor’s, Master’s, and PhD programs in Engineering, Medicine, IT, and International Relations.",
+  "benefits": [
+    "Zero tuition fees",
+    "Monthly living stipend",
+    "Subsidized university dormitory housing",
+    "1-year intensive Russian language preparatory course"
+  ],
+  "requirements": [
+    "High school diploma or bachelor degree transcript",
+    "Valid passport (minimum 18 months validity)",
+    "Certified translations into Russian",
+    "Passed medical examination & HIV certificate"
+  ],
+  "image": "/uploads/opportunities/university_campus_russia_1785919887504.jpg",
+  "titleI18n": {
+    "en": "Russian Government Full Academic Scholarships 2026/2027",
+    "fr": "Bourses universitaires complètes du gouvernement russe 2026/2027",
+    "ru": "Полная академическая стипендия Правительства РФ 2026/2027"
+  },
+  "locationI18n": {
+    "en": "Moscow, St. Petersburg, Kazan, Novosibirsk",
+    "fr": "Moscou, Saint-Pétersbourg, Kazan, Novossibirsk",
+    "ru": "Москва, Санкт-Петербург, Казань, Новосибирск"
+  },
+  "deadlineI18n": {
+    "en": "October 30, 2026",
+    "fr": "30 octobre 2026",
+    "ru": "30 октября 2026 г."
+  },
+  "descriptionI18n": {
+    "en": "100% tuition-covered government scholarships for Bachelor’s, Master’s, and PhD programs in Engineering, Medicine, IT, and International Relations.",
+    "fr": "Bourses gouvernementales 100 % couvertes par les frais de scolarité pour les programmes de licence, de maîtrise et de doctorat en ingénierie, médecine, informatique et relations internationales.",
+    "ru": "Государственные стипендии со 100% покрытием стоимости обучения для программ бакалавриата, магистратуры и докторантуры в области инженерии, медицины, информационных технологий и международных отношений."
+  },
+  "benefitsI18n": {
+    "en": [
+      "Zero tuition fees",
+      "Monthly living stipend",
+      "Subsidized university dormitory housing",
+      "1-year intensive Russian language preparatory course"
+    ],
+    "fr": [
+      "Zéro frais de scolarité",
+      "Allocation de subsistance mensuelle",
+      "Résidence universitaire subventionnée",
+      "Cours préparatoire intensif de langue russe d'un an"
+    ],
+    "ru": [
+      "Нулевая плата за обучение",
+      "Ежемесячная стипендия на проживание",
+      "Субсидируемое жилье в общежитии университета",
+      "1-летний интенсивный подготовительный курс русского языка"
+    ]
+  },
+  "requirementsI18n": {
+    "en": [
+      "High school diploma or bachelor degree transcript",
+      "Valid passport (minimum 18 months validity)",
+      "Certified translations into Russian",
+      "Passed medical examination & HIV certificate"
+    ],
+    "fr": [
+      "Relevé de notes d'un diplôme d'études secondaires ou d'un baccalauréat",
+      "Passeport valide (validité minimum 18 mois)",
+      "Traductions certifiées vers le russe",
+      "Examen médical réussi et certificat VIH"
+    ],
+    "ru": [
+      "Аттестат средней школы или транскрипт степени бакалавра",
+      "Действительный паспорт (срок действия минимум 18 месяцев)",
+      "Заверенные переводы на русский язык",
+      "Пройдено медицинское обследование и сертификат на ВИЧ."
+    ]
+  }
+}

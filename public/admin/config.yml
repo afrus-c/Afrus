@@ -1,0 +1,782 @@
+backend:
+  name: github
+  repo: satoshi3090/afrus
+  branch: main
+  auth_scope: repo
+  use_graphql: true
+  squash_merges: true
+  commit_messages:
+    create: 'content: create {{collection}} - {{slug}}'
+    update: 'content: update {{collection}} - {{slug}}'
+    delete: 'content: delete {{collection}} - {{slug}}'
+    uploadMedia: 'content: upload {{path}}'
+    deleteMedia: 'content: delete media {{path}}'
+
+local_backend: true
+
+logo_url: /afrus-logo-transparent-v3.png
+locale: fr
+show_preview_links: true
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: '-'
+
+publish_mode: editorial_workflow
+media_folder: public/uploads
+public_folder: /uploads
+
+collections:
+  - name: multilingual_content
+    label: Tous les textes et traductions du site
+    label_singular: Groupe de traductions
+    folder: src/content/translations
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: namespace
+    summary: '{{adminLabelFr}}'
+    fields:
+      - { label: Page or section namespace, name: namespace, widget: hidden }
+      - { label: Nom administratif en français, name: adminLabelFr, widget: hidden }
+      - label: Editable text
+        name: entries
+        widget: list
+        summary: '{{fields.fr}}'
+        add_to_top: true
+        fields:
+          - { label: Translation key, name: key, widget: string, hint: 'Keep existing keys unchanged. New keys may be added for new content.' }
+          - { label: English, name: en, widget: text }
+          - { label: French, name: fr, widget: text }
+          - { label: Russian, name: ru, widget: text }
+
+  # Page-specific views make major business areas easy to find. These edit the
+  # same translation files as the complete collection above.
+  - name: trade_page_content
+    label: Trade Page Content
+    folder: src/content/translations
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: namespace
+    summary: '{{adminLabelFr}}'
+    filter: { field: namespace, value: tradePage }
+    fields: &page_translation_fields
+      - { label: Page namespace, name: namespace, widget: hidden }
+      - { label: Nom administratif en français, name: adminLabelFr, widget: hidden }
+      - label: Editable page content
+        name: entries
+        widget: list
+        summary: '{{fields.fr}}'
+        add_to_top: true
+        fields:
+          - { label: Content key, name: key, widget: string, hint: 'Keep existing keys unchanged.' }
+          - { label: English, name: en, widget: text }
+          - { label: French, name: fr, widget: text }
+          - { label: Russian, name: ru, widget: text }
+
+  - name: business_russia_content
+    label: Business in Russia Content
+    folder: src/content/translations
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: namespace
+    summary: '{{adminLabelFr}}'
+    filter: { field: namespace, value: businessRussia }
+    fields: *page_translation_fields
+
+  - name: business_africa_content
+    label: Business in Africa Content
+    folder: src/content/translations
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: namespace
+    summary: '{{adminLabelFr}}'
+    filter: { field: namespace, value: businessAfrica }
+    fields: *page_translation_fields
+
+  - name: export_import_content
+    label: Export and Import Content
+    folder: src/content/translations
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: namespace
+    summary: '{{adminLabelFr}}'
+    filter: { field: namespace, value: exportImportPage }
+    fields: *page_translation_fields
+
+  - name: economic_forum_content
+    label: Economic Forum Content
+    folder: src/content/translations
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: namespace
+    summary: '{{adminLabelFr}}'
+    filter: { field: namespace, value: forumPage }
+    fields: *page_translation_fields
+
+  - name: events_page_content
+    label: Events Page Text
+    folder: src/content/translations
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: namespace
+    summary: '{{adminLabelFr}}'
+    filter: { field: namespace, value: eventsPage }
+    fields: *page_translation_fields
+
+  - name: store_categories
+    label: Store Categories
+    label_singular: Store Category
+    folder: src/content/store/categories
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{nameI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string, hint: 'Use lowercase letters and hyphens. Do not change after products use it.' }
+      - { label: Category name, name: name, widget: string }
+      - { label: Description, name: description, widget: text }
+      - { label: Translated category name, name: nameI18n, widget: object, required: false, collapsed: true, fields: [{ label: English, name: en, widget: string, required: false }, { label: French, name: fr, widget: string, required: false }, { label: Russian, name: ru, widget: string, required: false }] }
+      - { label: Translated description, name: descriptionI18n, widget: object, required: false, collapsed: true, fields: [{ label: English, name: en, widget: text, required: false }, { label: French, name: fr, widget: text, required: false }, { label: Russian, name: ru, widget: text, required: false }] }
+      - { label: Cover image, name: image, widget: image }
+      - { label: Icon or emoji, name: icon, widget: string }
+      - { label: Display order, name: itemCount, widget: number, value_type: int, min: 0, default: 0 }
+
+  - name: store_subcategories
+    label: Store Subcategories
+    label_singular: Store Subcategory
+    folder: src/content/store/subcategories
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{nameI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string, hint: 'Use category-id--subcategory-name.' }
+      - { label: Parent category, name: categoryId, widget: relation, collection: store_categories, search_fields: ['name', 'id'], value_field: id, display_fields: ['name'] }
+      - { label: Subcategory name, name: name, widget: string }
+      - { label: Translated subcategory name, name: nameI18n, widget: object, required: false, collapsed: true, fields: [{ label: English, name: en, widget: string, required: false }, { label: French, name: fr, widget: string, required: false }, { label: Russian, name: ru, widget: string, required: false }] }
+
+  - name: store_products
+    label: Store Products
+    label_singular: Store Product
+    folder: src/content/store/products
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{titleI18n.fr}} — ₽{{priceRub}} RUB'
+    fields:
+      - { label: Stable product ID, name: id, widget: string, hint: 'Use lowercase letters and hyphens.' }
+      - { label: Legacy title fallback, name: title, widget: hidden, default: '' }
+      - { label: Product title, name: titleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Category, name: categoryId, widget: relation, collection: store_categories, search_fields: ['name', 'id'], value_field: id, display_fields: ['name'] }
+      - { label: Subcategory, name: subcategoryId, widget: relation, collection: store_subcategories, search_fields: ['name', 'id'], value_field: id, display_fields: ['name'], required: false }
+      - { label: Legacy category fallback, name: category, widget: hidden, default: '' }
+      - { label: Legacy subcategory fallback, name: subcategory, widget: hidden, default: '' }
+      - { label: Prix principal en RUB, name: priceRub, widget: number, value_type: float, min: 0, hint: 'Prix principal obligatoire affiché aux clients en roubles russes.' }
+      - { label: Prix de référence en USD, name: priceUsd, widget: number, value_type: float, min: 0, hint: 'Prix secondaire indicatif affiché entre parenthèses.' }
+      - { label: Origin, name: origin, widget: string }
+      - { label: Legacy description fallback, name: description, widget: hidden, default: '' }
+      - { label: Product description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Main image, name: image, widget: image, hint: 'Any image shape is supported. For the best storefront presentation, use a clear square product photo with the product centered and some space around its edges.' }
+      - { label: Gallery images, name: galleryImages, widget: list, required: false, field: { label: Image, name: value, widget: image, required: false } }
+      - { label: In stock, name: inStock, widget: boolean, default: true }
+      - { label: Inventory count, name: inventoryCount, widget: number, value_type: int, min: 0, default: 0 }
+      - { label: Availability label, name: availabilityStatus, widget: string, required: false, hint: 'Enter any status the administrator wants customers to see.' }
+      - { label: Featured product, name: isFeatured, widget: boolean, default: false, required: false }
+      - { label: New arrival, name: isNewArrival, widget: boolean, default: false, required: false }
+      - { label: Rating, name: rating, widget: number, value_type: float, min: 0, max: 5, default: 5 }
+      - { label: Badge, name: badge, widget: string, required: false }
+      - { label: Translated badge, name: badgeI18n, widget: object, required: false, collapsed: true, fields: [{ label: English, name: en, widget: string, required: false }, { label: French, name: fr, widget: string, required: false }, { label: Russian, name: ru, widget: string, required: false }] }
+      - { label: Brand, name: brand, widget: string, required: false }
+      - { label: Material, name: material, widget: string, required: false }
+      - { label: Available sizes, name: availableSizes, widget: list, required: false, field: { label: Size, name: value, widget: string, required: false } }
+      - label: Specifications
+        name: specifications
+        widget: list
+        required: false
+        fields:
+          - { label: Label, name: label, widget: string, required: false }
+          - { label: Value, name: value, widget: string, required: false }
+
+  - name: events
+    label: Events Calendar
+    label_singular: Event
+    folder: src/content/events
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{titleI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Legacy title, name: title, widget: hidden, default: '' }
+      - { label: Title, name: titleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Event type, name: typeI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Date, name: dateI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Location, name: locationI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Legacy type, name: type, widget: hidden, default: 'Conference' }
+      - { label: Legacy date, name: date, widget: hidden, default: '' }
+      - { label: Legacy location, name: location, widget: hidden, default: '' }
+      - { label: Legacy description, name: description, widget: hidden, default: '' }
+      - { label: Image, name: image, widget: image }
+      - { label: Speakers, name: speakers, widget: list, required: false, field: { label: Speaker, name: value, widget: string, required: false } }
+      - { label: Upcoming event, name: isUpcoming, widget: boolean, default: true }
+
+  - name: news
+    label: News Articles
+    label_singular: News Article
+    folder: src/content/news
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{titleI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Legacy title, name: title, widget: hidden, default: '' }
+      - { label: Title, name: titleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Category, name: categoryI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Publication date, name: dateI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Reading time, name: readTimeI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Excerpt, name: excerptI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Article body, name: contentI18n, widget: object, fields: [{ label: English, name: en, widget: markdown }, { label: French, name: fr, widget: markdown }, { label: Russian, name: ru, widget: markdown }] }
+      - { label: Author, name: authorI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Legacy category, name: category, widget: hidden, default: '' }
+      - { label: Legacy date, name: date, widget: hidden, default: '' }
+      - { label: Legacy read time, name: readTime, widget: hidden, default: '' }
+      - { label: Legacy excerpt, name: excerpt, widget: hidden, default: '' }
+      - { label: Legacy body, name: content, widget: hidden, default: '' }
+      - { label: Legacy author, name: author, widget: hidden, default: '' }
+      - { label: Featured image, name: image, widget: image }
+
+  - name: universities
+    label: Universities
+    label_singular: University
+    folder: src/content/universities
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{nameI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Legacy name, name: name, widget: hidden, default: '' }
+      - { label: University name, name: nameI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: City, name: cityI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Ranking, name: rankingI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - label: Programs
+        name: programsI18n
+        widget: object
+        fields:
+          - { label: English, name: en, widget: list, field: { label: Program, name: value, widget: string } }
+          - { label: French, name: fr, widget: list, field: { label: Programme, name: value, widget: string } }
+          - { label: Russian, name: ru, widget: list, field: { label: Program, name: value, widget: string } }
+      - { label: Tuition range, name: tuitionRangeI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Scholarships available, name: scholarshipsAvailable, widget: boolean, default: true }
+      - { label: University image, name: image, widget: image }
+      - { label: Legacy city, name: city, widget: hidden, default: '' }
+      - { label: Legacy ranking, name: ranking, widget: hidden, default: '' }
+      - { label: Legacy programs, name: programs, widget: hidden, default: [] }
+      - { label: Legacy tuition, name: tuitionRange, widget: hidden, default: '' }
+      - { label: Legacy description, name: description, widget: hidden, default: '' }
+
+  - name: opportunities
+    label: Business Opportunities
+    label_singular: Opportunity
+    folder: src/content/opportunities
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{titleI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Category, name: category, widget: string, hint: 'Enter or create any opportunity category.' }
+      - { label: Title, name: titleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Location, name: locationI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Deadline, name: deadlineI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - label: Benefits
+        name: benefitsI18n
+        widget: object
+        fields:
+          - { label: English, name: en, widget: list, field: { label: Benefit, name: value, widget: string } }
+          - { label: French, name: fr, widget: list, field: { label: Avantage, name: value, widget: string } }
+          - { label: Russian, name: ru, widget: list, field: { label: Benefit, name: value, widget: string } }
+      - label: Requirements
+        name: requirementsI18n
+        widget: object
+        fields:
+          - { label: English, name: en, widget: list, field: { label: Requirement, name: value, widget: string } }
+          - { label: French, name: fr, widget: list, field: { label: Condition, name: value, widget: string } }
+          - { label: Russian, name: ru, widget: list, field: { label: Requirement, name: value, widget: string } }
+      - { label: Image, name: image, widget: image }
+      - { label: Legacy title, name: title, widget: hidden, default: '' }
+      - { label: Legacy location, name: location, widget: hidden, default: '' }
+      - { label: Legacy deadline, name: deadline, widget: hidden, default: '' }
+      - { label: Legacy description, name: description, widget: hidden, default: '' }
+      - { label: Legacy benefits, name: benefits, widget: hidden, default: [] }
+      - { label: Legacy requirements, name: requirements, widget: hidden, default: [] }
+
+  - name: concierge_services
+    label: Concierge Services
+    label_singular: Concierge Service
+    folder: src/content/concierge-services
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{titleI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Icon, name: icon, widget: string, hint: 'Enter a supported icon name; unknown names use the website fallback icon.' }
+      - { label: Title, name: titleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - label: Included services
+        name: featuresI18n
+        widget: object
+        fields:
+          - { label: English, name: en, widget: list, field: { label: Feature, name: value, widget: string } }
+          - { label: French, name: fr, widget: list, field: { label: Service, name: value, widget: string } }
+          - { label: Russian, name: ru, widget: list, field: { label: Feature, name: value, widget: string } }
+      - { label: Highlight, name: highlightI18n, widget: object, required: false, fields: [{ label: English, name: en, widget: string, required: false }, { label: French, name: fr, widget: string, required: false }, { label: Russian, name: ru, widget: string, required: false }] }
+      - { label: Legacy title, name: title, widget: hidden, default: '' }
+      - { label: Legacy description, name: description, widget: hidden, default: '' }
+      - { label: Legacy features, name: features, widget: hidden, default: [] }
+
+  - name: language_courses
+    label: Language Courses
+    label_singular: Language Course
+    folder: src/content/language-courses
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{titleI18n.fr}} — {{levelI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Language, name: language, widget: string, hint: 'Enter any course language.' }
+      - { label: Icon, name: icon, widget: string, hint: 'Enter a supported icon name; unknown names use the website fallback icon.' }
+      - { label: Title, name: titleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Level, name: levelI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Duration, name: durationI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Format, name: formatI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Target audience, name: targetAudienceI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - label: Course features
+        name: featuresI18n
+        widget: object
+        fields:
+          - { label: English, name: en, widget: list, field: { label: Feature, name: value, widget: string } }
+          - { label: French, name: fr, widget: list, field: { label: Fonctionnalité, name: value, widget: string } }
+          - { label: Russian, name: ru, widget: list, field: { label: Feature, name: value, widget: string } }
+      - { label: Legacy title, name: title, widget: hidden, default: '' }
+      - { label: Legacy level, name: level, widget: hidden, default: '' }
+      - { label: Legacy duration, name: duration, widget: hidden, default: '' }
+      - { label: Legacy format, name: format, widget: hidden, default: 'Online' }
+      - { label: Legacy description, name: description, widget: hidden, default: '' }
+      - { label: Legacy audience, name: targetAudience, widget: hidden, default: '' }
+      - { label: Legacy features, name: features, widget: hidden, default: [] }
+
+  - name: testimonials
+    label: Testimonials
+    label_singular: Testimonial
+    folder: src/content/testimonials
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{nameI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Name, name: nameI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Role, name: roleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Organization, name: organizationI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Country, name: countryI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Testimonial, name: quoteI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Portrait, name: avatar, widget: image }
+      - { label: Rating, name: rating, widget: number, value_type: int, min: 1, max: 5, default: 5 }
+      - { label: Legacy name, name: name, widget: hidden, default: '' }
+      - { label: Legacy role, name: role, widget: hidden, default: '' }
+      - { label: Legacy organization, name: organization, widget: hidden, default: '' }
+      - { label: Legacy country, name: country, widget: hidden, default: '' }
+      - { label: Legacy quote, name: quote, widget: hidden, default: '' }
+
+  - name: home_hero
+    label: Homepage Hero Slides
+    label_singular: Hero Slide
+    folder: src/content/home-hero
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{headlineI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Display order, name: order, widget: number, value_type: int, min: 1 }
+      - { label: Image, name: image, widget: image }
+      - { label: Destination path, name: path, widget: string }
+      - { label: Category label, name: categoryI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Headline, name: headlineI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Button text, name: ctaTextI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Legacy category, name: category, widget: hidden, default: '' }
+      - { label: Legacy headline, name: headline, widget: hidden, default: '' }
+      - { label: Legacy description, name: description, widget: hidden, default: '' }
+      - { label: Legacy button, name: ctaText, widget: hidden, default: '' }
+
+  - name: quick_services
+    label: Homepage Quick Services
+    label_singular: Quick Service
+    folder: src/content/quick-services
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{titleI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Display order, name: order, widget: number, value_type: int, min: 1 }
+      - { label: Service group, name: category, widget: string, hint: 'Enter an existing group or create a new group name.' }
+      - { label: Icon, name: iconName, widget: string }
+      - { label: Featured service, name: featured, widget: boolean, default: false, required: false }
+      - { label: Title, name: titleI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - { label: Badge, name: badgeI18n, widget: object, required: false, fields: [{ label: English, name: en, widget: string, required: false }, { label: French, name: fr, widget: string, required: false }, { label: Russian, name: ru, widget: string, required: false }] }
+      - { label: Link text, name: linkTextI18n, widget: object, required: false, fields: [{ label: English, name: en, widget: string, required: false }, { label: French, name: fr, widget: string, required: false }, { label: Russian, name: ru, widget: string, required: false }] }
+      - { label: Legacy title, name: title, widget: hidden, default: '' }
+      - { label: Legacy description, name: description, widget: hidden, default: '' }
+      - { label: Legacy badge, name: badge, widget: hidden, default: '' }
+
+  - name: partners
+    label: Partner Logos
+    label_singular: Partner
+    folder: src/content/partners
+    create: true
+    delete: true
+    extension: json
+    format: json
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{nameI18n.fr}}'
+    fields:
+      - { label: Stable ID, name: id, widget: string }
+      - { label: Display order, name: order, widget: number, value_type: int, min: 1 }
+      - { label: Partner name, name: nameI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+      - { label: Logo abbreviation, name: logoText, widget: string }
+      - { label: Legacy name, name: name, widget: hidden, default: '' }
+
+  - name: pages
+    label: Website Pages
+    files:
+      - name: site_settings
+        label: Global Site Settings
+        file: src/content/site-settings.json
+        format: json
+        fields:
+          - label: Brand
+            name: brand
+            widget: object
+            fields:
+              - { label: Brand name, name: name, widget: string }
+              - { label: Legacy logo, name: logo, widget: image, required: false, hint: "Retained for compatibility." }
+              - { label: Navbar and footer logo, name: footerLogo, widget: image, hint: "This same logo is displayed in both the navbar and footer." }
+          - label: Contact channels
+            name: contact
+            widget: object
+            fields:
+              - { label: Support email, name: email, widget: string }
+              - label: WhatsApp
+                name: whatsapp
+                widget: object
+                fields:
+                  - { label: Number (digits only), name: raw, widget: string }
+                  - { label: Display number, name: formatted, widget: string }
+              - label: Africa phone
+                name: africaPhone
+                widget: object
+                fields:
+                  - { label: Number (digits only), name: raw, widget: string }
+                  - { label: Display number, name: formatted, widget: string }
+              - label: Telegram
+                name: telegram
+                widget: object
+                fields:
+                  - { label: Display handle, name: handle, widget: string }
+                  - { label: Username, name: username, widget: string }
+                  - { label: Profile URL, name: url, widget: string }
+              - { label: Facebook URL, name: facebookUrl, widget: string }
+              - { label: Instagram URL, name: instagramUrl, widget: string }
+          - label: Offices
+            name: offices
+            widget: list
+            summary: '{{fields.title.fr}}'
+            fields:
+              - { label: Stable ID, name: id, widget: string }
+              - { label: Office name, name: title, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Address, name: address, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+              - { label: Coordinates, name: coordinates, widget: string }
+      - name: operational_settings
+        label: Commerce and SEO Settings
+        file: src/content/operational-settings.json
+        format: json
+        fields:
+          - label: Commerce settings
+            name: commerce
+            widget: object
+            fields:
+              - { label: USD to RUB exchange rate, name: usdToRubRate, widget: number, value_type: float, min: 0 }
+              - { label: Low-stock threshold, name: lowStockThreshold, widget: number, value_type: int, min: 0 }
+              - { label: Default available inventory, name: defaultInventoryWhenAvailable, widget: number, value_type: int, min: 0 }
+              - { label: Seuil de livraison gratuite en RUB, name: freeShippingThresholdRub, widget: number, value_type: float, min: 0 }
+              - { label: Seuil indicatif en USD, name: freeShippingThresholdUsd, widget: number, value_type: float, min: 0 }
+              - label: Promo codes
+                name: promoCodes
+                widget: list
+                summary: '{{fields.code}} — {{fields.percent}}%'
+                fields:
+                  - { label: Code, name: code, widget: string }
+                  - { label: Discount percent, name: percent, widget: number, value_type: float, min: 0, max: 100 }
+                  - { label: Enabled, name: enabled, widget: boolean, default: true }
+          - label: Default SEO
+            name: seo
+            widget: object
+            fields:
+              - { label: Site name, name: siteName, widget: string }
+              - { label: Default page title, name: defaultTitle, widget: string }
+              - { label: Default meta description, name: defaultDescription, widget: text }
+              - { label: Social sharing image, name: socialImage, widget: image }
+              - { label: Allow search indexing, name: indexSite, widget: boolean, default: true }
+              - label: Page SEO
+                name: routes
+                widget: list
+                summary: '{{fields.path}} — {{fields.title}}'
+                fields:
+                  - { label: Route path, name: path, widget: string }
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Meta description, name: description, widget: text }
+                  - { label: Social image, name: image, widget: image }
+                  - { label: Allow indexing, name: index, widget: boolean, default: true }
+          - label: Checkout operations
+            name: checkout
+            widget: object
+            fields:
+              - label: Shipping methods
+                name: shippingMethods
+                widget: list
+                summary: '{{fields.labelI18n.fr}} — ₽{{fields.priceRub}} RUB'
+                fields:
+                  - { label: Stable ID, name: id, widget: string }
+                  - { label: Name, name: label, widget: string }
+                  - { label: Translated name, name: labelI18n, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+                  - { label: Description, name: description, widget: text }
+                  - { label: Translated description, name: descriptionI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+                  - { label: Prix principal en RUB, name: priceRub, widget: number, value_type: float, min: 0 }
+                  - { label: Prix indicatif en USD, name: priceUsd, widget: number, value_type: float, min: 0 }
+                  - { label: Enabled, name: enabled, widget: boolean, default: true }
+              - { label: Payment instructions, name: paymentInstructions, widget: text }
+              - { label: Translated payment instructions, name: paymentInstructionsI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+              - { label: Order message prefix, name: orderMessagePrefix, widget: text }
+              - { label: Translated order message prefix, name: orderMessagePrefixI18n, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+      - name: page_media
+        label: Page Hero Images
+        file: src/content/page-media.json
+        format: json
+        fields:
+          - { label: About slides, name: about, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Business in Russia slides, name: businessInRussia, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Business in Africa slides, name: businessInAfrica, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Concierge slides, name: concierge, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Contact slides, name: contact, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Events slides, name: events, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Economic Forum slides, name: forum, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Learn English slides, name: learnEnglish, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Learn French slides, name: learnFrench, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: News slides, name: news, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Study in Russia slides, name: studyInRussia, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Trade slides, name: trade, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+          - { label: Export and Import slides, name: exportImport, widget: list, field: { label: Image, name: image, widget: image, required: false } }
+      - name: inline_translations
+        label: Shared Inline Text
+        file: src/content/inline-translations.json
+        format: json
+        fields:
+          - label: Editable text
+            name: entries
+            widget: list
+            summary: '{{fields.fr}}'
+            fields:
+              - { label: Stable key, name: key, widget: hidden }
+              - { label: English, name: en, widget: text }
+              - { label: French, name: fr, widget: text }
+              - { label: Russian, name: ru, widget: text }
+      - name: about_page
+        label: About Page Core Content
+        file: src/content/pages/about-page.json
+        format: json
+        fields:
+          - { label: Mission, name: mission, widget: object, fields: [{ label: Title, name: title, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }, { label: Description, name: description, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }] }
+          - { label: Vision, name: vision, widget: object, fields: [{ label: Title, name: title, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }, { label: Description, name: description, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }] }
+          - label: Impact statistics
+            name: stats
+            widget: list
+            summary: '{{fields.label.fr}}'
+            fields:
+              - { label: Stable ID, name: id, widget: string }
+              - { label: Icon, name: icon, widget: string, hint: 'Enter a supported icon name; unknown names use the website fallback icon.' }
+              - { label: Value, name: value, widget: number, value_type: int, min: 0 }
+              - { label: Prefix, name: prefix, widget: string, required: false }
+              - { label: Suffix, name: suffix, widget: string, required: false }
+              - { label: Label, name: label, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Supporting text, name: subtext, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+
+      - name: store_page
+        label: AFRUS Store Page
+        file: src/content/pages/store-page.json
+        format: json
+        fields:
+          - label: Hero slides
+            name: heroSlides
+            widget: list
+            summary: '{{fields.title.fr}}'
+            fields:
+              - { label: Stable ID, name: id, widget: string }
+              - { label: Display order, name: order, widget: number, value_type: int, min: 1 }
+              - { label: Image, name: image, widget: image }
+              - { label: Badge, name: badge, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Title, name: title, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Description, name: subtitle, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+          - label: Dual-currency message
+            name: currencyFeature
+            widget: object
+            fields:
+              - { label: Title, name: title, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Description, name: description, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+
+      - name: money_transfer
+        label: Money Transfer Page
+        file: src/content/pages/money-transfer.json
+        format: json
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - { label: Badge, name: badge, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Title, name: title, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Highlighted title, name: titleAccent, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Description, name: description, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+              - { label: Primary button, name: primaryCta, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Secondary button, name: secondaryCta, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - label: Slides
+                name: slides
+                widget: list
+                summary: '{{fields.tag.fr}}'
+                fields:
+                  - { label: Stable ID, name: id, widget: string }
+                  - { label: Image, name: image, widget: image }
+                  - { label: Tag, name: tag, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+                  - { label: Caption, name: caption, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+          - label: Financial glossary
+            name: glossary
+            widget: list
+            summary: '{{fields.term.fr}}'
+            fields:
+              - { label: Stable ID, name: id, widget: string }
+              - { label: Term, name: term, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Definition, name: definition, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+          - label: Frequently asked questions
+            name: faqs
+            widget: list
+            summary: '{{fields.question.fr}}'
+            fields:
+              - { label: Stable ID, name: id, widget: string }
+              - { label: Question, name: question, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Answer, name: answer, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+
+      - name: festivals
+        label: Festivals Page
+        file: src/content/pages/festivals.json
+        format: json
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - { label: Badge, name: badge, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Title first line, name: titlePrefix, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Title highlighted line, name: titleAccent, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Description, name: subtitle, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+              - { label: Primary button, name: primaryCta, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Secondary button, name: secondaryCta, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Inquiry subject, name: inquirySubject, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Pause label, name: pause, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Play label, name: play, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - label: Hero slides
+                name: slides
+                widget: list
+                summary: '{{fields.tag.fr}}'
+                fields:
+                  - { label: Stable ID, name: id, widget: string }
+                  - { label: Image, name: image, widget: image }
+                  - { label: Tag, name: tag, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+                  - { label: Caption, name: caption, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+              - label: Navigation chips
+                name: chips
+                widget: list
+                summary: '{{fields.label.fr}}'
+                fields:
+                  - { label: Section ID, name: id, widget: string }
+                  - { label: Label, name: label, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+          - label: Festival lineup
+            name: lineup
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Title, name: title, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Description, name: description, widget: object, fields: [{ label: English, name: en, widget: text }, { label: French, name: fr, widget: text }, { label: Russian, name: ru, widget: text }] }
+              - { label: Registration button, name: cta, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }
+              - { label: Inquiry prefix, name: inquiryPrefix, widget: object, fields: [{ label: English, name: en, widget: string }, { label: French, name: fr, widget: string }, { label: Russian, name: ru, widget: string }] }

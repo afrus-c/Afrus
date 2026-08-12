@@ -1,0 +1,40 @@
+{
+    "id":  "clothing-kids-casual-hoodie",
+    "title":  "Kids\u0027 Casual Hoodie",
+    "category":  "Clothing",
+    "subcategory":  "Kids",
+    "priceUsd": 35,
+    "priceRub": 3220,
+    "origin":  "AFRUS Junior",
+    "description":  "A comfortable children\u0027s hoodie featuring a simple modern design suitable for everyday wear, outdoor activities, travel, and relaxed occasions.",
+    "image":  "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Cozy Wear",
+    "brand":  "AFRUS Junior",
+    "availableSizes":  [
+                           "4-5Y",
+                           "6-7Y",
+                           "8-9Y",
+                           "10-11Y"
+                       ],
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "Kids\u0027 Casual Hoodie",
+                      "fr":  "Sweat à Capuche en Molleton Enfant",
+                      "ru":  "Детская Толстовка с Капюшоном"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A comfortable children\u0027s hoodie featuring a simple modern design suitable for everyday wear, outdoor activities, travel, and relaxed occasions.",
+                            "fr":  "Sweat à capuche chaud en molleton avec poche kangourou confortable.",
+                            "ru":  "Теплая флисовая толстовка с карманом-кенгуру."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--kids",
+    "badgeI18n":  {
+                      "ru":  "Уютная одежда",
+                      "en":  "Cozy Wear",
+                      "fr":  "Vêtements confortables"
+                  }
+}

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="waveHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="25%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="75%" stop-color="#000000" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.10"/>
+    </linearGradient>
+
+    <!-- Rich Canvas Background -->
+    <linearGradient id="heritageBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1A120B"/>
+      <stop offset="20%" stop-color="#8C2520"/>
+      <stop offset="50%" stop-color="#2D120D"/>
+      <stop offset="80%" stop-color="#1E4D2B"/>
+      <stop offset="100%" stop-color="#1A120B"/>
+    </linearGradient>
+
+    <pattern id="kenteDiamond" width="40" height="40" patternUnits="userSpaceOnUse">
+      <polygon points="20,0 40,20 20,40 0,20" fill="none" stroke="#E5A93C" stroke-width="1.5" stroke-opacity="0.4"/>
+      <polygon points="20,8 32,20 20,32 8,20" fill="#E5A93C" fill-opacity="0.15"/>
+    </pattern>
+  </defs>
+
+  <!-- Base Flag Canvas -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#heritageBg)"/>
+
+  <!-- Kente Geometric Pattern Overlay -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#kenteDiamond)"/>
+
+  <!-- Top and Bottom African Border Bands -->
+  <g fill="#E5A93C">
+    <!-- Top Chevron Border -->
+    <rect x="0" y="0" width="900" height="50" fill="#C84B31"/>
+    <path d="M 0 50 L 30 20 L 60 50 L 90 20 L 120 50 L 150 20 L 180 50 L 210 20 L 240 50 L 270 20 L 300 50 L 330 20 L 360 50 L 390 20 L 420 50 L 450 20 L 480 50 L 510 20 L 540 50 L 570 20 L 600 50 L 630 20 L 660 50 L 690 20 L 720 50 L 750 20 L 780 50 L 810 20 L 840 50 L 870 20 L 900 50 L 900 60 L 0 60 Z" fill="#E5A93C"/>
+    
+    <!-- Bottom Chevron Border -->
+    <rect x="0" y="550" width="900" height="50" fill="#1B8A5A"/>
+    <path d="M 0 550 L 30 580 L 60 550 L 90 580 L 120 550 L 150 580 L 180 550 L 210 580 L 240 550 L 270 580 L 300 550 L 330 580 L 360 550 L 390 580 L 420 550 L 450 580 L 480 550 L 510 580 L 540 550 L 570 580 L 600 550 L 630 580 L 660 550 L 690 580 L 720 550 L 750 580 L 780 550 L 810 580 L 840 550 L 870 580 L 900 550 L 900 540 L 0 540 Z" fill="#E5A93C"/>
+  </g>
+
+  <!-- Central Heritage Emblem (Center Medallion) -->
+  <g transform="translate(450, 300)">
+    <!-- Outer Decorative Ring -->
+    <circle cx="0" cy="0" r="160" fill="#1A120B" stroke="#E5A93C" stroke-width="8"/>
+    <circle cx="0" cy="0" r="142" fill="none" stroke="#C84B31" stroke-width="4" stroke-dasharray="12 8"/>
+    
+    <!-- Middle Ring -->
+    <circle cx="0" cy="0" r="120" fill="#2D120D" stroke="#1B8A5A" stroke-width="6"/>
+
+    <!-- Geometric Sunburst Rays inside medallion -->
+    <g fill="#E5A93C" opacity="0.9">
+      <polygon points="0,-110 12,-60 -12,-60"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(30)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(60)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(90)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(120)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(150)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(180)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(210)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(240)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(270)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(300)"/>
+      <polygon points="0,-110 12,-60 -12,-60" transform="rotate(330)"/>
+    </g>
+
+    <!-- Center Shield / Adinkra Emblem Shape -->
+    <circle cx="0" cy="0" r="50" fill="#E5A93C"/>
+    <!-- Traditional Adinkra Gye Nyame-inspired artistic curves -->
+    <path d="M -25 -25 C -5 -35 25 -25 25 0 C 25 25 -5 35 -25 25 C 0 10 0 -10 -25 -25 Z" fill="#1A120B"/>
+    <path d="M 25 25 C 5 35 -25 25 -25 0 C -25 -25 5 -35 25 -25 C 0 -10 0 10 25 25 Z" fill="#1A120B"/>
+    <circle cx="0" cy="0" r="12" fill="#C84B31"/>
+  </g>
+
+  <!-- Fabric Texture & Waving Overlay -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#waveHighlight)" style="mix-blend-mode: overlay;"/>
+
+  <!-- Border -->
+  <rect x="0" y="0" width="900" height="600" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="6"/>
+</svg>

@@ -1,0 +1,34 @@
+{
+    "id":  "souvenir-african-miniature-sculpture",
+    "title":  "African Miniature Sculpture",
+    "category":  "Souvenirs",
+    "subcategory":  "Collectibles",
+    "priceUsd": 32,
+    "priceRub": 2944,
+    "origin":  "Cotonou, Benin",
+    "description":  "A compact decorative sculpture inspired by African artistic traditions. Its collectible size makes it suitable for display shelves, desks, cabinets, and personal collections.",
+    "image":  "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Miniature Collectible",
+    "brand":  "Benin Bronze Guild",
+    "inventoryCount":  30,
+    "titleI18n":  {
+                      "en":  "African Miniature Sculpture",
+                      "fr":  "Miniature de Tambour Djembé Souvenir",
+                      "ru":  "Сувенирный Мини-Барабан Джембе"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A compact decorative sculpture inspired by African artistic traditions. Its collectible size makes it suitable for display shelves, desks, cabinets, and personal collections.",
+                            "fr":  "Miniature authentique de tambour djembé jouable avec peau de chèvre.",
+                            "ru":  "Настоящий сувенирный барабан джембе с кожаной мембраной."
+                        },
+    "categoryId":  "souvenirs",
+    "subcategoryId":  "souvenirs--collectibles",
+    "badgeI18n":  {
+                      "ru":  "Миниатюрная коллекционная вещь",
+                      "en":  "Miniature Collectible",
+                      "fr":  "Miniature à collectionner"
+                  }
+}

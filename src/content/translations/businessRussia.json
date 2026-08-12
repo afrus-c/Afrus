@@ -1,0 +1,414 @@
+{
+  "namespace": "businessRussia",
+  "adminLabelFr": "Entreprendre en Russie — textes généraux",
+  "entries": [
+    {
+      "key": "businessRussia.steps.legal.title",
+      "en": "1. Legal Entity Incorporation",
+      "fr": "1. Constitution de l’entité juridique",
+      "ru": "1. Регистрация юридического лица"
+    },
+    {
+      "key": "businessRussia.steps.legal.desc",
+      "en": "Registration of an OOO (LLC) or joint-stock company with Russian tax authorities within five business days.",
+      "fr": "Immatriculation d’une OOO (SARL) ou d’une société par actions auprès des autorités fiscales russes sous cinq jours ouvrables.",
+      "ru": "Регистрация ООО или акционерного общества в российских налоговых органах в течение пяти рабочих дней."
+    },
+    {
+      "key": "businessRussia.steps.sez.title",
+      "en": "2. SEZ & Tax Incentives Registration",
+      "fr": "2. Enregistrement en ZES et avantages fiscaux",
+      "ru": "2. Регистрация в ОЭЗ и налоговые льготы"
+    },
+    {
+      "key": "businessRussia.steps.sez.desc",
+      "en": "Securing zero customs duties and corporate tax breaks in Technopolis Moscow, Alabuga, or Kaluga.",
+      "fr": "Obtention d’exonérations de droits de douane et d’allègements d’impôt sur les sociétés à Technopolis Moscou, Alabuga ou Kalouga.",
+      "ru": "Получение нулевых таможенных пошлин и льгот по налогу на прибыль в Технополисе Москва, Алабуге или Калуге."
+    },
+    {
+      "key": "businessRussia.steps.banking.title",
+      "en": "3. Corporate Banking & Currency Accounts",
+      "fr": "3. Banque d’entreprise et comptes en devises",
+      "ru": "3. Корпоративный банкинг и валютные счета"
+    },
+    {
+      "key": "businessRussia.steps.banking.desc",
+      "en": "Opening multi-currency commercial accounts (RUB, CNY, XAF, EUR) with full Central Bank compliance.",
+      "fr": "Ouverture de comptes commerciaux multidevises (RUB, CNY, XAF, EUR) en conformité avec la Banque centrale.",
+      "ru": "Открытие мультивалютных коммерческих счетов (RUB, CNY, XAF, EUR) с полным соблюдением требований Центрального банка."
+    },
+    {
+      "key": "businessRussia.steps.visas.title",
+      "en": "4. Executive Work Visas & Permits",
+      "fr": "4. Visas et permis de travail pour cadres",
+      "ru": "4. Рабочие визы и разрешения для руководителей"
+    },
+    {
+      "key": "businessRussia.steps.visas.desc",
+      "en": "Expedited commercial work invitations, residence permits, and official certified translation services.",
+      "fr": "Invitations professionnelles accélérées, permis de séjour et services officiels de traduction certifiée.",
+      "ru": "Ускоренное оформление деловых приглашений, видов на жительство и официальных заверенных переводов."
+    },
+    {
+      "key": "businessRussia.zones.moscow.name",
+      "en": "Technopolis Moscow SEZ",
+      "fr": "ZES Technopolis Moscou",
+      "ru": "ОЭЗ «Технополис Москва»"
+    },
+    {
+      "key": "businessRussia.zones.moscow.focus",
+      "en": "Microelectronics, AI, biotech & advanced manufacturing",
+      "fr": "Microélectronique, IA, biotechnologies et fabrication avancée",
+      "ru": "Микроэлектроника, ИИ, биотехнологии и передовое производство"
+    },
+    {
+      "key": "businessRussia.zones.moscow.perk",
+      "en": "0% property tax for 10 years • 2% profits tax rate",
+      "fr": "0 % de taxe foncière pendant 10 ans • taux d’impôt sur les bénéfices de 2 %",
+      "ru": "0 % налога на имущество в течение 10 лет • ставка налога на прибыль 2 %"
+    },
+    {
+      "key": "businessRussia.zones.alabuga.name",
+      "en": "Alabuga SEZ (Tatarstan)",
+      "fr": "ZES d’Alabuga (Tatarstan)",
+      "ru": "ОЭЗ «Алабуга» (Татарстан)"
+    },
+    {
+      "key": "businessRussia.zones.alabuga.focus",
+      "en": "Chemical industry, automotive, agritech & heavy equipment",
+      "fr": "Industrie chimique, automobile, agritech et équipements lourds",
+      "ru": "Химическая промышленность, автомобилестроение, агротехнологии и тяжёлое оборудование"
+    },
+    {
+      "key": "businessRussia.zones.alabuga.perk",
+      "en": "0% import duties & VAT on capital equipment",
+      "fr": "0 % de droits d’importation et de TVA sur les biens d’équipement",
+      "ru": "0 % ввозных пошлин и НДС на производственное оборудование"
+    },
+    {
+      "key": "businessRussia.zones.innopolis.name",
+      "en": "Innopolis Innovation Center",
+      "fr": "Centre d’innovation Innopolis",
+      "ru": "Инновационный центр «Иннополис»"
+    },
+    {
+      "key": "businessRussia.zones.innopolis.focus",
+      "en": "Software development, fintech & autonomous systems",
+      "fr": "Développement logiciel, fintech et systèmes autonomes",
+      "ru": "Разработка ПО, финтех и автономные системы"
+    },
+    {
+      "key": "businessRussia.zones.innopolis.perk",
+      "en": "1% income tax under simplified taxation scheme",
+      "fr": "Impôt sur le revenu de 1 % sous le régime fiscal simplifié",
+      "ru": "Налог 1 % при упрощённой системе налогообложения"
+    },
+    {
+      "key": "businessRussia.zones.kaluga.name",
+      "en": "Kaluga Industrial Cluster",
+      "fr": "Cluster industriel de Kalouga",
+      "ru": "Калужский промышленный кластер"
+    },
+    {
+      "key": "businessRussia.zones.kaluga.focus",
+      "en": "Pharmaceuticals, logistics & consumer goods",
+      "fr": "Produits pharmaceutiques, logistique et biens de consommation",
+      "ru": "Фармацевтика, логистика и потребительские товары"
+    },
+    {
+      "key": "businessRussia.zones.kaluga.perk",
+      "en": "Direct rail access to China, Central Asia & the Baltic Sea",
+      "fr": "Accès ferroviaire direct à la Chine, à l’Asie centrale et à la mer Baltique",
+      "ru": "Прямое железнодорожное сообщение с Китаем, Центральной Азией и Балтийским морем"
+    },
+    {
+      "key": "businessRussia.roadmap.eyebrow",
+      "en": "Structured Expansion Process",
+      "fr": "Processus d’expansion structuré",
+      "ru": "Структурированный процесс расширения"
+    },
+    {
+      "key": "businessRussia.roadmap.title",
+      "en": "Turnkey Setup Roadmap",
+      "fr": "Feuille de route clé en main",
+      "ru": "Пошаговый план запуска под ключ"
+    },
+    {
+      "key": "businessRussia.roadmap.description",
+      "en": "AFRUS guides African entrepreneurs, exporters, and corporations through every legal step of setting up in Russia.",
+      "fr": "AFRUS accompagne les entrepreneurs, exportateurs et entreprises africains à chaque étape juridique de leur implantation en Russie.",
+      "ru": "AFRUS сопровождает африканских предпринимателей, экспортёров и компании на каждом юридическом этапе выхода на российский рынок."
+    },
+    {
+      "key": "businessRussia.sez.eyebrow",
+      "en": "Special Economic Zones (SEZs)",
+      "fr": "Zones économiques spéciales (ZES)",
+      "ru": "Особые экономические зоны (ОЭЗ)"
+    },
+    {
+      "key": "businessRussia.sez.title",
+      "en": "Tax & Customs Incentives for Foreign Investors",
+      "fr": "Avantages fiscaux et douaniers pour les investisseurs étrangers",
+      "ru": "Налоговые и таможенные льготы для иностранных инвесторов"
+    },
+    {
+      "key": "businessRussia.sez.cta",
+      "en": "Apply for SEZ Resident Status",
+      "fr": "Demander le statut de résident d’une ZES",
+      "ru": "Подать заявку на статус резидента ОЭЗ"
+    },
+    {
+      "key": "businessRussia.sez.focusLabel",
+      "en": "Focus Sectors:",
+      "fr": "Secteurs prioritaires :",
+      "ru": "Приоритетные отрасли:"
+    },
+    {
+      "key": "businessRussia.banking.eyebrow",
+      "en": "Commercial Banking & FX",
+      "fr": "Banque commerciale et change",
+      "ru": "Корпоративный банкинг и валютные операции"
+    },
+    {
+      "key": "businessRussia.banking.title",
+      "en": "Multi-Currency Settlement & Account Opening",
+      "fr": "Règlement multidevise et ouverture de compte",
+      "ru": "Мультивалютные расчёты и открытие счетов"
+    },
+    {
+      "key": "businessRussia.banking.description",
+      "en": "AFRUS works directly with leading Russian commercial banks (VTB, Sber, Alfa Bank) to facilitate multi-currency accounts in Russian rubles (RUB), Chinese yuan (CNY), and Central African CFA francs (XAF), with full Central Bank compliance and swift regulatory clearances.",
+      "fr": "AFRUS collabore directement avec de grandes banques commerciales russes (VTB, Sber, Alfa Bank) pour faciliter l’ouverture de comptes en roubles russes (RUB), yuans chinois (CNY) et francs CFA d’Afrique centrale (XAF), dans le respect des exigences de la Banque centrale.",
+      "ru": "AFRUS напрямую сотрудничает с ведущими российскими коммерческими банками (ВТБ, Сбер, Альфа-Банк), помогая открывать счета в российских рублях (RUB), китайских юанях (CNY) и центральноафриканских франках КФА (XAF) с соблюдением требований Центрального банка."
+    },
+    {
+      "key": "businessRussia.banking.bullets.transfers",
+      "en": "Zero-friction cross-border wire transfers between Russia and 20+ African banks.",
+      "fr": "Virements transfrontaliers fluides entre la Russie et plus de 20 banques africaines.",
+      "ru": "Беспрепятственные трансграничные переводы между Россией и более чем 20 африканскими банками."
+    },
+    {
+      "key": "businessRussia.banking.bullets.hedging",
+      "en": "Currency exchange risk hedging & letters of credit (LC) for import/export.",
+      "fr": "Couverture du risque de change et lettres de crédit (LC) pour l’import-export.",
+      "ru": "Хеджирование валютных рисков и аккредитивы для импортно-экспортных операций."
+    },
+    {
+      "key": "businessRussia.banking.bullets.managers",
+      "en": "Dedicated English- and French-speaking corporate account managers.",
+      "fr": "Gestionnaires de comptes d’entreprise dédiés, anglophones et francophones.",
+      "ru": "Персональные менеджеры корпоративных счетов, говорящие на английском и французском языках."
+    },
+    {
+      "key": "businessRussia.banking.currenciesTitle",
+      "en": "Supported Settlement Currencies",
+      "fr": "Devises de règlement prises en charge",
+      "ru": "Поддерживаемые валюты расчётов"
+    },
+    {
+      "key": "businessRussia.banking.cta",
+      "en": "Open Corporate Account",
+      "fr": "Ouvrir un compte d’entreprise",
+      "ru": "Открыть корпоративный счёт"
+    },
+    {
+      "key": "businessRussia.currencies.rub",
+      "en": "Russian Ruble",
+      "fr": "Rouble russe",
+      "ru": "Российский рубль"
+    },
+    {
+      "key": "businessRussia.currencies.cny",
+      "en": "Chinese Yuan",
+      "fr": "Yuan chinois",
+      "ru": "Китайский юань"
+    },
+    {
+      "key": "businessRussia.currencies.cfa",
+      "en": "CFA Franc",
+      "fr": "Franc CFA",
+      "ru": "Франк КФА"
+    },
+    {
+      "key": "businessRussia.currencies.aed",
+      "en": "UAE Dirham",
+      "fr": "Dirham des Émirats arabes unis",
+      "ru": "Дирхам ОАЭ"
+    },
+    {
+      "key": "businessRussia.visas.eyebrow",
+      "en": "Executive Immigration & Accreditation",
+      "fr": "Immigration et accréditation des cadres",
+      "ru": "Иммиграционное сопровождение и аккредитация руководителей"
+    },
+    {
+      "key": "businessRussia.visas.title",
+      "en": "Expedited Business Invitations & Highly Qualified Specialist (HQS) Visas",
+      "fr": "Invitations d’affaires accélérées et visas de spécialiste hautement qualifié (HQS)",
+      "ru": "Ускоренные деловые приглашения и визы высококвалифицированных специалистов (ВКС)"
+    },
+    {
+      "key": "businessRussia.visas.description",
+      "en": "AFRUS issues official state invitations, processes three-year HQS work permits for corporate directors, and provides certified notarized translations of all legal documentation.",
+      "fr": "AFRUS délivre des invitations officielles, traite les permis de travail HQS de trois ans pour les dirigeants et fournit des traductions certifiées et notariées de tous les documents juridiques.",
+      "ru": "AFRUS оформляет официальные государственные приглашения, трёхлетние разрешения на работу ВКС для руководителей и заверенные нотариальные переводы всей юридической документации."
+    },
+    {
+      "key": "businessRussia.visas.cta",
+      "en": "Request Visa Consultation",
+      "fr": "Demander une consultation visa",
+      "ru": "Запросить визовую консультацию"
+    },
+    {
+      "key": "businessRussia.subjects.sez",
+      "en": "SEZ Registration Application",
+      "fr": "Demande d’enregistrement en ZES",
+      "ru": "Заявка на регистрацию в ОЭЗ"
+    },
+    {
+      "key": "businessRussia.subjects.banking",
+      "en": "Corporate Banking Inquiry",
+      "fr": "Demande relative à la banque d’entreprise",
+      "ru": "Запрос по корпоративному банкингу"
+    },
+    {
+      "key": "businessRussia.subjects.visa",
+      "en": "Executive Visa Application",
+      "fr": "Demande de visa pour cadre",
+      "ru": "Заявка на визу для руководителя"
+    },
+    {
+      "key": "businessRussia.subjects.expansion",
+      "en": "Business Expansion in Russia",
+      "fr": "Expansion commerciale en Russie",
+      "ru": "Расширение бизнеса в России"
+    },
+    {
+      "key": "businessRussia.hero.badge",
+      "en": "AFRUS CORPORATE GATEWAY TO RUSSIA",
+      "fr": "PASSERELLE D’ENTREPRISE AFRUS VERS LA RUSSIE",
+      "ru": "КОРПОРАТИВНЫЙ ШЛЮЗ AFRUS В РОССИЮ"
+    },
+    {
+      "key": "businessRussia.hero.titlePrefix",
+      "en": "Establish & Expand Your",
+      "fr": "Implantez et développez votre",
+      "ru": "Создайте и развивайте свой"
+    },
+    {
+      "key": "businessRussia.hero.titleAccent",
+      "en": "Business in Russia",
+      "fr": "entreprise en Russie",
+      "ru": "бизнес в России"
+    },
+    {
+      "key": "businessRussia.hero.subtitle",
+      "en": "Turnkey incorporation of legal branches, tax-free Special Economic Zone (SEZ) status, multi-currency commercial banking accounts, and executive immigration support across Eurasia.",
+      "fr": "Constitution clé en main de filiales, statut fiscal privilégié en zone économique spéciale (ZES), comptes bancaires commerciaux multidevises et accompagnement des cadres en Eurasie.",
+      "ru": "Регистрация филиалов под ключ, льготный статус в особой экономической зоне (ОЭЗ), мультивалютные корпоративные счета и иммиграционное сопровождение руководителей по всей Евразии."
+    },
+    {
+      "key": "businessRussia.hero.primaryCta",
+      "en": "Start Corporate Setup",
+      "fr": "Lancer l’implantation",
+      "ru": "Начать регистрацию компании"
+    },
+    {
+      "key": "businessRussia.hero.secondaryCta",
+      "en": "Explore SEZ Tax Breaks",
+      "fr": "Découvrir les avantages des ZES",
+      "ru": "Изучить льготы ОЭЗ"
+    },
+    {
+      "key": "businessRussia.hero.chips.roadmap",
+      "en": "Setup Roadmap",
+      "fr": "Feuille de route",
+      "ru": "План запуска"
+    },
+    {
+      "key": "businessRussia.hero.chips.sez",
+      "en": "SEZ Tax Breaks",
+      "fr": "Avantages fiscaux ZES",
+      "ru": "Налоговые льготы ОЭЗ"
+    },
+    {
+      "key": "businessRussia.hero.chips.banking",
+      "en": "Corporate Banking",
+      "fr": "Banque d’entreprise",
+      "ru": "Корпоративный банкинг"
+    },
+    {
+      "key": "businessRussia.hero.chips.visas",
+      "en": "Executive Visas",
+      "fr": "Visas pour cadres",
+      "ru": "Визы для руководителей"
+    },
+    {
+      "key": "businessRussia.hero.slideLabel",
+      "en": "Slide {{number}}",
+      "fr": "Diapositive {{number}}",
+      "ru": "Слайд {{number}}"
+    },
+    {
+      "key": "businessRussia.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "businessRussia.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "businessRussia.hero.slides.moscow.tag",
+      "en": "Moscow Financial District",
+      "fr": "Quartier financier de Moscou",
+      "ru": "Московский финансовый район"
+    },
+    {
+      "key": "businessRussia.hero.slides.moscow.caption",
+      "en": "LLC (OOO) & joint-stock company incorporation in Central Eurasia",
+      "fr": "Constitution d’OOO (SARL) et de sociétés par actions en Eurasie centrale",
+      "ru": "Регистрация ООО и акционерных обществ в Центральной Евразии"
+    },
+    {
+      "key": "businessRussia.hero.slides.sez.tag",
+      "en": "Special Economic Zones (SEZs)",
+      "fr": "Zones économiques spéciales (ZES)",
+      "ru": "Особые экономические зоны (ОЭЗ)"
+    },
+    {
+      "key": "businessRussia.hero.slides.sez.caption",
+      "en": "Technopolis Moscow & Alabuga SEZ 0% customs duty and tax incentive hubs",
+      "fr": "Technopolis Moscou et Alabuga : pôles à droits de douane nuls et avantages fiscaux",
+      "ru": "Технополис Москва и ОЭЗ Алабуга: нулевые пошлины и налоговые льготы"
+    },
+    {
+      "key": "businessRussia.hero.slides.innovation.tag",
+      "en": "Federal Innovation Clusters",
+      "fr": "Clusters fédéraux d’innovation",
+      "ru": "Федеральные инновационные кластеры"
+    },
+    {
+      "key": "businessRussia.hero.slides.innovation.caption",
+      "en": "Tech parks, R&D labs & industrial engineering centers",
+      "fr": "Technoparcs, laboratoires de R&D et centres d’ingénierie industrielle",
+      "ru": "Технопарки, лаборатории НИОКР и центры промышленного инжиниринга"
+    },
+    {
+      "key": "businessRussia.hero.slides.headquarters.tag",
+      "en": "Eurasian Headquarters",
+      "fr": "Sièges eurasiens",
+      "ru": "Евразийские штаб-квартиры"
+    },
+    {
+      "key": "businessRussia.hero.slides.headquarters.caption",
+      "en": "Corporate banking, compliance certification & executive residency",
+      "fr": "Banque d’entreprise, certification de conformité et résidence des cadres",
+      "ru": "Корпоративный банкинг, сертификация соответствия и резидентство руководителей"
+    }
+  ]
+}

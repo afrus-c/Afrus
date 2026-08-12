@@ -1,0 +1,61 @@
+{
+  "id": "sechenov",
+  "name": "Sechenov First Moscow State Medical University",
+  "city": "Moscow",
+  "ranking": "#1 Medical University in Russia",
+  "programs": [
+    "General Medicine (6-Yr English MD)",
+    "Dentistry",
+    "Pharmacy",
+    "Biomedical Science"
+  ],
+  "tuitionRange": "$4,200 – $6,500 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/uni_sechenov_medical_1785952547622.jpg",
+  "description": "Russia’s oldest and premier medical research university with clinical hospital networks training top international doctors and surgeons.",
+  "nameI18n": {
+    "en": "Sechenov First Moscow State Medical University",
+    "fr": "Sechenov, première université médicale d'État de Moscou",
+    "ru": "Первый Московский государственный медицинский университет имени Сеченова"
+  },
+  "cityI18n": {
+    "en": "Moscow",
+    "fr": "Moscou",
+    "ru": "Москва"
+  },
+  "rankingI18n": {
+    "en": "#1 Medical University in Russia",
+    "fr": "Université de médecine n°1 en Russie",
+    "ru": "Медицинский университет №1 в России"
+  },
+  "programsI18n": {
+    "en": [
+      "General Medicine (6-Yr English MD)",
+      "Dentistry",
+      "Pharmacy",
+      "Biomedical Science"
+    ],
+    "fr": [
+      "Médecine générale (6 ans, MD anglais)",
+      "Dentisterie",
+      "Pharmacie",
+      "Sciences biomédicales"
+    ],
+    "ru": [
+      "Общая медицина (6-летний английский доктор медицинских наук)",
+      "Стоматология",
+      "Аптека",
+      "Биомедицинская наука"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$4,200 – $6,500 / year",
+    "fr": "4 200 $ – 6 500 $/an",
+    "ru": "4200–6500 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "Russia’s oldest and premier medical research university with clinical hospital networks training top international doctors and surgeons.",
+    "fr": "La plus ancienne et principale université russe de recherche médicale, dotée d’un réseau d’hôpitaux cliniques formant des médecins et chirurgiens internationaux de haut niveau.",
+    "ru": "Старейший и ведущий медицинский исследовательский университет России с сетью клинических больниц, готовящий высококвалифицированных врачей и хирургов со всего мира."
+  }
+}

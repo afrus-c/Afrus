@@ -1,0 +1,40 @@
+{
+    "id":  "clothing-womens-casual-trousers",
+    "title":  "Women\u0027s Casual Trousers",
+    "category":  "Clothing",
+    "subcategory":  "Women",
+    "priceUsd": 48,
+    "priceRub": 4416,
+    "origin":  "AFRUS Apparel",
+    "description":  "Modern women\u0027s casual trousers designed for comfort and everyday styling. Suitable for work, travel, casual outings, and relaxed occasions.",
+    "image":  "https://images.unsplash.com/photo-1509551388413-e18d0ac5d495?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Everyday Style",
+    "brand":  "AFRUS Womenswear",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL"
+                       ],
+    "inventoryCount":  28,
+    "titleI18n":  {
+                      "en":  "Women\u0027s Casual Trousers",
+                      "fr":  "Pantalon Large Femme",
+                      "ru":  "Женские Широкие Брюки"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Modern women\u0027s casual trousers designed for comfort and everyday styling. Suitable for work, travel, casual outings, and relaxed occasions.",
+                            "fr":  "Pantalon large élégant à taille haute fabriqué dans un tissu extensible confortable.",
+                            "ru":  "Стильные брюки с высокой талией из эластичной ткани."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--women",
+    "badgeI18n":  {
+                      "ru":  "Повседневный стиль",
+                      "en":  "Everyday Style",
+                      "fr":  "Style de tous les jours"
+                  }
+}

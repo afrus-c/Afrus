@@ -1,0 +1,366 @@
+{
+  "namespace": "forumPage",
+  "adminLabelFr": "Page Forum économique",
+  "entries": [
+    {
+      "key": "forumPage.schedule.eyebrow",
+      "en": "High-Level Bilateral Schedule",
+      "fr": "Programme bilatéral de haut niveau",
+      "ru": "Двусторонняя программа высокого уровня"
+    },
+    {
+      "key": "forumPage.schedule.title",
+      "en": "Upcoming Economic Summits & Forums",
+      "fr": "Prochains sommets et forums économiques",
+      "ru": "Предстоящие экономические саммиты и форумы"
+    },
+    {
+      "key": "forumPage.schedule.description",
+      "en": "Join intergovernmental plenaries, high-level economic conventions, and executive B2B networking sessions.",
+      "fr": "Participez aux séances plénières intergouvernementales, conventions économiques de haut niveau et rencontres B2B entre dirigeants.",
+      "ru": "Участвуйте в межправительственных пленарных заседаниях, экономических конвенциях высокого уровня и деловых B2B-сессиях."
+    },
+    {
+      "key": "forumPage.schedule.delegates",
+      "en": "Confirmed Key Delegates:",
+      "fr": "Principaux délégués confirmés :",
+      "ru": "Подтверждённые ключевые делегаты:"
+    },
+    {
+      "key": "forumPage.schedule.cta",
+      "en": "Register Delegation",
+      "fr": "Inscrire une délégation",
+      "ru": "Зарегистрировать делегацию"
+    },
+    {
+      "key": "forumPage.roundtables.eyebrow",
+      "en": "Specialized Industry Tracks",
+      "fr": "Filières industrielles spécialisées",
+      "ru": "Специализированные отраслевые направления"
+    },
+    {
+      "key": "forumPage.roundtables.title",
+      "en": "Bilateral Industry Roundtables & Closed-Door Plenaries",
+      "fr": "Tables rondes industrielles bilatérales et plénières à huis clos",
+      "ru": "Двусторонние отраслевые круглые столы и закрытые пленарные заседания"
+    },
+    {
+      "key": "forumPage.roundtables.cta",
+      "en": "Apply as Speaker / Panelist",
+      "fr": "Candidater comme intervenant",
+      "ru": "Подать заявку спикера"
+    },
+    {
+      "key": "forumPage.roundtables.attendance",
+      "en": "Expected Attendance:",
+      "fr": "Participants attendus :",
+      "ru": "Ожидаемые участники:"
+    },
+    {
+      "key": "forumPage.roundtables.items.energy.title",
+      "en": "Energy, Oil & Strategic Minerals Roundtable",
+      "fr": "Table ronde sur l’énergie, le pétrole et les minéraux stratégiques",
+      "ru": "Круглый стол по энергетике, нефти и стратегическим минералам"
+    },
+    {
+      "key": "forumPage.roundtables.items.energy.focus",
+      "en": "Geological survey partnerships, mining machinery supply, and refined hydrocarbon logistics corridors.",
+      "fr": "Partenariats d’études géologiques, fourniture d’équipements miniers et corridors logistiques d’hydrocarbures raffinés.",
+      "ru": "Партнёрства в геологоразведке, поставки горного оборудования и логистические коридоры нефтепродуктов."
+    },
+    {
+      "key": "forumPage.roundtables.items.energy.delegates",
+      "en": "Ministers of Mines, Energy Consortium CEOs & Russian Heavy Industry",
+      "fr": "Ministres des Mines, dirigeants de consortiums énergétiques et industrie lourde russe",
+      "ru": "Министры горнодобывающей отрасли, руководители энергоконсорциумов и тяжёлая промышленность России"
+    },
+    {
+      "key": "forumPage.roundtables.items.agriculture.title",
+      "en": "Agricultural Sovereignty & Fertilizer Security",
+      "fr": "Souveraineté agricole et sécurité des engrais",
+      "ru": "Аграрный суверенитет и безопасность поставок удобрений"
+    },
+    {
+      "key": "forumPage.roundtables.items.agriculture.focus",
+      "en": "Grain elevators, cold-chain storage facilities, NPK fertilizer trade, and agricultural machinery exports.",
+      "fr": "Silos à grains, chaînes du froid, commerce d’engrais NPK et exportation de machines agricoles.",
+      "ru": "Зерновые элеваторы, холодовые цепи, торговля удобрениями NPK и экспорт сельхозтехники."
+    },
+    {
+      "key": "forumPage.roundtables.items.agriculture.delegates",
+      "en": "Agricultural Trade Boards, Farm Machinery Directors & Port Logistics",
+      "fr": "Conseils du commerce agricole, fabricants de machines et logistique portuaire",
+      "ru": "Советы по агроторговле, производители сельхозтехники и портовая логистика"
+    },
+    {
+      "key": "forumPage.roundtables.items.finance.title",
+      "en": "Fintech, Central Bank Digital Corridors & FX Settlement",
+      "fr": "Fintech, corridors numériques des banques centrales et règlement de change",
+      "ru": "Финтех, цифровые коридоры центральных банков и валютные расчёты"
+    },
+    {
+      "key": "forumPage.roundtables.items.finance.focus",
+      "en": "Multi-currency settlement mechanisms (RUB/XAF/CNY), trade guarantees, and currency swap agreements.",
+      "fr": "Règlements multidevises (RUB/XAF/CNY), garanties commerciales et accords de swap de devises.",
+      "ru": "Мультивалютные расчёты (RUB/XAF/CNY), торговые гарантии и валютные свопы."
+    },
+    {
+      "key": "forumPage.roundtables.items.finance.delegates",
+      "en": "Commercial Bank Chairs, Central Bank Representatives & Financial Regulators",
+      "fr": "Présidents de banques commerciales, banques centrales et régulateurs financiers",
+      "ru": "Руководители коммерческих банков, представители центральных банков и финансовые регуляторы"
+    },
+    {
+      "key": "forumPage.roundtables.items.sez.title",
+      "en": "Special Economic Zones & Industrial Co-Investment",
+      "fr": "Zones économiques spéciales et co-investissement industriel",
+      "ru": "Особые экономические зоны и промышленные соинвестиции"
+    },
+    {
+      "key": "forumPage.roundtables.items.sez.focus",
+      "en": "Technopolis Moscow, Alabuga, and African Free Zone resident tax incentives for joint ventures.",
+      "fr": "Avantages fiscaux de Technopolis Moscou, Alabuga et des zones franches africaines pour les coentreprises.",
+      "ru": "Налоговые льготы Технополиса Москва, Алабуги и африканских свободных зон для совместных предприятий."
+    },
+    {
+      "key": "forumPage.roundtables.items.sez.delegates",
+      "en": "SEZ Governors, Industrial Park Developers & Investment Promotion Directors",
+      "fr": "Gouverneurs de ZES, promoteurs de parcs industriels et directeurs de la promotion des investissements",
+      "ru": "Руководители ОЭЗ, девелоперы промышленных парков и директора агентств по инвестициям"
+    },
+    {
+      "key": "forumPage.vip.eyebrow",
+      "en": "Ministerial & Trade Delegation Support",
+      "fr": "Soutien aux délégations ministérielles et commerciales",
+      "ru": "Поддержка министерских и торговых делегаций"
+    },
+    {
+      "key": "forumPage.vip.title",
+      "en": "VIP Accreditation, Fast-Track Airport Transit & Executive Security",
+      "fr": "Accréditation VIP, transit aéroportuaire prioritaire et sécurité des dirigeants",
+      "ru": "VIP-аккредитация, ускоренный транзит в аэропорту и безопасность руководителей"
+    },
+    {
+      "key": "forumPage.vip.description",
+      "en": "AFRUS provides turnkey administrative, diplomatic, and executive travel coordination for official trade delegations, chamber of commerce presidents, and government ministers attending summits in Russia or Africa.",
+      "fr": "AFRUS coordonne clés en main les démarches administratives, diplomatiques et les voyages officiels des délégations commerciales, présidents de chambres de commerce et ministres participant aux sommets en Russie ou en Afrique.",
+      "ru": "AFRUS обеспечивает полную административную, дипломатическую и транспортную координацию официальных торговых делегаций, глав торговых палат и министров на саммитах в России и Африке."
+    },
+    {
+      "key": "forumPage.vip.cta",
+      "en": "Request VIP Delegation Package",
+      "fr": "Demander le forfait délégation VIP",
+      "ru": "Запросить VIP-пакет для делегации"
+    },
+    {
+      "key": "forumPage.matchmaking.eyebrow",
+      "en": "Targeted Dealroom Sessions",
+      "fr": "Sessions ciblées en salle de négociation",
+      "ru": "Целевые переговорные сессии"
+    },
+    {
+      "key": "forumPage.matchmaking.title",
+      "en": "Pre-Scheduled B2B Dealroom Sessions",
+      "fr": "Rencontres B2B programmées à l’avance",
+      "ru": "Заранее запланированные B2B-встречи"
+    },
+    {
+      "key": "forumPage.matchmaking.description",
+      "en": "Before the forum, AFRUS pre-arranges one-to-one bilateral meetings between your executive team and vetted potential buyers, government regulators, or joint-venture co-investors tailored to your sector.",
+      "fr": "Avant le forum, AFRUS organise des rencontres bilatérales individuelles entre votre direction et des acheteurs, régulateurs publics ou co-investisseurs vérifiés et adaptés à votre secteur.",
+      "ru": "До начала форума AFRUS организует индивидуальные встречи вашей команды с проверенными покупателями, государственными регуляторами и соинвесторами совместных предприятий в вашей отрасли."
+    },
+    {
+      "key": "forumPage.matchmaking.bullets.profiles",
+      "en": "Pre-vetted counterparty profiles & company financial checks.",
+      "fr": "Profils de contreparties présélectionnés et vérifications financières.",
+      "ru": "Предварительно проверенные профили контрагентов и финансовая проверка компаний."
+    },
+    {
+      "key": "forumPage.matchmaking.bullets.translators",
+      "en": "On-site simultaneous Russian, English, and French legal translators.",
+      "fr": "Interprètes juridiques simultanés russe, anglais et français sur place.",
+      "ru": "Синхронные юридические переводчики русского, английского и французского языков на площадке."
+    },
+    {
+      "key": "forumPage.matchmaking.bullets.mou",
+      "en": "Bilateral MOU drafting and notary attestation support.",
+      "fr": "Rédaction de protocoles d’accord bilatéraux et assistance notariale.",
+      "ru": "Подготовка двусторонних меморандумов и нотариальное сопровождение."
+    },
+    {
+      "key": "forumPage.matchmaking.cardTitle",
+      "en": "Schedule B2B Meetings",
+      "fr": "Planifier des rencontres B2B",
+      "ru": "Запланировать B2B-встречи"
+    },
+    {
+      "key": "forumPage.matchmaking.cardDescription",
+      "en": "Register your enterprise interest to receive a personalized B2B matchmaking schedule before the forum.",
+      "fr": "Enregistrez l’intérêt de votre entreprise afin de recevoir un programme personnalisé de rencontres B2B avant le forum.",
+      "ru": "Зарегистрируйте интерес компании и получите персональную программу B2B-встреч до начала форума."
+    },
+    {
+      "key": "forumPage.matchmaking.cta",
+      "en": "Book Matchmaking Session",
+      "fr": "Réserver une session de mise en relation",
+      "ru": "Забронировать сессию деловых встреч"
+    },
+    {
+      "key": "forumPage.subjects.delegation",
+      "en": "Forum Delegation: {{title}}",
+      "fr": "Délégation au forum : {{title}}",
+      "ru": "Делегация форума: {{title}}"
+    },
+    {
+      "key": "forumPage.subjects.speaker",
+      "en": "Roundtable Presentation Application",
+      "fr": "Candidature pour intervenir à une table ronde",
+      "ru": "Заявка на выступление за круглым столом"
+    },
+    {
+      "key": "forumPage.subjects.vip",
+      "en": "VIP Delegation Support Request",
+      "fr": "Demande de soutien pour délégation VIP",
+      "ru": "Запрос поддержки VIP-делегации"
+    },
+    {
+      "key": "forumPage.subjects.matchmaking",
+      "en": "Pre-Scheduled B2B Matchmaking",
+      "fr": "Mise en relation B2B programmée",
+      "ru": "Предварительно запланированные B2B-встречи"
+    },
+    {
+      "key": "forumPage.subjects.access",
+      "en": "Economic Forum Delegation Access",
+      "fr": "Accès des délégations au forum économique",
+      "ru": "Доступ делегации на экономический форум"
+    },
+    {
+      "key": "forumPage.hero.badge",
+      "en": "AFRUS BILATERAL ECONOMIC SUMMITS",
+      "fr": "SOMMETS ÉCONOMIQUES BILATÉRAUX AFRUS",
+      "ru": "ДВУСТОРОННИЕ ЭКОНОМИЧЕСКИЕ САММИТЫ AFRUS"
+    },
+    {
+      "key": "forumPage.hero.titlePrefix",
+      "en": "Russia – Africa",
+      "fr": "Russie – Afrique",
+      "ru": "Россия – Африка"
+    },
+    {
+      "key": "forumPage.hero.titleAccent",
+      "en": "Economic Forum & Summits",
+      "fr": "Forum économique et sommets",
+      "ru": "Экономический форум и саммиты"
+    },
+    {
+      "key": "forumPage.hero.subtitle",
+      "en": "Connecting government ministers, chamber of commerce leaders, industrial CEOs, and trade delegates for strategic B2B matchmaking, bilateral pacts, and joint economic development.",
+      "fr": "Réunir ministres, dirigeants de chambres de commerce, industriels et délégués commerciaux pour des rencontres B2B stratégiques, des accords bilatéraux et un développement économique conjoint.",
+      "ru": "Объединяем министров, руководителей торговых палат, промышленных компаний и торговых делегатов для стратегических B2B-встреч, двусторонних соглашений и совместного экономического развития."
+    },
+    {
+      "key": "forumPage.hero.primaryCta",
+      "en": "Apply for Delegation Access",
+      "fr": "Demander l’accès délégation",
+      "ru": "Подать заявку на доступ делегации"
+    },
+    {
+      "key": "forumPage.hero.secondaryCta",
+      "en": "Explore Forum Agenda",
+      "fr": "Découvrir le programme du forum",
+      "ru": "Изучить программу форума"
+    },
+    {
+      "key": "forumPage.hero.chips.agenda",
+      "en": "Summit Agenda",
+      "fr": "Programme du sommet",
+      "ru": "Программа саммита"
+    },
+    {
+      "key": "forumPage.hero.chips.roundtables",
+      "en": "Bilateral Roundtables",
+      "fr": "Tables rondes bilatérales",
+      "ru": "Двусторонние круглые столы"
+    },
+    {
+      "key": "forumPage.hero.chips.delegation",
+      "en": "Delegation Access",
+      "fr": "Accès délégation",
+      "ru": "Доступ делегации"
+    },
+    {
+      "key": "forumPage.hero.chips.matchmaking",
+      "en": "B2B Matchmaking",
+      "fr": "Mise en relation B2B",
+      "ru": "B2B-встречи"
+    },
+    {
+      "key": "forumPage.hero.slideLabel",
+      "en": "Slide {{number}}",
+      "fr": "Diapositive {{number}}",
+      "ru": "Слайд {{number}}"
+    },
+    {
+      "key": "forumPage.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "forumPage.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "forumPage.hero.slides.summits.tag",
+      "en": "Bilateral State Summits",
+      "fr": "Sommets bilatéraux d’État",
+      "ru": "Двусторонние государственные саммиты"
+    },
+    {
+      "key": "forumPage.hero.slides.summits.caption",
+      "en": "Intergovernmental plenary sessions, ministerial pacts & economic networks",
+      "fr": "Plénières intergouvernementales, pactes ministériels et réseaux économiques",
+      "ru": "Межправительственные пленарные заседания, министерские соглашения и экономические сети"
+    },
+    {
+      "key": "forumPage.hero.slides.finance.tag",
+      "en": "Trade & Financial Corridors",
+      "fr": "Corridors commerciaux et financiers",
+      "ru": "Торговые и финансовые коридоры"
+    },
+    {
+      "key": "forumPage.hero.slides.finance.caption",
+      "en": "Cross-border capital guarantees, currency settlements & joint ventures",
+      "fr": "Garanties de capitaux transfrontaliers, règlements monétaires et coentreprises",
+      "ru": "Трансграничные гарантии капитала, валютные расчёты и совместные предприятия"
+    },
+    {
+      "key": "forumPage.hero.slides.industry.tag",
+      "en": "Industrial & Energy Roundtables",
+      "fr": "Tables rondes industrie et énergie",
+      "ru": "Промышленные и энергетические круглые столы"
+    },
+    {
+      "key": "forumPage.hero.slides.industry.caption",
+      "en": "Machinery exports, energy security & technology transfers",
+      "fr": "Exportations de machines, sécurité énergétique et transferts de technologies",
+      "ru": "Экспорт оборудования, энергетическая безопасность и передача технологий"
+    },
+    {
+      "key": "forumPage.hero.slides.plenary.tag",
+      "en": "Global Economic Plenary",
+      "fr": "Plénière économique mondiale",
+      "ru": "Глобальное экономическое пленарное заседание"
+    },
+    {
+      "key": "forumPage.hero.slides.plenary.caption",
+      "en": "Chamber of commerce assemblies & high-level executive dealrooms",
+      "fr": "Assemblées des chambres de commerce et salles de négociation de haut niveau",
+      "ru": "Ассамблеи торговых палат и переговорные сессии высшего уровня"
+    }
+  ]
+}

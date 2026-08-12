@@ -1,0 +1,300 @@
+{
+  "namespace": "contactPage",
+  "adminLabelFr": "Page Contact",
+  "entries": [
+    {
+      "key": "contactPage.section.text_001",
+      "en": "Direct Bilateral Contact",
+      "fr": "Contact Bilatéral Direct",
+      "ru": "Прямой Двусторонний Контакт"
+    },
+    {
+      "key": "contactPage.section.text_002",
+      "en": "Connect with AFRUS Headquarters",
+      "fr": "Connectez-vous avec le Siège AFRUS",
+      "ru": "Свяжитесь со Штаб-квартирой AFRUS"
+    },
+    {
+      "key": "contactPage.section.text_003",
+      "en": "Our diplomatic, trade, and education liaisons are available through direct communication channels and physical bureaus in Moscow and Africa.",
+      "fr": "Nos liaisons diplomatiques, commerciales et éducatives sont disponibles via des canaux de communication directs et des bureaux physiques à Moscou et en Afrique.",
+      "ru": "Наши дипломатические, торговые и образовательные представители доступны по прямым каналам связи и в бюро в Москве и Африке."
+    },
+    {
+      "key": "contactPage.section.text_004",
+      "en": "Official Support Email",
+      "fr": "E-mail de Support Officiel",
+      "ru": "Официальная Почта Поддержки"
+    },
+    {
+      "key": "contactPage.section.text_005",
+      "en": "Copied to Clipboard!",
+      "fr": "Copié dans le presse-papiers !",
+      "ru": "Скопировано!"
+    },
+    {
+      "key": "contactPage.section.text_006",
+      "en": "Copy Email Address",
+      "fr": "Copier l'adresse e-mail",
+      "ru": "Скопировать Email"
+    },
+    {
+      "key": "contactPage.section.text_007",
+      "en": "WhatsApp Russia Office",
+      "fr": "WhatsApp Bureau Russie",
+      "ru": "WhatsApp Офис Россия"
+    },
+    {
+      "key": "contactPage.section.text_008",
+      "en": "Open WhatsApp Chat",
+      "fr": "Ouvrir le Chat WhatsApp",
+      "ru": "Открыть Чат WhatsApp"
+    },
+    {
+      "key": "contactPage.section.text_009",
+      "en": "Direct Phone Line (Calls Only)",
+      "fr": "Ligne Téléphonique Directe (Appels)",
+      "ru": "Прямой Телефон (Звонки)"
+    },
+    {
+      "key": "contactPage.section.text_010",
+      "en": "Place Phone Call",
+      "fr": "Passer un Appel",
+      "ru": "Позвонить"
+    },
+    {
+      "key": "contactPage.section.text_011",
+      "en": "Telegram Channel & Contact",
+      "fr": "Canal Telegram & Contact",
+      "ru": "Telegram Канал и Контакт"
+    },
+    {
+      "key": "contactPage.section.text_012",
+      "en": "Join Telegram Channel",
+      "fr": "Rejoindre le Canal Telegram",
+      "ru": "Вступить в Telegram"
+    },
+    {
+      "key": "contactPage.section.text_013",
+      "en": "Diplomatic & Commercial Bureaus",
+      "fr": "Bureaux Diplomatiques & Commerciaux",
+      "ru": "Дипломатические и Торговые Бюро"
+    },
+    {
+      "key": "contactPage.section.text_014",
+      "en": "AFRUS Headquarters & Regional Hubs",
+      "fr": "Siège AFRUS & Hubs Régionaux",
+      "ru": "Штаб-квартира и Региональные Центры AFRUS"
+    },
+    {
+      "key": "contactPage.section.text_015",
+      "en": "Visit or coordinate directly with our primary financial district headquarters in Moscow or our regional liaison bureau in Central Africa.",
+      "fr": "Visitez ou coordonnez directement avec notre siège à Moscou ou notre bureau de liaison en Afrique Centrale.",
+      "ru": "Посетите или свяжитесь с нашей штаб-квартирой в Москве или региональным бюро в Центральной Африке."
+    },
+    {
+      "key": "contactPage.section.text_016",
+      "en": "Moscow Headquarters Bureau",
+      "fr": "Bureau du Siège de Moscou",
+      "ru": "Бюро Штаб-квартиры в Москве"
+    },
+    {
+      "key": "contactPage.section.text_017",
+      "en": "Presnenskaya Naberezhnaya 12, Moscow City, Federation Tower East, Russian Federation",
+      "fr": "Presnenskaya Naberezhnaya 12, Moscow City, Tour Fédération Est, Fédération de Russie",
+      "ru": "Пресненская набережная 12, Москва-Сити, Башня Федерация Восток, Россия"
+    },
+    {
+      "key": "contactPage.section.text_018",
+      "en": "Mon - Fri: 09:00 - 18:00 (MSK)",
+      "fr": "Lun - Ven : 09:00 - 18:00 (MSK)",
+      "ru": "Пн - Пт: 09:00 - 18:00 (МСК)"
+    },
+    {
+      "key": "contactPage.section.text_019",
+      "en": "Verified HQ",
+      "fr": "Siège Vérifié",
+      "ru": "Главный Офис"
+    },
+    {
+      "key": "contactPage.section.text_020",
+      "en": "Moscow International Financial District",
+      "fr": "Quartier Financier International de Moscou",
+      "ru": "Международный Финансовый Центр Москва"
+    },
+    {
+      "key": "contactPage.section.text_021",
+      "en": "Federation Tower East • Executive Suite",
+      "fr": "Tour Fédération Est • Suite Exécutive",
+      "ru": "Башня Федерация Восток • Президентский Сюит"
+    },
+    {
+      "key": "contactPage.section.text_022",
+      "en": "Central Africa Regional Hub",
+      "fr": "Hub Régional Afrique Centrale",
+      "ru": "Региональный Центр в Центральной Африке"
+    },
+    {
+      "key": "contactPage.section.text_023",
+      "en": "Avenue Rosa Parks, Bastos Diplomatic District, Yaoundé, Cameroon",
+      "fr": "Avenue Rosa Parks, Quartier Diplomatique Bastos, Yaoundé, Cameroun",
+      "ru": "Проспект Розы Паркс, Дипломатический район Бастос, Яунде, Камерун"
+    },
+    {
+      "key": "contactPage.section.text_024",
+      "en": "Mon - Fri: 08:30 - 17:30 (WAT)",
+      "fr": "Lun - Ven : 08:30 - 17:30 (WAT)",
+      "ru": "Пн - Пт: 08:30 - 17:30 (WAT)"
+    },
+    {
+      "key": "contactPage.section.text_025",
+      "en": "Regional Bureau",
+      "fr": "Bureau Régional",
+      "ru": "Региональный Офис"
+    },
+    {
+      "key": "contactPage.section.text_026",
+      "en": "Bastos Diplomatic Quarter",
+      "fr": "Quartier Diplomatique de Bastos",
+      "ru": "Дипломатический Квартал Бастос"
+    },
+    {
+      "key": "contactPage.section.text_027",
+      "en": "Yaoundé • Central Africa Bureau",
+      "fr": "Yaoundé • Bureau Afrique Centrale",
+      "ru": "Яунде • Бюро Центральной Африки"
+    },
+    {
+      "key": "contactPage.hero.badge",
+      "en": "DIRECT DIPLOMATIC & TRADE LIAISONS",
+      "fr": "LIAISONS DIPLOMATIQUES ET COMMERCIALES DIRECTES",
+      "ru": "ПРЯМЫЕ ДИПЛОМАТИЧЕСКИЕ И ТОРГОВЫЕ СВЯЗИ"
+    },
+    {
+      "key": "contactPage.hero.title",
+      "en": "Connect With",
+      "fr": "Entrez en contact avec",
+      "ru": "Свяжитесь со"
+    },
+    {
+      "key": "contactPage.hero.accent",
+      "en": "AFRUS Headquarters",
+      "fr": "le siège d’AFRUS",
+      "ru": "штаб-квартирой AFRUS"
+    },
+    {
+      "key": "contactPage.hero.subtitle",
+      "en": "Reach our Moscow Federation Tower headquarters or Yaoundé Africa Hub directly via encrypted WhatsApp, Telegram, or official diplomatic dispatch.",
+      "fr": "Contactez directement notre siège de la Tour de la Fédération à Moscou ou notre centre africain de Yaoundé par WhatsApp chiffré, Telegram ou courrier diplomatique officiel.",
+      "ru": "Свяжитесь напрямую с нашей штаб-квартирой в башне «Федерация» в Москве или африканским центром в Яунде через защищённый WhatsApp, Telegram либо официальную дипломатическую почту."
+    },
+    {
+      "key": "contactPage.hero.directChannels",
+      "en": "Direct Contact Channels",
+      "fr": "Canaux de contact directs",
+      "ru": "Прямые каналы связи"
+    },
+    {
+      "key": "contactPage.hero.whatsappDesk",
+      "en": "WhatsApp Liaison Desk",
+      "fr": "Bureau de liaison WhatsApp",
+      "ru": "Служба связи WhatsApp"
+    },
+    {
+      "key": "contactPage.hero.whatsappMessage",
+      "en": "Hello AFRUS, I would like to reach the Liaison Office regarding bilateral opportunities.",
+      "fr": "Bonjour AFRUS, je souhaite contacter le bureau de liaison au sujet des opportunités bilatérales.",
+      "ru": "Здравствуйте, AFRUS! Я хотел(а) бы связаться с представительством по вопросу двусторонних возможностей."
+    },
+    {
+      "key": "contactPage.hero.slideLabel",
+      "en": "Slide",
+      "fr": "Diapositive",
+      "ru": "Слайд"
+    },
+    {
+      "key": "contactPage.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "contactPage.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "contactPage.hero.slides.moscow.tag",
+      "en": "Moscow Federation Tower HQ",
+      "fr": "Siège de la Tour de la Fédération à Moscou",
+      "ru": "Штаб-квартира в башне «Федерация», Москва"
+    },
+    {
+      "key": "contactPage.hero.slides.moscow.caption",
+      "en": "Federation Tower East, 77th Floor, Presnenskaya Embankment, Moscow City",
+      "fr": "Tour de la Fédération Est, 77e étage, quai Presnenskaïa, Moscow City",
+      "ru": "Восточная башня «Федерация», 77-й этаж, Пресненская набережная, Москва-Сити"
+    },
+    {
+      "key": "contactPage.hero.slides.digital.tag",
+      "en": "Encrypted Digital Hotlines",
+      "fr": "Lignes numériques chiffrées",
+      "ru": "Защищённые цифровые линии"
+    },
+    {
+      "key": "contactPage.hero.slides.digital.caption",
+      "en": "Real-Time Intergovernmental WhatsApp & Telegram Priority Desks",
+      "fr": "Bureaux prioritaires intergouvernementaux WhatsApp et Telegram en temps réel",
+      "ru": "Приоритетные межправительственные службы WhatsApp и Telegram в режиме реального времени"
+    },
+    {
+      "key": "contactPage.hero.slides.yaounde.tag",
+      "en": "Yaoundé Central Africa Hub",
+      "fr": "Centre Afrique centrale de Yaoundé",
+      "ru": "Центр Центральной Африки в Яунде"
+    },
+    {
+      "key": "contactPage.hero.slides.yaounde.caption",
+      "en": "Bastos Diplomatic District, Yaoundé, Cameroon & Regional Bureaus",
+      "fr": "Quartier diplomatique de Bastos, Yaoundé, Cameroun et bureaux régionaux",
+      "ru": "Дипломатический район Бастос, Яунде, Камерун и региональные бюро"
+    },
+    {
+      "key": "contactPage.hero.slides.advisory.tag",
+      "en": "24/7 Diplomatic & Trade Advisory",
+      "fr": "Conseil diplomatique et commercial 24 h/24, 7 j/7",
+      "ru": "Дипломатические и торговые консультации 24/7"
+    },
+    {
+      "key": "contactPage.hero.slides.advisory.caption",
+      "en": "Dedicated Commercial Attachés & Multilingual Concierge Support",
+      "fr": "Attachés commerciaux dédiés et assistance de conciergerie multilingue",
+      "ru": "Персональные торговые атташе и многоязычная консьерж-поддержка"
+    },
+    {
+      "key": "contactPage.hero.chips.moscow",
+      "en": "Moscow Federation Tower",
+      "fr": "Tour de la Fédération à Moscou",
+      "ru": "Башня «Федерация» в Москве"
+    },
+    {
+      "key": "contactPage.hero.chips.yaounde",
+      "en": "Yaoundé Africa Hub",
+      "fr": "Centre Afrique de Yaoundé",
+      "ru": "Африканский центр в Яунде"
+    },
+    {
+      "key": "contactPage.hero.chips.whatsapp",
+      "en": "WhatsApp Hotline",
+      "fr": "Ligne directe WhatsApp",
+      "ru": "Горячая линия WhatsApp"
+    },
+    {
+      "key": "contactPage.hero.chips.email",
+      "en": "Direct Support Email",
+      "fr": "E-mail d’assistance directe",
+      "ru": "Электронная почта поддержки"
+    }
+  ]
+}

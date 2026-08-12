@@ -1,0 +1,41 @@
+{
+    "id":  "clothing-mens-casual-trousers",
+    "title":  "Men\u0027s Casual Trousers",
+    "category":  "Clothing",
+    "subcategory":  "Men",
+    "priceUsd": 52,
+    "priceRub": 4784,
+    "origin":  "AFRUS Apparel",
+    "description":  "Comfortable men\u0027s casual trousers featuring a versatile contemporary design suitable for everyday wear, travel, and casual occasions.",
+    "image":  "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Comfort Fit",
+    "brand":  "AFRUS Menswear",
+    "availableSizes":  [
+                           "30",
+                           "32",
+                           "34",
+                           "36",
+                           "38"
+                       ],
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "Men\u0027s Casual Trousers",
+                      "fr":  "Pantalon Chino Homme",
+                      "ru":  "Мужские Брюки Чинос"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Comfortable men\u0027s casual trousers featuring a versatile contemporary design suitable for everyday wear, travel, and casual occasions.",
+                            "fr":  "Pantalon chino confortable et ajusté dans des tons neutres.",
+                            "ru":  "Удобные повседневные брюки чинос нейтральных оттенков."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--men",
+    "badgeI18n":  {
+                      "ru":  "Комфортная посадка",
+                      "en":  "Comfort Fit",
+                      "fr":  "Coupe confort"
+                  }
+}

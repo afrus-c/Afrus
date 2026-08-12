@@ -1,0 +1,46 @@
+{
+  "id": "news-1",
+  "title": "Russia Expands State Scholarship Allocation for African Students in 2026/2027",
+  "category": "Education",
+  "date": "August 02, 2026",
+  "readTime": "4 min read",
+  "excerpt": "The Ministry of Science and Higher Education of Russia has announced a 25% increase in government-funded university seats allocated for candidates from African nations.",
+  "content": "In a momentous step to deepen academic cooperation, Russian federal authorities have allocated over 4,700 full government scholarships for the upcoming academic cycle. The programs span medicine, artificial intelligence, agricultural engineering, nuclear energy, and international law. AFRUS provides comprehensive guidance to help applicants navigate state quotas, document attestation, and university selection.",
+  "image": "/uploads/editorial/university_campus_russia_1785919887504.jpg",
+  "author": "AFRUS Editorial Board",
+  "titleI18n": {
+    "en": "Russia Expands State Scholarship Allocation for African Students in 2026/2027",
+    "fr": "La Russie Augmente les Quotas de Bourses d'État pour les Étudiants Africains en 2026/2027",
+    "ru": "Россия увеличивает квоты государственных стипендий для африканских студентов в 2026/2027"
+  },
+  "categoryI18n": {
+    "en": "Education",
+    "fr": "Éducation",
+    "ru": "Образование"
+  },
+  "dateI18n": {
+    "en": "August 02, 2026",
+    "fr": "02 Août 2026",
+    "ru": "02 Августа 2026"
+  },
+  "readTimeI18n": {
+    "en": "4 min read",
+    "fr": "4 min de lecture",
+    "ru": "4 мин чтения"
+  },
+  "excerptI18n": {
+    "en": "The Ministry of Science and Higher Education of Russia has announced a 25% increase in government-funded university seats allocated for candidates from African nations.",
+    "fr": "Le Ministère de la Science et de l'Enseignement Supérieur de Russie a annoncé une augmentation de 25% des places universitaires financées par l'État attribuées aux candidats des nations africaines.",
+    "ru": "Министерство науки и высшего образования Российской Федерации объявило об увеличении на 25% числа субсидируемых государством мест в вузах для абитуриентов из стран Африки."
+  },
+  "contentI18n": {
+    "en": "In a momentous step to deepen academic cooperation, Russian federal authorities have allocated over 4,700 full government scholarships for the upcoming academic cycle. The programs span medicine, artificial intelligence, agricultural engineering, nuclear energy, and international law. AFRUS provides comprehensive guidance to help applicants navigate state quotas, document attestation, and university selection.",
+    "fr": "Dans le cadre d'une étape importante visant à approfondir la coopération universitaire, les autorités fédérales russes ont alloué plus de 4 700 bourses gouvernementales complètes pour le prochain cycle universitaire. Les programmes couvrent la médecine, l'intelligence artificielle, le génie agricole, l'énergie nucléaire et le droit international. AFRUS fournit des conseils complets pour aider les candidats à naviguer dans les quotas d'État, l'attestation de documents et la sélection de l'université.",
+    "ru": "Важным шагом по углублению академического сотрудничества стало выделение более 4700 полных государственных стипендий на предстоящий академический цикл. Программы охватывают медицину, искусственный интеллект, сельскохозяйственное машиностроение, ядерную энергетику и международное право. AFRUS предоставляет комплексные рекомендации, которые помогут абитуриентам ориентироваться в государственных квотах, проверке документов и выборе университета."
+  },
+  "authorI18n": {
+    "en": "AFRUS Editorial Board",
+    "fr": "Comité de rédaction de l'AFRUS",
+    "ru": "Редакция АФРУС"
+  }
+}

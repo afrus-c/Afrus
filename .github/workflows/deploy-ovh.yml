@@ -1,0 +1,64 @@
+name: Build and deploy to OVH
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: afrus-production
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: afrus-dist
+          path: dist
+          if-no-files-found: error
+          retention-days: 7
+
+  deploy:
+    needs: validate
+    if: vars.OVH_DEPLOY_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: afrus-dist
+          path: dist
+      - name: Configure SSH
+        env:
+          OVH_SSH_KEY: ${{ secrets.OVH_SSH_KEY }}
+          OVH_KNOWN_HOSTS: ${{ secrets.OVH_KNOWN_HOSTS }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$OVH_SSH_KEY" > ~/.ssh/afrus_deploy
+          chmod 600 ~/.ssh/afrus_deploy
+          printf '%s\n' "$OVH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
+      - name: Upload production build
+        env:
+          OVH_HOST: ${{ secrets.OVH_HOST }}
+          OVH_PORT: ${{ secrets.OVH_PORT }}
+          OVH_USER: ${{ secrets.OVH_USER }}
+          OVH_DEPLOY_PATH: ${{ secrets.OVH_DEPLOY_PATH }}
+        run: >-
+          rsync -az
+          -e "ssh -i ~/.ssh/afrus_deploy -p ${OVH_PORT:-22}"
+          dist/
+          "${OVH_USER}@${OVH_HOST}:${OVH_DEPLOY_PATH}/"

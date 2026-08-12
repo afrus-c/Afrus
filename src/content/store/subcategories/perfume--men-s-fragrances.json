@@ -1,0 +1,10 @@
+{
+  "id": "perfume--men-s-fragrances",
+  "categoryId": "perfume",
+  "name": "Men's Fragrances",
+  "nameI18n": {
+    "en": "Men's Fragrances",
+    "fr": "Parfums Homme",
+    "ru": "Мужской Парфюм"
+  }
+}

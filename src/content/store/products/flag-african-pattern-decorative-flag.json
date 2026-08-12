@@ -1,0 +1,34 @@
+{
+    "id":  "flag-african-pattern-decorative-flag",
+    "title":  "African Pattern Decorative Flag",
+    "category":  "Flags",
+    "subcategory":  "Decorative Flags",
+    "priceUsd": 28,
+    "priceRub": 2576,
+    "origin":  "Dakar, Senegal",
+    "description":  "A decorative fabric flag featuring vibrant African-inspired patterns and artistic details. Designed for interior decoration, cultural events, parties, and creative spaces.",
+    "image":  "/flags/african-pattern-decorative-flag.svg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Pattern Banner",
+    "brand":  "AFRUS Home Decor",
+    "inventoryCount":  45,
+    "titleI18n":  {
+                      "en":  "African Pattern Decorative Flag",
+                      "fr":  "Bannière Décorative aux Motifs Africains",
+                      "ru":  "Декоративный Флаг с Геометрическим Орнаментом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A decorative fabric flag featuring vibrant African-inspired patterns and artistic details. Designed for interior decoration, cultural events, parties, and creative spaces.",
+                            "fr":  "Bannière murale artistique imprimée de géométrie traditionnelle Ankara.",
+                            "ru":  "Художественное настенное панно с африканским геометрическим узором."
+                        },
+    "categoryId":  "flags",
+    "subcategoryId":  "flags--decorative-flags",
+    "badgeI18n":  {
+                      "ru":  "Шаблон баннера",
+                      "en":  "Pattern Banner",
+                      "fr":  "Modèle de bannière"
+                  }
+}

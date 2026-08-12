@@ -1,0 +1,44 @@
+{
+    "id":  "shoes-kids-casual-slip-on-shoes",
+    "title":  "Kids\u0027 Casual Slip-On Shoes",
+    "category":  "Shoes",
+    "subcategory":  "Kids\u0027 Shoes",
+    "priceUsd": 32,
+    "priceRub": 2944,
+    "origin":  "AFRUS Junior",
+    "description":  "Easy-to-wear children\u0027s slip-on shoes featuring a simple modern design suitable for everyday activities, travel, and casual occasions.",
+    "image":  "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Easy Slip-On",
+    "brand":  "AFRUS Junior",
+    "availableSizes":  [
+                           "28",
+                           "29",
+                           "30",
+                           "31",
+                           "32",
+                           "33",
+                           "34",
+                           "35"
+                       ],
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "Kids\u0027 Casual Slip-On Shoes",
+                      "fr":  "Chaussures Sans Lacets Faciles Enfant",
+                      "ru":  "Детские Слипоны Без Ласетов"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Easy-to-wear children\u0027s slip-on shoes featuring a simple modern design suitable for everyday activities, travel, and casual occasions.",
+                            "fr":  "Chaussures légères et élastiques faciles à enfiler.",
+                            "ru":  "Легкие эластичные слипоны для быстрого надевания."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--kids-shoes",
+    "badgeI18n":  {
+                      "ru":  "Легкое надевание",
+                      "en":  "Easy Slip-On",
+                      "fr":  "Facile à enfiler"
+                  }
+}

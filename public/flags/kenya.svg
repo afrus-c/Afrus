@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <!-- Fabric Lighting Overlay -->
+    <linearGradient id="waveHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="25%" stop-color="#000000" stop-opacity="0.10"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="75%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Black top band -->
+  <rect x="0" y="0" width="900" height="160" fill="#000000"/>
+  <!-- White top border -->
+  <rect x="0" y="160" width="900" height="40" fill="#FFFFFF"/>
+  <!-- Red middle band -->
+  <rect x="0" y="200" width="900" height="160" fill="#BB0000"/>
+  <!-- White bottom border -->
+  <rect x="0" y="360" width="900" height="40" fill="#FFFFFF"/>
+  <!-- Green bottom band -->
+  <rect x="0" y="400" width="900" height="200" fill="#006600"/>
+
+  <!-- Center Maasai Emblem (x=450, y=300) -->
+  <g transform="translate(450, 300)">
+    <!-- Crossed Spears -->
+    <!-- Spear 1: Top-Left to Bottom-Right -->
+    <line x1="-150" y1="-170" x2="150" y2="170" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M -150 -170 L -175 -200 L -135 -185 Z" fill="#FFFFFF"/>
+    
+    <!-- Spear 2: Top-Right to Bottom-Left -->
+    <line x1="150" y1="-170" x2="-150" y2="170" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M 150 -170 L 175 -200 L 135 -185 Z" fill="#FFFFFF"/>
+
+    <!-- Maasai Shield Outline -->
+    <!-- Outer shield curve -->
+    <path d="M 0 -190 C 85 -100 85 100 0 190 C -85 100 -85 -100 0 -190 Z" fill="#BB0000" stroke="#FFFFFF" stroke-width="6"/>
+
+    <!-- Black side segments on shield -->
+    <path d="M 0 -190 C 85 -100 85 100 0 190 C 40 100 40 -100 0 -190 Z" fill="#000000"/>
+    <path d="M 0 -190 C -85 -100 -85 100 0 190 C -40 100 -40 -100 0 -190 Z" fill="#000000"/>
+
+    <!-- White charges & center strip on shield -->
+    <ellipse cx="0" cy="0" rx="14" ry="170" fill="#FFFFFF"/>
+    <ellipse cx="0" cy="0" rx="8" ry="160" fill="#000000"/>
+
+    <!-- Small white geometric dots/accents on sides of shield -->
+    <circle cx="48" cy="0" r="7" fill="#FFFFFF"/>
+    <circle cx="-48" cy="0" r="7" fill="#FFFFFF"/>
+    <circle cx="36" cy="-60" r="5" fill="#FFFFFF"/>
+    <circle cx="-36" cy="-60" r="5" fill="#FFFFFF"/>
+    <circle cx="36" cy="60" r="5" fill="#FFFFFF"/>
+    <circle cx="-36" cy="60" r="5" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Fabric Texture & Waving Overlay -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#waveHighlight)" style="mix-blend-mode: overlay;"/>
+
+  <!-- Outer Border -->
+  <rect x="0" y="0" width="900" height="600" fill="none" stroke="#000000" stroke-opacity="0.25" stroke-width="6"/>
+</svg>

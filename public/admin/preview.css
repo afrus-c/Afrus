@@ -1,0 +1,61 @@
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #172033;
+  background: #f1f5f9;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: #f1f5f9; }
+
+html {
+  color-scheme: light;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: #94a3b8 transparent;
+  scrollbar-gutter: stable;
+}
+
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-track { margin: 4px; border-radius: 999px; background: transparent; }
+*::-webkit-scrollbar-thumb { min-height: 44px; border: 3px solid transparent; border-radius: 999px; background: #94a3b8; background-clip: padding-box; }
+*::-webkit-scrollbar-thumb:hover { background: #64748b; background-clip: padding-box; }
+*::-webkit-scrollbar-thumb:active { background: #b32632; background-clip: padding-box; }
+*::-webkit-scrollbar-corner { background: transparent; }
+
+.afrus-preview-page { min-height: 100vh; padding: clamp(20px, 4vw, 48px); }
+.afrus-preview-header { margin-bottom: 28px; padding-bottom: 20px; border-bottom: 2px solid #0039a6; }
+.afrus-preview-header span { color: #b32632; font-size: 11px; font-weight: 800; letter-spacing: .14em; }
+.afrus-preview-header h1 { margin: 7px 0 0; color: #0f172a; font-size: clamp(25px, 4vw, 42px); line-height: 1.12; }
+.afrus-preview-grid { display: grid; gap: 14px; }
+.afrus-preview-field { padding: 16px; border: 1px solid #dbe3ee; border-radius: 12px; background: #fff; box-shadow: 0 5px 16px rgba(15,23,42,.05); }
+.afrus-preview-label { margin-bottom: 7px; color: #64748b; font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.afrus-preview-text { line-height: 1.65; white-space: pre-wrap; }
+.afrus-preview-list { display: grid; gap: 8px; }
+.afrus-preview-list-item { padding: 10px 12px; border-radius: 8px; background: #f8fafc; }
+.afrus-preview-image { display: block; max-width: 100%; max-height: 420px; border-radius: 10px; object-fit: cover; }
+.afrus-status { display: inline-flex; padding: 4px 10px; border-radius: 999px; color: #166534; background: #dcfce7; font-weight: 700; }
+.afrus-status.no { color: #991b1b; background: #fee2e2; }
+.afrus-product-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(320px, 1fr); gap: 28px; }
+.afrus-product-media { overflow: hidden; min-height: 340px; border-radius: 16px; background: #e2e8f0; }
+.afrus-product-media img { display: block; width: 100%; height: 100%; min-height: 340px; object-fit: cover; }
+.afrus-image-placeholder { display: grid; min-height: 340px; place-items: center; color: #64748b; font-weight: 700; }
+.afrus-product-info { display: flex; flex-direction: column; gap: 14px; }
+.afrus-price { color: #b32632; font-size: 34px; font-weight: 850; }
+.afrus-origin { color: #475569; }
+.afrus-tags { display: flex; flex-wrap: wrap; gap: 7px; }
+.afrus-tags span { padding: 6px 10px; border-radius: 999px; color: #92400e; background: #fef3c7; font-size: 12px; font-weight: 750; }
+.afrus-tags .out { color: #991b1b; background: #fee2e2; }
+.afrus-language-card { padding: 17px; border: 1px solid #dbe3ee; border-radius: 12px; background: #fff; box-shadow: 0 5px 16px rgba(15,23,42,.05); }
+.afrus-language-card strong { color: #b32632; font-size: 11px; letter-spacing: .09em; text-transform: uppercase; }
+.afrus-language-card h2 { margin: 6px 0; color: #0f172a; font-size: 19px; }
+.afrus-language-card p { margin: 0; color: #475569; line-height: 1.65; }
+
+@media (max-width: 760px) {
+  .afrus-preview-page { padding: 16px; }
+  .afrus-product-layout { grid-template-columns: 1fr; }
+  .afrus-product-media, .afrus-product-media img, .afrus-image-placeholder { min-height: 240px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

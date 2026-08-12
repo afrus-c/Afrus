@@ -1,0 +1,30 @@
+{
+  "id": "concierge",
+  "title": "Concierge Services",
+  "category": "concierge",
+  "description": "VIP airport pick-ups, luxury hotel arrangements, executive transportation, legal support, and translation.",
+  "iconName": "Crown",
+  "badge": "VIP Support",
+  "featured": true,
+  "titleI18n": {
+    "en": "Concierge Services",
+    "fr": "Services de conciergerie",
+    "ru": "Консьерж-услуги"
+  },
+  "descriptionI18n": {
+    "en": "VIP airport pick-ups, luxury hotel arrangements, executive transportation, legal support, and translation.",
+    "fr": "Prise en charge VIP à l'aéroport, arrangements dans des hôtels de luxe, transport pour cadres, assistance juridique et traduction.",
+    "ru": "VIP-встреча в аэропорту, организация роскошного отеля, транспорт для руководителей, юридическая поддержка и перевод."
+  },
+  "badgeI18n": {
+    "en": "VIP Support",
+    "fr": "Assistance VIP",
+    "ru": "VIP-поддержка"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 9
+}

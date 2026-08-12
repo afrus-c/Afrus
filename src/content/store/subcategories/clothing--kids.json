@@ -1,0 +1,10 @@
+{
+  "id": "clothing--kids",
+  "categoryId": "clothing",
+  "name": "Kids",
+  "nameI18n": {
+    "en": "Kids",
+    "fr": "Enfants",
+    "ru": "Детям"
+  }
+}

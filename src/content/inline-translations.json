@@ -1,0 +1,922 @@
+{
+  "entries": [
+    {
+      "key": "inline-1",
+      "en": "Please enter a valid code",
+      "fr": "Veuillez saisir un code valide",
+      "ru": "Введите промокод"
+    },
+    {
+      "key": "inline-2",
+      "en": "10% discount applied!",
+      "fr": "Réduction de 10% appliquée !",
+      "ru": "Скидка 10% применена!"
+    },
+    {
+      "key": "inline-3",
+      "en": "15% VIP discount applied!",
+      "fr": "Réduction VIP de 15% appliquée !",
+      "ru": "Скидка 15% VIP применена!"
+    },
+    {
+      "key": "inline-4",
+      "en": "Bonus 5% discount applied!",
+      "fr": "Réduction bonus de 5% appliquée !",
+      "ru": "Скидка 5% применена!"
+    },
+    {
+      "key": "inline-5",
+      "en": "Invalid promo code. Try AFRUS10 or AFRICA15",
+      "fr": "Code promo invalide. Essayez AFRUS10",
+      "ru": "Неверный промокод. Попробуйте AFRUS10 или AFRICA15"
+    },
+    {
+      "key": "inline-6",
+      "en": "Your cart is empty",
+      "fr": "Votre panier est vide",
+      "ru": "Ваша корзина пуста"
+    },
+    {
+      "key": "inline-7",
+      "en": "item",
+      "fr": "article",
+      "ru": "товар"
+    },
+    {
+      "key": "inline-30",
+      "en": "items",
+      "fr": "articles",
+      "ru": "тов."
+    },
+    {
+      "key": "inline-9",
+      "en": "selected",
+      "fr": "sélectionné(s)",
+      "ru": "выбрано"
+    },
+    {
+      "key": "inline-37",
+      "en": "Continue Shopping",
+      "fr": "Continuer vos achats",
+      "ru": "Продолжить покупки"
+    },
+    {
+      "key": "inline-11",
+      "en": "Shop More",
+      "fr": "Boutique",
+      "ru": "Магазин"
+    },
+    {
+      "key": "inline-12",
+      "en": "Cart Items",
+      "fr": "Articles",
+      "ru": "Товары"
+    },
+    {
+      "key": "inline-13",
+      "en": "Promo Code",
+      "fr": "Code Promo",
+      "ru": "Промокод"
+    },
+    {
+      "key": "inline-14",
+      "en": "Delivery Notes",
+      "fr": "Notes & Livraison",
+      "ru": "Доставка и примечание"
+    },
+    {
+      "key": "inline-65",
+      "en": "Saved for Later",
+      "fr": "Articles sauvegardés",
+      "ru": "Отложенные товары"
+    },
+    {
+      "key": "inline-16",
+      "en": "You unlocked FREE Express Delivery!",
+      "fr": "Vous bénéficiez de la livraison GRATUITE !",
+      "ru": "Вам доступна БЕСПЛАТНАЯ экспресс-доставка!"
+    },
+    {
+      "key": "inline-17",
+      "en": "Add ",
+      "fr": "Ajoutez ",
+      "ru": "Добавьте "
+    },
+    {
+      "key": "inline-18",
+      "en": " more for FREE Express Delivery!",
+      "fr": " de plus pour la livraison GRATUITE !",
+      "ru": " для БЕСПЛАТНОЙ доставки!"
+    },
+    {
+      "key": "inline-19",
+      "en": "Your Cart is Empty",
+      "fr": "Votre panier est vide",
+      "ru": "Ваша корзина пуста"
+    },
+    {
+      "key": "inline-20",
+      "en": "Explore our authentic African foods, spices, wear, and handcrafted goods from AFRUS Store.",
+      "fr": "Découvrez nos produits africains authentiques, épices, vêtements et produits artisanaux.",
+      "ru": "Исследуйте аутентичные африканские продукты, специи, одежду и ремесленные изделия в AFRUS Store."
+    },
+    {
+      "key": "inline-21",
+      "en": "Explore AFRUS Store",
+      "fr": "Explorer la Boutique",
+      "ru": "Перейти в каталог"
+    },
+    {
+      "key": "inline-22",
+      "en": "Selected Products",
+      "fr": "Produits sélectionnés",
+      "ru": "Выбранные товары"
+    },
+    {
+      "key": "inline-23",
+      "en": "Dual Currency: USD ($) & RUB (₽)",
+      "fr": "Double devise : USD ($) et RUB (₽)",
+      "ru": "Две валюты: USD ($) и RUB (₽)"
+    },
+    {
+      "key": "inline-24",
+      "en": "Size:",
+      "fr": "Taille:",
+      "ru": "Размер:"
+    },
+    {
+      "key": "inline-25",
+      "en": "Save for Later",
+      "fr": "Sauvegarder pour plus tard",
+      "ru": "Отложить на потом"
+    },
+    {
+      "key": "inline-26",
+      "en": "Remove Item",
+      "fr": "Supprimer",
+      "ru": "Удалить"
+    },
+    {
+      "key": "inline-27",
+      "en": "Unit Price",
+      "fr": "Prix unitaire",
+      "ru": "Цена за ед."
+    },
+    {
+      "key": "inline-28",
+      "en": "Item Total",
+      "fr": "Total article",
+      "ru": "Итого"
+    },
+    {
+      "key": "inline-29",
+      "en": "Order Summary",
+      "fr": "Résumé de Commande",
+      "ru": "Сумма заказа"
+    },
+    {
+      "key": "inline-30",
+      "en": "Subtotal",
+      "fr": "Sous-total",
+      "ru": "Подытог"
+    },
+    {
+      "key": "inline-31",
+      "en": "Discount",
+      "fr": "Réduction",
+      "ru": "Скидка"
+    },
+    {
+      "key": "inline-32",
+      "en": "Delivery",
+      "fr": "Livraison",
+      "ru": "Доставка"
+    },
+    {
+      "key": "inline-33",
+      "en": "FREE Express",
+      "fr": "GRATUITE",
+      "ru": "БЕСПЛАТНО"
+    },
+    {
+      "key": "inline-34",
+      "en": "Calculated at inquiry",
+      "fr": "Calculé à la demande",
+      "ru": "Уточняется"
+    },
+    {
+      "key": "inline-35",
+      "en": "Estimated Total",
+      "fr": "Total Estimé",
+      "ru": "Итоговая сумма"
+    },
+    {
+      "key": "inline-36",
+      "en": "Proceed to Checkout",
+      "fr": "Passer la Commande",
+      "ru": "Перейти к оформлению"
+    },
+    {
+      "key": "inline-37",
+      "en": "Order via WhatsApp",
+      "fr": "Commander par WhatsApp",
+      "ru": "Заказать через WhatsApp"
+    },
+    {
+      "key": "inline-38",
+      "en": "Order via Telegram",
+      "fr": "Commander par Telegram",
+      "ru": "Заказать через Telegram"
+    },
+    {
+      "key": "inline-39",
+      "en": "Order Copied!",
+      "fr": "Copié !",
+      "ru": "Скопировано!"
+    },
+    {
+      "key": "inline-40",
+      "en": "Copy Order Details",
+      "fr": "Copier le résumé",
+      "ru": "Скопировать текст заказа"
+    },
+    {
+      "key": "inline-41",
+      "en": "100% Authentic Products",
+      "fr": "Produits 100% authentiques",
+      "ru": "100% Подлинность"
+    },
+    {
+      "key": "inline-42",
+      "en": "Express Russia Shipping",
+      "fr": "Livraison Express Russie",
+      "ru": "Быстрая доставка"
+    },
+    {
+      "key": "inline-43",
+      "en": "Apply Discount Promo Code",
+      "fr": "Appliquer un Code Promo",
+      "ru": "Применить промокод"
+    },
+    {
+      "key": "inline-44",
+      "en": "Save on your order with active AFRUS coupons",
+      "fr": "Économisez sur votre commande avec nos coupons",
+      "ru": "Сэкономьте на заказе с помощью активных купонов"
+    },
+    {
+      "key": "inline-45",
+      "en": "Enter code (e.g. AFRUS10)",
+      "fr": "Entrez le code",
+      "ru": "Введите код (напр. AFRUS10)"
+    },
+    {
+      "key": "inline-46",
+      "en": "Apply",
+      "fr": "Appliquer",
+      "ru": "Применить"
+    },
+    {
+      "key": "inline-47",
+      "en": "discount active on current cart",
+      "fr": "réduction active",
+      "ru": "скидка активна"
+    },
+    {
+      "key": "inline-48",
+      "en": "Remove",
+      "fr": "Retirer",
+      "ru": "Удалить"
+    },
+    {
+      "key": "inline-49",
+      "en": "Popular Promo Codes:",
+      "fr": "Codes Promo Populaires :",
+      "ru": "Популярные промокоды:"
+    },
+    {
+      "key": "inline-50",
+      "en": "Back to Cart Items",
+      "fr": "Retour aux articles",
+      "ru": "Назад к корзине"
+    },
+    {
+      "key": "inline-51",
+      "en": "Delivery Preferences & Request Notes",
+      "fr": "Livraison & Notes",
+      "ru": "Параметры доставки и пожелания"
+    },
+    {
+      "key": "inline-52",
+      "en": "Specify custom delivery method or special requests for AFRUS team",
+      "fr": "Spécifiez le mode de livraison ou des instructions spéciales",
+      "ru": "Укажите удобный способ доставки или особые пожелания"
+    },
+    {
+      "key": "inline-53",
+      "en": "Preferred Delivery Method:",
+      "fr": "Mode de livraison préféré :",
+      "ru": "Способ доставки:"
+    },
+    {
+      "key": "inline-54",
+      "en": "CDEK Courier Express",
+      "fr": "Express CDEK",
+      "ru": "Курьер СДЭК"
+    },
+    {
+      "key": "inline-55",
+      "en": "Fast delivery across Russia & CIS",
+      "fr": "Livraison rapide en Russie & CEI",
+      "ru": "Быстрая доставка по России и СНГ"
+    },
+    {
+      "key": "inline-56",
+      "en": "Moscow Showroom Pickup",
+      "fr": "Retrait Showroom Moscou",
+      "ru": "Самовывоз из шоурума"
+    },
+    {
+      "key": "inline-57",
+      "en": "Free pick up at AFRUS Moscow",
+      "fr": "Retrait gratuit à AFRUS Moscou",
+      "ru": "Бесплатно в AFRUS Москва"
+    },
+    {
+      "key": "inline-58",
+      "en": "Russian Post (Pochta)",
+      "fr": "Poste Russe (Pochta)",
+      "ru": "Почта России"
+    },
+    {
+      "key": "inline-59",
+      "en": "Standard postal shipping",
+      "fr": "Livraison postale standard",
+      "ru": "Стандартная почтовая доставка"
+    },
+    {
+      "key": "inline-60",
+      "en": "Africa Shipping",
+      "fr": "Expédition Afrique",
+      "ru": "Доставка в Африку"
+    },
+    {
+      "key": "inline-61",
+      "en": "Express air shipping to African nations & worldwide",
+      "fr": "Expédition express vers l'Afrique & le monde",
+      "ru": "Авиадоставка в Африку и по миру"
+    },
+    {
+      "key": "inline-62",
+      "en": "Special Instructions or Order Notes:",
+      "fr": "Instructions spéciales :",
+      "ru": "Особые пожелания к заказу:"
+    },
+    {
+      "key": "inline-63",
+      "en": "e.g. Please verify sizes, need urgent delivery, or gift packaging requested...",
+      "fr": "ex : vérification des tailles, emballage cadeau...",
+      "ru": "Например: уточнить размеры, срочная доставка, подарочная упаковка..."
+    },
+    {
+      "key": "inline-64",
+      "en": "Save Notes & Return to Cart",
+      "fr": "Enregistrer et revenir au panier",
+      "ru": "Сохранить и вернуться к корзине"
+    },
+    {
+      "key": "inline-65",
+      "en": "Back to Cart",
+      "fr": "Retour au panier",
+      "ru": "Назад к корзине"
+    },
+    {
+      "key": "inline-66",
+      "en": "Move to Cart",
+      "fr": "Déplacer au panier",
+      "ru": "Переместить в корзину"
+    },
+    {
+      "key": "inline-67",
+      "en": "VIP Hospitality & Executive Support",
+      "fr": "Hospitalité VIP & Conciergerie Exécutive",
+      "ru": "VIP Сервис и Поддержка"
+    },
+    {
+      "key": "inline-68",
+      "en": "AFRUS Luxury Concierge & Travel",
+      "fr": "Conciergerie De Luxe & Voyages AFRUS",
+      "ru": "VIP Консьерж и Путешествия AFRUS"
+    },
+    {
+      "key": "inline-69",
+      "en": "Bespoke, high-touch services designed for international diplomats, corporate CEOs, university deans, and distinguished travelers.",
+      "fr": "Services sur mesure et haut de gamme conçus pour les diplomates, PDG, doyens d'université et voyageurs de marque.",
+      "ru": "Эксклюзивные услуги премиум-класса для дипломатов, руководителей компаний и вип-гостей."
+    },
+    {
+      "key": "inline-70",
+      "en": "24/7 Diplomatic Concierge Suite",
+      "fr": "Suite Conciergerie Diplomatique 24/7",
+      "ru": "Дипломатический Консьерж 24/7"
+    },
+    {
+      "key": "inline-71",
+      "en": "Flawless Comfort & Diplomatic Discretion",
+      "fr": "Confort Parfait & Discrétion Diplomatique",
+      "ru": "Безупречный Комфорт и Дискреция"
+    },
+    {
+      "key": "inline-72",
+      "en": "From private jet tarmac receptions in Moscow to executive security motorcades and certified court translation, AFRUS handles every detail with ultimate precision.",
+      "fr": "De l'accueil sur le tarmac des jets privés à Moscou aux escortes sécurisées et à la traduction certifiée, AFRUS gère chaque détail avec précision.",
+      "ru": "От встречи частных самолетов в Москве до кортежей безопасности и заверенного перевода — AFRUS контролирует каждую деталь."
+    },
+    {
+      "key": "inline-73",
+      "en": "Book VIP Concierge",
+      "fr": "Réserver Conciergerie VIP",
+      "ru": "Заказать VIP Консьерж"
+    },
+    {
+      "key": "inline-74",
+      "en": "Included Premium Features:",
+      "fr": "Services Haut de Gamme Inclus:",
+      "ru": "Включенные Премиум Услуги:"
+    },
+    {
+      "key": "inline-75",
+      "en": "Request Service",
+      "fr": "Demander un Service",
+      "ru": "Заказать Услугу"
+    },
+    {
+      "key": "inline-76",
+      "en": "All Events",
+      "fr": "Tous les Événements",
+      "ru": "Все События"
+    },
+    {
+      "key": "inline-77",
+      "en": "Business Forum",
+      "fr": "Forum d'Affaires",
+      "ru": "Бизнес-Форум"
+    },
+    {
+      "key": "inline-78",
+      "en": "Festival",
+      "fr": "Festival",
+      "ru": "Фестиваль"
+    },
+    {
+      "key": "inline-79",
+      "en": "Conference",
+      "fr": "Conférence",
+      "ru": "Конференция"
+    },
+    {
+      "key": "inline-80",
+      "en": "Networking",
+      "fr": "Réseautage",
+      "ru": "Нетворкинг"
+    },
+    {
+      "key": "inline-81",
+      "en": "Summit & Cultural Schedule",
+      "fr": "Calendrier des Sommets & Culture",
+      "ru": "Расписание Саммитов и Событий"
+    },
+    {
+      "key": "inline-82",
+      "en": "Upcoming Russia – Africa Events",
+      "fr": "Événements À Venir Russie – Afrique",
+      "ru": "Предстоящие События Россия – Африка"
+    },
+    {
+      "key": "inline-83",
+      "en": "Connect directly with diplomatic delegations, university deans, export executives, and artists at high-profile summits and festivals.",
+      "fr": "Échangez directement avec des délégations diplomatiques, doyens d'universités, dirigeants d'exportation et artistes lors de sommets prestigieux.",
+      "ru": "Встречайтесь с дипломатическими делегациями, деканами ВУЗов, экспортерами и деятелями культуры на высшем уровне."
+    },
+    {
+      "key": "inline-84",
+      "en": "Key Speakers & Guests:",
+      "fr": "Intervenants & Invités Clés :",
+      "ru": "Ключевые Спикеры и Гости:"
+    },
+    {
+      "key": "inline-85",
+      "en": "Register / Attend Event",
+      "fr": "S'inscrire / Participer",
+      "ru": "Зарегистрироваться на Событие"
+    },
+    {
+      "key": "inline-86",
+      "en": "All Opportunities",
+      "fr": "Toutes les Opportunités",
+      "ru": "Все Возможности"
+    },
+    {
+      "key": "inline-87",
+      "en": "Scholarships",
+      "fr": "Bourses d'Études",
+      "ru": "Гранты и Стипендии"
+    },
+    {
+      "key": "inline-88",
+      "en": "Business",
+      "fr": "Affaires & Commerce",
+      "ru": "Бизнес и Инвестиции"
+    },
+    {
+      "key": "inline-89",
+      "en": "Trade & Logistics",
+      "fr": "Commerce & Logistique",
+      "ru": "Торговля и Логистика"
+    },
+    {
+      "key": "inline-90",
+      "en": "Investment",
+      "fr": "Investissements",
+      "ru": "Инвестиции"
+    },
+    {
+      "key": "inline-91",
+      "en": "Cultural Exchange",
+      "fr": "Échanges Culturels",
+      "ru": "Культурный Обмен"
+    },
+    {
+      "key": "inline-92",
+      "en": "High-Impact Programs",
+      "fr": "Programmes à Fort Impact",
+      "ru": "Программы Высокого Влияния"
+    },
+    {
+      "key": "inline-93",
+      "en": "Featured Bilateral Opportunities",
+      "fr": "Opportunités Bilatérales Vedettes",
+      "ru": "Избранные Двусторонние Возможности"
+    },
+    {
+      "key": "inline-94",
+      "en": "Handpicked scholarships, investment zones, trade agreements, and cultural delegations curated for immediate participation.",
+      "fr": "Bourses d'études, zones d'investissement, accords commerciaux et délégations culturelles sélectionnés pour une participation immédiate.",
+      "ru": "Гранты, зоны инвестиций, торговые соглашения и культурные миссии для вашего участия."
+    },
+    {
+      "key": "inline-95",
+      "en": "Deadline:",
+      "fr": "Date limite :",
+      "ru": "Срок:"
+    },
+    {
+      "key": "inline-96",
+      "en": "Key Benefits:",
+      "fr": "Avantages Clés :",
+      "ru": "Ключевые Преимущества:"
+    },
+    {
+      "key": "inline-97",
+      "en": "View Requirements & Apply",
+      "fr": "Voir les Conditions & Postuler",
+      "ru": "Условия и Подача Заявки"
+    },
+    {
+      "key": "inline-98",
+      "en": "AFRUS Language Academy",
+      "fr": "Académie de Langues AFRUS",
+      "ru": "Академия Языков AFRUS"
+    },
+    {
+      "key": "inline-99",
+      "en": "Master English, French & Russian",
+      "fr": "Maîtrisez l'Anglais, le Français & le Russe",
+      "ru": "Освойте Английский, Французский и Русский"
+    },
+    {
+      "key": "inline-100",
+      "en": "Specialized immersion programs tailored for university admission, international trade negotiations, diplomatic protocol, and cultural fluency.",
+      "fr": "Programmes d'immersion spécialisés conçus pour l'admission universitaire, le commerce international, la diplomatie et l'aisance culturelle.",
+      "ru": "Языковые программы для поступления в ВУЗы, международных переговоров, дипломатии и культурной интеграции."
+    },
+    {
+      "key": "inline-101",
+      "en": "Course Highlights:",
+      "fr": "Points Forts du Cours:",
+      "ru": "Особенности Курса:"
+    },
+    {
+      "key": "inline-102",
+      "en": "Enroll in Academy",
+      "fr": "S'inscrire à l'Académie",
+      "ru": "Записаться в Академию"
+    },
+    {
+      "key": "inline-103",
+      "en": "Official Insights & Press",
+      "fr": "Presse & Analyses Officielles",
+      "ru": "Пресса и Официальная Аналитика"
+    },
+    {
+      "key": "inline-104",
+      "en": "Latest AFRUS News & Intelligence",
+      "fr": "Dernières Actualités & Analyses AFRUS",
+      "ru": "Последние Новости и Аналитика AFRUS"
+    },
+    {
+      "key": "inline-105",
+      "en": "Stay informed on bilateral policy updates, scholarship quota releases, trade statistics, and diplomatic summits.",
+      "fr": "Restez informé des politiques bilatérales, bourses, statistiques commerciales et sommets diplomatiques.",
+      "ru": "Будьте в курсе изменений двусторонней политики, квот на обучение, торговли и дипломатических встреч."
+    },
+    {
+      "key": "inline-106",
+      "en": "Read Full Article",
+      "fr": "Lire l'Article Complet",
+      "ru": "Читать Полностью"
+    },
+    {
+      "key": "inline-107",
+      "en": "All",
+      "fr": "Tous",
+      "ru": "Все"
+    },
+    {
+      "key": "inline-108",
+      "en": "AFRUS Russia–Africa Cultural & Lifestyle Store",
+      "fr": "Boutique Culturelle & Mode AFRUS Russie–Afrique",
+      "ru": "Магазин Культуры AFRUS Россия–Африка"
+    },
+    {
+      "key": "inline-109",
+      "en": "Authentic African Apparel, Art, Delicacies & Gifts",
+      "fr": "Vêtements, Art, Délices & Cadeaux Africains Authentiques",
+      "ru": "Аутентичные Товары, Искусство и Деликатесы Африки"
+    },
+    {
+      "key": "inline-110",
+      "en": "Explore our flagship collection of authentic African food, fashion, jerseys, hand-carved masks, jewelry, souvenirs, and luxury perfumes available with dual USD ($) & RUB (₽) pricing.",
+      "fr": "Découvrez notre collection phare de nourriture africaine, mode, maillots, masques sculptés à la main, bijoux, souvenirs et parfums raffinés.",
+      "ru": "Эксклюзивная коллекция товаров из Африки: продукты, одежда, джерси, маски, украшения и сувениры с двойными ценами в USD и RUB."
+    },
+    {
+      "key": "inline-142",
+      "en": "Added",
+      "fr": "Ajouté",
+      "ru": "Добавлено"
+    },
+    {
+      "key": "inline-142",
+      "en": "Add to Cart",
+      "fr": "Ajouter au Panier",
+      "ru": "В корзину"
+    },
+    {
+      "key": "inline-142",
+      "en": "Out of Stock",
+      "fr": "Rupture de Stock",
+      "ru": "Нет в наличии"
+    },
+    {
+      "key": "inline-142",
+      "en": "View Details",
+      "fr": "Voir les Détails",
+      "ru": "Подробнее"
+    },
+    {
+      "key": "inline-142",
+      "en": "Details",
+      "fr": "Voir",
+      "ru": "Детали"
+    },
+    {
+      "key": "inline-store-add-short",
+      "en": "Add",
+      "fr": "Ajouter",
+      "ru": "Добавить"
+    },
+    {
+      "key": "inline-116",
+      "en": "Explore Full AFRUS Store",
+      "fr": "Explorer la Boutique AFRUS",
+      "ru": "Перейти в Магазин AFRUS"
+    },
+    {
+      "key": "inline-117",
+      "en": "Product Not Found",
+      "fr": "Produit non trouvé",
+      "ru": "Товар не найден"
+    },
+    {
+      "key": "inline-118",
+      "en": "The requested item could not be located in the AFRUS Store catalog.",
+      "fr": "L'article demandé n'a pas pu être trouvé dans le catalogue de la boutique AFRUS.",
+      "ru": "Запрошенный товар не найден в каталоге магазина AFRUS."
+    },
+    {
+      "key": "inline-119",
+      "en": "Return to Store",
+      "fr": "Retourner à la boutique",
+      "ru": "Вернуться в магазин"
+    },
+    {
+      "key": "inline-120",
+      "en": "100% Authentic Quality",
+      "fr": "Qualité 100% Authentique",
+      "ru": "100% Подлинное Качество"
+    },
+    {
+      "key": "inline-121",
+      "en": "Russia & Africa Shipping",
+      "fr": "Livraison Russie & Afrique",
+      "ru": "Доставка по России и в Африку"
+    },
+    {
+      "key": "inline-122",
+      "en": "Verified Culture & Craft",
+      "fr": "Culture et Artisanat Vérifiés",
+      "ru": "Проверенные Продукты и Ремесло"
+    },
+    {
+      "key": "inline-123",
+      "en": "Dual-Currency Pricing",
+      "fr": "Prix ​​en double devise",
+      "ru": "Двойные валютные цены"
+    },
+    {
+      "key": "inline-124",
+      "en": "Product Description",
+      "fr": "Description du produit",
+      "ru": "Описание товара"
+    },
+    {
+      "key": "inline-125",
+      "en": "Select Size:",
+      "fr": "Sélectionner la taille :",
+      "ru": "Выберите размер:"
+    },
+    {
+      "key": "inline-126",
+      "en": "Quantity:",
+      "fr": "Quantité :",
+      "ru": "Количество:"
+    },
+    {
+      "key": "inline-127",
+      "en": "Total:",
+      "fr": "Total :",
+      "ru": "Итого:"
+    },
+    {
+      "key": "inline-128",
+      "en": "Added to Cart!",
+      "fr": "Ajouté au Panier !",
+      "ru": "Добавлено в корзину!"
+    },
+    {
+      "key": "inline-129",
+      "en": "Product Currently Out of Stock",
+      "fr": "Rupture de Stock",
+      "ru": "Товар временно отсутствует"
+    },
+    {
+      "key": "inline-130",
+      "en": "Send via WhatsApp",
+      "fr": "Envoyer par WhatsApp",
+      "ru": "Отправить через WhatsApp"
+    },
+    {
+      "key": "inline-131",
+      "en": "Send via Telegram",
+      "fr": "Envoyer par Telegram",
+      "ru": "Отправить через Telegram"
+    },
+    {
+      "key": "inline-132",
+      "en": "Product Details & Specifications",
+      "fr": "Détails du produit & Spécifications",
+      "ru": "Детали товара и характеристики"
+    },
+    {
+      "key": "inline-133",
+      "en": "More Items in",
+      "fr": "Plus d'articles dans",
+      "ru": "Другие товары в категории"
+    },
+    {
+      "key": "inline-134",
+      "en": "Item",
+      "fr": "Article",
+      "ru": "Товар"
+    },
+    {
+      "key": "inline-135",
+      "en": "Items",
+      "fr": "Articles",
+      "ru": "Товаров"
+    },
+    {
+      "key": "inline-136",
+      "en": "Category:",
+      "fr": "Catégorie:",
+      "ru": "Категория:"
+    },
+    {
+      "key": "inline-137",
+      "en": "product",
+      "fr": "produit",
+      "ru": "товар"
+    },
+    {
+      "key": "inline-138",
+      "en": "products",
+      "fr": "produits",
+      "ru": "товаров"
+    },
+    {
+      "key": "inline-139",
+      "en": "Subcategories:",
+      "fr": "Sous-catégories:",
+      "ru": "Подкатегории:"
+    },
+    {
+      "key": "inline-140",
+      "en": "Swipe to explore",
+      "fr": "Balayer pour explorer",
+      "ru": "Свайп для просмотра"
+    },
+    {
+      "key": "inline-141",
+      "en": "Dual Price",
+      "fr": "Double Prix",
+      "ru": "Двойная цена"
+    },
+    {
+      "key": "inline-142",
+      "en": "discount applied!",
+      "fr": "de réduction appliquée !",
+      "ru": "скидка применена!"
+    },
+    {
+      "key": "inline-143",
+      "en": "Invalid promo code",
+      "fr": "Code promotionnel invalide",
+      "ru": "Недействительный промокод"
+    },
+    {
+      "key": "inline-144",
+      "en": "discount",
+      "fr": "de réduction",
+      "ru": "скидка"
+    },
+    {
+      "key": "inline-145",
+      "en": "Free",
+      "fr": "Gratuit",
+      "ru": "Бесплатно"
+    },
+    {
+      "key": "inline-146",
+      "en": "Location",
+      "fr": "Lieu",
+      "ru": "Место"
+    },
+    {
+      "key": "inline-147",
+      "en": "Deadline",
+      "fr": "Date limite",
+      "ru": "Срок подачи"
+    },
+    {
+      "key": "inline-148",
+      "en": "Included Program Benefits",
+      "fr": "Avantages inclus dans le programme",
+      "ru": "Преимущества программы"
+    },
+    {
+      "key": "inline-149",
+      "en": "Eligibility & Application Requirements",
+      "fr": "Conditions d’admissibilité et de candidature",
+      "ru": "Требования к участию и подаче заявки"
+    },
+    {
+      "key": "inline-150",
+      "en": "Close",
+      "fr": "Fermer",
+      "ru": "Закрыть"
+    },
+    {
+      "key": "inline-151",
+      "en": "Submit Application",
+      "fr": "Soumettre la candidature",
+      "ru": "Подать заявку"
+    },
+    {
+      "key": "inline-152",
+      "en": "Add item",
+      "fr": "Ajouter",
+      "ru": "Добавить"
+    }
+  ]
+}

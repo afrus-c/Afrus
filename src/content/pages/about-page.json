@@ -1,0 +1,96 @@
+{
+  "mission": {
+    "title": {
+      "en": "Our Mission",
+      "fr": "Notre mission",
+      "ru": "Наша миссия"
+    },
+    "description": {
+      "en": "To build transparent, high-efficiency channels that streamline cross-border trade, empower African youth through world-class Russian university education, and foster sustainable economic alliances between enterprises across both continents.",
+      "fr": "Créer des canaux transparents et performants qui fluidifient le commerce transfrontalier, donnent aux jeunes Africains accès à un enseignement universitaire russe de classe mondiale et favorisent des alliances économiques durables entre les entreprises des deux continents.",
+      "ru": "Создавать прозрачные и эффективные каналы, упрощающие трансграничную торговлю, расширять возможности африканской молодёжи благодаря высококлассному российскому университетскому образованию и формировать устойчивые экономические союзы между компаниями двух континентов."
+    }
+  },
+  "vision": {
+    "title": {
+      "en": "Our Vision",
+      "fr": "Notre vision",
+      "ru": "Наше видение"
+    },
+    "description": {
+      "en": "To be recognized globally as the most trusted institutional platform connecting Russia with all 54 African nations — unlocking multi-billion dollar trade corridors, cultural synergy, and diplomatic excellence.",
+      "fr": "Être reconnue mondialement comme la plateforme institutionnelle la plus fiable reliant la Russie aux 54 pays africains, en ouvrant des corridors commerciaux de plusieurs milliards de dollars et en favorisant la synergie culturelle et l’excellence diplomatique.",
+      "ru": "Стать признанной во всём мире наиболее надёжной институциональной платформой, связывающей Россию со всеми 54 странами Африки и открывающей многомиллиардные торговые коридоры, культурную синергию и дипломатическое превосходство."
+    }
+  },
+  "stats": [
+    {
+      "id": "countries",
+      "icon": "Globe2",
+      "value": 54,
+      "prefix": "",
+      "suffix": "+",
+      "label": {
+        "en": "Countries Connected",
+        "fr": "Pays Connectés",
+        "ru": "Связанные Страны"
+      },
+      "subtext": {
+        "en": "African Nations & All 89 Russian Regions",
+        "fr": "Nations Africaines & 89 Régions Russes",
+        "ru": "Страны Африки и 89 Регионов РФ"
+      }
+    },
+    {
+      "id": "students",
+      "icon": "GraduationCap",
+      "value": 2500,
+      "prefix": "",
+      "suffix": "+",
+      "label": {
+        "en": "Students Assisted",
+        "fr": "Étudiants Accompagnés",
+        "ru": "Студентов Принято"
+      },
+      "subtext": {
+        "en": "Admitted with State Scholarships & Visas",
+        "fr": "Admis avec Bourses d'État & Visas",
+        "ru": "Зачислено по Квотам и Визам"
+      }
+    },
+    {
+      "id": "business",
+      "icon": "Building2",
+      "value": 120,
+      "prefix": "$",
+      "suffix": "M+",
+      "label": {
+        "en": "Bilateral Trade Volume",
+        "fr": "Volume du Commerce Bilatéral",
+        "ru": "Объем Торговли"
+      },
+      "subtext": {
+        "en": "Cross-Border Agreements & B2B Contracts",
+        "fr": "Accords Transfrontaliers & Contrats B2B",
+        "ru": "Трансграничные Соглашения и B2B"
+      }
+    },
+    {
+      "id": "events",
+      "icon": "Calendar",
+      "value": 85,
+      "prefix": "",
+      "suffix": "+",
+      "label": {
+        "en": "Events & Forums Organized",
+        "fr": "Événements & Forums Organisés",
+        "ru": "Форумов Организовано"
+      },
+      "subtext": {
+        "en": "Diplomatic Summits, Expos & Cultural Festivals",
+        "fr": "Sommets Diplomatiques, Salons & Festivals",
+        "ru": "Дипломатические Саммиты и Выставки"
+      }
+    }
+  ]
+}

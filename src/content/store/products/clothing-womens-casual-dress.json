@@ -1,0 +1,41 @@
+{
+    "id":  "clothing-womens-casual-dress",
+    "title":  "Women\u0027s Casual Dress",
+    "category":  "Clothing",
+    "subcategory":  "Women",
+    "priceUsd": 58,
+    "priceRub": 5336,
+    "origin":  "AFRUS Apparel",
+    "description":  "A stylish women\u0027s casual dress featuring a modern silhouette and comfortable design. Suitable for everyday wear, outings, casual gatherings, and relaxed occasions.",
+    "image":  "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Casual Chic",
+    "brand":  "AFRUS Womenswear",
+    "availableSizes":  [
+                           "XS",
+                           "S",
+                           "M",
+                           "L",
+                           "XL"
+                       ],
+    "inventoryCount":  30,
+    "titleI18n":  {
+                      "en":  "Women\u0027s Casual Dress",
+                      "fr":  "Robe d\u0027Été Décontractée Femme",
+                      "ru":  "Женское Летнее Повседневное Платье"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A stylish women\u0027s casual dress featuring a modern silhouette and comfortable design. Suitable for everyday wear, outings, casual gatherings, and relaxed occasions.",
+                            "fr":  "Robe fluide et légère idéale par temps chaud.",
+                            "ru":  "Легкое струящееся платье для теплой погоды."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--women",
+    "badgeI18n":  {
+                      "ru":  "Повседневный шик",
+                      "en":  "Casual Chic",
+                      "fr":  "Chic et décontracté"
+                  }
+}

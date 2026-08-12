@@ -1,0 +1,39 @@
+{
+    "id":  "clothes-traditional-robe",
+    "title":  "African Traditional Robe",
+    "category":  "African Clothes",
+    "subcategory":  "Traditional Wear",
+    "priceUsd": 120,
+    "priceRub": 11040,
+    "origin":  "Bamako, Mali",
+    "description":  "A flowing traditional African robe featuring bold patterns and cultural-inspired details. Ideal for ceremonies, celebrations, cultural events, and formal occasions.",
+    "image":  "/uploads/store/african_traditional_robe_1786178510936.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Heritage",
+    "brand":  "Mali Heritage Wear",
+    "availableSizes":  [
+                           "M",
+                           "L",
+                           "XL"
+                       ],
+    "inventoryCount":  22,
+    "titleI18n":  {
+                      "en":  "African Traditional Robe",
+                      "fr":  "Toge Cérémonielle Africaine Brodée",
+                      "ru":  "Церемониальный Африканский Халат"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A flowing traditional African robe featuring bold patterns and cultural-inspired details. Ideal for ceremonies, celebrations, cultural events, and formal occasions.",
+                            "fr":  "Toge de cérémonie brodée fluide pour les événements officiels et les célébrations.",
+                            "ru":  "Роскошный вышитый халат для торжественных мероприятий."
+                        },
+    "categoryId":  "african-clothes",
+    "subcategoryId":  "african-clothes--traditional-wear",
+    "badgeI18n":  {
+                      "ru":  "Наследство",
+                      "en":  "Heritage",
+                      "fr":  "Patrimoine"
+                  }
+}

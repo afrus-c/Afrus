@@ -1,0 +1,10 @@
+{
+  "id": "accessories--women-s-accessories",
+  "categoryId": "accessories",
+  "name": "Women's Accessories",
+  "nameI18n": {
+    "en": "Women's Accessories",
+    "fr": "Accessoires Femme",
+    "ru": "Женские Аксессуары"
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "id":  "shoes-mens-african-inspired-loafers",
+    "title":  "Men\u0027s African-Inspired Loafers",
+    "category":  "Shoes",
+    "subcategory":  "Men\u0027s Shoes",
+    "priceUsd": 85,
+    "priceRub": 7820,
+    "origin":  "Addis Ababa, Ethiopia",
+    "description":  "A stylish pair of men\u0027s loafers combining a contemporary silhouette with subtle African-inspired patterns and design details. Suitable for casual and semi-formal occasions.",
+    "image":  "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Heritage Loafers",
+    "brand":  "Addis Craftsmen",
+    "availableSizes":  [
+                           "40",
+                           "41",
+                           "42",
+                           "43",
+                           "44"
+                       ],
+    "inventoryCount":  22,
+    "titleI18n":  {
+                      "en":  "Men\u0027s African-Inspired Loafers",
+                      "fr":  "Mocassins Imprimé Africain Homme",
+                      "ru":  "Мужские Лоферы с Принтом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A stylish pair of men\u0027s loafers combining a contemporary silhouette with subtle African-inspired patterns and design details. Suitable for casual and semi-formal occasions.",
+                            "fr":  "Mocassins élégants à enfiler rehaussés d\u0027empiècements en tissu Ankara.",
+                            "ru":  "Элегантные мокасины с текстильными вставками анкара."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--men-s-shoes",
+    "badgeI18n":  {
+                      "ru":  "Лоферы с наследием",
+                      "en":  "Heritage Loafers",
+                      "fr":  "Mocassins Héritage"
+                  }
+}

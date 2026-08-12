@@ -1,0 +1,41 @@
+{
+    "id":  "jersey-classic-football",
+    "title":  "Classic Football Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Football Jerseys",
+    "priceUsd": 45,
+    "priceRub": 4140,
+    "origin":  "AFRUS Sport",
+    "description":  "A high-quality football jersey designed for fans and everyday wear. Featuring a comfortable athletic fit and a professional football-inspired design.",
+    "image":  "/uploads/store/jersey_classic_football_1786179976307.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Classic Fit",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  30,
+    "titleI18n":  {
+                      "en":  "Classic Football Jersey",
+                      "fr":  "Maillot de Football Classique",
+                      "ru":  "Классическая Футбольная Джерси"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A high-quality football jersey designed for fans and everyday wear. Featuring a comfortable athletic fit and a professional football-inspired design.",
+                            "fr":  "Maillot de football respirant doté d\u0027une technologie d\u0027évacuation de la transpiration.",
+                            "ru":  "Дышащая спортивная форма с технологией отвода влаги."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--football-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Классический крой",
+                      "en":  "Classic Fit",
+                      "fr":  "Coupe classique"
+                  }
+}

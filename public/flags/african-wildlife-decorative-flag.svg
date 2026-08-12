@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <!-- Sunset Savanna Gradient -->
+    <linearGradient id="savannaSunset" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3B1028"/>
+      <stop offset="25%" stop-color="#8C1D2F"/>
+      <stop offset="50%" stop-color="#D94B18"/>
+      <stop offset="75%" stop-color="#F28B0C"/>
+      <stop offset="100%" stop-color="#F2C029"/>
+    </linearGradient>
+
+    <!-- Glowing Sun -->
+    <radialGradient id="sunDisc" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#FFF2A1"/>
+      <stop offset="100%" stop-color="#F28B0C" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Fabric Lighting Overlay -->
+    <linearGradient id="waveHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="25%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="75%" stop-color="#000000" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sunset Sky Background -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#savannaSunset)"/>
+
+  <!-- Big Sunset Sun in Sky (x=620, y=260) -->
+  <circle cx="620" cy="260" r="110" fill="url(#sunDisc)"/>
+  <circle cx="620" cy="260" r="65" fill="#FFF2A1"/>
+
+  <!-- Birds Soaring in Sunset Sky -->
+  <g fill="#1A0A03">
+    <path d="M 220 120 Q 235 105 250 120 Q 265 105 280 120 Q 265 112 250 125 Q 235 112 220 120 Z"/>
+    <path d="M 310 90 Q 322 78 334 90 Q 346 78 358 90 Q 346 83 334 94 Q 322 83 310 90 Z"/>
+    <path d="M 180 160 Q 190 148 200 160 Q 210 148 220 160 Q 210 153 200 163 Q 190 153 180 160 Z"/>
+  </g>
+
+  <!-- Acacia Trees Silhouettes -->
+  <g fill="#120601">
+    <!-- Big Umbrella Acacia Tree on Left (x=150) -->
+    <path d="M 140 500 Q 148 420 130 360 Q 120 320 90 280 L 110 285 Q 135 320 148 350 L 155 350 Q 170 310 210 260 L 225 268 Q 185 315 162 360 L 165 500 Z"/>
+    <!-- Foliage Canopies -->
+    <ellipse cx="80" cy="275" rx="75" ry="18"/>
+    <ellipse cx="140" cy="255" rx="90" ry="22"/>
+    <ellipse cx="215" cy="255" rx="80" ry="20"/>
+
+    <!-- Small Acacia Tree on Right (x=780) -->
+    <path d="M 770 500 Q 775 440 760 390 L 772 392 Q 785 435 782 500 Z"/>
+    <ellipse cx="760" cy="385" rx="65" ry="15"/>
+    <ellipse cx="805" cy="375" rx="50" ry="12"/>
+  </g>
+
+  <!-- Savanna Horizon Ground Silhouette -->
+  <path d="M 0 460 Q 300 480 600 450 Q 750 440 900 470 L 900 600 L 0 600 Z" fill="#120601"/>
+
+  <!-- African Wildlife Silhouettes (Elephant & Giraffes) -->
+  <g fill="#120601">
+    <!-- Elephant Family on Left (x=290, y=410) -->
+    <!-- Adult Elephant -->
+    <path d="
+      M 240 470
+      C 238 430 250 400 270 390
+      C 290 380 320 382 340 395
+      C 355 405 365 425 368 450
+      L 368 470 L 358 470 L 356 430
+      L 342 430 L 340 470 L 330 470 L 332 425
+      L 300 425 L 298 470 L 288 470 L 290 425
+      L 260 425 L 255 470 Z"/>
+    <!-- Elephant Trunk & Ears & Tusk -->
+    <path d="M 255 405 C 230 410 215 430 218 455 C 222 465 230 465 228 458 C 224 442 235 428 250 420 Z"/>
+    <path d="M 270 390 C 250 395 242 420 255 435 C 265 425 272 405 270 390 Z"/>
+
+    <!-- Baby Elephant behind -->
+    <path d="
+      M 375 470
+      C 374 445 382 430 395 425
+      C 408 420 425 422 435 430
+      C 445 438 450 450 452 470
+      L 444 470 L 442 445 L 430 445 L 428 470 L 420 470 L 422 445 L 402 445 L 400 470 Z"/>
+
+    <!-- Giraffe Pair on Right (x=500, y=330) -->
+    <!-- Tall Giraffe -->
+    <path d="
+      M 480 460
+      L 488 400 L 498 320 L 488 280 C 488 270 498 262 505 262 C 510 262 512 268 508 275 L 505 315 L 515 390 L 520 460
+      L 512 460 L 508 410 L 498 410 L 492 460 Z"/>
+    <!-- Giraffe Body & Legs -->
+    <path d="M 505 375 C 525 370 545 385 550 410 L 555 460 L 547 460 L 543 415 L 532 415 L 528 460 Z"/>
+
+    <!-- Smaller Giraffe -->
+    <path d="
+      M 565 460
+      L 572 415 L 580 350 L 572 320 C 572 312 580 306 586 306 C 590 306 592 311 588 317 L 585 348 L 592 405 L 596 460
+      L 590 460 L 586 420 L 578 420 L 574 460 Z"/>
+    <path d="M 585 395 C 600 390 615 402 618 422 L 622 460 L 615 460 L 612 425 L 602 425 L 598 460 Z"/>
+  </g>
+
+  <!-- Ornate Decorative Flag Edge Trim -->
+  <rect x="0" y="0" width="900" height="25" fill="#120601"/>
+  <rect x="0" y="25" width="900" height="6" fill="#F28B0C"/>
+  <rect x="0" y="569" width="900" height="6" fill="#F28B0C"/>
+  <rect x="0" y="575" width="900" height="25" fill="#120601"/>
+
+  <!-- Fabric Texture & Waving Overlay -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#waveHighlight)" style="mix-blend-mode: overlay;"/>
+
+  <!-- Outer Border -->
+  <rect x="0" y="0" width="900" height="600" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="6"/>
+</svg>

@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-african-amber-eau-de-parfum",
+    "title":  "African Amber Eau de Parfum",
+    "category":  "Perfume",
+    "subcategory":  "Unisex Fragrances",
+    "priceUsd": 72,
+    "priceRub": 6624,
+    "origin":  "Zanzibar, Tanzania",
+    "description":  "A versatile unisex fragrance inspired by warm amber and natural aromatic notes. Designed to suit a wide range of personal styles and occasions.",
+    "image":  "https://images.unsplash.com/photo-1616949755610-8c9bbc08f138?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Warm Amber",
+    "brand":  "Zanzibar Essence",
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "African Amber Eau de Parfum",
+                      "fr":  "Eau de Parfum Ambre Africain",
+                      "ru":  "Парфюмерная Вода Африканский Янтарь"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A versatile unisex fragrance inspired by warm amber and natural aromatic notes. Designed to suit a wide range of personal styles and occasions.",
+                            "fr":  "Senteur unisexe sensuelle à l\u0027ambre chaleureux avec de douces nuances de vanille.",
+                            "ru":  "Чувственный амбровый унисекс-аромат с нотами ванили."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--unisex-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Теплый янтарь",
+                      "en":  "Warm Amber",
+                      "fr":  "Ambre chaud"
+                  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "english-biz",
+  "language": "English",
+  "level": "Beginner to Advanced Business C1",
+  "duration": "12 Weeks (36 Hours)",
+  "format": "Hybrid",
+  "description": "Customized for Russian professionals, exporters, diplomats, and university students seeking fluency in international commerce.",
+  "targetAudience": "Exporters, Government Officials, University Students",
+  "features": [
+    "Native English Instructors",
+    "Business Negotiation Simulations",
+    "Diplomatic & Economic Vocabulary",
+    "Official Certificate"
+  ],
+  "icon": "MessageSquareText",
+  "titleI18n": {
+    "en": "Business English Communication",
+    "fr": "Communication en anglais des affaires",
+    "ru": "Деловой английский язык"
+  },
+  "levelI18n": {
+    "en": "Beginner to Advanced Business C1",
+    "fr": "Débutant à Avancé Business C1",
+    "ru": "От начинающего до продвинутого уровня бизнеса C1"
+  },
+  "durationI18n": {
+    "en": "12 Weeks (36 Hours)",
+    "fr": "12 semaines (36 heures)",
+    "ru": "12 недель (36 часов)"
+  },
+  "formatI18n": {
+    "en": "Hybrid",
+    "fr": "Hybride",
+    "ru": "Гибридный"
+  },
+  "descriptionI18n": {
+    "en": "Customized for Russian professionals, exporters, diplomats, and university students seeking fluency in international commerce.",
+    "fr": "Personnalisé pour les professionnels russes, les exportateurs, les diplomates et les étudiants universitaires cherchant à maîtriser le commerce international.",
+    "ru": "Специально для российских специалистов, экспортеров, дипломатов и студентов университетов, желающих свободно разбираться в международной торговле."
+  },
+  "targetAudienceI18n": {
+    "en": "Exporters, Government Officials, University Students",
+    "fr": "Exportateurs, fonctionnaires, étudiants universitaires",
+    "ru": "Экспортеры, государственные служащие, студенты вузов"
+  },
+  "featuresI18n": {
+    "en": [
+      "Native English Instructors",
+      "Business Negotiation Simulations",
+      "Diplomatic & Economic Vocabulary",
+      "Official Certificate"
+    ],
+    "fr": [
+      "Instructeurs d'anglais natifs",
+      "Simulations de négociations commerciales",
+      "Vocabulaire diplomatique et économique",
+      "Certificat officiel"
+    ],
+    "ru": [
+      "Преподаватели-носители английского языка",
+      "Моделирование деловых переговоров",
+      "Дипломатический и экономический словарь",
+      "Официальный сертификат"
+    ]
+  }
+}

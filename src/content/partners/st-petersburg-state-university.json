@@ -1,0 +1,11 @@
+{
+  "name": "St. Petersburg State University",
+  "logoText": "SPbSU",
+  "id": "st-petersburg-state-university",
+  "nameI18n": {
+    "en": "St. Petersburg State University",
+    "fr": "Université d'État de Saint-Pétersbourg",
+    "ru": "Санкт-Петербургский государственный университет"
+  },
+  "order": 5
+}

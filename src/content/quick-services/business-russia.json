@@ -1,0 +1,29 @@
+{
+  "id": "business-russia",
+  "title": "Business in Russia",
+  "category": "business",
+  "description": "Helping African enterprises, investors, and trade delegations establish operations and branches in the Russian Federation.",
+  "iconName": "Building2",
+  "badge": "Investment",
+  "titleI18n": {
+    "en": "Business in Russia",
+    "fr": "Affaires en Russie",
+    "ru": "Бизнес в России"
+  },
+  "descriptionI18n": {
+    "en": "Helping African enterprises, investors, and trade delegations establish operations and branches in the Russian Federation.",
+    "fr": "Aider les entreprises, les investisseurs et les délégations commerciales africaines à établir des opérations et des succursales dans la Fédération de Russie.",
+    "ru": "Помощь африканским предприятиям, инвесторам и торговым представительствам в открытии операций и филиалов в Российской Федерации."
+  },
+  "badgeI18n": {
+    "en": "Investment",
+    "fr": "Investissement",
+    "ru": "Инвестиции"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 3
+}

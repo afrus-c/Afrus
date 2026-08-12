@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-african-spice-eau-de-parfum",
+    "title":  "African Spice Eau de Parfum",
+    "category":  "Perfume",
+    "subcategory":  "Men\u0027s Fragrances",
+    "priceUsd": 78,
+    "priceRub": 7176,
+    "origin":  "Marrakech, Morocco",
+    "description":  "A distinctive men\u0027s fragrance inspired by warm spices and rich aromatic notes, designed for a confident and contemporary fragrance experience.",
+    "image":  "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Warm Spice",
+    "brand":  "Atlas Parfums",
+    "inventoryCount":  25,
+    "titleI18n":  {
+                      "en":  "African Spice Eau de Parfum",
+                      "fr":  "Eau de Parfum Épices Africaines",
+                      "ru":  "Парфюм Африканские Специи"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A distinctive men\u0027s fragrance inspired by warm spices and rich aromatic notes, designed for a confident and contemporary fragrance experience.",
+                            "fr":  "Parfum épicé exotique mêlant cardamome, cannelle et vanille noire.",
+                            "ru":  "Пряный экзотический аромат с кардамоном, корицей и ванилью."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--men-s-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Теплая специя",
+                      "en":  "Warm Spice",
+                      "fr":  "Épice chaude"
+                  }
+}

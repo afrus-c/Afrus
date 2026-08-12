@@ -1,0 +1,30 @@
+{
+  "id": "concierge",
+  "image": "/uploads/home-hero/concierge_executive_1785919904384.jpg",
+  "category": "PREMIUM SERVICES",
+  "headline": "Professional Support Beyond Borders",
+  "description": "Providing travel assistance, translation, and executive support between Russia and Africa.",
+  "ctaText": "Explore Services",
+  "path": "/concierge",
+  "categoryI18n": {
+    "en": "PREMIUM SERVICES",
+    "fr": "SERVICES HAUT DE GAMME",
+    "ru": "ПРЕМИУМ УСЛУГИ"
+  },
+  "headlineI18n": {
+    "en": "Professional Support Beyond Borders",
+    "fr": "Assistance professionnelle au-delà des frontières",
+    "ru": "Профессиональная поддержка за пределами границ"
+  },
+  "descriptionI18n": {
+    "en": "Providing travel assistance, translation, and executive support between Russia and Africa.",
+    "fr": "Fournir une assistance aux voyages, des traductions et un soutien exécutif entre la Russie et l'Afrique.",
+    "ru": "Оказание помощи в поездках, переводе и исполнительной поддержке между Россией и Африкой."
+  },
+  "ctaTextI18n": {
+    "en": "Explore Services",
+    "fr": "Explorer les services",
+    "ru": "Изучите услуги"
+  },
+  "order": 6
+}

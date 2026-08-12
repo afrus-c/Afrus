@@ -1,0 +1,61 @@
+{
+  "id": "mipt",
+  "name": "Moscow Institute of Physics and Technology (MIPT)",
+  "city": "Moscow Region",
+  "ranking": "Top Russian Physics & Quantum Tech Institute",
+  "programs": [
+    "Aerospace Engineering",
+    "Applied Physics",
+    "Deep Learning & AI",
+    "Biomedical Engineering"
+  ],
+  "tuitionRange": "$4,000 – $6,000 / year",
+  "scholarshipsAvailable": true,
+  "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+  "description": "Famous as \"Phystech\", producing Nobel laureates, tech founders, and top scientists in quantum physics and aerospace.",
+  "nameI18n": {
+    "en": "Moscow Institute of Physics and Technology (MIPT)",
+    "fr": "Institut de physique et de technologie de Moscou (MIPT)",
+    "ru": "Московский физико-технический институт (МФТИ)"
+  },
+  "cityI18n": {
+    "en": "Moscow Region",
+    "fr": "Région de Moscou",
+    "ru": "Московская область"
+  },
+  "rankingI18n": {
+    "en": "Top Russian Physics & Quantum Tech Institute",
+    "fr": "Meilleur institut russe de physique et de technologie quantique",
+    "ru": "Ведущий российский институт физики и квантовых технологий"
+  },
+  "programsI18n": {
+    "en": [
+      "Aerospace Engineering",
+      "Applied Physics",
+      "Deep Learning & AI",
+      "Biomedical Engineering"
+    ],
+    "fr": [
+      "Génie aérospatial",
+      "Physique appliquée",
+      "Apprentissage profond et IA",
+      "Génie biomédical"
+    ],
+    "ru": [
+      "Аэрокосмическая техника",
+      "Прикладная физика",
+      "Глубокое обучение и искусственный интеллект",
+      "Биомедицинская инженерия"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$4,000 – $6,000 / year",
+    "fr": "4 000 $ – 6 000 $/an",
+    "ru": "4000–6000 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "Famous as \"Phystech\", producing Nobel laureates, tech founders, and top scientists in quantum physics and aerospace.",
+    "fr": "Célèbre sous le nom de « Phystech », elle a formé des lauréats du prix Nobel, des fondateurs d’entreprises technologiques et des scientifiques majeurs en physique quantique et aérospatiale.",
+    "ru": "Знаменитый Физтех, воспитавший нобелевских лауреатов, основателей технологических компаний и ведущих учёных в области квантовой физики и аэрокосмических технологий."
+  }
+}

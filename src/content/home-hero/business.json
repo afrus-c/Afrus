@@ -1,0 +1,30 @@
+{
+  "id": "business",
+  "image": "/uploads/home-hero/hero_russia_africa_bridge_1785919860735.jpg",
+  "category": "BUSINESS EXPANSION",
+  "headline": "Building Bridges Between Markets",
+  "description": "Helping companies, investors, and entrepreneurs discover opportunities across Russia and Africa.",
+  "ctaText": "Explore Business",
+  "path": "/business-in-russia",
+  "categoryI18n": {
+    "en": "BUSINESS EXPANSION",
+    "fr": "EXPANSION DES AFFAIRES",
+    "ru": "РАСШИРЕНИЕ БИЗНЕСА"
+  },
+  "headlineI18n": {
+    "en": "Building Bridges Between Markets",
+    "fr": "Construire des ponts entre les marchés",
+    "ru": "Наведение мостов между рынками"
+  },
+  "descriptionI18n": {
+    "en": "Helping companies, investors, and entrepreneurs discover opportunities across Russia and Africa.",
+    "fr": "Aider les entreprises, les investisseurs et les entrepreneurs à découvrir des opportunités en Russie et en Afrique.",
+    "ru": "Помогаем компаниям, инвесторам и предпринимателям открывать возможности в России и Африке."
+  },
+  "ctaTextI18n": {
+    "en": "Explore Business",
+    "fr": "Explorer les affaires",
+    "ru": "Изучите бизнес"
+  },
+  "order": 4
+}

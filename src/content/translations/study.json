@@ -1,0 +1,48 @@
+{
+  "namespace": "study",
+  "adminLabelFr": "Études — textes généraux",
+  "entries": [
+    {
+      "key": "study.badge",
+      "en": "STATE SCHOLARSHIPS & DIRECT ADMISSIONS",
+      "fr": "BOURSES D'ÉTAT & ADMISSIONS DIRECTES",
+      "ru": "ГОСУДАРСТВЕННЫЕ КВОТЫ И ПРЯМОЕ ПОСТУПЛЕНИЕ"
+    },
+    {
+      "key": "study.title",
+      "en": "Study at Top Russian State Universities",
+      "fr": "Étudiez dans les Meilleures Universités d'État Russes",
+      "ru": "Обучение в Ведущих Государственных Университетах России"
+    },
+    {
+      "key": "study.subtitle",
+      "en": "Full degree programs in Medicine, Engineering, IT, Aviation, and International Relations with official state quota assistance.",
+      "fr": "Programmes complets en Médecine, Ingénierie, Informatique, Aviation et Relations Internationales avec assistance pour le quota d'État.",
+      "ru": "Полный цикл программ обучения: Медицина, Инженерия, IT, Авиация и Международные Отношения с визовой и квотной поддержкой."
+    },
+    {
+      "key": "study.preparatory_faculty",
+      "en": "Preparatory Language Faculty",
+      "fr": "Faculté Préparatoire de Langue",
+      "ru": "Подготовительный Факультет"
+    },
+    {
+      "key": "study.medical_degrees",
+      "en": "Medical & Healthcare Degrees",
+      "fr": "Diplômes Médicaux & Santé",
+      "ru": "Медицинские Специальности"
+    },
+    {
+      "key": "study.engineering_tech",
+      "en": "Engineering & Technology",
+      "fr": "Ingénierie & Technologie",
+      "ru": "Инженерия и Технологии"
+    },
+    {
+      "key": "study.humanities_law",
+      "en": "Humanities, Economics & Law",
+      "fr": "Sciences Humaines, Économie & Droit",
+      "ru": "Гуманитарные Науки и Право"
+    }
+  ]
+}

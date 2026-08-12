@@ -1,0 +1,47 @@
+{
+  "id": "b2b-matching",
+  "title": "Tailored B2B Matchmaking & Delegation Visits",
+  "description": "Curated itinerary planning for corporate delegations, setting up private meetings with ministry officials, chamber presidents, and industry leaders.",
+  "features": [
+    "Targeted Partner Vetting",
+    "Private Meeting Venues",
+    "Market Intelligence Reports",
+    "Post-Visit Follow-Up"
+  ],
+  "icon": "Handshake",
+  "titleI18n": {
+    "en": "Tailored B2B Matchmaking & Delegation Visits",
+    "fr": "Mise en relation B2B et visites de délégations sur mesure",
+    "ru": "Индивидуальный B2B-подбор партнёров и визиты делегаций"
+  },
+  "descriptionI18n": {
+    "en": "Curated itinerary planning for corporate delegations, including private meetings with ministry officials, chamber presidents, and industry leaders.",
+    "fr": "Planification d’itinéraires pour les délégations d’entreprise et organisation de réunions privées avec des responsables ministériels, présidents de chambres et dirigeants sectoriels.",
+    "ru": "Подготовка маршрутов корпоративных делегаций и организация закрытых встреч с представителями министерств, главами торговых палат и руководителями отрасли."
+  },
+  "featuresI18n": {
+    "en": [
+      "Targeted Partner Vetting",
+      "Private Meeting Venues",
+      "Market Intelligence Reports",
+      "Post-Visit Follow-Up"
+    ],
+    "fr": [
+      "Vérification ciblée des partenaires",
+      "Lieux de réunion privés",
+      "Rapports de veille commerciale",
+      "Suivi après la visite"
+    ],
+    "ru": [
+      "Целевая проверка партнёров",
+      "Закрытые площадки для встреч",
+      "Отчёты по рыночной аналитике",
+      "Сопровождение после визита"
+    ]
+  },
+  "highlightI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  }
+}

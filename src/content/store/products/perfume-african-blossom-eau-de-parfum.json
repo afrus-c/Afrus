@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-african-blossom-eau-de-parfum",
+    "title":  "African Blossom Eau de Parfum",
+    "category":  "Perfume",
+    "subcategory":  "Women\u0027s Fragrances",
+    "priceUsd": 76,
+    "priceRub": 6992,
+    "origin":  "Antananarivo, Madagascar",
+    "description":  "An elegant women\u0027s fragrance inspired by floral notes and African botanical beauty, designed for everyday wear, celebrations, and special occasions.",
+    "image":  "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Botanical Floral",
+    "brand":  "Madagascar Botanicals",
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "African Blossom Eau de Parfum",
+                      "fr":  "Eau de Parfum Fleur Africaine",
+                      "ru":  "Парфюмерная Вода Африканский Цветок"
+                  },
+    "descriptionI18n":  {
+                            "en":  "An elegant women\u0027s fragrance inspired by floral notes and African botanical beauty, designed for everyday wear, celebrations, and special occasions.",
+                            "fr":  "Bouquet floral frais à base de jasmin d\u0027Égypte et de fleur d\u0027oranger.",
+                            "ru":  "Свежий цветочный букет с египетским жасмином и флердоранжем."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--women-s-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Ботанический Цветочный",
+                      "en":  "Botanical Floral",
+                      "fr":  "Botanique Floral"
+                  }
+}

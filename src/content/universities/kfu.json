@@ -1,0 +1,61 @@
+{
+  "id": "kfu",
+  "name": "Kazan Federal University (KFU)",
+  "city": "Kazan",
+  "ranking": "Top Federal University",
+  "programs": [
+    "General Medicine (MBBS in English)",
+    "Petroleum Engineering",
+    "Biotechnology",
+    "Linguistics"
+  ],
+  "tuitionRange": "$2,800 – $4,500 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/uni_kazan_federal_1785953000000_1785952840169.jpg",
+  "description": "Situated in the vibrant cultural capital Kazan, offering world-recognized medical and engineering degrees fully taught in English.",
+  "nameI18n": {
+    "en": "Kazan Federal University (KFU)",
+    "fr": "Université fédérale de Kazan (KFU)",
+    "ru": "Казанский федеральный университет (КФУ)"
+  },
+  "cityI18n": {
+    "en": "Kazan",
+    "fr": "Kazan",
+    "ru": "Казань"
+  },
+  "rankingI18n": {
+    "en": "Top Federal University",
+    "fr": "Meilleure université fédérale",
+    "ru": "Лучший федеральный университет"
+  },
+  "programsI18n": {
+    "en": [
+      "General Medicine (MBBS in English)",
+      "Petroleum Engineering",
+      "Biotechnology",
+      "Linguistics"
+    ],
+    "fr": [
+      "Médecine générale (MBBS en anglais)",
+      "Génie Pétrolier",
+      "Biotechnologie",
+      "Linguistique"
+    ],
+    "ru": [
+      "Общая медицина (MBBS на английском языке)",
+      "Нефтяное машиностроение",
+      "Биотехнология",
+      "Лингвистика"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$2,800 – $4,500 / year",
+    "fr": "2 800 $ – 4 500 $/an",
+    "ru": "2800–4500 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "Situated in the vibrant cultural capital Kazan, offering world-recognized medical and engineering degrees fully taught in English.",
+    "fr": "Située dans la dynamique capitale culturelle de Kazan, cette université propose des diplômes de médecine et d’ingénierie reconnus mondialement et entièrement enseignés en anglais.",
+    "ru": "Расположенный в динамичной культурной столице Казани университет предлагает признанные во всём мире программы медицины и инженерии, полностью преподаваемые на английском языке."
+  }
+}

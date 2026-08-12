@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-african-wood-eau-de-parfum",
+    "title":  "African Wood Eau de Parfum",
+    "category":  "Perfume",
+    "subcategory":  "Men\u0027s Fragrances",
+    "priceUsd": 82,
+    "priceRub": 7544,
+    "origin":  "Cairo, Egypt",
+    "description":  "A sophisticated fragrance inspired by warm African woods, featuring a rich and refined character suitable for everyday wear and special occasions.",
+    "image":  "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Woody Notes",
+    "brand":  "Nile Perfumery",
+    "inventoryCount":  30,
+    "titleI18n":  {
+                      "en":  "African Wood Eau de Parfum",
+                      "fr":  "Eau de Parfum Bois Africain",
+                      "ru":  "Парфюмерная Вода Древесина Африки"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A sophisticated fragrance inspired by warm African woods, featuring a rich and refined character suitable for everyday wear and special occasions.",
+                            "fr":  "Notes boisées riches de bois de santal, cèdre et résine d\u0027ambre chaleureuse.",
+                            "ru":  "Богатый древесный аромат с нотами сандала, кедра и амбры."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--men-s-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Древесные ноты",
+                      "en":  "Woody Notes",
+                      "fr":  "Notes boisées"
+                  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AFRUS",
+  "description": "Connecting Russia and Africa through Trade, Education, Business, Tourism, Culture, Events, and Concierge Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

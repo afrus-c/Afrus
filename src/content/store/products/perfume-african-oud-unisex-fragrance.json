@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-african-oud-unisex-fragrance",
+    "title":  "African Oud Unisex Fragrance",
+    "category":  "Perfume",
+    "subcategory":  "Unisex Fragrances",
+    "priceUsd": 85,
+    "priceRub": 7820,
+    "origin":  "Cairo, Egypt",
+    "description":  "A sophisticated unisex fragrance inspired by rich woods and aromatic notes, designed for both everyday wear and evening occasions.",
+    "image":  "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  5,
+    "badge":  "Unisex Oud",
+    "brand":  "Nile Oud Perfumes",
+    "inventoryCount":  25,
+    "titleI18n":  {
+                      "en":  "African Oud Unisex Fragrance",
+                      "fr":  "Parfum Unisex Oud Africain",
+                      "ru":  "Унисекс Парфюм Африканский Уд"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A sophisticated unisex fragrance inspired by rich woods and aromatic notes, designed for both everyday wear and evening occasions.",
+                            "fr":  "Parfum royal au bois d\u0027agar unisexe aux notes d\u0027encens et de cuir.",
+                            "ru":  "Королевский агаровый аромат с ладаном и кожаными аккордами."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--unisex-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Унисекс Уд",
+                      "en":  "Unisex Oud",
+                      "fr":  "Oud unisexe"
+                  }
+}

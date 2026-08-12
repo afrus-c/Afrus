@@ -1,0 +1,34 @@
+{
+    "id":  "souvenir-handmade-african-art-bowl",
+    "title":  "Handmade African Art Bowl",
+    "category":  "Souvenirs",
+    "subcategory":  "African Art",
+    "priceUsd": 42,
+    "priceRub": 3864,
+    "origin":  "Johannesburg, South Africa",
+    "description":  "A handcrafted decorative bowl inspired by African artistic design, featuring distinctive patterns and natural-looking materials. Suitable for display, gifting, and interior decoration.",
+    "image":  "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Art Bowl",
+    "brand":  "Ubuntu Art Crafts",
+    "inventoryCount":  25,
+    "titleI18n":  {
+                      "en":  "Handmade African Art Bowl",
+                      "fr":  "Bol d\u0027Art Décoratif Fait Main",
+                      "ru":  "Декоративная Плетеная Чаша"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A handcrafted decorative bowl inspired by African artistic design, featuring distinctive patterns and natural-looking materials. Suitable for display, gifting, and interior decoration.",
+                            "fr":  "Bol décoratif en sisal et raphia tressés aux motifs géométriques.",
+                            "ru":  "Плетеное чашеобразное панно из сизаля и рафии."
+                        },
+    "categoryId":  "souvenirs",
+    "subcategoryId":  "souvenirs--african-art",
+    "badgeI18n":  {
+                      "ru":  "Арт Боул",
+                      "en":  "Art Bowl",
+                      "fr":  "Bol d\u0027art"
+                  }
+}

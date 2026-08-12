@@ -1,0 +1,258 @@
+{
+  "namespace": "aboutPage",
+  "adminLabelFr": "Page À propos",
+  "entries": [
+    {
+      "key": "aboutPage.statsSection.text_001",
+      "en": "Countries Connected",
+      "fr": "Pays Connectés",
+      "ru": "Связанные Страны"
+    },
+    {
+      "key": "aboutPage.statsSection.text_002",
+      "en": "African Nations & All 89 Russian Regions",
+      "fr": "Nations Africaines & 89 Régions Russes",
+      "ru": "Страны Африки и 89 Регионов РФ"
+    },
+    {
+      "key": "aboutPage.statsSection.text_003",
+      "en": "Students Assisted",
+      "fr": "Étudiants Accompagnés",
+      "ru": "Студентов Принято"
+    },
+    {
+      "key": "aboutPage.statsSection.text_004",
+      "en": "Admitted with State Scholarships & Visas",
+      "fr": "Admis avec Bourses d'État & Visas",
+      "ru": "Зачислено по Квотам и Визам"
+    },
+    {
+      "key": "aboutPage.statsSection.text_005",
+      "en": "Bilateral Trade Volume",
+      "fr": "Volume du Commerce Bilatéral",
+      "ru": "Объем Торговли"
+    },
+    {
+      "key": "aboutPage.statsSection.text_006",
+      "en": "Cross-Border Agreements & B2B Contracts",
+      "fr": "Accords Transfrontaliers & Contrats B2B",
+      "ru": "Трансграничные Соглашения и B2B"
+    },
+    {
+      "key": "aboutPage.statsSection.text_007",
+      "en": "Events & Forums Organized",
+      "fr": "Événements & Forums Organisés",
+      "ru": "Форумов Организовано"
+    },
+    {
+      "key": "aboutPage.statsSection.text_008",
+      "en": "Diplomatic Summits, Expos & Cultural Festivals",
+      "fr": "Sommets Diplomatiques, Salons & Festivals",
+      "ru": "Дипломатические Саммиты и Выставки"
+    },
+    {
+      "key": "aboutPage.testimonials.goTo",
+      "en": "Go to testimonial",
+      "fr": "Accéder au témoignage",
+      "ru": "Перейти к отзыву"
+    },
+    {
+      "key": "aboutPage.testimonials.previous",
+      "en": "Previous Testimonial",
+      "fr": "Témoignage précédent",
+      "ru": "Предыдущий отзыв"
+    },
+    {
+      "key": "aboutPage.testimonials.next",
+      "en": "Next Testimonial",
+      "fr": "Témoignage suivant",
+      "ru": "Следующий отзыв"
+    },
+    {
+      "key": "aboutPage.testimonials.text_001",
+      "en": "Success Stories",
+      "fr": "Témoignages de Succès",
+      "ru": "Истории Успеха"
+    },
+    {
+      "key": "aboutPage.testimonials.text_002",
+      "en": "Trusted by Leaders & Students Across Continents",
+      "fr": "Reconnu par les Dirigeants & Étudiants des Deux Continents",
+      "ru": "Доверие Лидеров и Студентов на Двух Континентах"
+    },
+    {
+      "key": "aboutPage.testimonials.text_003",
+      "en": "Hear from medical graduates, corporate export directors, and gourmet business founders who achieved their bilateral goals with AFRUS.",
+      "fr": "Découvrez les témoignages de diplômés en médecine, directeurs d’exportation et entrepreneurs ayant concrétisé leurs projets avec AFRUS.",
+      "ru": "Отзывы выпускников вузов, директоров по экспортной логистике и основателей бизнеса, достигших целей с AFRUS."
+    },
+    {
+      "key": "aboutPage.testimonials.text_004",
+      "en": "Location:",
+      "fr": "Lieu :",
+      "ru": "Локация:"
+    },
+    {
+      "key": "aboutPage.partnersMarquee.text_001",
+      "en": "Trusted Institutional & Diplomatic Network",
+      "fr": "Réseau Institutionnel & Diplomatique de Confiance",
+      "ru": "Надежная Институциональная и Дипломатическая Сеть"
+    },
+    {
+      "key": "aboutPage.about.missionTitle",
+      "en": "Our Mission",
+      "fr": "Notre mission",
+      "ru": "Наша миссия"
+    },
+    {
+      "key": "aboutPage.about.missionText",
+      "en": "To build transparent, high-efficiency channels that streamline cross-border trade, empower African youth through world-class Russian university education, and foster sustainable economic alliances between enterprises across both continents.",
+      "fr": "Créer des canaux transparents et performants qui fluidifient le commerce transfrontalier, donnent aux jeunes Africains accès à un enseignement universitaire russe de classe mondiale et favorisent des alliances économiques durables entre les entreprises des deux continents.",
+      "ru": "Создавать прозрачные и эффективные каналы, упрощающие трансграничную торговлю, расширять возможности африканской молодёжи благодаря высококлассному российскому университетскому образованию и формировать устойчивые экономические союзы между компаниями двух континентов."
+    },
+    {
+      "key": "aboutPage.about.visionTitle",
+      "en": "Our Vision",
+      "fr": "Notre vision",
+      "ru": "Наше видение"
+    },
+    {
+      "key": "aboutPage.about.visionText",
+      "en": "To be recognized globally as the most trusted institutional platform connecting Russia with all 54 African nations — unlocking multi-billion dollar trade corridors, cultural synergy, and diplomatic excellence.",
+      "fr": "Être reconnue mondialement comme la plateforme institutionnelle la plus fiable reliant la Russie aux 54 pays africains, en ouvrant des corridors commerciaux de plusieurs milliards de dollars et en favorisant la synergie culturelle et l’excellence diplomatique.",
+      "ru": "Стать признанной во всём мире наиболее надёжной институциональной платформой, связывающей Россию со всеми 54 странами Африки и открывающей многомиллиардные торговые коридоры, культурную синергию и дипломатическое превосходство."
+    },
+    {
+      "key": "aboutPage.hero.badge",
+      "en": "DIPLOMATIC & ECONOMIC BRIDGE",
+      "fr": "PASSERELLE DIPLOMATIQUE ET ÉCONOMIQUE",
+      "ru": "ДИПЛОМАТИЧЕСКИЙ И ЭКОНОМИЧЕСКИЙ МОСТ"
+    },
+    {
+      "key": "aboutPage.hero.title",
+      "en": "Connecting Russia and Africa",
+      "fr": "Relier la Russie et l’Afrique",
+      "ru": "Объединяя Россию и Африку"
+    },
+    {
+      "key": "aboutPage.hero.accent",
+      "en": "Through Strategic Cooperation",
+      "fr": "Par la coopération stratégique",
+      "ru": "Посредством стратегического сотрудничества"
+    },
+    {
+      "key": "aboutPage.hero.subtitle",
+      "en": "AFRUS serves as the premier bilateral gateway facilitating international trade, university scholarship access, corporate expansion, cultural diplomacy, and VIP executive services.",
+      "fr": "AFRUS est la principale passerelle bilatérale facilitant le commerce international, l’accès aux bourses universitaires, l’expansion des entreprises, la diplomatie culturelle et les services exécutifs VIP.",
+      "ru": "AFRUS служит ведущей двусторонней платформой для международной торговли, доступа к университетским стипендиям, корпоративного развития, культурной дипломатии и VIP-обслуживания руководителей."
+    },
+    {
+      "key": "aboutPage.hero.partner",
+      "en": "Partner With AFRUS",
+      "fr": "Devenir partenaire d’AFRUS",
+      "ru": "Стать партнёром AFRUS"
+    },
+    {
+      "key": "aboutPage.hero.explore",
+      "en": "Explore Mission & Vision",
+      "fr": "Découvrir notre mission et notre vision",
+      "ru": "Изучить миссию и видение"
+    },
+    {
+      "key": "aboutPage.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "aboutPage.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "aboutPage.hero.slideLabel",
+      "en": "Slide",
+      "fr": "Diapositive",
+      "ru": "Слайд"
+    },
+    {
+      "key": "aboutPage.hero.inquirySubject",
+      "en": "About AFRUS Partnership",
+      "fr": "Partenariat avec AFRUS",
+      "ru": "Партнёрство с AFRUS"
+    },
+    {
+      "key": "aboutPage.hero.slides.executive.tag",
+      "en": "Bilateral Corporate Strategy",
+      "fr": "Stratégie d’entreprise bilatérale",
+      "ru": "Двусторонняя корпоративная стратегия"
+    },
+    {
+      "key": "aboutPage.hero.slides.executive.caption",
+      "en": "Intergovernmental Alignment, Institutional Governance & Multi-Sector Alliances",
+      "fr": "Alignement intergouvernemental, gouvernance institutionnelle et alliances multisectorielles",
+      "ru": "Межправительственная координация, институциональное управление и межотраслевые союзы"
+    },
+    {
+      "key": "aboutPage.hero.slides.summit.tag",
+      "en": "Eurasia–Africa Summitry",
+      "fr": "Sommets Eurasie–Afrique",
+      "ru": "Саммиты Евразия–Африка"
+    },
+    {
+      "key": "aboutPage.hero.slides.summit.caption",
+      "en": "Ministerial Delegations, High-Level Policy Forums & Trade Corridors",
+      "fr": "Délégations ministérielles, forums politiques de haut niveau et corridors commerciaux",
+      "ru": "Министерские делегации, политические форумы высокого уровня и торговые коридоры"
+    },
+    {
+      "key": "aboutPage.hero.slides.headquarters.tag",
+      "en": "Moscow & Regional Headquarters",
+      "fr": "Siège à Moscou et bureaux régionaux",
+      "ru": "Московский и региональные офисы"
+    },
+    {
+      "key": "aboutPage.hero.slides.headquarters.caption",
+      "en": "Operational Intelligence & Cross-Border Advisory Infrastructure",
+      "fr": "Intelligence opérationnelle et infrastructure de conseil transfrontalier",
+      "ru": "Операционная аналитика и инфраструктура трансграничного консультирования"
+    },
+    {
+      "key": "aboutPage.hero.slides.leadership.tag",
+      "en": "Executive Leadership & Mentorship",
+      "fr": "Leadership exécutif et mentorat",
+      "ru": "Лидерство и наставничество руководителей"
+    },
+    {
+      "key": "aboutPage.hero.slides.leadership.caption",
+      "en": "Senior Economic Advisors, Trade Legal Counsel & Cultural Liaisons",
+      "fr": "Conseillers économiques expérimentés, juristes du commerce et agents de liaison culturelle",
+      "ru": "Старшие экономические советники, юристы по торговому праву и специалисты по культурным связям"
+    },
+    {
+      "key": "aboutPage.hero.chips.mission",
+      "en": "Strategic Mission",
+      "fr": "Mission stratégique",
+      "ru": "Стратегическая миссия"
+    },
+    {
+      "key": "aboutPage.hero.chips.bridge",
+      "en": "Why AFRUS Bridge",
+      "fr": "Pourquoi la passerelle AFRUS",
+      "ru": "Преимущества моста AFRUS"
+    },
+    {
+      "key": "aboutPage.hero.chips.impact",
+      "en": "Institutional Impact",
+      "fr": "Impact institutionnel",
+      "ru": "Институциональное влияние"
+    },
+    {
+      "key": "aboutPage.hero.chips.alliances",
+      "en": "Enterprise Alliances",
+      "fr": "Alliances d’entreprises",
+      "ru": "Корпоративные союзы"
+    }
+  ]
+}

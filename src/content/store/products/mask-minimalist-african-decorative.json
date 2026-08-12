@@ -1,0 +1,34 @@
+{
+    "id":  "mask-minimalist-african-decorative",
+    "title":  "Minimalist African Decorative Mask",
+    "category":  "Masks",
+    "subcategory":  "Decorative Masks",
+    "priceUsd": 80,
+    "priceRub": 7360,
+    "origin":  "Nairobi, Kenya",
+    "description":  "A contemporary decorative mask inspired by African artistic traditions, combining traditional-inspired shapes with a clean modern aesthetic.",
+    "image":  "/uploads/store/mask_minimalist_decorative_1786180650757.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Modern Decor",
+    "brand":  "Savannah Designs",
+    "inventoryCount":  20,
+    "titleI18n":  {
+                      "en":  "Minimalist African Decorative Mask",
+                      "fr":  "Masque Décoratif Minimaliste",
+                      "ru":  "Минималистичная Декоративная Маска"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A contemporary decorative mask inspired by African artistic traditions, combining traditional-inspired shapes with a clean modern aesthetic.",
+                            "fr":  "Masque sculpté africain contemporain élégant avec finition en bois naturel.",
+                            "ru":  "Современная резная маска с натуральной текстурой дерева."
+                        },
+    "categoryId":  "masks",
+    "subcategoryId":  "masks--decorative-masks",
+    "badgeI18n":  {
+                      "ru":  "Современный Декор",
+                      "en":  "Modern Decor",
+                      "fr":  "Décor moderne"
+                  }
+}

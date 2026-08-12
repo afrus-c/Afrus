@@ -1,0 +1,11 @@
+{
+  "name": "Kazan Federal University",
+  "logoText": "KFU ACADEMY",
+  "id": "kazan-federal-university",
+  "nameI18n": {
+    "en": "Kazan Federal University",
+    "fr": "Université fédérale de Kazan",
+    "ru": "Казанский федеральный университет"
+  },
+  "order": 7
+}

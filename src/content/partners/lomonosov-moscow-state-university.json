@@ -1,0 +1,11 @@
+{
+  "name": "Lomonosov Moscow State University",
+  "logoText": "MSU 1755",
+  "id": "lomonosov-moscow-state-university",
+  "nameI18n": {
+    "en": "Lomonosov Moscow State University",
+    "fr": "Université d'État Lomonossov de Moscou",
+    "ru": "Московский государственный университет имени Ломоносова"
+  },
+  "order": 3
+}

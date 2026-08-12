@@ -1,0 +1,41 @@
+{
+    "badge":  "African Leather",
+    "origin":  "Casablanca, Morocco",
+    "brand":  "Atlas Leathercraft",
+    "availableSizes":  [
+                           "32",
+                           "34",
+                           "36",
+                           "38",
+                           "40"
+                       ],
+    "availabilityStatus":  "In Stock",
+    "inStock":  true,
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "African Leather Belt",
+                      "fr":  "Ceinture Africaine en Cuir Homme",
+                      "ru":  "Мужской Кожаный Африканский Ремень"
+                  },
+    "title":  "African Leather Belt",
+    "subcategoryId":  "accessories--men-s-accessories",
+    "categoryId":  "accessories",
+    "descriptionI18n":  {
+                            "en":  "A stylish men\u0027s leather belt featuring a clean contemporary design with subtle African-inspired details. Suitable for everyday outfits, casual wear, and formal occasions.",
+                            "fr":  "Ceinture en cuir véritable aux détails de motifs tribaux cousus main.",
+                            "ru":  "Ремень из натуральной кожи с ручной вышивкой узоров."
+                        },
+    "id":  "accessory-african-leather-belt",
+    "image":  "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "description":  "A stylish men\u0027s leather belt featuring a clean contemporary design with subtle African-inspired details. Suitable for everyday outfits, casual wear, and formal occasions.",
+    "rating":  4.8,
+    "priceUsd": 55,
+    "priceRub": 5060,
+    "category":  "Accessories",
+    "subcategory":  "Men\u0027s Accessories",
+    "badgeI18n":  {
+                      "ru":  "Африканская кожа",
+                      "en":  "African Leather",
+                      "fr":  "Cuir Africain"
+                  }
+}

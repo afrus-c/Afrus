@@ -1,0 +1,10 @@
+{
+  "id": "clothing--men",
+  "categoryId": "clothing",
+  "name": "Men",
+  "nameI18n": {
+    "en": "Men",
+    "fr": "Hommes",
+    "ru": "Мужчинам"
+  }
+}

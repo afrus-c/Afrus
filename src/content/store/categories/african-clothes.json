@@ -1,0 +1,13 @@
+{
+  "id": "african-clothes",
+  "name": "African Clothes",
+  "description": "Traditional African kaftans, Agbada wear, Ankara print dresses, and Kente apparel.",
+  "image": "https://images.unsplash.com/photo-1523824921871-d6f1a15151f1?auto=format&fit=crop&w=800&q=80",
+  "icon": "👘",
+  "itemCount": 6,
+  "nameI18n": {
+    "en": "African Clothes",
+    "fr": "Vêtements Africains",
+    "ru": "Африканская Одежда"
+  }
+}

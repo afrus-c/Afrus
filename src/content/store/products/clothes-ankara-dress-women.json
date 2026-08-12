@@ -1,0 +1,41 @@
+{
+    "id":  "clothes-ankara-dress-women",
+    "title":  "African Ankara Print Dress",
+    "category":  "African Clothes",
+    "subcategory":  "Women\u0027s African Wear",
+    "priceUsd": 95,
+    "priceRub": 8740,
+    "origin":  "Accra, Ghana",
+    "description":  "A stylish women\u0027s dress featuring colorful Ankara-inspired patterns and a contemporary silhouette. Perfect for celebrations, cultural events, special occasions, or everyday fashion.",
+    "image":  "/uploads/store/african_ankara_dress_1786178467168.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Wax Print",
+    "brand":  "GTP Fashion Ghana",
+    "availableSizes":  [
+                           "XS",
+                           "S",
+                           "M",
+                           "L",
+                           "XL"
+                       ],
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "African Ankara Print Dress",
+                      "fr":  "Robe Ankara Africaine Femme",
+                      "ru":  "Женское Платье Анкара"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A stylish women\u0027s dress featuring colorful Ankara-inspired patterns and a contemporary silhouette. Perfect for celebrations, cultural events, special occasions, or everyday fashion.",
+                            "fr":  "Robe ajustée élégante en tissu wax africain aux motifs géométriques vibrants.",
+                            "ru":  "Элегантное приталенное африканское платье с яркими орнаментами."
+                        },
+    "categoryId":  "african-clothes",
+    "subcategoryId":  "african-clothes--women-s-african-wear",
+    "badgeI18n":  {
+                      "ru":  "Восковая печать",
+                      "en":  "Wax Print",
+                      "fr":  "Impression de cire"
+                  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "itmo",
+  "name": "ITMO University",
+  "city": "St. Petersburg",
+  "ranking": "#1 Computer Science (7x ACM Champions)",
+  "programs": [
+    "Cybersecurity",
+    "Photonics & Quantum Computing",
+    "AI Systems",
+    "Software Engineering"
+  ],
+  "tuitionRange": "$3,200 – $5,100 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/uni_itmo_petersburg_1785952559343.jpg",
+  "description": "The global leader in competitive programming, robotics, optics, and artificial intelligence, attracting elite tech minds worldwide.",
+  "nameI18n": {
+    "en": "ITMO University",
+    "fr": "Université ITMO",
+    "ru": "Университет ИТМО"
+  },
+  "cityI18n": {
+    "en": "St. Petersburg",
+    "fr": "Saint-Pétersbourg",
+    "ru": "Санкт-Петербург"
+  },
+  "rankingI18n": {
+    "en": "#1 Computer Science (7x ACM Champions)",
+    "fr": "#1 en informatique (7x champions ACM)",
+    "ru": "Информатика №1 (7 чемпионов ACM)"
+  },
+  "programsI18n": {
+    "en": [
+      "Cybersecurity",
+      "Photonics & Quantum Computing",
+      "AI Systems",
+      "Software Engineering"
+    ],
+    "fr": [
+      "Cybersécurité",
+      "Photonique et informatique quantique",
+      "Systèmes d'IA",
+      "Génie logiciel"
+    ],
+    "ru": [
+      "Кибербезопасность",
+      "Фотоника и квантовые вычисления",
+      "Системы искусственного интеллекта",
+      "Программная инженерия"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$3,200 – $5,100 / year",
+    "fr": "3 200 $ – 5 100 $/an",
+    "ru": "3200–5100 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "The global leader in competitive programming, robotics, optics, and artificial intelligence, attracting elite tech minds worldwide.",
+    "fr": "Leader mondial de la programmation compétitive, de la robotique, de l’optique et de l’intelligence artificielle, attirant les meilleurs talents technologiques du monde.",
+    "ru": "Мировой лидер в спортивном программировании, робототехнике, оптике и искусственном интеллекте, привлекающий лучшие технологические таланты со всего мира."
+  }
+}

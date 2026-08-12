@@ -1,0 +1,444 @@
+{
+  "namespace": "studyPage",
+  "adminLabelFr": "Page Étudier en Russie",
+  "entries": [
+    {
+      "key": "studyPage.content.text_001",
+      "en": "Scholarship / University Selection",
+      "fr": "Choix de la Bourse & Université",
+      "ru": "Выбор Вуза и Специальности"
+    },
+    {
+      "key": "studyPage.content.text_002",
+      "en": "Choose your desired field of study (Medicine, IT, Engineering, Economics) and submit academic transcripts.",
+      "fr": "Choisissez votre domaine d'études (Médecine, IT, Ingénierie, Économie) et soumettez vos relevés de notes.",
+      "ru": "Выберите направление обучения (Медицина, IT, Инженерия, Экономика) и подайте документы."
+    },
+    {
+      "key": "studyPage.content.text_003",
+      "en": "Official State Invitation",
+      "fr": "Invitation Officielle d'État",
+      "ru": "Официальное Приглашение"
+    },
+    {
+      "key": "studyPage.content.text_004",
+      "en": "AFRUS coordinates with the Ministry of Education to issue an official Russian Federation visa invitation letter.",
+      "fr": "AFRUS coordonne avec le Ministère de l'Éducation pour délivrer une lettre d'invitation officielle de visa.",
+      "ru": "AFRUS оформляет официальное визовое приглашение Министерства науки и высшего образования РФ."
+    },
+    {
+      "key": "studyPage.content.text_005",
+      "en": "Consular Visa Application",
+      "fr": "Demande de Visa Consulaire",
+      "ru": "Подача Документов на Визу"
+    },
+    {
+      "key": "studyPage.content.text_006",
+      "en": "Submit passport, medical HIV certificate, and invitation to the nearest Russian Embassy or Consulate in your country.",
+      "fr": "Déposez votre passeport, certificat médical VIH et invitation à l'Ambassade ou Consulat de Russie le plus proche.",
+      "ru": "Подайте паспорт, медицинскую справку и приглашение в ближайшее Посольство РФ."
+    },
+    {
+      "key": "studyPage.content.text_007",
+      "en": "Airport Reception & Housing",
+      "fr": "Accueil à l'Aéroport & Logement",
+      "ru": "Встреча в Аэропорту и Размещение"
+    },
+    {
+      "key": "studyPage.content.text_008",
+      "en": "AFRUS VIP representatives greet you at Moscow/St. Petersburg airport and escort you directly to your university dorm.",
+      "fr": "Les représentants AFRUS vous accueillent à l'aéroport de Moscou/St. Pétersbourg et vous accompagnent à votre résidence.",
+      "ru": "Представители AFRUS встречают вас в аэропорту и сопровождают прямо до студенческого общежития."
+    },
+    {
+      "key": "studyPage.content.text_009",
+      "en": "Academic Excellence & State Scholarships",
+      "fr": "Excellence Académique & Bourses d'État",
+      "ru": "Академическое Превосходство и Блистательные Перспективы"
+    },
+    {
+      "key": "studyPage.content.text_010",
+      "en": "Study in Russia – Premier University Portal",
+      "fr": "Étudier en Russie – Portail des Universités",
+      "ru": "Учеба в России – Главный Портал ВУЗов"
+    },
+    {
+      "key": "studyPage.content.text_011",
+      "en": "Earn globally recognized degrees across 12+ top Russian state universities with full government scholarship options and end-to-end student arrival concierge.",
+      "fr": "Obtenez des diplômes reconnus dans plus de 12 universités d'État russes avec bourses gouvernementales et conciergerie d'arrivée.",
+      "ru": "Дипломы международного образца ведущих ВУЗов РФ с возможностью обучения по квоте правительства."
+    },
+    {
+      "key": "studyPage.content.text_012",
+      "en": "Featured Institution Showcase",
+      "fr": "Université Mise en Avant",
+      "ru": "Главный Университет"
+    },
+    {
+      "key": "studyPage.content.text_013",
+      "en": "of",
+      "fr": "sur",
+      "ru": "из"
+    },
+    {
+      "key": "studyPage.content.text_014",
+      "en": "Tuition:",
+      "fr": "Frais de Scolarité :",
+      "ru": "Оплата:"
+    },
+    {
+      "key": "studyPage.content.text_015",
+      "en": "Full State Scholarship Eligible",
+      "fr": "Éligible Bourse d'État",
+      "ru": "Доступна Государственная Квота"
+    },
+    {
+      "key": "studyPage.content.text_016",
+      "en": "Russian Federation",
+      "fr": "Fédération de Russie",
+      "ru": "Российская Федерация"
+    },
+    {
+      "key": "studyPage.content.text_017",
+      "en": "Top Degree Programs:",
+      "fr": "Principaux Programmes :",
+      "ru": "Основные Программы:"
+    },
+    {
+      "key": "studyPage.content.text_018",
+      "en": "Apply Now",
+      "fr": "Postuler Maintenant",
+      "ru": "Подать Заявку"
+    },
+    {
+      "key": "studyPage.content.text_019",
+      "en": "Full State Institution Directory",
+      "fr": "Annuaire Complet des Établissements d'État",
+      "ru": "Полный Каталог Государственных ВУЗов"
+    },
+    {
+      "key": "studyPage.content.text_020",
+      "en": "Universities Accepting International Students",
+      "fr": "Universités Accueillant des Étudiants Internationaux",
+      "ru": "Университеты, Принимающие Иностранцев"
+    },
+    {
+      "key": "studyPage.content.text_021",
+      "en": "Browse all 12 premier state institutions in Moscow, St. Petersburg, Kazan, Novosibirsk, and regional academic capitals with English & Russian medium degree programs.",
+      "fr": "Parcourez les 12 établissements d'État à Moscou, St. Pétersbourg, Kazan, Novossibirsk avec des programmes en russe et en anglais.",
+      "ru": "Все 12 ведущих государственных ВУЗов в Москве, Санкт-Петербурге, Казани, Новосибирске и регионах."
+    },
+    {
+      "key": "studyPage.content.text_022",
+      "en": "Search university or field...",
+      "fr": "Rechercher université ou domaine...",
+      "ru": "Поиск университета или специальности..."
+    },
+    {
+      "key": "studyPage.content.text_023",
+      "en": "City:",
+      "fr": "Ville :",
+      "ru": "Город:"
+    },
+    {
+      "key": "studyPage.content.text_024",
+      "en": "All",
+      "fr": "Toutes",
+      "ru": "Все"
+    },
+    {
+      "key": "studyPage.content.text_025",
+      "en": "Tuition:",
+      "fr": "Frais de Scolarité :",
+      "ru": "Оплата:"
+    },
+    {
+      "key": "studyPage.content.text_026",
+      "en": "Available Specialties:",
+      "fr": "Spécialités Disponibles :",
+      "ru": "Специальности:"
+    },
+    {
+      "key": "studyPage.content.text_027",
+      "en": "Full State Quota Eligible",
+      "fr": "Éligible Quota d'État",
+      "ru": "Доступна Квота Правительства"
+    },
+    {
+      "key": "studyPage.content.text_028",
+      "en": "Apply for Admission",
+      "fr": "Postuler aux Admissions",
+      "ru": "Подать Документы"
+    },
+    {
+      "key": "studyPage.content.text_029",
+      "en": "No universities found matching",
+      "fr": "Aucune université ne correspond à",
+      "ru": "Университетов не найдено по запросу"
+    },
+    {
+      "key": "studyPage.content.text_030",
+      "en": "Step-by-Step Admission & Visa Journey",
+      "fr": "Parcours d'Admission & Visa Étape par Étape",
+      "ru": "Пошаговый Процесс Поступления и Визы"
+    },
+    {
+      "key": "studyPage.content.text_031",
+      "en": "AFRUS guides you from document translation to your first day in a Russian lecture hall.",
+      "fr": "AFRUS vous accompagne de la traduction de vos documents à votre premier jour d'amphithéâtre.",
+      "ru": "AFRUS сопровождает вас от перевода документов до первого дня занятий в ВУЗе."
+    },
+    {
+      "key": "studyPage.content.text_032",
+      "en": "AFRUS Verified Support",
+      "fr": "Support Vérifié AFRUS",
+      "ru": "Поддержка AFRUS"
+    },
+    {
+      "key": "studyPage.content.text_033",
+      "en": "Book Free Student Consultation Call",
+      "fr": "Réserver une Consultation Gratuite",
+      "ru": "Записаться на Бесплатную Консультацию"
+    },
+    {
+      "key": "studyPage.content.previousUniversity",
+      "en": "Previous University",
+      "fr": "Université précédente",
+      "ru": "Предыдущий университет"
+    },
+    {
+      "key": "studyPage.content.nextUniversity",
+      "en": "Next University",
+      "fr": "Université suivante",
+      "ru": "Следующий университет"
+    },
+    {
+      "key": "studyPage.hero.badge",
+      "en": "Russian Government Scholarships & Universities",
+      "fr": "Bourses du gouvernement russe et universités",
+      "ru": "Российские государственные стипендии и университеты"
+    },
+    {
+      "key": "studyPage.hero.title",
+      "en": "Study at Russia’s Premier",
+      "fr": "Étudiez dans les prestigieuses",
+      "ru": "Учитесь в ведущих"
+    },
+    {
+      "key": "studyPage.hero.accent",
+      "en": "State Universities",
+      "fr": "universités d’État russes",
+      "ru": "государственных университетах России"
+    },
+    {
+      "key": "studyPage.hero.subtitle",
+      "en": "100% full tuition government scholarship quotas, English & Russian taught degree programs in Medicine, Artificial Intelligence, Engineering, and International Relations with full student visa & arrival concierge.",
+      "fr": "Quotas de bourses gouvernementales couvrant 100 % des frais de scolarité, cursus en anglais et en russe en médecine, intelligence artificielle, ingénierie et relations internationales, avec accompagnement complet pour le visa étudiant et l’arrivée.",
+      "ru": "Государственные квоты со 100%-ной оплатой обучения, программы на английском и русском языках по медицине, искусственному интеллекту, инженерии и международным отношениям, а также полное сопровождение студенческой визы и прибытия."
+    },
+    {
+      "key": "studyPage.hero.apply",
+      "en": "Apply for Scholarship Guidance",
+      "fr": "Demander un accompagnement pour une bourse",
+      "ru": "Получить консультацию по стипендии"
+    },
+    {
+      "key": "studyPage.hero.inquiry",
+      "en": "University Admission & Scholarship Consultation",
+      "fr": "Consultation sur l’admission universitaire et les bourses",
+      "ru": "Консультация по поступлению и стипендиям"
+    },
+    {
+      "key": "studyPage.hero.fallbackInquiry",
+      "en": "Study in Russia General Inquiry",
+      "fr": "Demande générale pour étudier en Russie",
+      "ru": "Общий запрос об обучении в России"
+    },
+    {
+      "key": "studyPage.hero.slide",
+      "en": "Slide",
+      "fr": "Diapositive",
+      "ru": "Слайд"
+    },
+    {
+      "key": "studyPage.hero.of",
+      "en": "of",
+      "fr": "sur",
+      "ru": "из"
+    },
+    {
+      "key": "studyPage.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "studyPage.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "studyPage.hero.slides.campuses.tag",
+      "en": "Historic State Universities",
+      "fr": "Universités d’État historiques",
+      "ru": "Исторические государственные университеты"
+    },
+    {
+      "key": "studyPage.hero.slides.campuses.caption",
+      "en": "Majestic Neoclassical Architecture & Modern Research Facilities Across Moscow & St. Petersburg",
+      "fr": "Architecture néoclassique majestueuse et centres de recherche modernes à Moscou et Saint-Pétersbourg",
+      "ru": "Величественная неоклассическая архитектура и современные исследовательские центры Москвы и Санкт-Петербурга"
+    },
+    {
+      "key": "studyPage.hero.slides.graduates.tag",
+      "en": "International Scholars",
+      "fr": "Étudiants internationaux",
+      "ru": "Иностранные студенты"
+    },
+    {
+      "key": "studyPage.hero.slides.graduates.caption",
+      "en": "African & Russian Graduates Celebrating State Degree Achievements in Academic Gowns",
+      "fr": "Diplômés africains et russes célébrant l’obtention de leurs diplômes d’État en tenue universitaire",
+      "ru": "Африканские и российские выпускники празднуют получение государственных дипломов в академических мантиях"
+    },
+    {
+      "key": "studyPage.hero.slides.rudn.tag",
+      "en": "RUDN Peoples’ Friendship University",
+      "fr": "Université russe de l’Amitié des peuples RUDN",
+      "ru": "Российский университет дружбы народов РУДН"
+    },
+    {
+      "key": "studyPage.hero.slides.rudn.caption",
+      "en": "Multicultural Campus Welcoming Students from 160+ Nations Worldwide",
+      "fr": "Campus multiculturel accueillant des étudiants de plus de 160 pays",
+      "ru": "Многонациональный кампус для студентов более чем из 160 стран"
+    },
+    {
+      "key": "studyPage.hero.slides.spbsu.tag",
+      "en": "St. Petersburg State University",
+      "fr": "Université d’État de Saint-Pétersbourg",
+      "ru": "Санкт-Петербургский государственный университет"
+    },
+    {
+      "key": "studyPage.hero.slides.spbsu.caption",
+      "en": "Centuries of Scientific Research, Law, Medicine & International Relations",
+      "fr": "Des siècles de recherche scientifique, de droit, de médecine et de relations internationales",
+      "ru": "Вековые традиции научных исследований, права, медицины и международных отношений"
+    },
+    {
+      "key": "studyPage.hero.chips.overview",
+      "en": "Overview",
+      "fr": "Présentation",
+      "ru": "Обзор"
+    },
+    {
+      "key": "studyPage.hero.chips.universities",
+      "en": "Universities",
+      "fr": "Universités",
+      "ru": "Университеты"
+    },
+    {
+      "key": "studyPage.hero.chips.programs",
+      "en": "Degree Programs",
+      "fr": "Programmes diplômants",
+      "ru": "Образовательные программы"
+    },
+    {
+      "key": "studyPage.hero.chips.visa",
+      "en": "Visa Journey",
+      "fr": "Parcours du visa",
+      "ru": "Оформление визы"
+    },
+    {
+      "key": "studyPage.hero.chips.scholarships",
+      "en": "Scholarships",
+      "fr": "Bourses",
+      "ru": "Стипендии"
+    },
+    {
+      "key": "studyPage.universityDescriptions.msu",
+      "en": "Russia’s oldest and most prestigious university, renowned worldwide for groundbreaking research, elite academic faculty, and high international degree recognition.",
+      "fr": "La plus ancienne et la plus prestigieuse université de Russie, mondialement reconnue pour ses recherches novatrices, son corps professoral d’élite et la forte reconnaissance internationale de ses diplômes.",
+      "ru": "Старейший и наиболее престижный университет России, всемирно известный передовыми исследованиями, выдающимся преподавательским составом и высоким международным признанием дипломов."
+    },
+    {
+      "key": "studyPage.universityDescriptions.spbpu",
+      "en": "A global powerhouse in engineering, artificial intelligence, and applied sciences with state-of-the-art laboratory complexes and industry partnerships.",
+      "fr": "Un pôle mondial d’ingénierie, d’intelligence artificielle et de sciences appliquées, doté de laboratoires de pointe et de solides partenariats industriels.",
+      "ru": "Мировой центр инженерии, искусственного интеллекта и прикладных наук с современными лабораторными комплексами и партнёрствами с промышленностью."
+    },
+    {
+      "key": "studyPage.universityDescriptions.spbsu",
+      "en": "Founded by Peter the Great in 1724, SPbSU offers world-class degrees, vast international research networks, and full state quota scholarships.",
+      "fr": "Fondée par Pierre le Grand en 1724, la SPbSU propose des diplômes d’excellence, de vastes réseaux internationaux de recherche et des bourses complètes au titre des quotas d’État.",
+      "ru": "Основанный Петром Великим в 1724 году СПбГУ предлагает образование мирового уровня, широкую международную исследовательскую сеть и полные стипендии по государственной квоте."
+    },
+    {
+      "key": "studyPage.universityDescriptions.rudn",
+      "en": "Home to over 10,000 international students from 160 countries, RUDN is famous for medical, agricultural, and diplomatic degree excellence.",
+      "fr": "Accueillant plus de 10 000 étudiants internationaux de 160 pays, la RUDN est réputée pour l’excellence de ses formations en médecine, agriculture et diplomatie.",
+      "ru": "В РУДН обучаются более 10 000 иностранных студентов из 160 стран; университет известен высоким уровнем медицинского, аграрного и дипломатического образования."
+    },
+    {
+      "key": "studyPage.universityDescriptions.sechenov",
+      "en": "Russia’s oldest and premier medical research university with clinical hospital networks training top international doctors and surgeons.",
+      "fr": "La plus ancienne et principale université russe de recherche médicale, dotée d’un réseau d’hôpitaux cliniques formant des médecins et chirurgiens internationaux de haut niveau.",
+      "ru": "Старейший и ведущий медицинский исследовательский университет России с сетью клинических больниц, готовящий высококвалифицированных врачей и хирургов со всего мира."
+    },
+    {
+      "key": "studyPage.universityDescriptions.itmo",
+      "en": "The global leader in competitive programming, robotics, optics, and artificial intelligence, attracting elite tech minds worldwide.",
+      "fr": "Leader mondial de la programmation compétitive, de la robotique, de l’optique et de l’intelligence artificielle, attirant les meilleurs talents technologiques du monde.",
+      "ru": "Мировой лидер в спортивном программировании, робототехнике, оптике и искусственном интеллекте, привлекающий лучшие технологические таланты со всего мира."
+    },
+    {
+      "key": "studyPage.universityDescriptions.nsu",
+      "en": "Located in the famous Akademgorodok scientific forest city, NSU works directly with dozens of Russian Academy of Sciences research institutes.",
+      "fr": "Située dans la célèbre cité scientifique d’Akademgorodok, la NSU travaille directement avec des dizaines d’instituts de recherche de l’Académie russe des sciences.",
+      "ru": "Расположенный в знаменитом научном центре Академгородок НГУ напрямую сотрудничает с десятками институтов Российской академии наук."
+    },
+    {
+      "key": "studyPage.universityDescriptions.kfu",
+      "en": "Situated in the vibrant cultural capital Kazan, offering world-recognized medical and engineering degrees fully taught in English.",
+      "fr": "Située dans la dynamique capitale culturelle de Kazan, cette université propose des diplômes de médecine et d’ingénierie reconnus mondialement et entièrement enseignés en anglais.",
+      "ru": "Расположенный в динамичной культурной столице Казани университет предлагает признанные во всём мире программы медицины и инженерии, полностью преподаваемые на английском языке."
+    },
+    {
+      "key": "studyPage.universityDescriptions.hse",
+      "en": "A modern, dynamic institution specializing in cutting-edge digital technology, finance, global management, and economics.",
+      "fr": "Une institution moderne et dynamique spécialisée dans les technologies numériques de pointe, la finance, la gestion internationale et l’économie.",
+      "ru": "Современный динамичный университет, специализирующийся на передовых цифровых технологиях, финансах, глобальном управлении и экономике."
+    },
+    {
+      "key": "studyPage.universityDescriptions.tsu",
+      "en": "The premier research university of Siberia with rich 140+ year heritage, extensive international student services, and affordable fees.",
+      "fr": "La principale université de recherche de Sibérie, forte de plus de 140 ans d’histoire, de nombreux services pour les étudiants internationaux et de frais abordables.",
+      "ru": "Ведущий исследовательский университет Сибири с более чем 140-летней историей, развитой поддержкой иностранных студентов и доступной стоимостью обучения."
+    },
+    {
+      "key": "studyPage.universityDescriptions.mipt",
+      "en": "Famous as \"Phystech\", producing Nobel laureates, tech founders, and top scientists in quantum physics and aerospace.",
+      "fr": "Célèbre sous le nom de « Phystech », elle a formé des lauréats du prix Nobel, des fondateurs d’entreprises technologiques et des scientifiques majeurs en physique quantique et aérospatiale.",
+      "ru": "Знаменитый Физтех, воспитавший нобелевских лауреатов, основателей технологических компаний и ведущих учёных в области квантовой физики и аэрокосмических технологий."
+    },
+    {
+      "key": "studyPage.universityDescriptions.sfeu",
+      "en": "A major scientific and education hub in warm Southern Russia offering diverse degree options and rich international student life.",
+      "fr": "Un grand centre scientifique et éducatif du sud de la Russie proposant de nombreux cursus et une vie étudiante internationale dynamique.",
+      "ru": "Крупный научно-образовательный центр юга России с разнообразными программами и насыщенной международной студенческой жизнью."
+    },
+    {
+      "key": "studyPage.subjects.admission",
+      "en": "Admission application: {{university}}",
+      "fr": "Demande d’admission : {{university}}",
+      "ru": "Заявление на поступление: {{university}}"
+    },
+    {
+      "key": "studyPage.subjects.general",
+      "en": "General inquiry about studying in Russia",
+      "fr": "Demande générale sur les études en Russie",
+      "ru": "Общий запрос об обучении в России"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bracelets-jewelry",
+  "name": "Bracelets & Jewelry",
+  "description": "African beaded bracelets, gold-tone necklaces, beaded earrings, and pendant jewelry.",
+  "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
+  "icon": "💎",
+  "itemCount": 4,
+  "nameI18n": {
+    "en": "Bracelets & Jewelry",
+    "fr": "Bracelets & Bijoux",
+    "ru": "Браслеты и Украшения"
+  }
+}

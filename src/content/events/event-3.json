@@ -1,0 +1,39 @@
+{
+  "id": "event-3",
+  "title": "International Higher Education & Scholarship Expo",
+  "type": "Conference",
+  "date": "November 05, 2026",
+  "location": "Hybrid: Yaoundé, Lagos, Nairobi & Online",
+  "description": "Direct consultation sessions with representatives from 25 top Russian state universities detailing scholarship admissions.",
+  "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80",
+  "speakers": [
+    "University Admissions Deans",
+    "AFRUS Alumni Council"
+  ],
+  "isUpcoming": true,
+  "titleI18n": {
+    "en": "International Higher Education & Scholarship Expo",
+    "fr": "Salon International de l'Enseignement Supérieur & des Bourses d'Études",
+    "ru": "Международная Выставка Высшего Образования и Стипендий"
+  },
+  "typeI18n": {
+    "en": "Conference",
+    "fr": "Conférence",
+    "ru": "Конференция"
+  },
+  "dateI18n": {
+    "en": "November 05, 2026",
+    "fr": "05 Novembre 2026",
+    "ru": "05 Ноября 2026"
+  },
+  "locationI18n": {
+    "en": "Hybrid: Yaoundé, Lagos, Nairobi & Online",
+    "fr": "Hybride : Yaoundé, Lagos, Nairobi & En Ligne",
+    "ru": "Гибрид: Яунде, Лагос, Найроби и Онлайн"
+  },
+  "descriptionI18n": {
+    "en": "Direct consultation sessions with representatives from 25 top Russian state universities detailing scholarship admissions.",
+    "fr": "Sessions de consultation directe avec des représentants de 25 grandes universités d'État russes détaillant les admissions avec bourses.",
+    "ru": "Прямые консультации с представителями 25 ведущих российских государственных университетов по вопросам поступления и стипендий."
+  }
+}

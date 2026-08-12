@@ -1,0 +1,40 @@
+{
+    "id":  "jersey-african-basketball",
+    "title":  "African Basketball Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Basketball Jerseys",
+    "priceUsd": 50,
+    "priceRub": 4600,
+    "origin":  "AFRUS Hoops",
+    "description":  "A modern basketball jersey inspired by African sporting culture, featuring bold colors and distinctive patterns with a comfortable athletic fit.",
+    "image":  "/uploads/store/jersey_african_basketball_1786180022294.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Bold Print",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  15,
+    "titleI18n":  {
+                      "en":  "African Basketball Jersey",
+                      "fr":  "Maillot de Basket Style Africain",
+                      "ru":  "Баскетбольная Форма в Африканском Стиле"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A modern basketball jersey inspired by African sporting culture, featuring bold colors and distinctive patterns with a comfortable athletic fit.",
+                            "fr":  "Maillot de basket dynamique décoré des couleurs panafricaines.",
+                            "ru":  "Яркая баскетбольная форма в афро-тематической цветовой гамме."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--basketball-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Жирный принт",
+                      "en":  "Bold Print",
+                      "fr":  "Impression en gras"
+                  }
+}

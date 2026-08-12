@@ -1,0 +1,40 @@
+{
+    "id":  "clothes-african-print-shirt-men",
+    "title":  "African Print Shirt",
+    "category":  "African Clothes",
+    "subcategory":  "Men\u0027s African Wear",
+    "priceUsd": 65,
+    "priceRub": 5980,
+    "origin":  "Dakar, Senegal",
+    "description":  "A modern men\u0027s button-up shirt featuring bold African-inspired print patterns. Designed to combine traditional African aesthetics with contemporary everyday fashion.",
+    "image":  "/uploads/store/african_print_shirt_1786178456067.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Modern Style",
+    "brand":  "Dakar Modern",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL"
+                       ],
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "African Print Shirt",
+                      "fr":  "Chemise Imprimée Africaine Homme",
+                      "ru":  "Мужская Рубашка с Африканским Принтом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A modern men\u0027s button-up shirt featuring bold African-inspired print patterns. Designed to combine traditional African aesthetics with contemporary everyday fashion.",
+                            "fr":  "Chemise boutonnée élégante conçue à partir de tissu en wax Ankara de qualité supérieure.",
+                            "ru":  "Стильная рубашка из африканского воскового ситца анкара."
+                        },
+    "categoryId":  "african-clothes",
+    "subcategoryId":  "african-clothes--men-s-african-wear",
+    "badgeI18n":  {
+                      "ru":  "Современный Стиль",
+                      "en":  "Modern Style",
+                      "fr":  "Style moderne"
+                  }
+}

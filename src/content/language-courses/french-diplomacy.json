@@ -1,0 +1,66 @@
+{
+  "id": "french-diplomacy",
+  "language": "French",
+  "level": "A1 Beginner to B2 Conversational",
+  "duration": "16 Weeks (48 Hours)",
+  "format": "Online",
+  "description": "Unlocking trade and cultural relations with West & Central African nations through immersive French dialogue and business etiquette.",
+  "targetAudience": "Diplomats, Trade Agents, Tourism Operators",
+  "features": [
+    "West & Central African Native Tutors",
+    "Cultural Nuance & Protocol",
+    "Real-world Audio Modules",
+    "Small Group Interactive Sessions"
+  ],
+  "icon": "Globe",
+  "titleI18n": {
+    "en": "French for Diplomacy and Trade",
+    "fr": "Français pour la diplomatie et le commerce",
+    "ru": "Французский язык для дипломатии и торговли"
+  },
+  "levelI18n": {
+    "en": "A1 Beginner to B2 Conversational",
+    "fr": "A1 débutant à B2 conversationnel",
+    "ru": "От A1 начинающего до B2 разговорного"
+  },
+  "durationI18n": {
+    "en": "16 Weeks (48 Hours)",
+    "fr": "16 semaines (48 heures)",
+    "ru": "16 недель (48 часов)"
+  },
+  "formatI18n": {
+    "en": "Online",
+    "fr": "En ligne",
+    "ru": "Онлайн"
+  },
+  "descriptionI18n": {
+    "en": "Unlocking trade and cultural relations with West & Central African nations through immersive French dialogue and business etiquette.",
+    "fr": "Développer les relations commerciales et culturelles avec les pays d’Afrique de l’Ouest et centrale grâce à un dialogue français immersif et à l’étiquette des affaires.",
+    "ru": "Развитие торговых и культурных связей со странами Западной и Центральной Африки посредством захватывающего французского диалога и делового этикета."
+  },
+  "targetAudienceI18n": {
+    "en": "Diplomats, Trade Agents, Tourism Operators",
+    "fr": "Diplomates, agents commerciaux, opérateurs touristiques",
+    "ru": "Дипломаты, торговые агенты, туристические операторы"
+  },
+  "featuresI18n": {
+    "en": [
+      "West & Central African Native Tutors",
+      "Cultural Nuance & Protocol",
+      "Real-world Audio Modules",
+      "Small Group Interactive Sessions"
+    ],
+    "fr": [
+      "Tuteurs natifs d'Afrique de l'Ouest et du Centre",
+      "Nuance culturelle et protocole",
+      "Modules audio du monde réel",
+      "Séances interactives en petits groupes"
+    ],
+    "ru": [
+      "Репетиторы-носители языков Западной и Центральной Африки",
+      "Культурные нюансы и протокол",
+      "Реальные аудиомодули",
+      "Интерактивные занятия в небольших группах"
+    ]
+  }
+}

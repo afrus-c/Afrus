@@ -1,0 +1,29 @@
+{
+  "id": "money-transfer",
+  "title": "Money Transfer",
+  "category": "trade",
+  "description": "Secure, compliant cross-border payment corridors for trade settlements, tuition fees, and business transactions.",
+  "iconName": "Banknote",
+  "badge": "Financial Services",
+  "titleI18n": {
+    "en": "Money Transfer",
+    "fr": "Transfert d'argent",
+    "ru": "Перевод денег"
+  },
+  "descriptionI18n": {
+    "en": "Secure, compliant cross-border payment corridors for trade settlements, tuition fees, and business transactions.",
+    "fr": "Des couloirs de paiement transfrontaliers sécurisés et conformes pour les règlements commerciaux, les frais de scolarité et les transactions commerciales.",
+    "ru": "Безопасные, соответствующие требованиям трансграничные платежные коридоры для торговых расчетов, оплаты за обучение и деловых транзакций."
+  },
+  "badgeI18n": {
+    "en": "Financial Services",
+    "fr": "Services financiers",
+    "ru": "Финансовые услуги"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 5
+}

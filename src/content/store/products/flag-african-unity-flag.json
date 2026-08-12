@@ -1,0 +1,34 @@
+{
+    "id":  "flag-african-unity-flag",
+    "title":  "African Unity Flag",
+    "category":  "Flags",
+    "subcategory":  "Cultural Flags",
+    "priceUsd": 25,
+    "priceRub": 2300,
+    "origin":  "Addis Ababa, Ethiopia",
+    "description":  "A cultural decorative flag celebrating African unity, heritage, and shared cultural identity. Suitable for cultural events, educational displays, celebrations, and decorative spaces.",
+    "image":  "/flags/african-unity.svg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Unity Flag",
+    "brand":  "Unity Decor",
+    "inventoryCount":  38,
+    "titleI18n":  {
+                      "en":  "African Unity Flag",
+                      "fr":  "Drapeau de l\u0027Unité Style Union Africaine",
+                      "ru":  "Флаг Африканского Союза"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A cultural decorative flag celebrating African unity, heritage, and shared cultural identity. Suitable for cultural events, educational displays, celebrations, and decorative spaces.",
+                            "fr":  "Drapeau emblème carte sur fond vert symbolisant la solidarité continentale.",
+                            "ru":  "Зеленый флаг с эмблемой континента, символизирующий солидарность."
+                        },
+    "categoryId":  "flags",
+    "subcategoryId":  "flags--cultural-flags",
+    "badgeI18n":  {
+                      "ru":  "Флаг Единства",
+                      "en":  "Unity Flag",
+                      "fr":  "Drapeau de l\u0027unité"
+                  }
+}

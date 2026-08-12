@@ -1,0 +1,30 @@
+{
+  "id": "store",
+  "image": "/uploads/home-hero/afrus_store_showroom_1785925189258.jpg",
+  "category": "AFRUS STORE",
+  "headline": "Discover Authentic Products From Africa",
+  "description": "Explore curated African food, fashion, accessories, crafts, and cultural products available through AFRUS.",
+  "ctaText": "Visit Store",
+  "path": "/store",
+  "categoryI18n": {
+    "en": "AFRUS STORE",
+    "fr": "MAGASIN AFRUS",
+    "ru": "АФРУС МАГАЗИН"
+  },
+  "headlineI18n": {
+    "en": "Discover Authentic Products From Africa",
+    "fr": "Découvrez des produits authentiques d'Afrique",
+    "ru": "Откройте для себя подлинные продукты из Африки"
+  },
+  "descriptionI18n": {
+    "en": "Explore curated African food, fashion, accessories, crafts, and cultural products available through AFRUS.",
+    "fr": "Explorez la cuisine, la mode, les accessoires, l'artisanat et les produits culturels africains disponibles via AFRUS.",
+    "ru": "Изучите тщательно подобранные африканские блюда, моду, аксессуары, поделки и культурные продукты, доступные через AFRUS."
+  },
+  "ctaTextI18n": {
+    "en": "Visit Store",
+    "fr": "Visitez le magasin",
+    "ru": "Посетите магазин"
+  },
+  "order": 2
+}

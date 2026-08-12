@@ -1,0 +1,34 @@
+{
+    "id":  "souvenir-african-inspired-wall-art",
+    "title":  "African-Inspired Wall Art",
+    "category":  "Souvenirs",
+    "subcategory":  "African Art",
+    "priceUsd": 65,
+    "priceRub": 5980,
+    "origin":  "Dakar, Senegal",
+    "description":  "A decorative wall art piece inspired by African patterns, colors, and artistic traditions. Designed to add character and cultural-inspired style to modern interiors.",
+    "image":  "/uploads/store/souvenir_wall_art_1786181227190.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Wall Art Decor",
+    "brand":  "Senegal Art Gallery",
+    "inventoryCount":  22,
+    "titleI18n":  {
+                      "en":  "African-Inspired Wall Art",
+                      "fr":  "Plaque d\u0027Art Mural d\u0027Inspiration Africaine",
+                      "ru":  "Настенное Панно с Африканским Мотивом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A decorative wall art piece inspired by African patterns, colors, and artistic traditions. Designed to add character and cultural-inspired style to modern interiors.",
+                            "fr":  "Plaque en bois peinte à la main représentant des silhouettes au coucher du soleil.",
+                            "ru":  "Расписное деревянное панно с пейзажем африканского заката."
+                        },
+    "categoryId":  "souvenirs",
+    "subcategoryId":  "souvenirs--african-art",
+    "badgeI18n":  {
+                      "ru":  "Настенный Художественный Декор",
+                      "en":  "Wall Art Decor",
+                      "fr":  "Décoration murale"
+                  }
+}

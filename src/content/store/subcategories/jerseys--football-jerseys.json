@@ -1,0 +1,10 @@
+{
+  "id": "jerseys--football-jerseys",
+  "categoryId": "jerseys",
+  "name": "Football Jerseys",
+  "nameI18n": {
+    "en": "Football Jerseys",
+    "fr": "Maillots de Football",
+    "ru": "Футбольная Форма"
+  }
+}

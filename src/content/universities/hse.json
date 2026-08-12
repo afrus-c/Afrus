@@ -1,0 +1,61 @@
+{
+  "id": "hse",
+  "name": "HSE University (Higher School of Economics)",
+  "city": "Moscow / St. Petersburg",
+  "ranking": "Top Economics & Data Science Center",
+  "programs": [
+    "Data Science",
+    "Business Analytics",
+    "Public Policy",
+    "Finance"
+  ],
+  "tuitionRange": "$3,500 – $5,500 / year",
+  "scholarshipsAvailable": true,
+  "image": "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?auto=format&fit=crop&w=800&q=80",
+  "description": "A modern, dynamic institution specializing in cutting-edge digital technology, finance, global management, and economics.",
+  "nameI18n": {
+    "en": "HSE University (Higher School of Economics)",
+    "fr": "Université HSE (École supérieure d'économie)",
+    "ru": "НИУ ВШЭ (Высшая школа экономики)"
+  },
+  "cityI18n": {
+    "en": "Moscow / St. Petersburg",
+    "fr": "Moscou / Saint-Pétersbourg",
+    "ru": "Москва / Санкт-Петербург"
+  },
+  "rankingI18n": {
+    "en": "Top Economics & Data Science Center",
+    "fr": "Meilleur centre d'économie et de science des données",
+    "ru": "Ведущий центр экономики и обработки данных"
+  },
+  "programsI18n": {
+    "en": [
+      "Data Science",
+      "Business Analytics",
+      "Public Policy",
+      "Finance"
+    ],
+    "fr": [
+      "Science des données",
+      "Analyse commerciale",
+      "Politique publique",
+      "Finance"
+    ],
+    "ru": [
+      "Наука о данных",
+      "Бизнес-аналитика",
+      "Государственная политика",
+      "Финансы"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$3,500 – $5,500 / year",
+    "fr": "3 500 $ – 5 500 $/an",
+    "ru": "3500–5500 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "A modern, dynamic institution specializing in cutting-edge digital technology, finance, global management, and economics.",
+    "fr": "Une institution moderne et dynamique spécialisée dans les technologies numériques de pointe, la finance, la gestion internationale et l’économie.",
+    "ru": "Современный динамичный университет, специализирующийся на передовых цифровых технологиях, финансах, глобальном управлении и экономике."
+  }
+}

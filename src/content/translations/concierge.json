@@ -1,0 +1,24 @@
+{
+  "namespace": "concierge",
+  "adminLabelFr": "Conciergerie — textes généraux",
+  "entries": [
+    {
+      "key": "concierge.badge",
+      "en": "DIPLOMATIC & VIP CONCIERGE",
+      "fr": "CONCIERGERIE DIPLOMATIQUE & VIP",
+      "ru": "ДИПЛОМАТИЧЕСКИЙ И VIP КОНСЬЕРЖ"
+    },
+    {
+      "key": "concierge.title",
+      "en": "Executive Travel, Visas & Protocol",
+      "fr": "Voyage d'Affaires, Visas & Protocole",
+      "ru": "Деловые Поездки, Визы и Протокол"
+    },
+    {
+      "key": "concierge.subtitle",
+      "en": "VIP airport escort, luxury hotel bookings, business visa invitations, armed security, and certified court translation.",
+      "fr": "Escorte VIP à l'aéroport, réservations d'hôtels de luxe, invitations de visa d'affaires, sécurité armée et traduction certifiée.",
+      "ru": "Встреча в VIP-залах аэропортов, отели класса люкс, бизнес-приглашения, охрана и нотариальный перевод."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "souvenirs--african-art",
+  "categoryId": "souvenirs",
+  "name": "African Art",
+  "nameI18n": {
+    "en": "African Art",
+    "fr": "Art Africain",
+    "ru": "Африканское Искусство"
+  }
+}

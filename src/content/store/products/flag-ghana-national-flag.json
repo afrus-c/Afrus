@@ -1,0 +1,34 @@
+{
+    "id":  "flag-ghana-national-flag",
+    "title":  "Ghana National Flag",
+    "category":  "Flags",
+    "subcategory":  "African Country Flags",
+    "priceUsd": 22,
+    "priceRub": 2024,
+    "origin":  "Accra, Ghana",
+    "description":  "A high-quality national flag representing Ghana, suitable for cultural events, educational displays, celebrations, offices, and decorative use.",
+    "image":  "/flags/ghana.svg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "National Flag",
+    "brand":  "AFRUS Diplomatic Flags",
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "Ghana National Flag",
+                      "fr":  "Drapeau National du Ghana",
+                      "ru":  "Флаг Ганы Государственный"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A high-quality national flag representing Ghana, suitable for cultural events, educational displays, celebrations, offices, and decorative use.",
+                            "fr":  "Drapeau national officiel du Ghana avec le symbole de l\u0027Étoile Noire.",
+                            "ru":  "Официальный флаг Ганы с черной звездой в центре."
+                        },
+    "categoryId":  "flags",
+    "subcategoryId":  "flags--african-country-flags",
+    "badgeI18n":  {
+                      "ru":  "Национальный флаг",
+                      "en":  "National Flag",
+                      "fr":  "Drapeau national"
+                  }
+}

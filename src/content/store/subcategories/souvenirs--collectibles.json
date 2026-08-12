@@ -1,0 +1,10 @@
+{
+  "id": "souvenirs--collectibles",
+  "categoryId": "souvenirs",
+  "name": "Collectibles",
+  "nameI18n": {
+    "en": "Collectibles",
+    "fr": "Objets de Collection",
+    "ru": "Коллекционные Изделия"
+  }
+}

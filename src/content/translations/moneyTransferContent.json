@@ -1,0 +1,1236 @@
+{
+  "namespace": "moneyTransferContent",
+  "adminLabelFr": "Page Transfert d’argent — contenu complet",
+  "entries": [
+    {
+      "key": "moneyTransferContent.text_0001",
+      "en": "100000",
+      "fr": "100000",
+      "ru": "100000"
+    },
+    {
+      "key": "moneyTransferContent.text_0002",
+      "en": "CROSS-BORDER PAYMENTS",
+      "fr": "PAIEMENTS TRANSFRONTALIERS",
+      "ru": "ТРАНСГРАНИЧНЫЕ ПЛАТЕЖИ"
+    },
+    {
+      "key": "moneyTransferContent.text_0003",
+      "en": "Russia–Africa Money Transfer &",
+      "fr": "Transferts d’argent Russie–Afrique et",
+      "ru": "Денежные переводы между Россией и Африкой и"
+    },
+    {
+      "key": "moneyTransferContent.text_0004",
+      "en": "Financial Clearing Guide",
+      "fr": "Guide de la compensation financière",
+      "ru": "Руководство по финансовому клирингу"
+    },
+    {
+      "key": "moneyTransferContent.text_0005",
+      "en": "Learn how cross-border payments, commercial settlements, tuition transfers, and international banking systems support financial transactions between Russia and African countries. Explore common payment methods, currency considerations, compliance requirements, and practical guidance for international transfers.",
+      "fr": "Découvrez comment les paiements transfrontaliers, les règlements commerciaux, les transferts de frais de scolarité et les systèmes bancaires internationaux facilitent les transactions financières entre la Russie et les pays africains. Explorez les méthodes de paiement courantes, les considérations monétaires, les exigences de conformité et les conseils pratiques relatifs aux transferts internationaux.",
+      "ru": "Узнайте, как трансграничные платежи, коммерческие расчёты, переводы средств на оплату обучения и международные банковские системы обеспечивают финансовые операции между Россией и африканскими странами. Ознакомьтесь с распространёнными способами оплаты, валютными аспектами, требованиями комплаенса и практическими рекомендациями по международным переводам."
+    },
+    {
+      "key": "moneyTransferContent.text_0006",
+      "en": "Explore Payment Methods",
+      "fr": "Explorer les méthodes de paiement",
+      "ru": "Изучить способы оплаты"
+    },
+    {
+      "key": "moneyTransferContent.text_0007",
+      "en": "Learn About Financial Clearing",
+      "fr": "En savoir plus sur la compensation financière",
+      "ru": "Узнать больше о финансовом клиринге"
+    },
+    {
+      "key": "moneyTransferContent.text_0008",
+      "en": "International Interbank Networks",
+      "fr": "Réseaux interbancaires internationaux",
+      "ru": "Международные межбанковские сети"
+    },
+    {
+      "key": "moneyTransferContent.text_0009",
+      "en": "EDUCATIONAL FOUNDATIONS",
+      "fr": "FONDEMENTS PÉDAGOGIQUES",
+      "ru": "ОСНОВЫ"
+    },
+    {
+      "key": "moneyTransferContent.text_0010",
+      "en": "How International Money Transfers Work",
+      "fr": "Fonctionnement des transferts internationaux d’argent",
+      "ru": "Как работают международные денежные переводы"
+    },
+    {
+      "key": "moneyTransferContent.text_0011",
+      "en": "Cross-border financial transactions rely on structured interbank protocols, messaging rails, and statutory compliance checks to route funds safely across international borders.",
+      "fr": "Les transactions financières transfrontalières reposent sur des protocoles interbancaires structurés, des réseaux de messagerie et des contrôles réglementaires de conformité afin d’acheminer les fonds en toute sécurité au-delà des frontières internationales.",
+      "ru": "Трансграничные финансовые операции опираются на структурированные межбанковские протоколы, каналы передачи сообщений и предусмотренные законом проверки соблюдения требований, позволяющие безопасно переводить средства через государственные границы."
+    },
+    {
+      "key": "moneyTransferContent.text_0012",
+      "en": "STEP 01",
+      "fr": "ÉTAPE 01",
+      "ru": "ЭТАП 01"
+    },
+    {
+      "key": "moneyTransferContent.text_0013",
+      "en": "Payer Initiation & KYC",
+      "fr": "Initiation par le payeur et KYC",
+      "ru": "Инициирование платежа плательщиком и KYC"
+    },
+    {
+      "key": "moneyTransferContent.text_0014",
+      "en": "The sender provides beneficiary details, commercial invoice or admission letter, and undergoes Know Your Customer (KYC) identity verification at their bank.",
+      "fr": "L’expéditeur fournit les coordonnées du bénéficiaire, la facture commerciale ou la lettre d’admission, et se soumet auprès de sa banque à une vérification d’identité au titre de la connaissance du client (KYC).",
+      "ru": "Отправитель предоставляет реквизиты получателя, коммерческий счёт или письмо о зачислении и проходит в своём банке проверку личности в рамках процедуры «Знай своего клиента» (KYC)."
+    },
+    {
+      "key": "moneyTransferContent.text_0015",
+      "en": "STEP 02",
+      "fr": "ÉTAPE 02",
+      "ru": "ЭТАП 02"
+    },
+    {
+      "key": "moneyTransferContent.text_0016",
+      "en": "Intermediary Clearing",
+      "fr": "Compensation intermédiaire",
+      "ru": "Промежуточный клиринг"
+    },
+    {
+      "key": "moneyTransferContent.text_0017",
+      "en": "Funds enter international correspondent banking channels. Nostro and Vostro accounts are debited and credited via secure financial messaging networks.",
+      "fr": "Les fonds entrent dans les circuits bancaires internationaux de correspondants. Les comptes Nostro et Vostro sont débités et crédités au moyen de réseaux sécurisés de messagerie financière.",
+      "ru": "Средства поступают в международные каналы корреспондентского банкинга. Счета Nostro и Vostro дебетуются и кредитуются через защищённые сети обмена финансовыми сообщениями."
+    },
+    {
+      "key": "moneyTransferContent.text_0018",
+      "en": "STEP 03",
+      "fr": "ÉTAPE 03",
+      "ru": "ЭТАП 03"
+    },
+    {
+      "key": "moneyTransferContent.text_0019",
+      "en": "Foreign Exchange (FX)",
+      "fr": "Change (FX)",
+      "ru": "Обмен валюты (FX)"
+    },
+    {
+      "key": "moneyTransferContent.text_0020",
+      "en": "The transaction currency is converted (e.g., NGN/XAF to RUB or EUR/CNY) based on interbank exchange rates and specified settlement terms.",
+      "fr": "La devise de la transaction est convertie (par exemple, NGN/XAF en RUB ou EUR/CNY) selon les taux de change interbancaires et les modalités de règlement convenues.",
+      "ru": "Валюта операции конвертируется (например, NGN/XAF в RUB или EUR/CNY) по межбанковским обменным курсам и в соответствии с установленными условиями расчётов."
+    },
+    {
+      "key": "moneyTransferContent.text_0021",
+      "en": "STEP 04",
+      "fr": "ÉTAPE 04",
+      "ru": "ЭТАП 04"
+    },
+    {
+      "key": "moneyTransferContent.text_0022",
+      "en": "Beneficiary Crediting",
+      "fr": "Crédit du bénéficiaire",
+      "ru": "Зачисление средств получателю"
+    },
+    {
+      "key": "moneyTransferContent.text_0023",
+      "en": "The destination bank receives clearing confirmation (e.g., SWIFT MT103), performs local regulatory checks, and credits the beneficiary account.",
+      "fr": "La banque destinataire reçoit la confirmation de compensation (par exemple, SWIFT MT103), effectue les contrôles réglementaires locaux et crédite le compte du bénéficiaire.",
+      "ru": "Банк получателя получает подтверждение клиринга (например, SWIFT MT103), проводит проверки на соответствие местным нормативным требованиям и зачисляет средства на счёт получателя."
+    },
+    {
+      "key": "moneyTransferContent.text_0024",
+      "en": "Role of Financial Institutions",
+      "fr": "Rôle des institutions financières",
+      "ru": "Роль финансовых учреждений"
+    },
+    {
+      "key": "moneyTransferContent.text_0025",
+      "en": "Commercial banks, central banks, and authorized payment service providers manage liquidity reserves, issue credit letters, and ensure orderly currency clearing.",
+      "fr": "Les banques commerciales, les banques centrales et les prestataires de services de paiement agréés gèrent les réserves de liquidités, émettent des lettres de crédit et assurent une compensation monétaire ordonnée.",
+      "ru": "Коммерческие и центральные банки, а также уполномоченные поставщики платёжных услуг управляют резервами ликвидности, выпускают аккредитивы и обеспечивают упорядоченный валютный клиринг."
+    },
+    {
+      "key": "moneyTransferContent.text_0026",
+      "en": "Compliance & Regulations",
+      "fr": "Conformité et réglementation",
+      "ru": "Комплаенс и нормативные требования"
+    },
+    {
+      "key": "moneyTransferContent.text_0027",
+      "en": "International transfers comply with statutory Anti-Money Laundering (AML) controls, sanction screening databases, and foreign exchange declaration rules.",
+      "fr": "Les transferts internationaux respectent les contrôles réglementaires de lutte contre le blanchiment d’argent (AML), les bases de données de filtrage des sanctions et les règles de déclaration des opérations de change.",
+      "ru": "Международные переводы осуществляются с соблюдением установленных законом мер по противодействию отмыванию денег (AML), проверок по базам санкционных списков и правил декларирования валютных операций."
+    },
+    {
+      "key": "moneyTransferContent.text_0028",
+      "en": "Security & Encryption",
+      "fr": "Sécurité et chiffrement",
+      "ru": "Безопасность и шифрование"
+    },
+    {
+      "key": "moneyTransferContent.text_0029",
+      "en": "Modern interbank networks use end-to-end cryptographic protocols to safeguard sensitive financial data and prevent unauthorized transaction tampering.",
+      "fr": "Les réseaux interbancaires modernes utilisent des protocoles cryptographiques de bout en bout afin de protéger les données financières sensibles et d’empêcher toute manipulation non autorisée des transactions.",
+      "ru": "Современные межбанковские сети используют сквозные криптографические протоколы для защиты конфиденциальных финансовых данных и предотвращения несанкционированного изменения транзакций."
+    },
+    {
+      "key": "moneyTransferContent.text_0030",
+      "en": "REGIONAL PAYMENT EXAMPLES",
+      "fr": "EXEMPLES DE PAIEMENTS RÉGIONAUX",
+      "ru": "ПРИМЕРЫ РЕГИОНАЛЬНЫХ ПЛАТЕЖЕЙ"
+    },
+    {
+      "key": "moneyTransferContent.text_0031",
+      "en": "Bilateral Payment Corridors & Case Studies",
+      "fr": "Corridors de paiement bilatéraux et études de cas",
+      "ru": "Двусторонние платёжные коридоры и практические примеры"
+    },
+    {
+      "key": "moneyTransferContent.text_0032",
+      "en": "Explore educational overviews of how payments are structured across key regional trade corridors and academic routes connecting Russia and Africa.",
+      "fr": "Découvrez des aperçus pédagogiques sur la structuration des paiements dans les principaux corridors commerciaux régionaux et les parcours universitaires reliant la Russie et l’Afrique.",
+      "ru": "Ознакомьтесь с учебными обзорами структуры платежей в ключевых региональных торговых коридорах и образовательных направлениях, связывающих Россию и Африку."
+    },
+    {
+      "key": "moneyTransferContent.text_0033",
+      "en": "REGIONAL CORRIDOR 01",
+      "fr": "CORRIDOR RÉGIONAL 01",
+      "ru": "РЕГИОНАЛЬНЫЙ КОРИДОР 01"
+    },
+    {
+      "key": "moneyTransferContent.text_0034",
+      "en": "Russia ↔ Central Africa (BEAC / XAF Zone)",
+      "fr": "Russie ↔ Afrique centrale (zone BEAC / XAF)",
+      "ru": "Россия ↔ Центральная Африка (зона BEAC / XAF)"
+    },
+    {
+      "key": "moneyTransferContent.text_0035",
+      "en": "Businesses and individuals conducting transactions between Russia and Central African nations—including Cameroon, Gabon, Republic of the Congo, Chad, and Central African Republic—navigate foreign exchange rules defined by the Bank of Central African States (BEAC).",
+      "fr": "Les entreprises et les particuliers effectuant des transactions entre la Russie et les pays d’Afrique centrale — notamment le Cameroun, le Gabon, la République du Congo, le Tchad et la République centrafricaine — doivent respecter les règles de change définies par la Banque des États de l’Afrique centrale (BEAC).",
+      "ru": "Компании и частные лица, осуществляющие операции между Россией и государствами Центральной Африки, включая Камерун, Габон, Республику Конго, Чад и Центральноафриканскую Республику, должны учитывать правила валютного регулирования, установленные Банком государств Центральной Африки (BEAC)."
+    },
+    {
+      "key": "moneyTransferContent.text_0036",
+      "en": "Currencies Involved: Central African CFA Franc (XAF), Russian Ruble (RUB), Euros (EUR), Yuan (CNY).",
+      "fr": "Devises concernées : franc CFA d’Afrique centrale (XAF), rouble russe (RUB), euro (EUR), yuan (CNY).",
+      "ru": "Используемые валюты: центральноафриканский франк КФА (XAF), российский рубль (RUB), евро (EUR), юань (CNY)."
+    },
+    {
+      "key": "moneyTransferContent.text_0037",
+      "en": "BEAC FX Declarations: Outbound commercial transfers above statutory thresholds require BEAC authorization and verified import documentation.",
+      "fr": "Déclarations de change BEAC : les transferts commerciaux sortants dépassant les seuils réglementaires nécessitent l’autorisation de la BEAC et des documents d’importation vérifiés.",
+      "ru": "Валютные декларации BEAC: исходящие коммерческие переводы, превышающие установленные законом пороговые значения, требуют разрешения BEAC и подтверждённых импортных документов."
+    },
+    {
+      "key": "moneyTransferContent.text_0038",
+      "en": "Correspondent Clearing: Transactions frequently route through third-country correspondent hubs with dual-currency clearing capabilities.",
+      "fr": "Compensation par correspondants : les transactions transitent fréquemment par des centres de correspondance situés dans des pays tiers et dotés de capacités de compensation en deux devises.",
+      "ru": "Корреспондентский клиринг: операции часто проводятся через корреспондентские центры в третьих странах, поддерживающие клиринг в двух валютах."
+    },
+    {
+      "key": "moneyTransferContent.text_0039",
+      "en": "REGIONAL CORRIDOR 02",
+      "fr": "CORRIDOR RÉGIONAL 02",
+      "ru": "РЕГИОНАЛЬНЫЙ КОРИДОР 02"
+    },
+    {
+      "key": "moneyTransferContent.text_0040",
+      "en": "Russia ↔ Nigeria (CBN / NGN Corridor)",
+      "fr": "Russie ↔ Nigeria (corridor CBN / NGN)",
+      "ru": "Россия ↔ Нигерия (коридор CBN / NGN)"
+    },
+    {
+      "key": "moneyTransferContent.text_0041",
+      "en": "Commercial payments supporting bilateral trade in agricultural wheat, fertilizers, industrial machinery, raw cocoa, and consumer goods follow regulations established by the Central Bank of Nigeria (CBN).",
+      "fr": "Les paiements commerciaux soutenant les échanges bilatéraux de blé agricole, d’engrais, de machines industrielles, de cacao brut et de biens de consommation suivent les règles établies par la Banque centrale du Nigeria (CBN).",
+      "ru": "Коммерческие платежи, обеспечивающие двустороннюю торговлю продовольственной пшеницей, удобрениями, промышленным оборудованием, какао-сырцом и потребительскими товарами, регулируются правилами Центрального банка Нигерии (CBN)."
+    },
+    {
+      "key": "moneyTransferContent.text_0042",
+      "en": "Statutory Documentation: Importers file Form M through authorized dealer banks, while exporters utilize Form NXP for regulatory clearing.",
+      "fr": "Documents réglementaires : les importateurs déposent le formulaire M auprès de banques agréées, tandis que les exportateurs utilisent le formulaire NXP pour la compensation réglementaire.",
+      "ru": "Обязательные документы: импортёры подают форму M через уполномоченные банки-дилеры, а экспортёры используют форму NXP для прохождения регуляторного клиринга."
+    },
+    {
+      "key": "moneyTransferContent.text_0043",
+      "en": "Trade Invoicing Options: Commercial contracts are increasingly denominated in neutral trade currencies or direct local currency settlement channels.",
+      "fr": "Options de facturation commerciale : les contrats commerciaux sont de plus en plus libellés dans des devises commerciales neutres ou réglés directement en monnaies locales.",
+      "ru": "Варианты выставления торговых счетов: коммерческие контракты всё чаще номинируются в нейтральных торговых валютах либо предусматривают прямые расчёты в национальных валютах."
+    },
+    {
+      "key": "moneyTransferContent.text_0044",
+      "en": "FX Liquidity Windows: Understanding official interbank windows helps commercial entities anticipate processing timelines.",
+      "fr": "Guichets de liquidité en devises : la compréhension des guichets interbancaires officiels aide les entreprises à anticiper les délais de traitement.",
+      "ru": "Окна валютной ликвидности: понимание работы официальных межбанковских окон помогает коммерческим организациям прогнозировать сроки обработки операций."
+    },
+    {
+      "key": "moneyTransferContent.text_0045",
+      "en": "ACADEMIC FINANCIAL GUIDANCE",
+      "fr": "ORIENTATIONS FINANCIÈRES POUR LES ÉTUDIANTS",
+      "ru": "ФИНАНСОВЫЕ РЕКОМЕНДАЦИИ ДЛЯ СТУДЕНТОВ"
+    },
+    {
+      "key": "moneyTransferContent.text_0046",
+      "en": "Student Tuition & Living Expense Transfers",
+      "fr": "Transferts des frais de scolarité et des dépenses courantes",
+      "ru": "Переводы на оплату обучения и текущих расходов"
+    },
+    {
+      "key": "moneyTransferContent.text_0047",
+      "en": "Tens of thousands of African students pursue higher education across Russian universities. Paying tuition fees, dormitory charges, and living stipends requires clear procedural planning.",
+      "fr": "Des dizaines de milliers d’étudiants africains poursuivent des études supérieures dans des universités russes. Le paiement des frais de scolarité, des frais de résidence universitaire et des allocations de subsistance exige une planification procédurale claire.",
+      "ru": "Десятки тысяч африканских студентов получают высшее образование в российских университетах. Оплата обучения, общежития и средств на проживание требует чёткого планирования процедур."
+    },
+    {
+      "key": "moneyTransferContent.text_0048",
+      "en": "Russian University Campus",
+      "fr": "Campus universitaire russe",
+      "ru": "Кампус российского университета"
+    },
+    {
+      "key": "moneyTransferContent.text_0049",
+      "en": "1. Verify University Details",
+      "fr": "1. Vérifier les coordonnées de l’université",
+      "ru": "1. Проверьте реквизиты университета"
+    },
+    {
+      "key": "moneyTransferContent.text_0050",
+      "en": "Always obtain the official invoice from the university accounting department. Verify the INN, KPP, BIC, and full Russian bank account number.",
+      "fr": "Obtenez toujours la facture officielle auprès du service comptable de l’université. Vérifiez l’INN, le KPP, le BIC et le numéro complet du compte bancaire russe.",
+      "ru": "Всегда получайте официальный счёт в бухгалтерии университета. Проверьте ИНН, КПП, БИК и полный номер российского банковского счёта."
+    },
+    {
+      "key": "moneyTransferContent.text_0051",
+      "en": "2. Reference Identification",
+      "fr": "2. Références d’identification",
+      "ru": "2. Укажите идентификационные данные"
+    },
+    {
+      "key": "moneyTransferContent.text_0052",
+      "en": "Include the student’s full name (as written in passport), student ID number, and tuition contract number in the wire transfer comment field.",
+      "fr": "Indiquez le nom complet de l’étudiant (tel qu’il figure sur le passeport), son numéro d’étudiant et le numéro du contrat de scolarité dans le champ de commentaire du virement bancaire.",
+      "ru": "В поле назначения банковского перевода укажите полное имя студента (как в паспорте), номер студенческого билета и номер договора на обучение."
+    },
+    {
+      "key": "moneyTransferContent.text_0053",
+      "en": "3. Retain Bank Receipts",
+      "fr": "3. Conserver les reçus bancaires",
+      "ru": "3. Сохраняйте банковские квитанции"
+    },
+    {
+      "key": "moneyTransferContent.text_0054",
+      "en": "Keep stamped bank payment receipts (or SWIFT MT103 confirmations). These are required by university registrars and visa renewal officers.",
+      "fr": "Conservez les reçus bancaires tamponnés (ou les confirmations SWIFT MT103). Ceux-ci sont exigés par les services administratifs des universités et les agents chargés du renouvellement des visas.",
+      "ru": "Сохраняйте банковские квитанции с печатью (или подтверждения SWIFT MT103). Они требуются учебными отделами университетов и сотрудниками, оформляющими продление визы."
+    },
+    {
+      "key": "moneyTransferContent.text_0055",
+      "en": "TRADE FINANCE INSTRUMENTS",
+      "fr": "INSTRUMENTS DE FINANCEMENT DU COMMERCE",
+      "ru": "ИНСТРУМЕНТЫ ТОРГОВОГО ФИНАНСИРОВАНИЯ"
+    },
+    {
+      "key": "moneyTransferContent.text_0056",
+      "en": "Commercial Trade Settlement Mechanisms",
+      "fr": "Mécanismes de règlement du commerce international",
+      "ru": "Механизмы расчётов во внешней торговле"
+    },
+    {
+      "key": "moneyTransferContent.text_0057",
+      "en": "Understanding standard trade finance instruments helps buyers and sellers structure secure commercial agreements that mitigate cross-border counterparty risk.",
+      "fr": "La compréhension des instruments courants de financement du commerce aide les acheteurs et les vendeurs à structurer des accords commerciaux sûrs qui réduisent le risque de contrepartie transfrontalier.",
+      "ru": "Понимание стандартных инструментов торгового финансирования помогает покупателям и продавцам составлять безопасные коммерческие соглашения, снижающие трансграничный риск контрагента."
+    },
+    {
+      "key": "moneyTransferContent.text_0058",
+      "en": "Commercial Invoices & Wire Transfers (T/T)",
+      "fr": "Factures commerciales et virements bancaires (T/T)",
+      "ru": "Коммерческие счета и банковские переводы (T/T)"
+    },
+    {
+      "key": "moneyTransferContent.text_0059",
+      "en": "Telegraphic Transfers (T/T) are standard interbank wire payments executed directly between buyer and seller banks based on mutually agreed commercial invoices.",
+      "fr": "Les transferts télégraphiques (T/T) sont des virements interbancaires classiques exécutés directement entre les banques de l’acheteur et du vendeur sur la base de factures commerciales convenues entre les parties.",
+      "ru": "Телеграфные переводы (T/T) — это стандартные межбанковские платежи, выполняемые непосредственно между банками покупателя и продавца на основании согласованных сторонами коммерческих счетов."
+    },
+    {
+      "key": "moneyTransferContent.text_0060",
+      "en": "Best used for: Established long-term supplier relationships.",
+      "fr": "Utilisation recommandée : relations durables avec des fournisseurs établis.",
+      "ru": "Оптимально для: сложившихся долгосрочных отношений с поставщиками."
+    },
+    {
+      "key": "moneyTransferContent.text_0061",
+      "en": "Letters of Credit (L/C)",
+      "fr": "Lettres de crédit (L/C)",
+      "ru": "Аккредитивы (L/C)"
+    },
+    {
+      "key": "moneyTransferContent.text_0062",
+      "en": "Irrevocable Letters of Credit issued by the buyer’s bank guarantee payment to the exporter once compliant shipping and phytosanitary documents are presented.",
+      "fr": "Les lettres de crédit irrévocables émises par la banque de l’acheteur garantissent le paiement à l’exportateur dès présentation de documents d’expédition et phytosanitaires conformes.",
+      "ru": "Безотзывные аккредитивы, выпущенные банком покупателя, гарантируют оплату экспортёру после представления надлежащим образом оформленных отгрузочных и фитосанитарных документов."
+    },
+    {
+      "key": "moneyTransferContent.text_0063",
+      "en": "Best used for: High-value bulk commodity & machinery shipments.",
+      "fr": "Utilisation recommandée : expéditions en vrac de marchandises et de machines de grande valeur.",
+      "ru": "Оптимально для: крупных партий дорогостоящих сырьевых товаров и оборудования."
+    },
+    {
+      "key": "moneyTransferContent.text_0064",
+      "en": "Escrow & Neutral Holding",
+      "fr": "Séquestre et détention par un tiers neutre",
+      "ru": "Эскроу и нейтральное хранение средств"
+    },
+    {
+      "key": "moneyTransferContent.text_0065",
+      "en": "An escrow agreement holds buyer funds with a neutral banking agent until cargo inspection reports (e.g. SGS) verify quality at destination loading ports.",
+      "fr": "Un accord de séquestre conserve les fonds de l’acheteur auprès d’un agent bancaire neutre jusqu’à ce que des rapports d’inspection de la cargaison (par exemple, SGS) confirment la qualité dans les ports de chargement à destination.",
+      "ru": "По соглашению об эскроу средства покупателя хранятся у нейтрального банковского агента до тех пор, пока отчёты об инспекции груза (например, SGS) не подтвердят качество в портах погрузки в пункте назначения."
+    },
+    {
+      "key": "moneyTransferContent.text_0066",
+      "en": "Best used for: New trading partners and custom equipment orders.",
+      "fr": "Utilisation recommandée : nouveaux partenaires commerciaux et commandes d’équipements sur mesure.",
+      "ru": "Оптимально для: новых торговых партнёров и заказов оборудования по индивидуальным требованиям."
+    },
+    {
+      "key": "moneyTransferContent.text_0067",
+      "en": "Documentary Collections (D/P, D/A)",
+      "fr": "Encaissements documentaires (D/P, D/A)",
+      "ru": "Документарное инкассо (D/P, D/A)"
+    },
+    {
+      "key": "moneyTransferContent.text_0068",
+      "en": "Documents Against Payment (D/P) or Acceptance (D/A) involve shipping documents being released to the importer only after bank payment or acceptance.",
+      "fr": "Dans le cadre des documents contre paiement (D/P) ou contre acceptation (D/A), les documents d’expédition ne sont remis à l’importateur qu’après paiement bancaire ou acceptation.",
+      "ru": "При использовании схем «документы против платежа» (D/P) или «документы против акцепта» (D/A) отгрузочные документы передаются импортёру только после банковского платежа или акцепта."
+    },
+    {
+      "key": "moneyTransferContent.text_0069",
+      "en": "Best used for: Containerized agricultural produce & consumer goods.",
+      "fr": "Utilisation recommandée : produits agricoles et biens de consommation conteneurisés.",
+      "ru": "Оптимально для: сельскохозяйственной продукции и потребительских товаров, перевозимых в контейнерах."
+    },
+    {
+      "key": "moneyTransferContent.text_0070",
+      "en": "Deferred Payment Terms",
+      "fr": "Modalités de paiement différé",
+      "ru": "Условия отсроченного платежа"
+    },
+    {
+      "key": "moneyTransferContent.text_0071",
+      "en": "Credit agreements allowing buyers 30, 60, or 90 days after bill of lading issuance to complete payment, often backed by trade insurance policies.",
+      "fr": "Accords de crédit permettant aux acheteurs de régler 30, 60 ou 90 jours après l’émission du connaissement, souvent garantis par des polices d’assurance-crédit commercial.",
+      "ru": "Кредитные соглашения, позволяющие покупателям завершить оплату через 30, 60 или 90 дней после выдачи коносамента; такие соглашения часто обеспечиваются полисами страхования торговых рисков."
+    },
+    {
+      "key": "moneyTransferContent.text_0072",
+      "en": "Best used for: High-turnover agricultural and commodity distributors.",
+      "fr": "Utilisation recommandée : distributeurs de produits agricoles et de matières premières à forte rotation.",
+      "ru": "Оптимально для: дистрибьюторов сельскохозяйственных и сырьевых товаров с высокой оборачиваемостью."
+    },
+    {
+      "key": "moneyTransferContent.text_0073",
+      "en": "Bilateral Clearing Accounts",
+      "fr": "Comptes de compensation bilatéraux",
+      "ru": "Двусторонние клиринговые счета"
+    },
+    {
+      "key": "moneyTransferContent.text_0074",
+      "en": "Specialized interbank accounts established between partner commercial banks allowing direct settlement in national currencies without third-country conversions.",
+      "fr": "Comptes interbancaires spécialisés établis entre des banques commerciales partenaires, permettant un règlement direct en monnaies nationales sans conversion par un pays tiers.",
+      "ru": "Специализированные межбанковские счета, открытые между коммерческими банками-партнёрами и позволяющие проводить прямые расчёты в национальных валютах без конвертации через третьи страны."
+    },
+    {
+      "key": "moneyTransferContent.text_0075",
+      "en": "Best used for: Direct government-to-government & major corporate trade.",
+      "fr": "Utilisation recommandée : échanges directs entre gouvernements et transactions commerciales de grandes entreprises.",
+      "ru": "Оптимально для: прямой торговли между государствами и крупных корпоративных сделок."
+    },
+    {
+      "key": "moneyTransferContent.text_0076",
+      "en": "INTERACTIVE EDUCATIONAL TOOL",
+      "fr": "OUTIL PÉDAGOGIQUE INTERACTIF",
+      "ru": "ИНТЕРАКТИВНЫЙ УЧЕБНЫЙ ИНСТРУМЕНТ"
+    },
+    {
+      "key": "moneyTransferContent.text_0077",
+      "en": "Currency & Clearing Fee Simulator",
+      "fr": "Simulateur de devises et de frais de compensation",
+      "ru": "Калькулятор валют и комиссий за клиринг"
+    },
+    {
+      "key": "moneyTransferContent.text_0078",
+      "en": "Non-binding simulation demonstrating standard interbank cost models.",
+      "fr": "Simulation non contraignante illustrant les modèles habituels de coûts interbancaires.",
+      "ru": "Не имеющая обязательной силы симуляция, демонстрирующая стандартные модели межбанковских издержек."
+    },
+    {
+      "key": "moneyTransferContent.text_0079",
+      "en": "Transaction Type:",
+      "fr": "Type de transaction :",
+      "ru": "Тип операции:"
+    },
+    {
+      "key": "moneyTransferContent.text_0080",
+      "en": "Tuition",
+      "fr": "Frais de scolarité",
+      "ru": "Обучение"
+    },
+    {
+      "key": "moneyTransferContent.text_0081",
+      "en": "Trade",
+      "fr": "Commerce",
+      "ru": "Торговля"
+    },
+    {
+      "key": "moneyTransferContent.text_0082",
+      "en": "Family",
+      "fr": "Famille",
+      "ru": "Семья"
+    },
+    {
+      "key": "moneyTransferContent.text_0083",
+      "en": "Select Currency Route:",
+      "fr": "Sélectionner la paire de devises :",
+      "ru": "Выберите валютный маршрут:"
+    },
+    {
+      "key": "moneyTransferContent.text_0084",
+      "en": "RUB (Ruble) → NGN (Naira)",
+      "fr": "RUB (rouble) → NGN (naira)",
+      "ru": "RUB (рубль) → NGN (найра)"
+    },
+    {
+      "key": "moneyTransferContent.text_0085",
+      "en": "Amount to Transfer:",
+      "fr": "Montant à transférer :",
+      "ru": "Сумма перевода:"
+    },
+    {
+      "key": "moneyTransferContent.text_0086",
+      "en": "Estimated Conversion Output (Mid-Market Baseline)",
+      "fr": "Montant converti estimé (taux moyen du marché de référence)",
+      "ru": "Расчётная сумма после конвертации (по базовому среднерыночному курсу)"
+    },
+    {
+      "key": "moneyTransferContent.text_0087",
+      "en": "1,650,000 NGN",
+      "fr": "1 650 000 NGN",
+      "ru": "1 650 000 NGN"
+    },
+    {
+      "key": "moneyTransferContent.text_0088",
+      "en": "Baseline for 100,000 RUB (Ruble)",
+      "fr": "Référence pour 100 000 RUB (roubles)",
+      "ru": "Базовый расчёт для 100 000 RUB (рублей)"
+    },
+    {
+      "key": "moneyTransferContent.text_0089",
+      "en": "Intermediary Fee Model:",
+      "fr": "Modèle de frais des intermédiaires :",
+      "ru": "Модель комиссии посредников:"
+    },
+    {
+      "key": "moneyTransferContent.text_0090",
+      "en": "0.8% – 1.5%",
+      "fr": "0,8 % – 1,5 %",
+      "ru": "0,8 % – 1,5 %"
+    },
+    {
+      "key": "moneyTransferContent.text_0091",
+      "en": "Interbank Transit Time:",
+      "fr": "Délai de transit interbancaire :",
+      "ru": "Срок межбанковского перевода:"
+    },
+    {
+      "key": "moneyTransferContent.text_0092",
+      "en": "1 – 2 Business Days",
+      "fr": "1 à 2 jours ouvrables",
+      "ru": "1–2 рабочих дня"
+    },
+    {
+      "key": "moneyTransferContent.text_0093",
+      "en": "Educational Simulator Disclaimer: This tool provides conceptual estimates based on standard international interbank clearing formulas. AFRUS is an information platform and does not provide financial advice, take deposits, or execute wire transfers.",
+      "fr": "Avertissement relatif au simulateur pédagogique : cet outil fournit des estimations conceptuelles fondées sur les formules habituelles de compensation interbancaire internationale. AFRUS est une plateforme d’information ; elle ne fournit pas de conseils financiers, n’accepte pas de dépôts et n’exécute pas de virements bancaires.",
+      "ru": "Отказ от ответственности в отношении учебного калькулятора: этот инструмент предоставляет ориентировочные оценки на основе стандартных формул международного межбанковского клиринга. AFRUS является информационной платформой, не предоставляет финансовых консультаций, не принимает вклады и не выполняет банковские переводы."
+    },
+    {
+      "key": "moneyTransferContent.text_0094",
+      "en": "FINANCIAL INFRASTRUCTURE",
+      "fr": "INFRASTRUCTURE FINANCIÈRE",
+      "ru": "ФИНАНСОВАЯ ИНФРАСТРУКТУРА"
+    },
+    {
+      "key": "moneyTransferContent.text_0095",
+      "en": "International Banking & Messaging Systems",
+      "fr": "Systèmes internationaux de banque et de messagerie",
+      "ru": "Международные банковские системы и системы обмена сообщениями"
+    },
+    {
+      "key": "moneyTransferContent.text_0096",
+      "en": "Understand the difference between financial messaging networks (which transmit instructions) and clearing houses (which move real money reserves).",
+      "fr": "Comprenez la différence entre les réseaux de messagerie financière (qui transmettent des instructions) et les chambres de compensation (qui déplacent les réserves monétaires réelles).",
+      "ru": "Разберитесь в различиях между сетями финансовых сообщений (передающими инструкции) и клиринговыми палатами (перемещающими реальные денежные резервы)."
+    },
+    {
+      "key": "moneyTransferContent.text_0097",
+      "en": "01. SWIFT Network",
+      "fr": "01. Réseau SWIFT",
+      "ru": "01. Сеть SWIFT"
+    },
+    {
+      "key": "moneyTransferContent.text_0098",
+      "en": "Global Interbank Messaging",
+      "fr": "Messagerie interbancaire mondiale",
+      "ru": "Глобальная межбанковская система обмена сообщениями"
+    },
+    {
+      "key": "moneyTransferContent.text_0099",
+      "en": "SWIFT uses standardized message formats (such as MT103 for customer transfers and MT202 for bank settlements) to instruct banks on fund distribution worldwide.",
+      "fr": "SWIFT utilise des formats de messages normalisés (tels que MT103 pour les transferts de clients et MT202 pour les règlements bancaires) afin de donner aux banques des instructions sur la distribution des fonds dans le monde entier.",
+      "ru": "SWIFT использует стандартизированные форматы сообщений (например, MT103 для клиентских переводов и MT202 для банковских расчётов), чтобы передавать банкам инструкции о распределении средств по всему миру."
+    },
+    {
+      "key": "moneyTransferContent.text_0100",
+      "en": "02. SPFS & CIPS Systems",
+      "fr": "02. Systèmes SPFS et CIPS",
+      "ru": "02. Системы SPFS и CIPS"
+    },
+    {
+      "key": "moneyTransferContent.text_0101",
+      "en": "Alternative Messaging Rails",
+      "fr": "Réseaux de messagerie alternatifs",
+      "ru": "Альтернативные каналы передачи сообщений"
+    },
+    {
+      "key": "moneyTransferContent.text_0102",
+      "en": "SPFS (Russia) and CIPS (China) provide independent, secure messaging channels connecting participating banks across Eurasia, Asia, and partner African institutions.",
+      "fr": "SPFS (Russie) et CIPS (Chine) fournissent des canaux de messagerie indépendants et sécurisés reliant les banques participantes en Eurasie, en Asie et dans les institutions africaines partenaires.",
+      "ru": "SPFS (Россия) и CIPS (Китай) предоставляют независимые защищённые каналы обмена сообщениями, соединяющие банки-участники в Евразии и Азии, а также партнёрские финансовые учреждения Африки."
+    },
+    {
+      "key": "moneyTransferContent.text_0103",
+      "en": "03. Bilateral Nostro Links",
+      "fr": "03. Liaisons Nostro bilatérales",
+      "ru": "03. Двусторонние связи Nostro"
+    },
+    {
+      "key": "moneyTransferContent.text_0104",
+      "en": "Direct Reserve Settlement",
+      "fr": "Règlement direct des réserves",
+      "ru": "Прямые расчёты по резервам"
+    },
+    {
+      "key": "moneyTransferContent.text_0105",
+      "en": "Commercial banks holding direct accounts with one another clear funds directly without third-country intermediary delays, enhancing execution speed.",
+      "fr": "Les banques commerciales détenant des comptes directs les unes auprès des autres compensent les fonds directement, sans les délais imposés par des intermédiaires de pays tiers, ce qui accélère l’exécution.",
+      "ru": "Коммерческие банки, имеющие прямые счета друг у друга, проводят клиринг средств напрямую, избегая задержек со стороны посредников из третьих стран и тем самым ускоряя исполнение операций."
+    },
+    {
+      "key": "moneyTransferContent.text_0106",
+      "en": "REGULATORY COMPLIANCE",
+      "fr": "CONFORMITÉ RÉGLEMENTAIRE",
+      "ru": "СОБЛЮДЕНИЕ НОРМАТИВНЫХ ТРЕБОВАНИЙ"
+    },
+    {
+      "key": "moneyTransferContent.text_0107",
+      "en": "Required Payment Documentation Checklist",
+      "fr": "Liste des documents de paiement requis",
+      "ru": "Перечень необходимых платёжных документов"
+    },
+    {
+      "key": "moneyTransferContent.text_0108",
+      "en": "Students",
+      "fr": "Étudiants",
+      "ru": "Студенты"
+    },
+    {
+      "key": "moneyTransferContent.text_0109",
+      "en": "Businesses",
+      "fr": "Entreprises",
+      "ru": "Компании"
+    },
+    {
+      "key": "moneyTransferContent.text_0110",
+      "en": "Individuals",
+      "fr": "Particuliers",
+      "ru": "Частные лица"
+    },
+    {
+      "key": "moneyTransferContent.text_0111",
+      "en": "Official Russian University Invoice / Tuition Contract Number",
+      "fr": "Facture officielle d’une université russe / numéro du contrat de scolarité",
+      "ru": "Официальный счёт российского университета / номер договора на обучение"
+    },
+    {
+      "key": "moneyTransferContent.text_0112",
+      "en": "Passport copy with valid Russian student visa page",
+      "fr": "Copie du passeport avec la page du visa étudiant russe en cours de validité",
+      "ru": "Копия паспорта со страницей действующей российской студенческой визы"
+    },
+    {
+      "key": "moneyTransferContent.text_0113",
+      "en": "Correct Bank Details (University INN, KPP, BIC, IBAN/Account Number)",
+      "fr": "Coordonnées bancaires exactes (INN, KPP, BIC, IBAN/numéro de compte de l’université)",
+      "ru": "Правильные банковские реквизиты (ИНН, КПП, БИК, IBAN/номер счёта университета)"
+    },
+    {
+      "key": "moneyTransferContent.text_0114",
+      "en": "Full Student Name and Reference Code in Transfer Purpose Field",
+      "fr": "Nom complet de l’étudiant et code de référence dans le champ « Motif du transfert »",
+      "ru": "Полное имя студента и код назначения в поле «Назначение перевода»"
+    },
+    {
+      "key": "moneyTransferContent.text_0115",
+      "en": "Stamped Bank Receipt / SWIFT MT103 confirmation copy",
+      "fr": "Reçu bancaire tamponné / copie de la confirmation SWIFT MT103",
+      "ru": "Банковская квитанция с печатью / копия подтверждения SWIFT MT103"
+    },
+    {
+      "key": "moneyTransferContent.text_0116",
+      "en": "FINANCIAL GLOSSARY",
+      "fr": "GLOSSAIRE FINANCIER",
+      "ru": "ФИНАНСОВЫЙ ГЛОССАРИЙ"
+    },
+    {
+      "key": "moneyTransferContent.text_0117",
+      "en": "Key Financial Terminology",
+      "fr": "Principaux termes financiers",
+      "ru": "Основные финансовые термины"
+    },
+    {
+      "key": "moneyTransferContent.text_0118",
+      "en": "Search financial terms (e.g. L/C, Nostro, Form M, SWIFT)...",
+      "fr": "Rechercher des termes financiers (par exemple, L/C, Nostro, formulaire M, SWIFT)…",
+      "ru": "Поиск финансовых терминов (например, L/C, Nostro, форма M, SWIFT)…"
+    },
+    {
+      "key": "moneyTransferContent.text_0119",
+      "en": "Correspondent Banking",
+      "fr": "Banque correspondante",
+      "ru": "Корреспондентский банкинг"
+    },
+    {
+      "key": "moneyTransferContent.text_0120",
+      "en": "A financial arrangement where one bank (correspondent) provides services on behalf of another (respondent) bank in a different jurisdiction to facilitate cross-border currency clearing.",
+      "fr": "Dispositif financier dans lequel une banque (correspondante) fournit des services pour le compte d’une autre banque (répondante) située dans une juridiction différente, afin de faciliter la compensation transfrontalière des devises.",
+      "ru": "Финансовая схема, при которой один банк (банк-корреспондент) оказывает услуги от имени другого банка (банка-респондента), находящегося в иной юрисдикции, чтобы обеспечить трансграничный валютный клиринг."
+    },
+    {
+      "key": "moneyTransferContent.text_0121",
+      "en": "Letter of Credit (L/C)",
+      "fr": "Lettre de crédit (L/C)",
+      "ru": "Аккредитив (L/C)"
+    },
+    {
+      "key": "moneyTransferContent.text_0122",
+      "en": "Nostro & Vostro Accounts",
+      "fr": "Comptes Nostro et Vostro",
+      "ru": "Счета Nostro и Vostro"
+    },
+    {
+      "key": "moneyTransferContent.text_0123",
+      "en": "Form M & Form NXP (Nigeria)",
+      "fr": "Formulaires M et NXP (Nigeria)",
+      "ru": "Формы M и NXP (Нигерия)"
+    },
+    {
+      "key": "moneyTransferContent.text_0124",
+      "en": "CEMAC / BEAC Regulations",
+      "fr": "Réglementation CEMAC / BEAC",
+      "ru": "Правила CEMAC / BEAC"
+    },
+    {
+      "key": "moneyTransferContent.text_0125",
+      "en": "SWIFT MT103",
+      "fr": "SWIFTMT103",
+      "ru": "СВИФТ МТ103"
+    },
+    {
+      "key": "moneyTransferContent.text_0126",
+      "en": "SPFS (Financial Messaging System)",
+      "fr": "SPFS (système de messagerie financière)",
+      "ru": "SPFS (система передачи финансовых сообщений)"
+    },
+    {
+      "key": "moneyTransferContent.text_0127",
+      "en": "Sanction & AML Compliance Screening",
+      "fr": "Filtrage des sanctions et de la conformité AML",
+      "ru": "Проверка соблюдения санкций и требований AML"
+    },
+    {
+      "key": "moneyTransferContent.text_0128",
+      "en": "BEST PRACTICES",
+      "fr": "BONNES PRATIQUES",
+      "ru": "РЕКОМЕНДАЦИИ"
+    },
+    {
+      "key": "moneyTransferContent.text_0129",
+      "en": "Practical Guidance for Smooth Transfers",
+      "fr": "Conseils pratiques pour des transferts fluides",
+      "ru": "Практические советы для беспрепятственного проведения переводов"
+    },
+    {
+      "key": "moneyTransferContent.text_0130",
+      "en": "01. Verify Account Codes",
+      "fr": "01. Vérifier les codes de compte",
+      "ru": "01. Проверяйте коды счетов"
+    },
+    {
+      "key": "moneyTransferContent.text_0131",
+      "en": "Always double-check Russian INN, KPP, and BIC codes before executing tuition or invoice transfers. A single digit mismatch can delay clearing.",
+      "fr": "Vérifiez toujours une seconde fois les codes russes INN, KPP et BIC avant d’effectuer le paiement de frais de scolarité ou d’une facture. Une seule erreur de chiffre peut retarder la compensation.",
+      "ru": "Всегда перепроверяйте российские коды ИНН, КПП и БИК перед переводом средств на оплату обучения или счёта. Ошибка всего в одной цифре может задержать клиринг."
+    },
+    {
+      "key": "moneyTransferContent.text_0132",
+      "en": "02. Plan Processing Buffers",
+      "fr": "02. Prévoir une marge pour le traitement",
+      "ru": "02. Закладывайте запас времени на обработку"
+    },
+    {
+      "key": "moneyTransferContent.text_0133",
+      "en": "Allow 3 to 5 business days for statutory compliance reviews, especially prior to university tuition deadlines or customs cargo arrivals.",
+      "fr": "Prévoyez 3 à 5 jours ouvrables pour les contrôles réglementaires de conformité, en particulier avant les échéances de paiement des frais universitaires ou l’arrivée des marchandises en douane.",
+      "ru": "Предусматривайте от 3 до 5 рабочих дней для обязательных проверок соблюдения требований, особенно перед сроком оплаты обучения или прибытием груза на таможню."
+    },
+    {
+      "key": "moneyTransferContent.text_0134",
+      "en": "03. Store Official Receipts",
+      "fr": "03. Archiver les reçus officiels",
+      "ru": "03. Храните официальные квитанции"
+    },
+    {
+      "key": "moneyTransferContent.text_0135",
+      "en": "Always request and archive the official SWIFT MT103 copy or stamped bank receipt. Keep digital copies for immigration and tax records.",
+      "fr": "Demandez et archivez toujours la copie officielle du SWIFT MT103 ou le reçu bancaire tamponné. Conservez des copies numériques pour les dossiers d’immigration et fiscaux.",
+      "ru": "Всегда запрашивайте и архивируйте официальную копию SWIFT MT103 или банковскую квитанцию с печатью. Храните цифровые копии для миграционных и налоговых документов."
+    },
+    {
+      "key": "moneyTransferContent.text_0136",
+      "en": "04. Monitor FX Trends",
+      "fr": "04. Suivre les tendances du marché des changes",
+      "ru": "04. Следите за динамикой валютных курсов"
+    },
+    {
+      "key": "moneyTransferContent.text_0137",
+      "en": "Understand mid-market exchange rate trends and compare bank spreads to optimize large commercial invoice or annual tuition payments.",
+      "fr": "Comprenez l’évolution du taux de change moyen du marché et comparez les marges bancaires afin d’optimiser le paiement de factures commerciales importantes ou de frais de scolarité annuels.",
+      "ru": "Отслеживайте динамику среднерыночных обменных курсов и сравнивайте банковские наценки, чтобы оптимизировать оплату крупных коммерческих счетов или годовой стоимости обучения."
+    },
+    {
+      "key": "moneyTransferContent.text_0138",
+      "en": "EDUCATIONAL FAQ",
+      "fr": "FAQ PÉDAGOGIQUE",
+      "ru": "УЧЕБНЫЙ РАЗДЕЛ ЧАСТО ЗАДАВАЕМЫХ ВОПРОСОВ"
+    },
+    {
+      "key": "moneyTransferContent.text_0139",
+      "en": "Frequently Asked Financial Questions",
+      "fr": "Questions financières fréquentes",
+      "ru": "Часто задаваемые вопросы о финансах"
+    },
+    {
+      "key": "moneyTransferContent.text_0140",
+      "en": "How do international students pay university tuition fees in Russia?",
+      "fr": "Comment les étudiants internationaux paient-ils leurs frais universitaires en Russie ?",
+      "ru": "Как иностранные студенты оплачивают обучение в российских университетах?"
+    },
+    {
+      "key": "moneyTransferContent.text_0141",
+      "en": "What is the role of correspondent banks in Russia–Africa payments?",
+      "fr": "Quel est le rôle des banques correspondantes dans les paiements entre la Russie et l’Afrique ?",
+      "ru": "Какова роль банков-корреспондентов в платежах между Россией и Африкой?"
+    },
+    {
+      "key": "moneyTransferContent.text_0142",
+      "en": "What documentation is required for commercial trade settlements?",
+      "fr": "Quels documents sont requis pour les règlements commerciaux ?",
+      "ru": "Какие документы необходимы для расчётов по коммерческим сделкам?"
+    },
+    {
+      "key": "moneyTransferContent.text_0143",
+      "en": "How do currency exchange rates and bank spreads affect payment totals?",
+      "fr": "Comment les taux de change et les marges bancaires influencent-ils le montant total des paiements ?",
+      "ru": "Как валютные курсы и банковские наценки влияют на итоговую сумму платежа?"
+    },
+    {
+      "key": "moneyTransferContent.text_0144",
+      "en": "Is AFRUS a bank or licensed payment processor?",
+      "fr": "AFRUS est-elle une banque ou un prestataire de services de paiement agréé ?",
+      "ru": "Является ли AFRUS банком или лицензированным оператором платёжных услуг?"
+    },
+    {
+      "key": "moneyTransferContent.text_0145",
+      "en": "Need More Information About Russia–Africa Cross-Border Payments?",
+      "fr": "Besoin de plus d’informations sur les paiements transfrontaliers entre la Russie et l’Afrique ?",
+      "ru": "Нужна дополнительная информация о трансграничных платежах между Россией и Африкой?"
+    },
+    {
+      "key": "moneyTransferContent.text_0146",
+      "en": "If you have questions about international payment systems, trade settlements, tuition transfers, or financial processes related to Russia and Africa, the AFRUS team is available to provide guidance and direct you to appropriate resources.",
+      "fr": "Si vous avez des questions sur les systèmes de paiement internationaux, les règlements commerciaux, les transferts de frais de scolarité ou les processus financiers liés à la Russie et à l’Afrique, l’équipe d’AFRUS est à votre disposition pour vous conseiller et vous orienter vers les ressources appropriées.",
+      "ru": "Если у вас есть вопросы о международных платёжных системах, торговых расчётах, переводах средств на оплату обучения или финансовых процессах, связанных с Россией и Африкой, команда AFRUS готова предоставить рекомендации и направить вас к соответствующим ресурсам."
+    },
+    {
+      "key": "moneyTransferContent.text_0147",
+      "en": "Contact AFRUS",
+      "fr": "Contacter AFRUS",
+      "ru": "Связаться с AFRUS"
+    },
+    {
+      "key": "moneyTransferContent.text_0148",
+      "en": "Cross-Border Payment Rails",
+      "fr": "Réseaux de paiement transfrontaliers",
+      "ru": "Трансграничная платёжная инфраструктура"
+    },
+    {
+      "key": "moneyTransferContent.text_0149",
+      "en": "Secure Digital Clearing Corridors for Commercial & Academic Transactions",
+      "fr": "Corridors numériques sécurisés de compensation pour les transactions commerciales et universitaires",
+      "ru": "Безопасные цифровые клиринговые коридоры для коммерческих и образовательных операций"
+    },
+    {
+      "key": "moneyTransferContent.text_0150",
+      "en": "Direct Central-Bank Compliant RUB, CNY, XAF & USD SWIFT/SPFS Corridors",
+      "fr": "Corridors directs SWIFT/SPFS en RUB, CNY, XAF et USD conformes aux exigences des banques centrales",
+      "ru": "Прямые коридоры SWIFT/SPFS в RUB, CNY, XAF и USD, соответствующие требованиям центральных банков"
+    },
+    {
+      "key": "moneyTransferContent.text_0151",
+      "en": "Commercial Trade & Treasury Settlement",
+      "fr": "Commerce et règlements de trésorerie",
+      "ru": "Торговые и казначейские расчёты"
+    },
+    {
+      "key": "moneyTransferContent.text_0152",
+      "en": "Instant Clearing & Liquidity Management for Cross-Border Contracts",
+      "fr": "Compensation instantanée et gestion des liquidités pour les contrats transfrontaliers",
+      "ru": "Мгновенный клиринг и управление ликвидностью по трансграничным контрактам"
+    },
+    {
+      "key": "moneyTransferContent.text_0153",
+      "en": "RUB (Ruble)",
+      "fr": "RUB (rouble)",
+      "ru": "RUB (рубль)"
+    },
+    {
+      "key": "moneyTransferContent.text_0154",
+      "en": "NGN (Naira)",
+      "fr": "NGN (naira)",
+      "ru": "NGN (найра)"
+    },
+    {
+      "key": "moneyTransferContent.text_0155",
+      "en": "XAF (BEAC Franc)",
+      "fr": "XAF (franc BEAC)",
+      "ru": "XAF (франк BEAC)"
+    },
+    {
+      "key": "moneyTransferContent.text_0156",
+      "en": "USD (Dollar)",
+      "fr": "USD (dollar)",
+      "ru": "USD (доллар)"
+    },
+    {
+      "key": "moneyTransferContent.text_0157",
+      "en": "RUB (Ruble) → XAF (CFA Franc)",
+      "fr": "RUB (rouble) → XAF (franc CFA)",
+      "ru": "RUB (рубль) → XAF (франк КФА)"
+    },
+    {
+      "key": "moneyTransferContent.text_0158",
+      "en": "RUB (Ruble) → USD (US Dollar)",
+      "fr": "RUB (rouble) → USD (dollar américain)",
+      "ru": "RUB (рубль) → USD (доллар США)"
+    },
+    {
+      "key": "moneyTransferContent.text_0159",
+      "en": "NGN (Naira) → RUB (Ruble)",
+      "fr": "NGN (naira) → RUB (rouble)",
+      "ru": "NGN (найра) → RUB (рубль)"
+    },
+    {
+      "key": "moneyTransferContent.text_0160",
+      "en": "XAF (CFA Franc) → RUB (Ruble)",
+      "fr": "XAF (franc CFA) → RUB (rouble)",
+      "ru": "XAF (франк КФА) → RUB (рубль)"
+    },
+    {
+      "key": "moneyTransferContent.text_0161",
+      "en": "2 – 4 Business Days",
+      "fr": "2 à 4 jours ouvrables",
+      "ru": "2–4 рабочих дня"
+    },
+    {
+      "key": "moneyTransferContent.text_0162",
+      "en": "A formal contractual document issued by a buyer’s bank guaranteeing payment to a seller upon presentation of specified shipping and inspection documents (e.g., Bill of Lading, Phytosanitary Certificate).",
+      "fr": "Document contractuel officiel émis par la banque de l’acheteur, garantissant le paiement au vendeur sur présentation des documents d’expédition et d’inspection spécifiés (par exemple, connaissement et certificat phytosanitaire).",
+      "ru": "Официальный договорный документ, выпускаемый банком покупателя и гарантирующий оплату продавцу после представления указанных отгрузочных и инспекционных документов (например, коносамента и фитосанитарного сертификата)."
+    },
+    {
+      "key": "moneyTransferContent.text_0163",
+      "en": "Nostro (\"our money held by you\") and Vostro (\"your money held by us\") are bank accounts held in a foreign country in foreign currency to facilitate direct trade settlements.",
+      "fr": "Les comptes Nostro (« notre argent détenu chez vous ») et Vostro (« votre argent détenu chez nous ») sont des comptes bancaires tenus à l’étranger dans une devise étrangère afin de faciliter les règlements commerciaux directs.",
+      "ru": "Nostro («наши деньги у вас») и Vostro («ваши деньги у нас») — это банковские счета, открытые за рубежом в иностранной валюте для проведения прямых торговых расчётов."
+    },
+    {
+      "key": "moneyTransferContent.text_0164",
+      "en": "Mandatory statutory trade documents mandated by the Central Bank of Nigeria (CBN). Form M is required for commercial goods importation, while Form NXP is required for commercial exports.",
+      "fr": "Documents commerciaux réglementaires obligatoires imposés par la Banque centrale du Nigeria (CBN). Le formulaire M est requis pour l’importation commerciale de marchandises, tandis que le formulaire NXP est requis pour les exportations commerciales.",
+      "ru": "Обязательные торговые документы, установленные Центральным банком Нигерии (CBN). Форма M требуется для коммерческого импорта товаров, а форма NXP — для коммерческого экспорта."
+    },
+    {
+      "key": "moneyTransferContent.text_0165",
+      "en": "Foreign exchange regulatory framework administered by the Bank of Central African States (BEAC) governing capital transfers, import documentation, and currency conversions across Central Africa.",
+      "fr": "Cadre réglementaire des changes administré par la Banque des États de l’Afrique centrale (BEAC), qui régit les transferts de capitaux, les documents d’importation et les conversions monétaires en Afrique centrale.",
+      "ru": "Система валютного регулирования Банка государств Центральной Африки (BEAC), регулирующая переводы капитала, импортную документацию и конвертацию валют в Центральной Африке."
+    },
+    {
+      "key": "moneyTransferContent.text_0166",
+      "en": "Standardized single customer credit transfer message format used internationally to verify and track wire payment details, value dates, and bank processing reference codes.",
+      "fr": "Format normalisé de message de virement pour un seul client, utilisé à l’échelle internationale pour vérifier et suivre les détails du paiement, les dates de valeur et les références de traitement bancaire.",
+      "ru": "Стандартизированный формат сообщения об одиночном клиентском переводе, используемый во всём мире для проверки и отслеживания реквизитов платежа, дат валютирования и банковских кодов обработки."
+    },
+    {
+      "key": "moneyTransferContent.text_0167",
+      "en": "Russia’s proprietary financial messaging system developed by the Central Bank of Russia as an alternative to SWIFT for interbank message transmission.",
+      "fr": "Système russe de messagerie financière développé par la Banque centrale de Russie comme solution de remplacement de SWIFT pour la transmission de messages interbancaires.",
+      "ru": "Российская система передачи финансовых сообщений, разработанная Банком России как альтернатива SWIFT для обмена межбанковскими сообщениями."
+    },
+    {
+      "key": "moneyTransferContent.text_0168",
+      "en": "Automated statutory verification process performed by financial institutions to ensure transactions comply with international Anti-Money Laundering (AML) laws and sanctions databases.",
+      "fr": "Processus automatisé de vérification réglementaire effectué par les institutions financières pour garantir que les transactions respectent les lois internationales de lutte contre le blanchiment d’argent (AML) et les bases de données de sanctions.",
+      "ru": "Автоматизированная обязательная проверка, проводимая финансовыми учреждениями для обеспечения соответствия операций международным нормам противодействия отмыванию денег (AML) и санкционным базам данных."
+    },
+    {
+      "key": "moneyTransferContent.text_0169",
+      "en": "Students typically arrange payments via international bank wire transfer, UnionPay cards, or authorized local bank accounts in Russia (such as Sber, VTB, or T-Bank). Essential steps include obtaining the university’s official invoice, verifying bank details (INN, KPP, BIC, IBAN/Account Number), including the student’s full name and passport number in the transfer description, and retaining the official payment receipt for university registration and visa processing.",
+      "fr": "Les étudiants effectuent généralement leurs paiements par virement bancaire international, carte UnionPay ou compte bancaire local agréé en Russie (par exemple Sber, VTB ou T-Bank). Il est essentiel d’obtenir la facture officielle de l’université, de vérifier les coordonnées bancaires (INN, KPP, BIC, IBAN/numéro de compte), d’indiquer le nom complet et le numéro de passeport de l’étudiant dans le motif du transfert, puis de conserver le reçu officiel pour l’inscription universitaire et les formalités de visa.",
+      "ru": "Студенты обычно оплачивают обучение международным банковским переводом, картой UnionPay или через разрешённые местные банковские счета в России (например, Сбер, ВТБ или Т-Банк). Необходимо получить официальный счёт университета, проверить банковские реквизиты (ИНН, КПП, БИК, IBAN/номер счёта), указать полное имя и номер паспорта студента в назначении перевода и сохранить официальную квитанцию для регистрации в университете и оформления визы."
+    },
+    {
+      "key": "moneyTransferContent.text_0170",
+      "en": "Because direct banking links between Russian and African commercial banks are evolving, transactions often clear through specialized correspondent banks or third-country financial hubs (such as China, UAE, or Turkey) holding Nostro/Vostro accounts in local or neutral trade currencies.",
+      "fr": "Les liens bancaires directs entre les banques commerciales russes et africaines étant encore en développement, les transactions sont souvent compensées par des banques correspondantes spécialisées ou des centres financiers de pays tiers (comme la Chine, les Émirats arabes unis ou la Turquie) détenant des comptes Nostro/Vostro en monnaies locales ou commerciales neutres.",
+      "ru": "Поскольку прямые связи между российскими и африканскими коммерческими банками продолжают развиваться, операции часто проходят через специализированные банки-корреспонденты или финансовые центры третьих стран (например, Китая, ОАЭ или Турции), имеющие счета Nostro/Vostro в местных или нейтральных торговых валютах."
+    },
+    {
+      "key": "moneyTransferContent.text_0171",
+      "en": "Commercial transactions require a Pro-Forma or Commercial Invoice, Sales Contract, Bill of Lading or Transport Document, Certificate of Origin, and customs import declarations (e.g., Form M in Nigeria or BEAC declaration in Central Africa). Banks review these documents before authorizing foreign exchange disbursement.",
+      "fr": "Les transactions commerciales nécessitent une facture pro forma ou commerciale, un contrat de vente, un connaissement ou document de transport, un certificat d’origine et des déclarations douanières d’importation (par exemple, le formulaire M au Nigeria ou une déclaration BEAC en Afrique centrale). Les banques examinent ces documents avant d’autoriser le décaissement en devises.",
+      "ru": "Для коммерческих операций требуются счёт-проформа или коммерческий счёт, договор купли-продажи, коносамент или транспортный документ, сертификат происхождения и таможенные импортные декларации (например, форма M в Нигерии или декларация BEAC в Центральной Африке). Банки проверяют эти документы до разрешения валютного платежа."
+    },
+    {
+      "key": "moneyTransferContent.text_0172",
+      "en": "Cross-border payments involve two financial costs: explicit transaction fees (intermediary bank charges) and implicit currency conversion spreads (the margin added by banks above the benchmark mid-market rate). Understanding both components helps businesses and students plan accurate budget transfers.",
+      "fr": "Les paiements transfrontaliers comportent deux coûts financiers : les frais de transaction explicites (commissions des banques intermédiaires) et les marges implicites de conversion monétaire (marge ajoutée par les banques au taux moyen du marché). La compréhension de ces deux éléments aide les entreprises et les étudiants à planifier précisément leurs transferts.",
+      "ru": "Трансграничные платежи включают два вида затрат: явные комиссии за операцию (сборы банков-посредников) и скрытую курсовую маржу (надбавку банка к базовому среднерыночному курсу). Понимание обоих компонентов помогает компаниям и студентам точно планировать суммы переводов."
+    },
+    {
+      "key": "moneyTransferContent.text_0173",
+      "en": "No. AFRUS is an international business, cultural, and educational information platform. We do not hold client funds, process banking transactions, or operate as a financial institution. This guide serves purely as an educational resource to inform businesses, students, and travelers about established international financial systems.",
+      "fr": "Non. AFRUS est une plateforme internationale d’information commerciale, culturelle et éducative. Nous ne détenons pas les fonds des clients, ne traitons pas d’opérations bancaires et n’exerçons pas en tant qu’institution financière. Ce guide est exclusivement une ressource pédagogique destinée à informer les entreprises, les étudiants et les voyageurs sur les systèmes financiers internationaux établis.",
+      "ru": "Нет. AFRUS — международная информационная платформа в сфере бизнеса, культуры и образования. Мы не храним средства клиентов, не обрабатываем банковские операции и не действуем как финансовое учреждение. Это руководство является исключительно образовательным ресурсом для компаний, студентов и путешественников о действующих международных финансовых системах."
+    },
+    {
+      "key": "moneyTransferContent.text_0174",
+      "en": "Signed International Commercial Sales Contract",
+      "fr": "Contrat international de vente commerciale signé",
+      "ru": "Подписанный международный договор коммерческой купли-продажи"
+    },
+    {
+      "key": "moneyTransferContent.text_0175",
+      "en": "Pro-Forma Invoice & Final Commercial Invoice",
+      "fr": "Facture pro forma et facture commerciale définitive",
+      "ru": "Счёт-проформа и окончательный коммерческий счёт"
+    },
+    {
+      "key": "moneyTransferContent.text_0176",
+      "en": "Bill of Lading / Air Waybill Transport Document",
+      "fr": "Connaissement / lettre de transport aérien",
+      "ru": "Коносамент / авиагрузовая накладная"
+    },
+    {
+      "key": "moneyTransferContent.text_0177",
+      "en": "Customs Export/Import Declarations (e.g. Form M / BEAC)",
+      "fr": "Déclarations douanières d’exportation/importation (par exemple, formulaire M / BEAC)",
+      "ru": "Таможенные экспортные/импортные декларации (например, форма M / BEAC)"
+    },
+    {
+      "key": "moneyTransferContent.text_0178",
+      "en": "Phytosanitary or SGS Cargo Inspection Certificates",
+      "fr": "Certificats phytosanitaires ou certificats d’inspection de la cargaison SGS",
+      "ru": "Фитосанитарные сертификаты или сертификаты инспекции груза SGS"
+    },
+    {
+      "key": "moneyTransferContent.text_0179",
+      "en": "Government-Issued Photo Identification (Passport / National ID)",
+      "fr": "Pièce d’identité officielle avec photo (passeport / carte nationale d’identité)",
+      "ru": "Удостоверение личности государственного образца с фотографией (паспорт / национальное удостоверение личности)"
+    },
+    {
+      "key": "moneyTransferContent.text_0180",
+      "en": "Proof of Source of Funds (Salary Statement / Bank Record)",
+      "fr": "Justificatif de l’origine des fonds (bulletin de salaire / relevé bancaire)",
+      "ru": "Подтверждение источника средств (справка о заработной плате / банковская выписка)"
+    },
+    {
+      "key": "moneyTransferContent.text_0181",
+      "en": "Verified Beneficiary Bank Account Details",
+      "fr": "Coordonnées bancaires vérifiées du bénéficiaire",
+      "ru": "Проверенные реквизиты банковского счёта получателя"
+    },
+    {
+      "key": "moneyTransferContent.text_0182",
+      "en": "Declaration of Non-Commercial Family Remittance Purpose",
+      "fr": "Déclaration du motif non commercial du transfert familial",
+      "ru": "Заявление о некоммерческом назначении семейного денежного перевода"
+    },
+    {
+      "key": "moneyTransferContent.text_0183",
+      "en": "Tax Identification Number (TIN) where applicable",
+      "fr": "Numéro d’identification fiscale (TIN), le cas échéant",
+      "ru": "Идентификационный номер налогоплательщика (TIN), если применимо"
+    },
+    {
+      "key": "moneyTransferContent.fragment_corridor_business_prefix",
+      "en": "Businesses and individuals conducting transactions between Russia and Central African nations—including",
+      "fr": "Les entreprises et les particuliers effectuant des transactions entre la Russie et les pays d’Afrique centrale — notamment",
+      "ru": "Компании и частные лица, осуществляющие операции между Россией и государствами Центральной Африки, включая"
+    },
+    {
+      "key": "moneyTransferContent.fragment_corridor_countries",
+      "en": "Cameroon, Gabon, Republic of the Congo, Chad, and Central African Republic",
+      "fr": "le Cameroun, le Gabon, la République du Congo, le Tchad et la République centrafricaine",
+      "ru": "Камерун, Габон, Республику Конго, Чад и Центральноафриканскую Республику"
+    },
+    {
+      "key": "moneyTransferContent.fragment_corridor_business_suffix",
+      "en": "—navigate foreign exchange rules defined by the Bank of Central African States (BEAC).",
+      "fr": "— doivent respecter les règles de change définies par la Banque des États de l’Afrique centrale (BEAC).",
+      "ru": "должны учитывать правила валютного регулирования, установленные Банком государств Центральной Африки (BEAC)."
+    },
+    {
+      "key": "moneyTransferContent.label_currencies",
+      "en": "Currencies Involved:",
+      "fr": "Devises concernées :",
+      "ru": "Используемые валюты:"
+    },
+    {
+      "key": "moneyTransferContent.value_currencies",
+      "en": "Central African CFA Franc (XAF), Russian Ruble (RUB), Euros (EUR), Yuan (CNY).",
+      "fr": "Franc CFA d’Afrique centrale (XAF), rouble russe (RUB), euro (EUR), yuan (CNY).",
+      "ru": "Центральноафриканский франк КФА (XAF), российский рубль (RUB), евро (EUR), юань (CNY)."
+    },
+    {
+      "key": "moneyTransferContent.label_beac",
+      "en": "BEAC FX Declarations:",
+      "fr": "Déclarations de change BEAC :",
+      "ru": "Валютные декларации BEAC:"
+    },
+    {
+      "key": "moneyTransferContent.label_correspondent",
+      "en": "Correspondent Clearing:",
+      "fr": "Compensation par correspondants :",
+      "ru": "Корреспондентский клиринг:"
+    },
+    {
+      "key": "moneyTransferContent.fragment_nigeria_prefix",
+      "en": "Commercial payments supporting bilateral trade in",
+      "fr": "Les paiements commerciaux soutenant les échanges bilatéraux de",
+      "ru": "Коммерческие платежи, обеспечивающие двустороннюю торговлю"
+    },
+    {
+      "key": "moneyTransferContent.fragment_nigeria_goods",
+      "en": "agricultural wheat, fertilizers, industrial machinery, raw cocoa, and consumer goods",
+      "fr": "blé agricole, d’engrais, de machines industrielles, de cacao brut et de biens de consommation",
+      "ru": "продовольственной пшеницей, удобрениями, промышленным оборудованием, какао-сырцом и потребительскими товарами"
+    },
+    {
+      "key": "moneyTransferContent.fragment_nigeria_suffix",
+      "en": "follow regulations established by the Central Bank of Nigeria (CBN).",
+      "fr": "suivent les règles établies par la Banque centrale du Nigeria (CBN).",
+      "ru": "регулируются правилами Центрального банка Нигерии (CBN)."
+    },
+    {
+      "key": "moneyTransferContent.label_statutory",
+      "en": "Statutory Documentation:",
+      "fr": "Documents réglementaires :",
+      "ru": "Обязательные документы:"
+    },
+    {
+      "key": "moneyTransferContent.fragment_importers",
+      "en": "Importers file",
+      "fr": "Les importateurs déposent",
+      "ru": "Импортёры подают"
+    },
+    {
+      "key": "moneyTransferContent.fragment_dealers",
+      "en": "through authorized dealer banks, while exporters utilize",
+      "fr": "auprès de banques agréées, tandis que les exportateurs utilisent",
+      "ru": "через уполномоченные банки-дилеры, а экспортёры используют"
+    },
+    {
+      "key": "moneyTransferContent.fragment_clearing",
+      "en": "for regulatory clearing.",
+      "fr": "pour la compensation réglementaire.",
+      "ru": "для прохождения регуляторного клиринга."
+    },
+    {
+      "key": "moneyTransferContent.label_invoicing",
+      "en": "Trade Invoicing Options:",
+      "fr": "Options de facturation commerciale :",
+      "ru": "Варианты выставления торговых счетов:"
+    },
+    {
+      "key": "moneyTransferContent.label_liquidity",
+      "en": "FX Liquidity Windows:",
+      "fr": "Guichets de liquidité en devises :",
+      "ru": "Окна валютной ликвидности:"
+    },
+    {
+      "key": "moneyTransferContent.label_disclaimer",
+      "en": "Educational Simulator Disclaimer:",
+      "fr": "Avertissement relatif au simulateur pédagogique :",
+      "ru": "Отказ от ответственности в отношении учебного калькулятора:"
+    },
+    {
+      "key": "moneyTransferContent.body_disclaimer",
+      "en": "This tool provides conceptual estimates based on standard international interbank clearing formulas. AFRUS is an information platform and does not provide financial advice, take deposits, or execute wire transfers.",
+      "fr": "Cet outil fournit des estimations conceptuelles fondées sur les formules habituelles de compensation interbancaire internationale. AFRUS est une plateforme d’information ; elle ne fournit pas de conseils financiers, n’accepte pas de dépôts et n’exécute pas de virements bancaires.",
+      "ru": "Этот инструмент предоставляет ориентировочные оценки на основе стандартных формул международного межбанковского клиринга. AFRUS является информационной платформой, не предоставляет финансовых консультаций, не принимает вклады и не выполняет банковские переводы."
+    },
+    {
+      "key": "moneyTransferContent.beac_authorization_detail",
+      "en": "Outbound commercial transfers above statutory thresholds require BEAC authorization and verified import documentation.",
+      "fr": "Les transferts commerciaux sortants dépassant les seuils réglementaires nécessitent l’autorisation de la BEAC et des documents d’importation vérifiés.",
+      "ru": "Для исходящих коммерческих переводов сверх установленных порогов требуется разрешение BEAC и подтверждённые импортные документы."
+    },
+    {
+      "key": "moneyTransferContent.correspondent_clearing_detail",
+      "en": "Transactions frequently route through third-country correspondent hubs with dual-currency clearing capabilities.",
+      "fr": "Les transactions transitent fréquemment par des centres de correspondants bancaires situés dans des pays tiers et disposant de capacités de compensation en deux devises.",
+      "ru": "Транзакции часто проходят через корреспондентские центры в третьих странах, поддерживающие клиринг в двух валютах."
+    },
+    {
+      "key": "moneyTransferContent.trade_invoicing_detail",
+      "en": "Commercial contracts are increasingly denominated in neutral trade currencies or direct local currency settlement channels.",
+      "fr": "Les contrats commerciaux sont de plus en plus libellés dans des devises commerciales neutres ou réglés directement en monnaies locales.",
+      "ru": "Коммерческие контракты всё чаще номинируются в нейтральных торговых валютах или предусматривают прямые расчёты в местных валютах."
+    },
+    {
+      "key": "moneyTransferContent.fx_liquidity_detail",
+      "en": "Understanding official interbank windows helps commercial entities anticipate processing timelines.",
+      "fr": "La connaissance des guichets interbancaires officiels permet aux entreprises d’anticiper les délais de traitement.",
+      "ru": "Понимание работы официальных межбанковских валютных окон помогает компаниям заранее оценивать сроки обработки платежей."
+    }
+  ]
+}

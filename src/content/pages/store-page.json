@@ -1,0 +1,10 @@
+{
+  "heroSlides": [
+    { "id": "showroom", "order": 1, "image": "/uploads/home-hero/afrus_store_showroom_1785925189258.jpg", "badge": { "en": "Cultural Marketplace", "fr": "Marché culturel", "ru": "Культурный маркетплейс" }, "title": { "en": "AFRUS Russia–Africa Cultural & Lifestyle Store", "fr": "Boutique culturelle et art de vivre AFRUS Russie–Afrique", "ru": "Магазин культуры и стиля AFRUS Россия–Африка" }, "subtitle": { "en": "A curated marketplace connecting customers with authentic African products, fashion, cultural items, accessories, gifts, and lifestyle goods.", "fr": "Un marché sélectionné reliant les clients à des produits africains authentiques, à la mode, aux objets culturels, aux accessoires, aux cadeaux et aux articles de style de vie.", "ru": "Маркетплейс аутентичных африканских товаров, моды, предметов культуры, аксессуаров, подарков и товаров для образа жизни." } },
+    { "id": "crafts", "order": 2, "image": "/uploads/editorial/african_art_crafts_1785919917844.jpg", "badge": { "en": "Authentic Imports", "fr": "Importations authentiques", "ru": "Аутентичный импорт" }, "title": { "en": "Authentic African Art, Masks, Textiles & Perfumes", "fr": "Art africain authentique, masques, textiles et parfums", "ru": "Аутентичное африканское искусство, маски, текстиль и парфюмерия" }, "subtitle": { "en": "Direct authentic imports, royal Agbada garments, handmade masks, jewelry, and African delicacies delivered across Russia & internationally.", "fr": "Importations directes authentiques, vêtements Agbada royaux, masques faits main, bijoux et spécialités africaines livrés en Russie et à l’international.", "ru": "Прямой импорт, традиционные наряды агбада, маски ручной работы, украшения и африканские деликатесы с доставкой по России и миру." } }
+  ],
+  "currencyFeature": {
+    "title": { "en": "Simultaneous Dual Currency", "fr": "Double devise simultanée", "ru": "Одновременное отображение двух валют" },
+    "description": { "en": "All prices shown in USD ($) & RUB (₽)", "fr": "Tous les prix sont affichés en USD ($) et RUB (₽)", "ru": "Все цены указаны в USD ($) и RUB (₽)" }
+  }
+}

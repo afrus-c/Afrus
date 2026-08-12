@@ -1,0 +1,34 @@
+{
+    "id":  "mask-colorful-african-art",
+    "title":  "Colorful African Art Mask",
+    "category":  "Masks",
+    "subcategory":  "Decorative Masks",
+    "priceUsd": 78,
+    "priceRub": 7176,
+    "origin":  "Dakar, Senegal",
+    "description":  "A vibrant decorative mask featuring bold colors and artistic African-inspired patterns. Designed as a statement piece for modern interiors and cultural-inspired spaces.",
+    "image":  "/uploads/store/mask_colorful_art_1786180637305.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Vibrant Art",
+    "brand":  "Senegal Art Studio",
+    "inventoryCount":  16,
+    "titleI18n":  {
+                      "en":  "Colorful African Art Mask",
+                      "fr":  "Masque d\u0027Art Africain Coloré",
+                      "ru":  "Яркая Художественная Маска"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A vibrant decorative mask featuring bold colors and artistic African-inspired patterns. Designed as a statement piece for modern interiors and cultural-inspired spaces.",
+                            "fr":  "Masque mural artistique vif peint à la main avec incrustations en fil de laiton.",
+                            "ru":  "Красочная маска с ручной росписью и металлическими элементами."
+                        },
+    "categoryId":  "masks",
+    "subcategoryId":  "masks--decorative-masks",
+    "badgeI18n":  {
+                      "ru":  "Яркое Искусство",
+                      "en":  "Vibrant Art",
+                      "fr":  "Art vibrant"
+                  }
+}

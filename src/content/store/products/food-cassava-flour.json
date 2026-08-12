@@ -1,0 +1,34 @@
+{
+    "id":  "food-cassava-flour",
+    "title":  "Cassava Flour (Fufu \u0026 Baking Powder)",
+    "category":  "African Food",
+    "subcategory":  "Grains \u0026 Flours",
+    "priceUsd": 18,
+    "priceRub": 1656,
+    "origin":  "Nigeria \u0026 Ghana",
+    "description":  "High-quality cassava flour used to prepare traditional African dishes such as fufu and other regional specialties. A versatile staple ingredient enjoyed across Africa and worldwide.",
+    "image":  "/uploads/store/cassava_flour_fufu_1786100412053.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Staple Flour",
+    "brand":  "African Harvest",
+    "inventoryCount":  80,
+    "titleI18n":  {
+                      "en":  "Cassava Flour (Fufu \u0026 Baking Powder)",
+                      "fr":  "Farine de Manioc (Fufu \u0026 Pâtisserie)",
+                      "ru":  "Мука из Маниоки (Фуфу и Выпечка)"
+                  },
+    "descriptionI18n":  {
+                            "en":  "High-quality cassava flour used to prepare traditional African dishes such as fufu and other regional specialties. A versatile staple ingredient enjoyed across Africa and worldwide.",
+                            "fr":  "Farine de manioc de haute qualité utilisée pour préparer le fufu traditionnel et d\u0027autres spécialités régionales. Un ingrédient de base polyvalent.",
+                            "ru":  "Высококачественная мука из маниоки для приготовления традиционного африканского блюда фуфу и национальной выпечки. Натуральный традиционный продукт."
+                        },
+    "categoryId":  "african-food",
+    "subcategoryId":  "african-food--grains-flours",
+    "badgeI18n":  {
+                      "ru":  "Основная мука",
+                      "en":  "Staple Flour",
+                      "fr":  "Farine de base"
+                  }
+}

@@ -1,0 +1,40 @@
+{
+    "id":  "clothes-tunic-set-traditional",
+    "title":  "African Traditional Tunic Set",
+    "category":  "African Clothes",
+    "subcategory":  "Traditional Wear",
+    "priceUsd": 85,
+    "priceRub": 7820,
+    "origin":  "Lomé, Togo",
+    "description":  "A traditional tunic and matching trouser set combining African-inspired fabrics with a comfortable and elegant design. Suitable for cultural celebrations, formal gatherings, and special occasions.",
+    "image":  "/uploads/store/african_tunic_set_1786178532105.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Classic Set",
+    "brand":  "Togo Elegance",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL"
+                       ],
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "African Traditional Tunic Set",
+                      "fr":  "Ensemble Tunique Traditionnel Africain",
+                      "ru":  "Традиционный Комплект Тканевой Туники"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A traditional tunic and matching trouser set combining African-inspired fabrics with a comfortable and elegant design. Suitable for cultural celebrations, formal gatherings, and special occasions.",
+                            "fr":  "Ensemble deux pièces tunique sur mesure et pantalon avec délicates broderies.",
+                            "ru":  "Африканская туника и брюки с изящной вышивкой на горловине."
+                        },
+    "categoryId":  "african-clothes",
+    "subcategoryId":  "african-clothes--traditional-wear",
+    "badgeI18n":  {
+                      "ru":  "Классический комплект",
+                      "en":  "Classic Set",
+                      "fr":  "Ensemble classique"
+                  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "sfeu",
+  "name": "Southern Federal University (SFeU)",
+  "city": "Rostov-on-Don / Taganrog",
+  "ranking": "Leading South Russian Federal Center",
+  "programs": [
+    "Nanotechnology",
+    "Marine Technology",
+    "Economics",
+    "Architecture & Design"
+  ],
+  "tuitionRange": "$2,400 – $3,900 / year",
+  "scholarshipsAvailable": true,
+  "image": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?auto=format&fit=crop&w=800&q=80",
+  "description": "A major scientific and education hub in warm Southern Russia offering diverse degree options and rich international student life.",
+  "nameI18n": {
+    "en": "Southern Federal University (SFeU)",
+    "fr": "Université fédérale du Sud (SFeU)",
+    "ru": "Южный федеральный университет (ЮФУ)"
+  },
+  "cityI18n": {
+    "en": "Rostov-on-Don / Taganrog",
+    "fr": "Rostov-sur-le-Don / Taganrog",
+    "ru": "Ростов-на-Дону / Таганрог"
+  },
+  "rankingI18n": {
+    "en": "Leading South Russian Federal Center",
+    "fr": "Premier centre fédéral de la Russie du Sud",
+    "ru": "Ведущий Южно-Российский федеральный центр"
+  },
+  "programsI18n": {
+    "en": [
+      "Nanotechnology",
+      "Marine Technology",
+      "Economics",
+      "Architecture & Design"
+    ],
+    "fr": [
+      "Nanotechnologie",
+      "Technologie marine",
+      "Économie",
+      "Architecture et conception"
+    ],
+    "ru": [
+      "Нанотехнологии",
+      "Морские технологии",
+      "Экономика",
+      "Архитектура и дизайн"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$2,400 – $3,900 / year",
+    "fr": "2 400 $ – 3 900 $/an",
+    "ru": "2400–3900 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "A major scientific and education hub in warm Southern Russia offering diverse degree options and rich international student life.",
+    "fr": "Un grand centre scientifique et éducatif du sud de la Russie proposant de nombreux cursus et une vie étudiante internationale dynamique.",
+    "ru": "Крупный научно-образовательный центр юга России с разнообразными программами и насыщенной международной студенческой жизнью."
+  }
+}

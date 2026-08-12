@@ -1,0 +1,34 @@
+{
+    "id":  "souvenir-african-cultural-craft-set",
+    "title":  "African Cultural Craft Set",
+    "category":  "Souvenirs",
+    "subcategory":  "Cultural Gifts",
+    "priceUsd": 48,
+    "priceRub": 4416,
+    "origin":  "Cape Coast, Ghana",
+    "description":  "A curated collection of handcrafted African-inspired decorative items designed as a memorable cultural gift for friends, family, travelers, and collectors.",
+    "image":  "/uploads/store/souvenir_craft_set_1786181209325.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Craft Gift Set",
+    "brand":  "Cape Coast Artisans",
+    "inventoryCount":  15,
+    "titleI18n":  {
+                      "en":  "African Cultural Craft Set",
+                      "fr":  "Ensemble d\u0027Artisans du Patrimoine Culturel",
+                      "ru":  "Набор Ремесленных Изделий Наследия"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A curated collection of handcrafted African-inspired decorative items designed as a memorable cultural gift for friends, family, travelers, and collectors.",
+                            "fr":  "Collection de 3 objets artisanaux africains faits main pour collectionneurs.",
+                            "ru":  "Коллекция из 3 сувениров ручной работы."
+                        },
+    "categoryId":  "souvenirs",
+    "subcategoryId":  "souvenirs--cultural-gifts",
+    "badgeI18n":  {
+                      "ru":  "Подарочный набор для рукоделия",
+                      "en":  "Craft Gift Set",
+                      "fr":  "Coffret cadeau artisanal"
+                  }
+}

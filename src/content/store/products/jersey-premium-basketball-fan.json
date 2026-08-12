@@ -1,0 +1,40 @@
+{
+    "id":  "jersey-premium-basketball-fan",
+    "title":  "Premium Basketball Fan Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Basketball Jerseys",
+    "priceUsd": 54,
+    "priceRub": 4968,
+    "origin":  "AFRUS Hoops",
+    "description":  "A premium basketball-inspired jersey designed for fans and casual wear, combining a modern athletic appearance with a comfortable fit.",
+    "image":  "/uploads/store/jersey_premium_basketball_fan_1786180033621.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Pro Fan Edition",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  22,
+    "titleI18n":  {
+                      "en":  "Premium Basketball Fan Jersey",
+                      "fr":  "Maillot Supporter Basket Premium",
+                      "ru":  "Премиум Баскетбольная Джерси Болельщика"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A premium basketball-inspired jersey designed for fans and casual wear, combining a modern athletic appearance with a comfortable fit.",
+                            "fr":  "Maillot supporter de basket coupe pro avec coutures renforcées.",
+                            "ru":  "Профессиональная баскетбольная майка с усиленной строчкой."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--basketball-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Профессиональное фанатское издание",
+                      "en":  "Pro Fan Edition",
+                      "fr":  "Édition Fan Pro"
+                  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ministry of Science & Higher Education",
+  "logoText": "RUSSIA EDU",
+  "id": "ministry-of-science-higher-education",
+  "nameI18n": {
+    "en": "Ministry of Science & Higher Education",
+    "fr": "Ministère des Sciences et de l'Enseignement Supérieur",
+    "ru": "Министерство науки и высшего образования"
+  },
+  "order": 1
+}

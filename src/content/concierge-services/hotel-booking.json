@@ -1,0 +1,47 @@
+{
+  "id": "hotel-booking",
+  "title": "5-Star Hotel & Executive Suite Booking",
+  "description": "Exclusive negotiated corporate rates at premier luxury hotels in Moscow, St. Petersburg, Sochi, Kazan, and major African economic hubs.",
+  "features": [
+    "Guaranteed Upgrade Perks",
+    "Private Dining Rooms",
+    "Conference Room Rental",
+    "Flexible Cancellation"
+  ],
+  "icon": "Hotel",
+  "titleI18n": {
+    "en": "5-Star Hotel & Executive Suite Booking",
+    "fr": "Réservation d’hôtels cinq étoiles et de suites exécutives",
+    "ru": "Бронирование пятизвёздочных отелей и представительских номеров"
+  },
+  "descriptionI18n": {
+    "en": "Exclusive negotiated corporate rates at premier luxury hotels in Moscow, St. Petersburg, Sochi, Kazan, and major African economic hubs.",
+    "fr": "Tarifs d’entreprise exclusifs négociés auprès des meilleurs hôtels de luxe de Moscou, Saint-Pétersbourg, Sotchi, Kazan et des grands pôles économiques africains.",
+    "ru": "Эксклюзивные корпоративные тарифы в ведущих отелях Москвы, Санкт-Петербурга, Сочи, Казани и крупнейших экономических центров Африки."
+  },
+  "featuresI18n": {
+    "en": [
+      "Guaranteed Upgrade Benefits",
+      "Private Dining Rooms",
+      "Conference Room Rental",
+      "Flexible Cancellation"
+    ],
+    "fr": [
+      "Surclassements garantis",
+      "Salles à manger privées",
+      "Location de salles de conférence",
+      "Annulation flexible"
+    ],
+    "ru": [
+      "Гарантированные преимущества при повышении категории",
+      "Частные обеденные залы",
+      "Аренда конференц-залов",
+      "Гибкая отмена"
+    ]
+  },
+  "highlightI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "perfume--unisex-fragrances",
+  "categoryId": "perfume",
+  "name": "Unisex Fragrances",
+  "nameI18n": {
+    "en": "Unisex Fragrances",
+    "fr": "Parfums Unisexes",
+    "ru": "Унисекс Парфюмерия"
+  }
+}

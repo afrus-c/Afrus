@@ -1,0 +1,30 @@
+{
+  "id": "export-import",
+  "title": "Export & Import",
+  "category": "trade",
+  "description": "Facilitating trade in agricultural goods, fertilizers, machinery, electronics, minerals, and consumer goods.",
+  "iconName": "Ship",
+  "badge": "Core Trade",
+  "featured": true,
+  "titleI18n": {
+    "en": "Export & Import",
+    "fr": "Exporter et importer",
+    "ru": "Экспорт и импорт"
+  },
+  "descriptionI18n": {
+    "en": "Facilitating trade in agricultural goods, fertilizers, machinery, electronics, minerals, and consumer goods.",
+    "fr": "Faciliter le commerce des produits agricoles, des engrais, des machines, de l’électronique, des minéraux et des biens de consommation.",
+    "ru": "Содействие торговле сельскохозяйственными товарами, удобрениями, машинами, электроникой, минералами и потребительскими товарами."
+  },
+  "badgeI18n": {
+    "en": "Core Trade",
+    "fr": "Commerce de base",
+    "ru": "Основная торговля"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 1
+}

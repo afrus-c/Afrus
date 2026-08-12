@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-african-beaded-necklace-women",
+    "title":  "African Beaded Necklace",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Women\u0027s Jewelry",
+    "priceUsd": 48,
+    "priceRub": 4416,
+    "origin":  "Accra, Ghana",
+    "description":  "A vibrant handcrafted necklace featuring colorful African-inspired beads and an elegant design. Perfect for special occasions, cultural celebrations, or adding character to everyday outfits.",
+    "image":  "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Vibrant Beads",
+    "brand":  "Ghana Craft Guild",
+    "inventoryCount":  30,
+    "titleI18n":  {
+                      "en":  "African Beaded Necklace",
+                      "fr":  "Collier Africain en Perles Femme",
+                      "ru":  "Женские Многослойные Африканские Бусы"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A vibrant handcrafted necklace featuring colorful African-inspired beads and an elegant design. Perfect for special occasions, cultural celebrations, or adding character to everyday outfits.",
+                            "fr":  "Collier ras de cou remarquable en perles vibrantes à plusieurs rangs.",
+                            "ru":  "Яркое многослойное колье из бисера."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--women-s-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Яркие бусины",
+                      "en":  "Vibrant Beads",
+                      "fr":  "Perles vibrantes"
+                  }
+}

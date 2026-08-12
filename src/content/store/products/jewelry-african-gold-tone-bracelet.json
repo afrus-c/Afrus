@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-african-gold-tone-bracelet",
+    "title":  "African Gold-Tone Bracelet",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Women\u0027s Jewelry",
+    "priceUsd": 42,
+    "priceRub": 3864,
+    "origin":  "Cairo, Egypt",
+    "description":  "An elegant bracelet featuring African-inspired decorative details and a refined gold-tone finish. Designed as a versatile accessory for special occasions and everyday styling.",
+    "image":  "https://images.unsplash.com/photo-1611591475170-4f51197efaa4?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Gold Tone",
+    "brand":  "Nile Jewelry",
+    "inventoryCount":  22,
+    "titleI18n":  {
+                      "en":  "African Gold-Tone Bracelet",
+                      "fr":  "Bracelet Manchette Doré Africain Femme",
+                      "ru":  "Женский Позолоченный Браслет-Манжета"
+                  },
+    "descriptionI18n":  {
+                            "en":  "An elegant bracelet featuring African-inspired decorative details and a refined gold-tone finish. Designed as a versatile accessory for special occasions and everyday styling.",
+                            "fr":  "Bracelet manchette en laiton poli gravé de symboles traditionnels africains.",
+                            "ru":  "Полированный латунный браслет с традиционной гравировкой."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--women-s-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Золотой тон",
+                      "en":  "Gold Tone",
+                      "fr":  "Ton doré"
+                  }
+}

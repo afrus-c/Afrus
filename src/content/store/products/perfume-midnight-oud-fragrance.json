@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-midnight-oud-fragrance",
+    "title":  "Midnight Oud Fragrance",
+    "category":  "Perfume",
+    "subcategory":  "Men\u0027s Fragrances",
+    "priceUsd": 88,
+    "priceRub": 8096,
+    "origin":  "Casablanca, Morocco",
+    "description":  "A refined men\u0027s fragrance inspired by deep woods and warm aromatic notes, creating an elegant scent profile suitable for evening occasions and formal settings.",
+    "image":  "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  5,
+    "badge":  "Luxury Oud",
+    "brand":  "Moroccan Essence",
+    "inventoryCount":  20,
+    "titleI18n":  {
+                      "en":  "Midnight Oud Fragrance",
+                      "fr":  "Parfum de Luxe Oud de Minuit",
+                      "ru":  "Роскошный Парфюм Ночной Уд"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A refined men\u0027s fragrance inspired by deep woods and warm aromatic notes, creating an elegant scent profile suitable for evening occasions and formal settings.",
+                            "fr":  "Senteur profonde et fumée de bois d\u0027oud du Cambodge associée à la rose de Damas.",
+                            "ru":  "Глубокий дымный аромат камбоджийского уда и дамасской розы."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--men-s-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Роскошный Уд",
+                      "en":  "Luxury Oud",
+                      "fr":  "Oud de luxe"
+                  }
+}

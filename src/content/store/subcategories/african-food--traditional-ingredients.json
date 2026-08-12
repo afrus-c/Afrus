@@ -1,0 +1,10 @@
+{
+  "id": "african-food--traditional-ingredients",
+  "categoryId": "african-food",
+  "name": "Traditional Ingredients",
+  "nameI18n": {
+    "en": "Traditional Ingredients",
+    "fr": "Ingrédients Traditionnels",
+    "ru": "Традиционные Ингредиенты"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "souvenirs--cultural-gifts",
+  "categoryId": "souvenirs",
+  "name": "Cultural Gifts",
+  "nameI18n": {
+    "en": "Cultural Gifts",
+    "fr": "Cadeaux Culturels",
+    "ru": "Культурные Подарки"
+  }
+}

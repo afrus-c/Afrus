@@ -1,0 +1,61 @@
+{
+  "id": "rudn",
+  "name": "Peoples’ Friendship University of Russia (RUDN)",
+  "city": "Moscow",
+  "ranking": "#1 International & Multicultural Campus",
+  "programs": [
+    "General Medicine (MBBS English)",
+    "Dentistry",
+    "Agronomy",
+    "International Business"
+  ],
+  "tuitionRange": "$3,100 – $5,200 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/uni_rudn_moscow_1785952523851.jpg",
+  "description": "Home to over 10,000 international students from 160 countries, RUDN is famous for medical, agricultural, and diplomatic degree excellence.",
+  "nameI18n": {
+    "en": "Peoples’ Friendship University of Russia (RUDN)",
+    "fr": "Université russe de l’amitié des peuples (RUDN)",
+    "ru": "Российский университет дружбы народов (РУДН)"
+  },
+  "cityI18n": {
+    "en": "Moscow",
+    "fr": "Moscou",
+    "ru": "Москва"
+  },
+  "rankingI18n": {
+    "en": "#1 International & Multicultural Campus",
+    "fr": "Campus international et multiculturel n°1",
+    "ru": "Международный и мультикультурный кампус №1"
+  },
+  "programsI18n": {
+    "en": [
+      "General Medicine (MBBS English)",
+      "Dentistry",
+      "Agronomy",
+      "International Business"
+    ],
+    "fr": [
+      "Médecine générale (MBBS anglais)",
+      "Dentisterie",
+      "Agronomie",
+      "Affaires internationales"
+    ],
+    "ru": [
+      "Общая медицина (MBBS английский)",
+      "Стоматология",
+      "Агрономия",
+      "Международный бизнес"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$3,100 – $5,200 / year",
+    "fr": "3 100 $ – 5 200 $/an",
+    "ru": "3100–5200 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "Home to over 10,000 international students from 160 countries, RUDN is famous for medical, agricultural, and diplomatic degree excellence.",
+    "fr": "Accueillant plus de 10 000 étudiants internationaux de 160 pays, la RUDN est réputée pour l’excellence de ses formations en médecine, agriculture et diplomatie.",
+    "ru": "В РУДН обучаются более 10 000 иностранных студентов из 160 стран; университет известен высоким уровнем медицинского, аграрного и дипломатического образования."
+  }
+}

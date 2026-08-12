@@ -1,0 +1,44 @@
+{
+    "id":  "shoes-kids-casual-sneakers",
+    "title":  "Kids\u0027 Casual Sneakers",
+    "category":  "Shoes",
+    "subcategory":  "Kids\u0027 Shoes",
+    "priceUsd": 35,
+    "priceRub": 3220,
+    "origin":  "AFRUS Junior",
+    "description":  "Comfortable-looking children\u0027s sneakers featuring a fun original design suitable for school, play, outings, and everyday activities.",
+    "image":  "https://images.unsplash.com/photo-1514989940723-e8e51635b782?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Active Play",
+    "brand":  "AFRUS Junior",
+    "availableSizes":  [
+                           "28",
+                           "29",
+                           "30",
+                           "31",
+                           "32",
+                           "33",
+                           "34",
+                           "35"
+                       ],
+    "inventoryCount":  50,
+    "titleI18n":  {
+                      "en":  "Kids\u0027 Casual Sneakers",
+                      "fr":  "Baskets en Toile Colorées Enfant",
+                      "ru":  "Детские Кеды из Холста"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Comfortable-looking children\u0027s sneakers featuring a fun original design suitable for school, play, outings, and everyday activities.",
+                            "fr":  "Baskets en toile durables à semelle en caoutchouc pour enfants.",
+                            "ru":  "Прочные кеды на резиновой подошве для детей."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--kids-shoes",
+    "badgeI18n":  {
+                      "ru":  "Активная игра",
+                      "en":  "Active Play",
+                      "fr":  "Jeu actif"
+                  }
+}

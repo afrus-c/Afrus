@@ -1,0 +1,25 @@
+{
+  "brand": { "name": "AFRUS", "logo": "/afrus-logo-transparent-v3.png", "footerLogo": "/afrus-logo-transparent-v3.png" },
+  "contact": {
+    "email": "info@afrusculture.com",
+    "whatsapp": { "raw": "79111397784", "formatted": "+79 111 397 784" },
+    "africaPhone": { "raw": "237670333336", "formatted": "+237 670 33 33 36" },
+    "telegram": { "handle": "@AFRUSCULTURE", "username": "AFRUSCULTURE", "url": "https://t.me/AFRUSCULTURE" },
+    "facebookUrl": "https://www.facebook.com/share/1ETf2RHVF8/?mibextid=wwXIfr",
+    "instagramUrl": "https://www.instagram.com/afrus_culture_tour?igsh=amZqMzI0ZGZseXRv&utm_source=qr"
+  },
+  "offices": [
+    {
+      "id": "moscow",
+      "title": { "en": "Moscow Headquarters", "fr": "Siège de Moscou", "ru": "Штаб-квартира в Москве" },
+      "address": { "en": "Presnenskaya Naberezhnaya 12, Federation Tower East, Moscow, Russian Federation", "fr": "Presnenskaya Naberezhnaya 12, tour Federation Est, Moscou, Fédération de Russie", "ru": "Пресненская набережная, 12, башня «Федерация Восток», Москва, Российская Федерация" },
+      "coordinates": "55.7495° N, 37.5372° E"
+    },
+    {
+      "id": "africa-hub",
+      "title": { "en": "Africa Regional Liaison Office", "fr": "Bureau régional de liaison pour l’Afrique", "ru": "Региональное представительство в Африке" },
+      "address": { "en": "Boulevard du 20 Mai, Yaoundé / Douala Commercial Hub, Cameroon", "fr": "Boulevard du 20 Mai, Yaoundé / pôle commercial de Douala, Cameroun", "ru": "Бульвар 20 мая, Яунде / торговый центр Дуалы, Камерун" },
+      "coordinates": "3.8480° N, 11.5021° E"
+    }
+  ]
+}

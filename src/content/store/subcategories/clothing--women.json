@@ -1,0 +1,10 @@
+{
+  "id": "clothing--women",
+  "categoryId": "clothing",
+  "name": "Women",
+  "nameI18n": {
+    "en": "Women",
+    "fr": "Femmes",
+    "ru": "Женщинам"
+  }
+}

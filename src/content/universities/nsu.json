@@ -1,0 +1,61 @@
+{
+  "id": "nsu",
+  "name": "Novosibirsk State University (NSU)",
+  "city": "Novosibirsk",
+  "ranking": "Top Research Center in Akademgorodok",
+  "programs": [
+    "Artificial Intelligence",
+    "Molecular Biology",
+    "Geophysics",
+    "Applied Mathematics"
+  ],
+  "tuitionRange": "$3,000 – $4,800 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/uni_nsu_novosibirsk_1785952536943.jpg",
+  "description": "Located in the famous Akademgorodok scientific forest city, NSU works directly with dozens of Russian Academy of Sciences research institutes.",
+  "nameI18n": {
+    "en": "Novosibirsk State University (NSU)",
+    "fr": "Université d'État de Novossibirsk (NSU)",
+    "ru": "Новосибирский государственный университет (НГУ)"
+  },
+  "cityI18n": {
+    "en": "Novosibirsk",
+    "fr": "Novossibirsk",
+    "ru": "Новосибирск"
+  },
+  "rankingI18n": {
+    "en": "Top Research Center in Akademgorodok",
+    "fr": "Meilleur centre de recherche à Akademgorodok",
+    "ru": "Лучший научный центр в Академгородке"
+  },
+  "programsI18n": {
+    "en": [
+      "Artificial Intelligence",
+      "Molecular Biology",
+      "Geophysics",
+      "Applied Mathematics"
+    ],
+    "fr": [
+      "Intelligence artificielle",
+      "Biologie moléculaire",
+      "Géophysique",
+      "Mathématiques appliquées"
+    ],
+    "ru": [
+      "Искусственный интеллект",
+      "Молекулярная биология",
+      "Геофизика",
+      "Прикладная математика"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$3,000 – $4,800 / year",
+    "fr": "3 000 $ – 4 800 $/an",
+    "ru": "3000–4800 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "Located in the famous Akademgorodok scientific forest city, NSU works directly with dozens of Russian Academy of Sciences research institutes.",
+    "fr": "Située dans la célèbre cité scientifique d’Akademgorodok, la NSU travaille directement avec des dizaines d’instituts de recherche de l’Académie russe des sciences.",
+    "ru": "Расположенный в знаменитом научном центре Академгородок НГУ напрямую сотрудничает с десятками институтов Российской академии наук."
+  }
+}

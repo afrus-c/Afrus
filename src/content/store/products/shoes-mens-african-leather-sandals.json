@@ -1,0 +1,42 @@
+{
+    "id":  "shoes-mens-african-leather-sandals",
+    "title":  "Men\u0027s African Leather Sandals",
+    "category":  "Shoes",
+    "subcategory":  "Men\u0027s Shoes",
+    "priceUsd": 48,
+    "priceRub": 4416,
+    "origin":  "Mombasa, Kenya",
+    "description":  "Comfortable men\u0027s sandals featuring a durable leather construction and subtle African-inspired design details. Suitable for everyday wear, warm-weather outings, travel, and casual occasions.",
+    "image":  "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "African Leather",
+    "brand":  "Swahili Leathercraft",
+    "availableSizes":  [
+                           "40",
+                           "41",
+                           "42",
+                           "43",
+                           "44",
+                           "45"
+                       ],
+    "inventoryCount":  30,
+    "titleI18n":  {
+                      "en":  "Men\u0027s African Leather Sandals",
+                      "fr":  "Sandales Africaines en Cuir Homme",
+                      "ru":  "Мужские Африканские Кожаные Сандалии"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Comfortable men\u0027s sandals featuring a durable leather construction and subtle African-inspired design details. Suitable for everyday wear, warm-weather outings, travel, and casual occasions.",
+                            "fr":  "Sandales traditionnelles en cuir faites main avec semelle en caoutchouc durable.",
+                            "ru":  "Традиционные сандалии ручной работы на прочной подошве."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--men-s-shoes",
+    "badgeI18n":  {
+                      "ru":  "Африканская кожа",
+                      "en":  "African Leather",
+                      "fr":  "Cuir Africain"
+                  }
+}

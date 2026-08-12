@@ -1,0 +1,30 @@
+{
+  "id": "study-in-russia",
+  "title": "Study in Russia",
+  "category": "education",
+  "description": "Direct university admission, state scholarship guidance, degree verification, and full student arrival support.",
+  "iconName": "GraduationCap",
+  "badge": "Scholarships",
+  "featured": true,
+  "titleI18n": {
+    "en": "Study in Russia",
+    "fr": "Étudier en Russie",
+    "ru": "Обучение в России"
+  },
+  "descriptionI18n": {
+    "en": "Direct university admission, state scholarship guidance, degree verification, and full student arrival support.",
+    "fr": "Admission directe à l'université, conseils en matière de bourses d'État, vérification des diplômes et assistance complète à l'arrivée des étudiants.",
+    "ru": "Прямое поступление в университет, руководство по получению государственной стипендии, проверка степени и полная поддержка студентов при прибытии."
+  },
+  "badgeI18n": {
+    "en": "Scholarships",
+    "fr": "Bourses",
+    "ru": "Стипендии"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 2
+}

@@ -1,0 +1,69 @@
+{
+  "id": "opp-4",
+  "title": "Russia-Africa Youth & Cultural Summit Delegation",
+  "category": "cultural",
+  "location": "St. Petersburg, Russia",
+  "deadline": "September 15, 2026",
+  "description": "An exclusive 5-day cultural diplomacy summit connecting young entrepreneurs, artists, journalists, and university representatives from 30+ countries.",
+  "benefits": [
+    "Fully catered accommodation & local executive travel",
+    "Access to bilateral roundtables and media network",
+    "Excursions to Hermitage Museum & Peterhof Palace"
+  ],
+  "requirements": [
+    "Age between 18 and 35 years",
+    "Demonstrated impact in business, media, culture, or student leadership"
+  ],
+  "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
+  "titleI18n": {
+    "en": "Russia-Africa Youth & Cultural Summit Delegation",
+    "fr": "Délégation au Sommet Jeunesse et Culture Russie-Afrique",
+    "ru": "Делегация Молодёжно-культурного саммита Россия-Африка"
+  },
+  "locationI18n": {
+    "en": "St. Petersburg, Russia",
+    "fr": "Saint-Pétersbourg, Russie",
+    "ru": "Санкт-Петербург, Россия"
+  },
+  "deadlineI18n": {
+    "en": "September 15, 2026",
+    "fr": "15 septembre 2026",
+    "ru": "15 сентября 2026 г."
+  },
+  "descriptionI18n": {
+    "en": "An exclusive 5-day cultural diplomacy summit connecting young entrepreneurs, artists, journalists, and university representatives from 30+ countries.",
+    "fr": "Un sommet exclusif de diplomatie culturelle de 5 jours réunissant de jeunes entrepreneurs, artistes, journalistes et représentants universitaires de plus de 30 pays.",
+    "ru": "Эксклюзивный 5-дневный саммит культурной дипломатии, объединяющий молодых предпринимателей, художников, журналистов и представителей университетов из более чем 30 стран."
+  },
+  "benefitsI18n": {
+    "en": [
+      "Fully catered accommodation & local executive travel",
+      "Access to bilateral roundtables and media network",
+      "Excursions to Hermitage Museum & Peterhof Palace"
+    ],
+    "fr": [
+      "Hébergement entièrement pris en charge et voyages des dirigeants locaux",
+      "Accès aux tables rondes bilatérales et au réseau médiatique",
+      "Excursions au musée de l'Ermitage et au palais de Peterhof"
+    ],
+    "ru": [
+      "Проживание с полным питанием и местные представительские поездки",
+      "Доступ к двусторонним круглым столам и медиасети",
+      "Экскурсии в Эрмитаж и Петергофский дворец."
+    ]
+  },
+  "requirementsI18n": {
+    "en": [
+      "Age between 18 and 35 years",
+      "Demonstrated impact in business, media, culture, or student leadership"
+    ],
+    "fr": [
+      "Âge entre 18 et 35 ans",
+      "Impact démontré dans les affaires, les médias, la culture ou le leadership étudiant"
+    ],
+    "ru": [
+      "Возраст от 18 до 35 лет",
+      "Продемонстрированное влияние на бизнес, средства массовой информации, культуру или студенческое лидерство"
+    ]
+  }
+}

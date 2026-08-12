@@ -1,0 +1,10 @@
+{
+  "id": "african-food--grains-flours",
+  "categoryId": "african-food",
+  "name": "Grains & Flours",
+  "nameI18n": {
+    "en": "Grains & Flours",
+    "fr": "Céréales & Farines",
+    "ru": "Крупы и Мука"
+  }
+}

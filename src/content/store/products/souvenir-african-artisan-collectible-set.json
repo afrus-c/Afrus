@@ -1,0 +1,34 @@
+{
+    "id":  "souvenir-african-artisan-collectible-set",
+    "title":  "African Artisan Collectible Set",
+    "category":  "Souvenirs",
+    "subcategory":  "Collectibles",
+    "priceUsd": 58,
+    "priceRub": 5336,
+    "origin":  "Fez, Morocco",
+    "description":  "A curated collection of small handcrafted African-inspired decorative pieces designed for collectors, cultural enthusiasts, and distinctive home displays.",
+    "image":  "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Collectible Set",
+    "brand":  "Atlas Artisan Collectibles",
+    "inventoryCount":  14,
+    "titleI18n":  {
+                      "en":  "African Artisan Collectible Set",
+                      "fr":  "Collection d\u0027Objets Souvenirs Artisans Deluxe",
+                      "ru":  "Делюкс Набор Африканских Сувениров"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A curated collection of small handcrafted African-inspired decorative pieces designed for collectors, cultural enthusiasts, and distinctive home displays.",
+                            "fr":  "Ensemble deluxe comprenant un mini masque, une boîte en perles et une statuette.",
+                            "ru":  "Подарочный комплект из мини-маски, шкатулки и статуэтки."
+                        },
+    "categoryId":  "souvenirs",
+    "subcategoryId":  "souvenirs--collectibles",
+    "badgeI18n":  {
+                      "ru":  "Коллекционный набор",
+                      "en":  "Collectible Set",
+                      "fr":  "Ensemble de collection"
+                  }
+}

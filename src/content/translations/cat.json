@@ -1,0 +1,72 @@
+{
+  "namespace": "cat",
+  "adminLabelFr": "Noms des catégories",
+  "entries": [
+    {
+      "key": "cat.african_food",
+      "en": "African Food",
+      "fr": "Nourriture Africaine",
+      "ru": "Африканская Еда"
+    },
+    {
+      "key": "cat.african_clothes",
+      "en": "African Clothes",
+      "fr": "Vêtements Africains",
+      "ru": "Африканская Одежда"
+    },
+    {
+      "key": "cat.jerseys",
+      "en": "Jerseys",
+      "fr": "Maillots",
+      "ru": "Джерси и Форма"
+    },
+    {
+      "key": "cat.masks",
+      "en": "Masks",
+      "fr": "Masques",
+      "ru": "Африканские Маски"
+    },
+    {
+      "key": "cat.bracelets_jewelry",
+      "en": "Bracelets & Jewelry",
+      "fr": "Bracelets & Bijoux",
+      "ru": "Браслеты и Украшения"
+    },
+    {
+      "key": "cat.souvenirs",
+      "en": "Souvenirs",
+      "fr": "Souvenirs",
+      "ru": "Сувениры"
+    },
+    {
+      "key": "cat.clothing",
+      "en": "Clothing",
+      "fr": "Habillement",
+      "ru": "Одежда"
+    },
+    {
+      "key": "cat.accessories",
+      "en": "Accessories",
+      "fr": "Accessoires",
+      "ru": "Аксессуары"
+    },
+    {
+      "key": "cat.shoes",
+      "en": "Shoes",
+      "fr": "Chaussures",
+      "ru": "Обувь"
+    },
+    {
+      "key": "cat.perfume",
+      "en": "Perfume",
+      "fr": "Parfums",
+      "ru": "Парфюмерия"
+    },
+    {
+      "key": "cat.flags",
+      "en": "Flags",
+      "fr": "Drapeaux",
+      "ru": "Флаги"
+    }
+  ]
+}

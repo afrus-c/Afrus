@@ -1,0 +1,35 @@
+{
+  "id": "test-1",
+  "name": "Dr. Emmanuel K. Mensah",
+  "role": "Chief Medical Officer & Alumnus",
+  "organization": "Kazan Federal University Graduate",
+  "country": "Ghana",
+  "quote": "AFRUS made my dream of studying medicine in Russia a reality. From my scholarship application in Accra to my arrival at Kazan airport, their team provided hands-on support every step of the way.",
+  "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+  "rating": 5,
+  "nameI18n": {
+    "en": "Dr. Emmanuel K. Mensah",
+    "fr": "Dr Emmanuel K. Mensah",
+    "ru": "Доктор Эммануэль К. Менса"
+  },
+  "roleI18n": {
+    "en": "Chief Medical Officer & Alumnus",
+    "fr": "Médecin-chef et ancien élève",
+    "ru": "Главный медицинский директор и выпускник"
+  },
+  "organizationI18n": {
+    "en": "Kazan Federal University Graduate",
+    "fr": "Diplômé de l'Université fédérale de Kazan",
+    "ru": "Выпускник Казанского федерального университета."
+  },
+  "countryI18n": {
+    "en": "Ghana",
+    "fr": "Ghana",
+    "ru": "Гана"
+  },
+  "quoteI18n": {
+    "en": "AFRUS made my dream of studying medicine in Russia a reality. From my scholarship application in Accra to my arrival at Kazan airport, their team provided hands-on support every step of the way.",
+    "fr": "L’AFRUS a fait de mon rêve d’étudier la médecine en Russie une réalité. De ma demande de bourse à Accra jusqu'à mon arrivée à l'aéroport de Kazan, leur équipe m'a apporté un soutien pratique à chaque étape du processus.",
+    "ru": "АФРУС воплотил в реальность мою мечту изучать медицину в России. От моего заявления на стипендию в Аккре до моего прибытия в аэропорт Казани их команда оказывала практическую поддержку на каждом этапе пути."
+  }
+}

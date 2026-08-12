@@ -1,0 +1,10 @@
+{
+  "id": "flags--decorative-flags",
+  "categoryId": "flags",
+  "name": "Decorative Flags",
+  "nameI18n": {
+    "en": "Decorative Flags",
+    "fr": "Drapeaux Décoratifs",
+    "ru": "Декоративные Флаги"
+  }
+}

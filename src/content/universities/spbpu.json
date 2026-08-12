@@ -1,0 +1,61 @@
+{
+  "id": "spbpu",
+  "name": "Peter the Great St. Petersburg Polytechnic University",
+  "city": "St. Petersburg",
+  "ranking": "Leading Engineering & Tech Institution",
+  "programs": [
+    "Mechanical Engineering",
+    "Cybersecurity",
+    "Nuclear Energy",
+    "Civil Engineering"
+  ],
+  "tuitionRange": "$3,200 – $5,000 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/university_campus_russia_1785919887504.jpg",
+  "description": "A global powerhouse in engineering, artificial intelligence, and applied sciences with state-of-the-art laboratory complexes and industry partnerships.",
+  "nameI18n": {
+    "en": "Peter the Great St. Petersburg Polytechnic University",
+    "fr": "Université polytechnique Pierre le Grand de Saint-Pétersbourg",
+    "ru": "Санкт-Петербургский политехнический университет Петра Великого"
+  },
+  "cityI18n": {
+    "en": "St. Petersburg",
+    "fr": "Saint-Pétersbourg",
+    "ru": "Санкт-Петербург"
+  },
+  "rankingI18n": {
+    "en": "Leading Engineering & Tech Institution",
+    "fr": "Institution leader en ingénierie et technologie",
+    "ru": "Ведущий инженерно-технический институт"
+  },
+  "programsI18n": {
+    "en": [
+      "Mechanical Engineering",
+      "Cybersecurity",
+      "Nuclear Energy",
+      "Civil Engineering"
+    ],
+    "fr": [
+      "Génie mécanique",
+      "Cybersécurité",
+      "Énergie nucléaire",
+      "Génie civil"
+    ],
+    "ru": [
+      "Машиностроение",
+      "Кибербезопасность",
+      "Ядерная энергия",
+      "Гражданское строительство"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$3,200 – $5,000 / year",
+    "fr": "3 200 $ – 5 000 $/an",
+    "ru": "3200–5000 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "A global powerhouse in engineering, artificial intelligence, and applied sciences with state-of-the-art laboratory complexes and industry partnerships.",
+    "fr": "Un pôle mondial d’ingénierie, d’intelligence artificielle et de sciences appliquées, doté de laboratoires de pointe et de solides partenariats industriels.",
+    "ru": "Мировой центр инженерии, искусственного интеллекта и прикладных наук с современными лабораторными комплексами и партнёрствами с промышленностью."
+  }
+}

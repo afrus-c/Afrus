@@ -1,0 +1,41 @@
+{
+    "id":  "clothes-dashiki-shirt-men",
+    "title":  "African Dashiki Shirt",
+    "category":  "African Clothes",
+    "subcategory":  "Men\u0027s African Wear",
+    "priceUsd": 45,
+    "priceRub": 4140,
+    "origin":  "Abidjan, Côte d\u0027Ivoire",
+    "description":  "A vibrant African-inspired shirt featuring traditional patterns and a comfortable relaxed fit. Suitable for casual wear, cultural events, celebrations, and everyday styling.",
+    "image":  "/uploads/store/african_dashiki_shirt_1786178432591.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Popular",
+    "brand":  "Ivorian Wear",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  65,
+    "titleI18n":  {
+                      "en":  "African Dashiki Shirt",
+                      "fr":  "Chemise Dashiki Africaine Homme",
+                      "ru":  "Мужская Рубашка Дашики"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A vibrant African-inspired shirt featuring traditional patterns and a comfortable relaxed fit. Suitable for casual wear, cultural events, celebrations, and everyday styling.",
+                            "fr":  "Une chemise africaine dynamique aux motifs traditionnels et à la coupe confortable.",
+                            "ru":  "Яркая африканская рубашка дашики с орнаментом и свободным кроем."
+                        },
+    "categoryId":  "african-clothes",
+    "subcategoryId":  "african-clothes--men-s-african-wear",
+    "badgeI18n":  {
+                      "ru":  "Популярный",
+                      "en":  "Popular",
+                      "fr":  "Populaire"
+                  }
+}

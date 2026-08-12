@@ -1,0 +1,29 @@
+{
+  "id": "business-forum",
+  "title": "Economic Forum",
+  "category": "events",
+  "description": "Organizing high-level bilateral forums, B2B matchmaking summits, and trade delegation roadshows.",
+  "iconName": "Users",
+  "badge": "B2B Summits",
+  "titleI18n": {
+    "en": "Economic Forum",
+    "fr": "Forum économique",
+    "ru": "Экономический форум"
+  },
+  "descriptionI18n": {
+    "en": "Organizing high-level bilateral forums, B2B matchmaking summits, and trade delegation roadshows.",
+    "fr": "Organiser des forums bilatéraux de haut niveau, des sommets de mise en relation B2B et des tournées de présentation des délégations commerciales.",
+    "ru": "Организация двусторонних форумов высокого уровня, саммитов B2B по установлению контактов и роуд-шоу торговых делегаций."
+  },
+  "badgeI18n": {
+    "en": "B2B Summits",
+    "fr": "Sommets B2B",
+    "ru": "B2B-саммиты"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 8
+}

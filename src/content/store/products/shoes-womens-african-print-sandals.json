@@ -1,0 +1,42 @@
+{
+    "id":  "shoes-womens-african-print-sandals",
+    "title":  "Women\u0027s African Print Sandals",
+    "category":  "Shoes",
+    "subcategory":  "Women\u0027s Shoes",
+    "priceUsd": 42,
+    "priceRub": 3864,
+    "origin":  "Accra, Ghana",
+    "description":  "Stylish women\u0027s sandals featuring colorful African-inspired patterns and a comfortable-looking design. Suitable for everyday wear, holidays, casual outings, and special occasions.",
+    "image":  "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "African Print",
+    "brand":  "Ghana Footwear Guild",
+    "availableSizes":  [
+                           "36",
+                           "37",
+                           "38",
+                           "39",
+                           "40",
+                           "41"
+                       ],
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "Women\u0027s African Print Sandals",
+                      "fr":  "Sandales à Lanières Africaines Femme",
+                      "ru":  "Женские Сандалии с Африканским Узором"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Stylish women\u0027s sandals featuring colorful African-inspired patterns and a comfortable-looking design. Suitable for everyday wear, holidays, casual outings, and special occasions.",
+                            "fr":  "Sandales plates vibrantes dotées de lanières en perles colorées.",
+                            "ru":  "Яркие сандалии на плоской подошве с ремешками из бусин."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--women-s-shoes",
+    "badgeI18n":  {
+                      "ru":  "Африканский принт",
+                      "en":  "African Print",
+                      "fr":  "Impression africaine"
+                  }
+}

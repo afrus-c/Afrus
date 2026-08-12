@@ -1,0 +1,10 @@
+{
+  "id": "flags--cultural-flags",
+  "categoryId": "flags",
+  "name": "Cultural Flags",
+  "nameI18n": {
+    "en": "Cultural Flags",
+    "fr": "Drapeaux Culturels",
+    "ru": "Культурные Флаги"
+  }
+}

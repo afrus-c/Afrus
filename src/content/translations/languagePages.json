@@ -1,0 +1,132 @@
+{
+  "namespace": "languagePages",
+  "adminLabelFr": "Pages d’apprentissage des langues",
+  "entries": [
+    {
+      "key": "languagePages.english.highlights.fluency.title",
+      "en": "Business C1 Fluency",
+      "fr": "Maîtrise de l’anglais des affaires C1",
+      "ru": "Деловой английский уровня C1"
+    },
+    {
+      "key": "languagePages.english.highlights.fluency.desc",
+      "en": "Customized for exporters, diplomats, and executives conducting global negotiations.",
+      "fr": "Programme adapté aux exportateurs, diplomates et cadres menant des négociations internationales.",
+      "ru": "Индивидуальная программа для экспортёров, дипломатов и руководителей, ведущих международные переговоры."
+    },
+    {
+      "key": "languagePages.english.highlights.instructors.title",
+      "en": "Native Instructors",
+      "fr": "Formateurs natifs",
+      "ru": "Преподаватели-носители языка"
+    },
+    {
+      "key": "languagePages.english.highlights.instructors.desc",
+      "en": "Direct dialogue with native English speakers specialized in international business terminology.",
+      "fr": "Échanges directs avec des anglophones natifs spécialisés dans la terminologie du commerce international.",
+      "ru": "Прямое общение с носителями английского языка, специализирующимися на международной деловой терминологии."
+    },
+    {
+      "key": "languagePages.english.highlights.diplomacy.title",
+      "en": "Diplomatic & Economic Focus",
+      "fr": "Orientation diplomatique et économique",
+      "ru": "Дипломатическая и экономическая направленность"
+    },
+    {
+      "key": "languagePages.english.highlights.diplomacy.desc",
+      "en": "Mastering trade contracts, corporate presentations, and international forum dialogues.",
+      "fr": "Maîtrise des contrats commerciaux, présentations d’entreprise et dialogues lors de forums internationaux.",
+      "ru": "Освоение торговых договоров, корпоративных презентаций и общения на международных форумах."
+    },
+    {
+      "key": "languagePages.english.highlights.certification.title",
+      "en": "Official Certification",
+      "fr": "Certification officielle",
+      "ru": "Официальная сертификация"
+    },
+    {
+      "key": "languagePages.english.highlights.certification.desc",
+      "en": "Recognized certificate upon completion to boost career and academic credentials.",
+      "fr": "Certificat reconnu à l’issue du programme pour valoriser votre parcours professionnel et universitaire.",
+      "ru": "Признанный сертификат по окончании курса для развития карьеры и академического профиля."
+    },
+    {
+      "key": "languagePages.french.highlights.markets.title",
+      "en": "West & Central African French",
+      "fr": "Français d’Afrique de l’Ouest et centrale",
+      "ru": "Французский язык Западной и Центральной Африки"
+    },
+    {
+      "key": "languagePages.french.highlights.markets.desc",
+      "en": "Unlocking trade and diplomatic relations across 20+ French-speaking African nations.",
+      "fr": "Développez vos relations commerciales et diplomatiques dans plus de 20 pays africains francophones.",
+      "ru": "Развивайте торговые и дипломатические связи более чем с 20 франкоязычными странами Африки."
+    },
+    {
+      "key": "languagePages.french.highlights.etiquette.title",
+      "en": "Cultural Etiquette & Protocol",
+      "fr": "Étiquette culturelle et protocole",
+      "ru": "Культурный этикет и протокол"
+    },
+    {
+      "key": "languagePages.french.highlights.etiquette.desc",
+      "en": "Understanding business customs, diplomatic protocol, and regional dialect nuances.",
+      "fr": "Comprenez les usages professionnels, le protocole diplomatique et les nuances dialectales régionales.",
+      "ru": "Изучение деловых обычаев, дипломатического протокола и особенностей региональных диалектов."
+    },
+    {
+      "key": "languagePages.french.highlights.audio.title",
+      "en": "Interactive Audio Modules",
+      "fr": "Modules audio interactifs",
+      "ru": "Интерактивные аудиомодули"
+    },
+    {
+      "key": "languagePages.french.highlights.audio.desc",
+      "en": "Real-world dialogue simulations with native West & Central African instructors.",
+      "fr": "Simulations de dialogues réels avec des formateurs natifs d’Afrique de l’Ouest et centrale.",
+      "ru": "Моделирование реальных диалогов с преподавателями из Западной и Центральной Африки."
+    },
+    {
+      "key": "languagePages.french.highlights.groups.title",
+      "en": "Small Group Interactive Sessions",
+      "fr": "Sessions interactives en petits groupes",
+      "ru": "Интерактивные занятия в малых группах"
+    },
+    {
+      "key": "languagePages.french.highlights.groups.desc",
+      "en": "Personalized attention and rapid conversational confidence.",
+      "fr": "Un accompagnement personnalisé pour gagner rapidement en aisance à l’oral.",
+      "ru": "Индивидуальное внимание и быстрое развитие уверенной разговорной речи."
+    },
+    {
+      "key": "languagePages.common.slideLabel",
+      "en": "Course presentation slide",
+      "fr": "Diapositive de présentation du cours",
+      "ru": "Слайд презентации курса"
+    },
+    {
+      "key": "languagePages.common.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "languagePages.common.play",
+      "en": "Play slideshow",
+      "fr": "Démarrer le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "languagePages.common.counter",
+      "en": "Slide {{current}} of {{total}}",
+      "fr": "Diapositive {{current}} sur {{total}}",
+      "ru": "Слайд {{current}} из {{total}}"
+    },
+    {
+      "key": "languagePages.common.enrollmentSubject",
+      "en": "Language course enrollment: {{course}}",
+      "fr": "Inscription au cours de langue : {{course}}",
+      "ru": "Запись на языковой курс: {{course}}"
+    }
+  ]
+}

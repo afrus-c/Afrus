@@ -1,0 +1,10 @@
+{
+  "id": "bracelets-jewelry--cultural-jewelry",
+  "categoryId": "bracelets-jewelry",
+  "name": "Cultural Jewelry",
+  "nameI18n": {
+    "en": "Cultural Jewelry",
+    "fr": "Bijoux Culturels",
+    "ru": "Культурные Украшения"
+  }
+}

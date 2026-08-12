@@ -1,0 +1,34 @@
+{
+    "id":  "mask-hand-carved-african-art",
+    "title":  "Hand-Carved African Art Mask",
+    "category":  "Masks",
+    "subcategory":  "Handmade Art Masks",
+    "priceUsd": 95,
+    "priceRub": 8740,
+    "origin":  "Ouidah, Benin",
+    "description":  "A handmade decorative art mask featuring detailed carving and an authentic handcrafted appearance. Created as a distinctive artistic piece for collectors and interior decoration.",
+    "image":  "/uploads/store/mask_hand_carved_art_1786180665396.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Artisan Handmade",
+    "brand":  "Ouidah Studio",
+    "inventoryCount":  12,
+    "titleI18n":  {
+                      "en":  "Hand-Carved African Art Mask",
+                      "fr":  "Masque d\u0027Art Sculpté à la Main",
+                      "ru":  "Авторская Резная Маска"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A handmade decorative art mask featuring detailed carving and an authentic handcrafted appearance. Created as a distinctive artistic piece for collectors and interior decoration.",
+                            "fr":  "Masque artisanal exclusif fabriqué par des maîtres sculpteurs d\u0027Afrique centrale.",
+                            "ru":  "Эксклюзивная маска работы мастеров Центральной Африки."
+                        },
+    "categoryId":  "masks",
+    "subcategoryId":  "masks--handmade-art-masks",
+    "badgeI18n":  {
+                      "ru":  "Ремесленник Ручной Работы",
+                      "en":  "Artisan Handmade",
+                      "fr":  "Artisan fait à la main"
+                  }
+}

@@ -1,0 +1,43 @@
+{
+    "id":  "shoes-kids-african-inspired-sandals",
+    "title":  "Kids\u0027 African-Inspired Sandals",
+    "category":  "Shoes",
+    "subcategory":  "Kids\u0027 Shoes",
+    "priceUsd": 28,
+    "priceRub": 2576,
+    "origin":  "Cape Town, South Africa",
+    "description":  "Lightweight children\u0027s sandals featuring an original African-inspired design and a comfortable-looking construction suitable for warm-weather activities and casual outings.",
+    "image":  "https://images.unsplash.com/photo-1507464098880-e36e3cae1c58?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Warm-Weather Wear",
+    "brand":  "Ubuntu Kids",
+    "availableSizes":  [
+                           "28",
+                           "29",
+                           "30",
+                           "31",
+                           "32",
+                           "33",
+                           "34"
+                       ],
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "Kids\u0027 African-Inspired Sandals",
+                      "fr":  "Sandales en Cuir Souple Enfant",
+                      "ru":  "Детские Кожаные Сандалии"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Lightweight children\u0027s sandals featuring an original African-inspired design and a comfortable-looking construction suitable for warm-weather activities and casual outings.",
+                            "fr":  "Sandales en cuir ajustables et confortables pour l\u0027été.",
+                            "ru":  "Удобные регулируемые сандалии из мягкой кожи."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--kids-shoes",
+    "badgeI18n":  {
+                      "ru":  "Одежда для теплой погоды",
+                      "en":  "Warm-Weather Wear",
+                      "fr":  "Vêtements pour temps chaud"
+                  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "education",
+  "image": "/uploads/home-hero/university_campus_russia_1785919887504.jpg",
+  "category": "EDUCATION OPPORTUNITIES",
+  "headline": "Your Gateway to Study in Russia",
+  "description": "Supporting students with university admissions, scholarship guidance, and a smooth journey to Russian higher education.",
+  "ctaText": "Study in Russia",
+  "path": "/study-in-russia",
+  "categoryI18n": {
+    "en": "EDUCATION OPPORTUNITIES",
+    "fr": "OPPORTUNITÉS D'ÉDUCATION",
+    "ru": "ВОЗМОЖНОСТИ ОБРАЗОВАНИЯ"
+  },
+  "headlineI18n": {
+    "en": "Your Gateway to Study in Russia",
+    "fr": "Votre passerelle pour étudier en Russie",
+    "ru": "Ваш путь к обучению в России"
+  },
+  "descriptionI18n": {
+    "en": "Supporting students with university admissions, scholarship guidance, and a smooth journey to Russian higher education.",
+    "fr": "Aider les étudiants à accéder à l'université, à obtenir des conseils en matière de bourses et à faciliter leur parcours vers l'enseignement supérieur russe.",
+    "ru": "Поддержка студентов при поступлении в университеты, помощь в получении стипендий и плавный путь к российскому высшему образованию."
+  },
+  "ctaTextI18n": {
+    "en": "Study in Russia",
+    "fr": "Étudier en Russie",
+    "ru": "Обучение в России"
+  },
+  "order": 3
+}

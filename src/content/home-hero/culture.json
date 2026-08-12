@@ -1,0 +1,30 @@
+{
+  "id": "culture",
+  "image": "/uploads/home-hero/culture_festival_exchange_1785925175774.jpg",
+  "category": "CULTURAL CONNECTION",
+  "headline": "Celebrating Africa and Russia Together",
+  "description": "Connecting communities through festivals, cultural exchanges, art, music, and shared experiences.",
+  "ctaText": "Discover Culture",
+  "path": "/events",
+  "categoryI18n": {
+    "en": "CULTURAL CONNECTION",
+    "fr": "CONNEXION CULTURELLE",
+    "ru": "КУЛЬТУРНАЯ СВЯЗЬ"
+  },
+  "headlineI18n": {
+    "en": "Celebrating Africa and Russia Together",
+    "fr": "Célébrer ensemble l’Afrique et la Russie",
+    "ru": "Празднуем Африку и Россию вместе"
+  },
+  "descriptionI18n": {
+    "en": "Connecting communities through festivals, cultural exchanges, art, music, and shared experiences.",
+    "fr": "Connecter les communautés à travers des festivals, des échanges culturels, de l'art, de la musique et des expériences partagées.",
+    "ru": "Объединение сообществ посредством фестивалей, культурного обмена, искусства, музыки и обмена опытом."
+  },
+  "ctaTextI18n": {
+    "en": "Discover Culture",
+    "fr": "Découvrez la culture",
+    "ru": "Откройте для себя культуру"
+  },
+  "order": 5
+}

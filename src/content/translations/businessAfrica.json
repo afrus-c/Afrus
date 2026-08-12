@@ -1,0 +1,396 @@
+{
+  "namespace": "businessAfrica",
+  "adminLabelFr": "Entreprendre en Afrique — textes généraux",
+  "entries": [
+    {
+      "key": "businessAfrica.regions.eyebrow",
+      "en": "Economic Communities & Industrial Zones",
+      "fr": "Communautés économiques et zones industrielles",
+      "ru": "Экономические сообщества и промышленные зоны"
+    },
+    {
+      "key": "businessAfrica.regions.title",
+      "en": "Regional Trade Blocs & Expansion Hubs",
+      "fr": "Blocs commerciaux régionaux et pôles d’expansion",
+      "ru": "Региональные торговые блоки и центры расширения"
+    },
+    {
+      "key": "businessAfrica.regions.description",
+      "en": "Strategic access points for Russian exporters, equipment manufacturers, and investors into major African regional markets.",
+      "fr": "Des points d’accès stratégiques aux principaux marchés régionaux africains pour les exportateurs, fabricants d’équipements et investisseurs russes.",
+      "ru": "Стратегические точки доступа к крупнейшим региональным рынкам Африки для российских экспортёров, производителей оборудования и инвесторов."
+    },
+    {
+      "key": "businessAfrica.regions.hubsLabel",
+      "en": "Hubs:",
+      "fr": "Pôles :",
+      "ru": "Центры:"
+    },
+    {
+      "key": "businessAfrica.regions.opportunitiesLabel",
+      "en": "Key Opportunities:",
+      "fr": "Principales opportunités :",
+      "ru": "Ключевые возможности:"
+    },
+    {
+      "key": "businessAfrica.regions.items.west.name",
+      "en": "West Africa (ECOWAS)",
+      "fr": "Afrique de l’Ouest (CEDEAO)",
+      "ru": "Западная Африка (ЭКОВАС)"
+    },
+    {
+      "key": "businessAfrica.regions.items.west.hubs",
+      "en": "Cameroon, Nigeria, Senegal, Ivory Coast",
+      "fr": "Cameroun, Nigeria, Sénégal, Côte d’Ivoire",
+      "ru": "Камерун, Нигерия, Сенегал, Кот-д’Ивуар"
+    },
+    {
+      "key": "businessAfrica.regions.items.west.sectors",
+      "en": "Agribusiness, cocoa processing, energy, port logistics",
+      "fr": "Agro-industrie, transformation du cacao, énergie, logistique portuaire",
+      "ru": "Агробизнес, переработка какао, энергетика, портовая логистика"
+    },
+    {
+      "key": "businessAfrica.regions.items.central.name",
+      "en": "Central Africa (CEMAC)",
+      "fr": "Afrique centrale (CEMAC)",
+      "ru": "Центральная Африка (СЕМАС)"
+    },
+    {
+      "key": "businessAfrica.regions.items.central.hubs",
+      "en": "Cameroon, Gabon, Congo, Chad",
+      "fr": "Cameroun, Gabon, Congo, Tchad",
+      "ru": "Камерун, Габон, Конго, Чад"
+    },
+    {
+      "key": "businessAfrica.regions.items.central.sectors",
+      "en": "Timber, mining, hydroelectric power, infrastructure",
+      "fr": "Bois, mines, hydroélectricité, infrastructures",
+      "ru": "Лесная промышленность, добыча полезных ископаемых, гидроэнергетика, инфраструктура"
+    },
+    {
+      "key": "businessAfrica.regions.items.east.name",
+      "en": "East Africa (EAC)",
+      "fr": "Afrique de l’Est (CAE)",
+      "ru": "Восточная Африка (ВАС)"
+    },
+    {
+      "key": "businessAfrica.regions.items.east.hubs",
+      "en": "Kenya, Tanzania, Ethiopia, Uganda",
+      "fr": "Kenya, Tanzanie, Éthiopie, Ouganda",
+      "ru": "Кения, Танзания, Эфиопия, Уганда"
+    },
+    {
+      "key": "businessAfrica.regions.items.east.sectors",
+      "en": "Coffee, tea, telecommunications, geothermal energy",
+      "fr": "Café, thé, télécommunications, énergie géothermique",
+      "ru": "Кофе, чай, телекоммуникации, геотермальная энергетика"
+    },
+    {
+      "key": "businessAfrica.regions.items.southern.name",
+      "en": "Southern Africa (SADC)",
+      "fr": "Afrique australe (SADC)",
+      "ru": "Южная Африка (САДК)"
+    },
+    {
+      "key": "businessAfrica.regions.items.southern.hubs",
+      "en": "South Africa, Zambia, Mozambique, Angola",
+      "fr": "Afrique du Sud, Zambie, Mozambique, Angola",
+      "ru": "ЮАР, Замбия, Мозамбик, Ангола"
+    },
+    {
+      "key": "businessAfrica.regions.items.southern.sectors",
+      "en": "Heavy industrial equipment, platinum, agricultural technology",
+      "fr": "Équipements industriels lourds, platine, technologies agricoles",
+      "ru": "Тяжёлое промышленное оборудование, платина, агротехнологии"
+    },
+    {
+      "key": "businessAfrica.afcfta.eyebrow",
+      "en": "African Continental Free Trade Area",
+      "fr": "Zone de libre-échange continentale africaine",
+      "ru": "Африканская континентальная зона свободной торговли"
+    },
+    {
+      "key": "businessAfrica.afcfta.title",
+      "en": "Capitalizing on the 1.3 Billion Consumer Single Market",
+      "fr": "Tirer parti d’un marché unique de 1,3 milliard de consommateurs",
+      "ru": "Возможности единого рынка с 1,3 миллиарда потребителей"
+    },
+    {
+      "key": "businessAfrica.afcfta.cta",
+      "en": "Consult Tariff Specialist",
+      "fr": "Consulter un spécialiste tarifaire",
+      "ru": "Получить консультацию по тарифам"
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.tariffs.title",
+      "en": "Zero Tariff Corridors",
+      "fr": "Corridors sans droits de douane",
+      "ru": "Беспошлинные коридоры"
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.tariffs.desc",
+      "en": "Phase out of 90% of intra-African tariffs for registered goods and raw materials.",
+      "fr": "Suppression progressive de 90 % des droits intra-africains sur les biens et matières premières enregistrés.",
+      "ru": "Поэтапная отмена 90 % внутриафриканских тарифов на зарегистрированные товары и сырьё."
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.standards.title",
+      "en": "Harmonized Standards",
+      "fr": "Normes harmonisées",
+      "ru": "Гармонизированные стандарты"
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.standards.desc",
+      "en": "Single ARSO quality certification across West, Central, East & Southern Africa.",
+      "fr": "Certification qualité ARSO unique en Afrique de l’Ouest, centrale, de l’Est et australe.",
+      "ru": "Единая сертификация качества ARSO для Западной, Центральной, Восточной и Южной Африки."
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.papss.title",
+      "en": "PAPSS Digital Settlement",
+      "fr": "Règlement numérique PAPSS",
+      "ru": "Цифровые расчёты PAPSS"
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.papss.desc",
+      "en": "Pan-African Payment and Settlement System enabling instant local currency transactions.",
+      "fr": "Système panafricain de paiement et de règlement permettant des transactions instantanées en monnaies locales.",
+      "ru": "Панафриканская платёжно-расчётная система для мгновенных операций в местных валютах."
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.hubs.title",
+      "en": "Special Economic Hubs",
+      "fr": "Pôles économiques spéciaux",
+      "ru": "Особые экономические центры"
+    },
+    {
+      "key": "businessAfrica.afcfta.pillars.hubs.desc",
+      "en": "Duty-free export processing zones in Kribi, Lekki, Mombasa, and Durban.",
+      "fr": "Zones franches de transformation pour l’exportation à Kribi, Lekki, Mombasa et Durban.",
+      "ru": "Беспошлинные экспортно-производственные зоны в Криби, Лекки, Момбасе и Дурбане."
+    },
+    {
+      "key": "businessAfrica.ventures.eyebrow",
+      "en": "Public-Private Partnerships & Equity",
+      "fr": "Partenariats public-privé et capital",
+      "ru": "Государственно-частные партнёрства и капитал"
+    },
+    {
+      "key": "businessAfrica.ventures.title",
+      "en": "Joint Venture Structuring & Local Co-Investment",
+      "fr": "Structuration de coentreprises et co-investissement local",
+      "ru": "Структурирование совместных предприятий и местное соинвестирование"
+    },
+    {
+      "key": "businessAfrica.ventures.description",
+      "en": "AFRUS connects Russian industrial leaders, agritech providers, and energy firms with vetted African state authorities, sovereign wealth funds, and private industry leaders to co-invest in high-yield infrastructure and manufacturing projects.",
+      "fr": "AFRUS met en relation les industriels, fournisseurs agritech et énergéticiens russes avec des autorités publiques africaines, fonds souverains et acteurs privés vérifiés afin de co-investir dans des projets d’infrastructure et de production à fort rendement.",
+      "ru": "AFRUS связывает российских промышленных лидеров, поставщиков агротехнологий и энергетические компании с проверенными африканскими государственными органами, суверенными фондами и частными компаниями для совместных инвестиций в высокодоходные инфраструктурные и производственные проекты."
+    },
+    {
+      "key": "businessAfrica.ventures.spv",
+      "en": "Special Purpose Vehicle (SPV) Registration",
+      "fr": "Immatriculation d’une structure ad hoc (SPV)",
+      "ru": "Регистрация компании специального назначения (SPV)"
+    },
+    {
+      "key": "businessAfrica.ventures.tax",
+      "en": "Bilateral Tax Treaty Optimization",
+      "fr": "Optimisation des conventions fiscales bilatérales",
+      "ru": "Оптимизация двусторонних налоговых соглашений"
+    },
+    {
+      "key": "businessAfrica.ventures.inquiryTitle",
+      "en": "Inquire About Joint Venture Opportunities",
+      "fr": "Découvrir les possibilités de coentreprise",
+      "ru": "Узнать о возможностях совместных предприятий"
+    },
+    {
+      "key": "businessAfrica.ventures.inquiryDescription",
+      "en": "Speak with AFRUS legal counsel and regional economists about co-investing in African energy, agriculture, or mining infrastructure.",
+      "fr": "Échangez avec les juristes et économistes régionaux d’AFRUS sur le co-investissement dans les infrastructures africaines d’énergie, d’agriculture ou de mines.",
+      "ru": "Обсудите с юристами и региональными экономистами AFRUS совместные инвестиции в энергетическую, сельскохозяйственную или горнодобывающую инфраструктуру Африки."
+    },
+    {
+      "key": "businessAfrica.ventures.cta",
+      "en": "Request SPV Proposal",
+      "fr": "Demander une proposition de SPV",
+      "ru": "Запросить предложение по SPV"
+    },
+    {
+      "key": "businessAfrica.vetting.eyebrow",
+      "en": "Risk Mitigation & Compliance",
+      "fr": "Atténuation des risques et conformité",
+      "ru": "Снижение рисков и соблюдение требований"
+    },
+    {
+      "key": "businessAfrica.vetting.title",
+      "en": "Rigorous Local Partner Vetting & Regulatory Clearance",
+      "fr": "Vérification rigoureuse des partenaires locaux et autorisations réglementaires",
+      "ru": "Тщательная проверка местных партнёров и получение разрешений"
+    },
+    {
+      "key": "businessAfrica.vetting.description",
+      "en": "Eliminate commercial risk through AFRUS ground-level due diligence, background checks on prospective African distributors, land tenure verification, and government license auditing.",
+      "fr": "Réduisez le risque commercial grâce aux vérifications de terrain d’AFRUS, au contrôle des antécédents des distributeurs africains, à la vérification foncière et à l’audit des licences publiques.",
+      "ru": "Снижайте коммерческие риски благодаря комплексной проверке AFRUS на местах, анализу потенциальных африканских дистрибьюторов, проверке прав на землю и аудиту государственных лицензий."
+    },
+    {
+      "key": "businessAfrica.vetting.cta",
+      "en": "Order Due Diligence Report",
+      "fr": "Commander un rapport de diligence raisonnable",
+      "ru": "Заказать отчёт комплексной проверки"
+    },
+    {
+      "key": "businessAfrica.subjects.afcfta",
+      "en": "AfCFTA Tariff Strategy",
+      "fr": "Stratégie tarifaire ZLECAf",
+      "ru": "Тарифная стратегия АфКЗСТ"
+    },
+    {
+      "key": "businessAfrica.subjects.venture",
+      "en": "Joint Venture Inquiry",
+      "fr": "Demande concernant une coentreprise",
+      "ru": "Запрос по совместному предприятию"
+    },
+    {
+      "key": "businessAfrica.subjects.vetting",
+      "en": "Partner Vetting & Due Diligence",
+      "fr": "Vérification de partenaire et diligence raisonnable",
+      "ru": "Проверка партнёра и комплексная оценка"
+    },
+    {
+      "key": "businessAfrica.subjects.entry",
+      "en": "African Market Entry Strategy",
+      "fr": "Stratégie d’entrée sur le marché africain",
+      "ru": "Стратегия выхода на рынок Африки"
+    },
+    {
+      "key": "businessAfrica.hero.badge",
+      "en": "AFRUS GATEWAY TO 54 AFRICAN MARKETS",
+      "fr": "PASSERELLE AFRUS VERS 54 MARCHÉS AFRICAINS",
+      "ru": "ШЛЮЗ AFRUS НА 54 АФРИКАНСКИХ РЫНКА"
+    },
+    {
+      "key": "businessAfrica.hero.titlePrefix",
+      "en": "Guiding Russian Enterprises Into",
+      "fr": "Accompagner les entreprises russes vers",
+      "ru": "Выводим российские предприятия на"
+    },
+    {
+      "key": "businessAfrica.hero.titleAccent",
+      "en": "Fast-Growing African Markets",
+      "fr": "les marchés africains en forte croissance",
+      "ru": "быстрорастущие рынки Африки"
+    },
+    {
+      "key": "businessAfrica.hero.subtitle",
+      "en": "Comprehensive market intelligence, local corporate vetting, AfCFTA tariff strategy, joint venture structuring, and government diplomatic liaison across ECOWAS, CEMAC, EAC, and SADC trade zones.",
+      "fr": "Veille commerciale complète, vérification des entreprises locales, stratégie tarifaire ZLECAf, structuration de coentreprises et liaison diplomatique gouvernementale dans les zones CEDEAO, CEMAC, CAE et SADC.",
+      "ru": "Комплексная рыночная аналитика, проверка местных компаний, тарифная стратегия АфКЗСТ, структурирование совместных предприятий и взаимодействие с государственными органами в торговых зонах ЭКОВАС, СЕМАС, ВАС и САДК."
+    },
+    {
+      "key": "businessAfrica.hero.primaryCta",
+      "en": "Consult Market Specialist",
+      "fr": "Consulter un spécialiste du marché",
+      "ru": "Проконсультироваться со специалистом"
+    },
+    {
+      "key": "businessAfrica.hero.secondaryCta",
+      "en": "Explore Regional Trade Blocs",
+      "fr": "Explorer les blocs commerciaux régionaux",
+      "ru": "Изучить региональные торговые блоки"
+    },
+    {
+      "key": "businessAfrica.hero.chips.regions",
+      "en": "Regional Trade Blocs",
+      "fr": "Blocs commerciaux régionaux",
+      "ru": "Региональные торговые блоки"
+    },
+    {
+      "key": "businessAfrica.hero.chips.afcfta",
+      "en": "AfCFTA Strategy",
+      "fr": "Stratégie ZLECAf",
+      "ru": "Стратегия АфКЗСТ"
+    },
+    {
+      "key": "businessAfrica.hero.chips.ventures",
+      "en": "Joint Ventures",
+      "fr": "Coentreprises",
+      "ru": "Совместные предприятия"
+    },
+    {
+      "key": "businessAfrica.hero.chips.vetting",
+      "en": "Partner Vetting",
+      "fr": "Vérification des partenaires",
+      "ru": "Проверка партнёров"
+    },
+    {
+      "key": "businessAfrica.hero.slideLabel",
+      "en": "Slide {{number}}",
+      "fr": "Diapositive {{number}}",
+      "ru": "Слайд {{number}}"
+    },
+    {
+      "key": "businessAfrica.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "businessAfrica.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "businessAfrica.hero.slides.logistics.tag",
+      "en": "54-Nation AfCFTA Gateway",
+      "fr": "Passerelle ZLECAf de 54 pays",
+      "ru": "Шлюз АфКЗСТ для 54 стран"
+    },
+    {
+      "key": "businessAfrica.hero.slides.logistics.caption",
+      "en": "Deep-water port terminals, free-trade warehouses & regional distribution hubs",
+      "fr": "Terminaux portuaires en eau profonde, entrepôts francs et pôles régionaux de distribution",
+      "ru": "Глубоководные портовые терминалы, склады свободной торговли и региональные распределительные центры"
+    },
+    {
+      "key": "businessAfrica.hero.slides.minerals.tag",
+      "en": "Strategic Minerals & Energy",
+      "fr": "Minéraux stratégiques et énergie",
+      "ru": "Стратегические минералы и энергетика"
+    },
+    {
+      "key": "businessAfrica.hero.slides.minerals.caption",
+      "en": "Lithium, cobalt, bauxite & natural gas processing corridors",
+      "fr": "Corridors de transformation du lithium, cobalt, bauxite et gaz naturel",
+      "ru": "Коридоры переработки лития, кобальта, бокситов и природного газа"
+    },
+    {
+      "key": "businessAfrica.hero.slides.agriculture.tag",
+      "en": "Agribusiness & Food Security",
+      "fr": "Agro-industrie et sécurité alimentaire",
+      "ru": "Агробизнес и продовольственная безопасность"
+    },
+    {
+      "key": "businessAfrica.hero.slides.agriculture.caption",
+      "en": "Commercial farm mechanization, irrigation infrastructure & processing",
+      "fr": "Mécanisation agricole, infrastructures d’irrigation et transformation",
+      "ru": "Механизация коммерческих хозяйств, ирригационная инфраструктура и переработка"
+    },
+    {
+      "key": "businessAfrica.hero.slides.cities.tag",
+      "en": "Metropolitan Commercial Centers",
+      "fr": "Centres commerciaux métropolitains",
+      "ru": "Столичные коммерческие центры"
+    },
+    {
+      "key": "businessAfrica.hero.slides.cities.caption",
+      "en": "Lagos, Johannesburg, Nairobi & Cairo trade headquarters and joint ventures",
+      "fr": "Sièges commerciaux et coentreprises à Lagos, Johannesburg, Nairobi et au Caire",
+      "ru": "Торговые штаб-квартиры и совместные предприятия в Лагосе, Йоханнесбурге, Найроби и Каире"
+    }
+  ]
+}

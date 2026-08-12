@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-african-citrus-wood-fragrance",
+    "title":  "African Citrus \u0026 Wood Fragrance",
+    "category":  "Perfume",
+    "subcategory":  "Unisex Fragrances",
+    "priceUsd": 70,
+    "priceRub": 6440,
+    "origin":  "Cape Town, South Africa",
+    "description":  "A fresh and refined unisex fragrance combining bright citrus-inspired character with warm woody notes. Designed as a versatile everyday fragrance.",
+    "image":  "https://images.unsplash.com/photo-1519669011783-4eaa95fa1b7d?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Citrus \u0026 Wood",
+    "brand":  "Cape Botanicals",
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "African Citrus \u0026 Wood Fragrance",
+                      "fr":  "Parfum Bois d\u0027Agrumes Africain",
+                      "ru":  "Аромат Африканский Цитрус и Дерево"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A fresh and refined unisex fragrance combining bright citrus-inspired character with warm woody notes. Designed as a versatile everyday fragrance.",
+                            "fr":  "Notes tonifiantes de bergamote et pamplemousse équilibrées par le vétiver.",
+                            "ru":  "Бодрящие цитрусовые ноты бергамота и грейпфрута с ветивером."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--unisex-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Цитрусовые и древесина",
+                      "en":  "Citrus \u0026 Wood",
+                      "fr":  "Agrumes \u0026 Bois"
+                  }
+}

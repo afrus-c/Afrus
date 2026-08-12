@@ -1,0 +1,29 @@
+{
+  "id": "business-africa",
+  "title": "Business in Africa",
+  "category": "business",
+  "description": "Guiding Russian corporations into fast-growing African markets across West, Central, East, and Southern Africa.",
+  "iconName": "Globe2",
+  "badge": "Expansion",
+  "titleI18n": {
+    "en": "Business in Africa",
+    "fr": "Affaires en Afrique",
+    "ru": "Бизнес в Африке"
+  },
+  "descriptionI18n": {
+    "en": "Guiding Russian corporations into fast-growing African markets across West, Central, East, and Southern Africa.",
+    "fr": "Guider les entreprises russes sur les marchés africains à croissance rapide en Afrique de l’Ouest, centrale, orientale et australe.",
+    "ru": "Сопровождение российских корпораций на быстрорастущие африканские рынки Западной, Центральной, Восточной и Южной Африки."
+  },
+  "badgeI18n": {
+    "en": "Expansion",
+    "fr": "Expansion",
+    "ru": "Расширение"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 4
+}

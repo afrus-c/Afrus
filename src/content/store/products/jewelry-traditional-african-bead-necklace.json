@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-traditional-african-bead-necklace",
+    "title":  "Traditional African Bead Necklace",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Cultural Jewelry",
+    "priceUsd": 52,
+    "priceRub": 4784,
+    "origin":  "Kumasi, Ghana",
+    "description":  "A handcrafted necklace inspired by traditional African beadwork, featuring colorful beads and distinctive patterns. Ideal for cultural celebrations, collectors, and statement styling.",
+    "image":  "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  5,
+    "badge":  "Heritage Beadwork",
+    "brand":  "Ashanti Heritage",
+    "inventoryCount":  18,
+    "titleI18n":  {
+                      "en":  "Traditional African Bead Necklace",
+                      "fr":  "Collier Traditionnel Africain en Perles",
+                      "ru":  "Традиционное Колье Масаи из Бусин"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A handcrafted necklace inspired by traditional African beadwork, featuring colorful beads and distinctive patterns. Ideal for cultural celebrations, collectors, and statement styling.",
+                            "fr":  "Collier en perles authentique d\u0027inspiration Masaï fabriqué à la main en Afrique de l\u0027Est.",
+                            "ru":  "Аутентичные бусы в стиле племени Масаи."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--cultural-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Наследие Бисероплетение",
+                      "en":  "Heritage Beadwork",
+                      "fr":  "Perlage du patrimoine"
+                  }
+}

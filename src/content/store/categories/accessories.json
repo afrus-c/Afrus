@@ -1,0 +1,13 @@
+{
+  "id": "accessories",
+  "name": "Accessories",
+  "description": "Leather belts, African print caps, leather wallets, handbags, headwraps, and beaded bags.",
+  "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=800&q=80",
+  "icon": "👜",
+  "itemCount": 6,
+  "nameI18n": {
+    "en": "Accessories",
+    "fr": "Accessoires",
+    "ru": "Аксессуары"
+  }
+}

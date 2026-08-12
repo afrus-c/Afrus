@@ -1,0 +1,156 @@
+{
+  "namespace": "store",
+  "adminLabelFr": "Boutique AFRUS — textes généraux",
+  "entries": [
+    {
+      "key": "store.title",
+      "en": "AFRUS Russia–Africa Cultural & Lifestyle Store",
+      "fr": "Boutique Culturelle & Mode AFRUS Russie–Afrique",
+      "ru": "Магазин Культуры и Стиля AFRUS Россия–Африка"
+    },
+    {
+      "key": "store.subtitle",
+      "en": "Curated authentic African garments, traditional masks, ceremonial crafts, sports jerseys, and specialty goods delivered across Russia, Belarus, and Kazakhstan.",
+      "fr": "Sélection d'habits africains authentiques, masques traditionnels, artisanat de cérémonie, maillots de sport et produits du terroir livrés en Russie, Biélorussie et Kazakhstan.",
+      "ru": "Аутентичная африканская одежда, традиционные маски, церемониальные изделия, спортивные джерси и оригинальные продукты с доставкой по России, Беларуси и Казахстану."
+    },
+    {
+      "key": "store.all_categories",
+      "en": "All Categories",
+      "fr": "Toutes les Catégories",
+      "ru": "Все Категории"
+    },
+    {
+      "key": "store.all_subcategories",
+      "en": "All Items",
+      "fr": "Tous les Articles",
+      "ru": "Все Товары"
+    },
+    {
+      "key": "store.in_stock",
+      "en": "In Stock",
+      "fr": "En Stock",
+      "ru": "В Наличии"
+    },
+    {
+      "key": "store.out_of_stock",
+      "en": "Out of Stock",
+      "fr": "Rupture de Stock",
+      "ru": "Нет в Наличии"
+    },
+    {
+      "key": "store.low_stock",
+      "en": "Low Stock",
+      "fr": "Stock Limité",
+      "ru": "Осталось Мало"
+    },
+    {
+      "key": "store.dual_price",
+      "en": "Dual Currency Price",
+      "fr": "Prix en Double Devise",
+      "ru": "Цена в двух валютах"
+    },
+    {
+      "key": "store.search_placeholder",
+      "en": "Search products, crafts, textiles, food...",
+      "fr": "Rechercher produits, vêtements, masques, nourriture...",
+      "ru": "Поиск товаров, одежды, масок, сувениров, еды..."
+    },
+    {
+      "key": "store.sort_by",
+      "en": "Sort By",
+      "fr": "Trier Par",
+      "ru": "Сортировка"
+    },
+    {
+      "key": "store.featured",
+      "en": "Featured First",
+      "fr": "En Vedette",
+      "ru": "Сначала Популярные"
+    },
+    {
+      "key": "store.price_low",
+      "en": "Price: Low to High",
+      "fr": "Prix: Croissant",
+      "ru": "Сначала Дешевле"
+    },
+    {
+      "key": "store.price_high",
+      "en": "Price: High to Low",
+      "fr": "Prix: Décroissant",
+      "ru": "Сначала Дороже"
+    },
+    {
+      "key": "store.rating",
+      "en": "Highest Rated",
+      "fr": "Mieux Notés",
+      "ru": "Высокий Рейтинг"
+    },
+    {
+      "key": "store.no_products",
+      "en": "No products found matching your search query.",
+      "fr": "Aucun produit ne correspond à votre recherche.",
+      "ru": "Товары по вашему запросу не найдены."
+    },
+    {
+      "key": "store.delivery_notice",
+      "en": "Express delivery across Moscow & St. Petersburg within 24h. Nationwide shipping across Russia & CIS.",
+      "fr": "Livraison express à Moscou et Saint-Pétersbourg sous 24h. Expédition dans toute la Russie et la CEEA.",
+      "ru": "Экспресс-доставка по Москве и Санкт-Петербургу за 24ч. Доставка по всей России и ЕАЭС."
+    },
+    {
+      "key": "store.slide_label",
+      "en": "Slide {{number}}",
+      "fr": "Diapositive {{number}}",
+      "ru": "Слайд {{number}}"
+    },
+    {
+      "key": "store.categories_menu",
+      "en": "Categories Menu",
+      "fr": "Menu des catégories",
+      "ru": "Меню категорий"
+    },
+    {
+      "key": "store.no_products_title",
+      "en": "No products found",
+      "fr": "Aucun produit trouvé",
+      "ru": "Товары не найдены"
+    },
+    {
+      "key": "store.no_products_help",
+      "en": "Try adjusting your search terms or select another category or subcategory above.",
+      "fr": "Modifiez votre recherche ou choisissez une autre catégorie ou sous-catégorie.",
+      "ru": "Измените поисковый запрос или выберите другую категорию либо подкатегорию."
+    },
+    {
+      "key": "store.short_name",
+      "en": "AFRUS Store",
+      "fr": "Boutique AFRUS",
+      "ru": "Магазин AFRUS"
+    },
+    {
+      "key": "stock.out",
+      "en": "Out of stock",
+      "fr": "Rupture de stock",
+      "ru": "Нет в наличии"
+    },
+    {
+      "key": "stock.in",
+      "en": "In stock",
+      "fr": "En stock",
+      "ru": "В наличии"
+    },
+    {
+      "key": "product.back_store",
+      "en": "Back to AFRUS Store",
+      "fr": "Retour à la boutique AFRUS",
+      "ru": "Вернуться в магазин AFRUS"
+    },
+    {
+      "key": "product.dual_price_note",
+      "en": "Dual price displayed simultaneously in USD and RUB at 1 USD = {{rate}} RUB.",
+      "fr": "Double prix affiché simultanément en USD et en RUB au taux de 1 USD = {{rate}} RUB.",
+      "ru": "Цена одновременно указана в USD и RUB по курсу 1 USD = {{rate}} RUB."
+    }
+  ]
+}

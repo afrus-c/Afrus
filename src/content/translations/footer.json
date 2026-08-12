@@ -1,0 +1,54 @@
+{
+  "namespace": "footer",
+  "adminLabelFr": "Pied de page",
+  "entries": [
+    {
+      "key": "footer.description",
+      "en": "AFRUS is the premier intergovernmental and commercial hub bridging the Russian Federation and the African Continent.",
+      "fr": "AFRUS est le principal centre intergouvernemental et commercial reliant la Fédération de Russie et le continent africain.",
+      "ru": "AFRUS — ключевой межправительственный и торговый хаб, связывающий Российскую Федерацию и Африканский континент."
+    },
+    {
+      "key": "footer.quick_links",
+      "en": "Quick Navigation",
+      "fr": "Navigation Rapide",
+      "ru": "Быстрая Навигация"
+    },
+    {
+      "key": "footer.core_services",
+      "en": "Core Pillars",
+      "fr": "Piliers Principaux",
+      "ru": "Основные Направления"
+    },
+    {
+      "key": "footer.official_contacts",
+      "en": "Official Contacts",
+      "fr": "Contacts Officiels",
+      "ru": "Официальные Контакты"
+    },
+    {
+      "key": "footer.rights",
+      "en": "All rights reserved. AFRUS Intergovernmental Bridge.",
+      "fr": "Tous droits réservés. Pont Intergouvernemental AFRUS.",
+      "ru": "Все права защищены. Межправительственный Мост AFRUS."
+    },
+    {
+      "key": "footer.privacy",
+      "en": "Privacy Policy",
+      "fr": "Politique de Confidentialité",
+      "ru": "Политика Конфиденциальности"
+    },
+    {
+      "key": "footer.terms",
+      "en": "Terms of Service",
+      "fr": "Conditions d'Utilisation",
+      "ru": "Условия Обслуживания"
+    },
+    {
+      "key": "footer.disclaimer",
+      "en": "Official trade, education, and financial corridor network.",
+      "fr": "Réseau officiel de commerce, d'éducation et de corridors financiers.",
+      "ru": "Официальный торгово-образовательный и финансовый коридор."
+    }
+  ]
+}

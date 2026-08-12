@@ -1,0 +1,40 @@
+{
+    "id":  "clothing-kids-casual-outfit-set",
+    "title":  "Kids\u0027 Casual Outfit Set",
+    "category":  "Clothing",
+    "subcategory":  "Kids",
+    "priceUsd": 45,
+    "priceRub": 4140,
+    "origin":  "AFRUS Junior",
+    "description":  "A comfortable children\u0027s clothing set featuring a coordinated top and bottom designed for everyday wear, play, outings, and casual occasions.",
+    "image":  "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "2-Piece Set",
+    "brand":  "AFRUS Junior",
+    "availableSizes":  [
+                           "2-3Y",
+                           "4-5Y",
+                           "6-7Y",
+                           "8-9Y"
+                       ],
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "Kids\u0027 Casual Outfit Set",
+                      "fr":  "Ensemble Deux Pièces Enfant",
+                      "ru":  "Детский Повседневный Комплект"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A comfortable children\u0027s clothing set featuring a coordinated top and bottom designed for everyday wear, play, outings, and casual occasions.",
+                            "fr":  "Ensemble t-shirt et short en coton confortable pour le jeu quotidien.",
+                            "ru":  "Удобный комплект из футболки и шорт для активных игр."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--kids",
+    "badgeI18n":  {
+                      "ru":  "Набор из 2 предметов",
+                      "en":  "2-Piece Set",
+                      "fr":  "Ensemble 2 pièces"
+                  }
+}

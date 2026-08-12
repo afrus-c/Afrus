@@ -1,0 +1,39 @@
+{
+  "id": "event-2",
+  "title": "Pan-African Cultural & Heritage Festival St. Petersburg",
+  "type": "Festival",
+  "date": "October 12–14, 2026",
+  "location": "St. Petersburg Concert Hall & Palace Park",
+  "description": "A celebration of African music, dance, culinary arts, fashion runway shows, and fine art exhibitions.",
+  "image": "/uploads/editorial/culture_festival_exchange_1785925175774.jpg",
+  "speakers": [
+    "International Artists",
+    "Diplomatic Cultural Attachés"
+  ],
+  "isUpcoming": true,
+  "titleI18n": {
+    "en": "Pan-African Cultural & Heritage Festival St. Petersburg",
+    "fr": "Festival du Patrimoine & de la Culture Panafricaine à Saint-Pétersbourg",
+    "ru": "Панафриканский Фестиваль Культуры и Наследия в Санкт-Петербурге"
+  },
+  "typeI18n": {
+    "en": "Festival",
+    "fr": "Festival",
+    "ru": "Фестиваль"
+  },
+  "dateI18n": {
+    "en": "October 12–14, 2026",
+    "fr": "12–14 Octobre 2026",
+    "ru": "12–14 Октября 2026"
+  },
+  "locationI18n": {
+    "en": "St. Petersburg Concert Hall & Palace Park",
+    "fr": "Salle de Concert de Saint-Pétersbourg & Parc du Palais",
+    "ru": "Концертный Зал Санкт-Петербурга и Дворцовый Парк"
+  },
+  "descriptionI18n": {
+    "en": "A celebration of African music, dance, culinary arts, fashion runway shows, and fine art exhibitions.",
+    "fr": "Une célébration de la musique africaine, de la danse, des arts culinaires, des défilés de mode et des expositions de beaux-arts.",
+    "ru": "Праздник африканской музыки, танцев, кулинарного искусства, модных показов и выставок изобразительного искусства."
+  }
+}

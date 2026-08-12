@@ -1,0 +1,10 @@
+{
+  "id": "african-food--tea-spices",
+  "categoryId": "african-food",
+  "name": "Tea & Spices",
+  "nameI18n": {
+    "en": "Tea & Spices",
+    "fr": "Thé & Épices",
+    "ru": "Чай и Специи"
+  }
+}

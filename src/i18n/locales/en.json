@@ -1,0 +1,1831 @@
+{
+  "nav": {
+    "home": "Home",
+    "study_russia": "Study in Russia",
+    "trade_freight": "Trade & Freight",
+    "money_transfer": "Money Transfer",
+    "store": "AFRUS Store",
+    "concierge": "Concierge & Travel",
+    "languages": "Language Academy",
+    "business_russia": "Business in Russia",
+    "business_africa": "Business in Africa",
+    "events_forums": "Events & Forums",
+    "news_media": "News & Media",
+    "about": "About AFRUS",
+    "contact": "Contact Us",
+    "cart": "Cart",
+    "select_language": "Select Language",
+    "visit_store": "Visit AFRUS Store",
+    "official_gateway": "Official Intergovernmental Gateway"
+  },
+  "btn": {
+    "contact_afrus": "Contact AFRUS",
+    "apply_now": "Apply Now",
+    "learn_more": "Learn More",
+    "view_all": "View All",
+    "explore": "Explore",
+    "add_to_cart": "Add to Cart",
+    "added": "Added to Cart",
+    "inquire_now": "Inquire Now",
+    "send_message": "Send Message",
+    "submit": "Submit",
+    "checkout": "Proceed to Checkout",
+    "continue_shopping": "Continue Shopping",
+    "close": "Close",
+    "search": "Search",
+    "reset_filters": "Reset Filters",
+    "order_via_whatsapp": "Order via WhatsApp",
+    "order_via_telegram": "Order via Telegram",
+    "download_brochure": "Download Official Guide",
+    "view_details": "View Details",
+    "filter": "Filter",
+    "quick_inquiry": "Quick Inquiry",
+    "back_to_store": "Back to Store",
+    "buy_now": "Buy Now"
+  },
+  "hero": {
+    "badge": "RUSSIA–AFRICA BILATERAL HUB",
+    "title": "Connecting Russia & Africa through Trade, Education & Business",
+    "subtitle": "Your official intergovernmental gateway for cross-border commodities freight, university admissions in Russia, financial corridors, and diplomatic concierge.",
+    "stat_universities": "Top Universities",
+    "stat_trade_corridors": "Active Trade Routes",
+    "stat_students": "Students Assisted",
+    "stat_countries": "African Nations"
+  },
+  "store": {
+    "title": "AFRUS Russia–Africa Cultural & Lifestyle Store",
+    "subtitle": "Curated authentic African garments, traditional masks, ceremonial crafts, sports jerseys, and specialty goods delivered across Russia, Belarus, and Kazakhstan.",
+    "all_categories": "All Categories",
+    "all_subcategories": "All Items",
+    "in_stock": "In Stock",
+    "out_of_stock": "Out of Stock",
+    "low_stock": "Low Stock",
+    "dual_price": "Dual Currency Price",
+    "search_placeholder": "Search products, crafts, textiles, food...",
+    "sort_by": "Sort By",
+    "featured": "Featured First",
+    "price_low": "Price: Low to High",
+    "price_high": "Price: High to Low",
+    "rating": "Highest Rated",
+    "no_products": "No products found matching your search query.",
+    "delivery_notice": "Express delivery across Moscow & St. Petersburg within 24h. Nationwide shipping across Russia & CIS.",
+    "slide_label": "Slide {{number}}",
+    "categories_menu": "Categories Menu",
+    "no_products_title": "No products found",
+    "no_products_help": "Try adjusting your search terms or select another category or subcategory above.",
+    "short_name": "AFRUS Store"
+  },
+  "cat": {
+    "african_food": "African Food",
+    "african_clothes": "African Clothes",
+    "jerseys": "Jerseys",
+    "masks": "Masks",
+    "bracelets_jewelry": "Bracelets & Jewelry",
+    "souvenirs": "Souvenirs",
+    "clothing": "Clothing",
+    "accessories": "Accessories",
+    "shoes": "Shoes",
+    "perfume": "Perfume",
+    "flags": "Flags"
+  },
+  "cart": {
+    "title": "Your Shopping Cart",
+    "empty_title": "Your Cart is Currently Empty",
+    "empty_subtitle": "Explore our authentic African fashion, masks, jerseys, and specialty foods.",
+    "browse_catalog": "Browse Store Catalog",
+    "order_summary": "Order Summary",
+    "items_count": "Items",
+    "total": "Subtotal",
+    "estimated_total": "Estimated Total",
+    "shipping_note": "Shipping cost & delivery options calculated at checkout via WhatsApp/Telegram inquiry.",
+    "checkout_btn": "Proceed to Order Inquiry",
+    "clear": "Clear Cart",
+    "item_subtotal": "Item Subtotal",
+    "free_delivery": "Free Delivery over $100",
+    "close": "Close cart",
+    "scroll_left": "Scroll tabs left",
+    "scroll_right": "Scroll tabs right",
+    "delivery_method": "Delivery Method",
+    "applied_promo": "Applied Promo Code",
+    "off": "OFF",
+    "customer_request": "Customer Request"
+  },
+  "checkout": {
+    "title": "Complete Your Order Inquiry",
+    "subtitle": "Review your selected items and confirm delivery details via WhatsApp or Telegram.",
+    "cart_summary": "Order Summary",
+    "contact_details": "Customer Details",
+    "full_name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone / WhatsApp Number",
+    "delivery_address": "Delivery Address",
+    "city": "City",
+    "country": "Country",
+    "notes": "Order Notes or Special Instructions",
+    "send_order_whatsapp": "Confirm & Order via WhatsApp",
+    "send_order_telegram": "Confirm & Order via Telegram",
+    "delivery_method": "Select Delivery Method",
+    "cdek_courier": "CDEK Courier Express",
+    "moscow_pickup": "Moscow Showroom Pickup",
+    "russian_post": "Russian Post (Pochta)",
+    "africa_shipping": "Africa Shipping",
+    "empty_title": "Your Order Inquiry Cart is Empty",
+    "empty_description": "Please select items from the AFRUS Store catalog to build your order inquiry.",
+    "browse_store": "Browse AFRUS Store",
+    "back_store": "Back to Store",
+    "ready": "Order Inquiry Ready",
+    "how_it_works": "How Order Inquiries Work at AFRUS Store",
+    "explanation": "The AFRUS Store operates as a product discovery and order inquiry system. No online payment details or credit cards are collected on this website. Send your structured cart via WhatsApp or Telegram to confirm product availability, final shipping options, delivery times, and direct payment arrangements with the AFRUS team.",
+    "qty": "Qty:",
+    "item_subtotal": "Item Subtotal:",
+    "estimated_cart_total": "Estimated Cart Total",
+    "dual_currency": "Dual Currency ($ & ₽)",
+    "optional_info": "Optional Customer Information (Appended to Message)",
+    "your_name": "Your Name",
+    "name_placeholder": "e.g., Amara Okafor",
+    "delivery_location": "Delivery City / Country",
+    "location_placeholder": "e.g., Moscow, Russia / Lagos, Nigeria",
+    "special_note": "Special Delivery Note / Questions",
+    "note_placeholder": "e.g., Express courier requested / Requesting custom sizes",
+    "message_preview": "Generated Message Preview",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "estimated_total": "Estimated Total",
+    "send_whatsapp": "Send Order via WhatsApp",
+    "send_telegram": "Send Order via Telegram",
+    "text_copied": "Text Copied to Clipboard!",
+    "copy_order": "Copy Order Text",
+    "assurances": {
+      "response": "Direct response from AFRUS sales team with availability confirmation.",
+      "payment": "Flexible payment options arranged directly via agreed channels.",
+      "shipping": "Express courier & dispatch across Moscow, Russia, and Africa."
+    }
+  },
+  "study": {
+    "badge": "STATE SCHOLARSHIPS & DIRECT ADMISSIONS",
+    "title": "Study at Top Russian State Universities",
+    "subtitle": "Full degree programs in Medicine, Engineering, IT, Aviation, and International Relations with official state quota assistance.",
+    "preparatory_faculty": "Preparatory Language Faculty",
+    "medical_degrees": "Medical & Healthcare Degrees",
+    "engineering_tech": "Engineering & Technology",
+    "humanities_law": "Humanities, Economics & Law"
+  },
+  "trade": {
+    "badge": "BILATERAL COMMODITY FREIGHT",
+    "title": "Russia–Africa Trade & Freight Corridor",
+    "subtitle": "Bulk fertilizer shipments, agricultural produce, cocoa, coffee, machinery, and strategic minerals handled with full customs clearance."
+  },
+  "transfer": {
+    "badge": "SECURE FINANCIAL CORRIDOR",
+    "title": "Seamless Russia–Africa Money Transfers",
+    "subtitle": "Bilateral settlement solutions in Rubles, CFA Francs, Naira, Shillings, and Dirhams with instant confirmation."
+  },
+  "concierge": {
+    "badge": "DIPLOMATIC & VIP CONCIERGE",
+    "title": "Executive Travel, Visas & Protocol",
+    "subtitle": "VIP airport escort, luxury hotel bookings, business visa invitations, armed security, and certified court translation."
+  },
+  "lang": {
+    "badge": "AFRUS LANGUAGE ACADEMY",
+    "title": "Master Russian, French & English",
+    "subtitle": "Specialized language immersion programs designed for university students, diplomats, and trade executives."
+  },
+  "contact": {
+    "title": "Get in Touch with AFRUS Bureaus",
+    "subtitle": "Direct diplomatic, commercial, and student assistance available in Moscow and Yaoundé.",
+    "moscow_hq": "Moscow Headquarters",
+    "yaounde_hub": "Yaoundé Central Africa Hub",
+    "whatsapp_hotline": "WhatsApp Hotline",
+    "email_support": "Direct Support Email",
+    "working_hours": "Working Hours",
+    "support_phone": "Support Phone",
+    "support_whatsapp": "Support WhatsApp"
+  },
+  "footer": {
+    "description": "AFRUS is the premier intergovernmental and commercial hub bridging the Russian Federation and the African Continent.",
+    "quick_links": "Quick Navigation",
+    "core_services": "Core Pillars",
+    "official_contacts": "Official Contacts",
+    "rights": "All rights reserved. AFRUS Intergovernmental Bridge.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Official trade, education, and financial corridor network."
+  },
+  "moneyTransferContent": {
+    "text_0001": "100000",
+    "text_0002": "CROSS-BORDER PAYMENTS",
+    "text_0003": "Russia–Africa Money Transfer &",
+    "text_0004": "Financial Clearing Guide",
+    "text_0005": "Learn how cross-border payments, commercial settlements, tuition transfers, and international banking systems support financial transactions between Russia and African countries. Explore common payment methods, currency considerations, compliance requirements, and practical guidance for international transfers.",
+    "text_0006": "Explore Payment Methods",
+    "text_0007": "Learn About Financial Clearing",
+    "text_0008": "International Interbank Networks",
+    "text_0009": "EDUCATIONAL FOUNDATIONS",
+    "text_0010": "How International Money Transfers Work",
+    "text_0011": "Cross-border financial transactions rely on structured interbank protocols, messaging rails, and statutory compliance checks to route funds safely across international borders.",
+    "text_0012": "STEP 01",
+    "text_0013": "Payer Initiation & KYC",
+    "text_0014": "The sender provides beneficiary details, commercial invoice or admission letter, and undergoes Know Your Customer (KYC) identity verification at their bank.",
+    "text_0015": "STEP 02",
+    "text_0016": "Intermediary Clearing",
+    "text_0017": "Funds enter international correspondent banking channels. Nostro and Vostro accounts are debited and credited via secure financial messaging networks.",
+    "text_0018": "STEP 03",
+    "text_0019": "Foreign Exchange (FX)",
+    "text_0020": "The transaction currency is converted (e.g., NGN/XAF to RUB or EUR/CNY) based on interbank exchange rates and specified settlement terms.",
+    "text_0021": "STEP 04",
+    "text_0022": "Beneficiary Crediting",
+    "text_0023": "The destination bank receives clearing confirmation (e.g., SWIFT MT103), performs local regulatory checks, and credits the beneficiary account.",
+    "text_0024": "Role of Financial Institutions",
+    "text_0025": "Commercial banks, central banks, and authorized payment service providers manage liquidity reserves, issue credit letters, and ensure orderly currency clearing.",
+    "text_0026": "Compliance & Regulations",
+    "text_0027": "International transfers comply with statutory Anti-Money Laundering (AML) controls, sanction screening databases, and foreign exchange declaration rules.",
+    "text_0028": "Security & Encryption",
+    "text_0029": "Modern interbank networks use end-to-end cryptographic protocols to safeguard sensitive financial data and prevent unauthorized transaction tampering.",
+    "text_0030": "REGIONAL PAYMENT EXAMPLES",
+    "text_0031": "Bilateral Payment Corridors & Case Studies",
+    "text_0032": "Explore educational overviews of how payments are structured across key regional trade corridors and academic routes connecting Russia and Africa.",
+    "text_0033": "REGIONAL CORRIDOR 01",
+    "text_0034": "Russia ↔ Central Africa (BEAC / XAF Zone)",
+    "text_0035": "Businesses and individuals conducting transactions between Russia and Central African nations—including Cameroon, Gabon, Republic of the Congo, Chad, and Central African Republic—navigate foreign exchange rules defined by the Bank of Central African States (BEAC).",
+    "text_0036": "Currencies Involved: Central African CFA Franc (XAF), Russian Ruble (RUB), Euros (EUR), Yuan (CNY).",
+    "text_0037": "BEAC FX Declarations: Outbound commercial transfers above statutory thresholds require BEAC authorization and verified import documentation.",
+    "text_0038": "Correspondent Clearing: Transactions frequently route through third-country correspondent hubs with dual-currency clearing capabilities.",
+    "text_0039": "REGIONAL CORRIDOR 02",
+    "text_0040": "Russia ↔ Nigeria (CBN / NGN Corridor)",
+    "text_0041": "Commercial payments supporting bilateral trade in agricultural wheat, fertilizers, industrial machinery, raw cocoa, and consumer goods follow regulations established by the Central Bank of Nigeria (CBN).",
+    "text_0042": "Statutory Documentation: Importers file Form M through authorized dealer banks, while exporters utilize Form NXP for regulatory clearing.",
+    "text_0043": "Trade Invoicing Options: Commercial contracts are increasingly denominated in neutral trade currencies or direct local currency settlement channels.",
+    "text_0044": "FX Liquidity Windows: Understanding official interbank windows helps commercial entities anticipate processing timelines.",
+    "text_0045": "ACADEMIC FINANCIAL GUIDANCE",
+    "text_0046": "Student Tuition & Living Expense Transfers",
+    "text_0047": "Tens of thousands of African students pursue higher education across Russian universities. Paying tuition fees, dormitory charges, and living stipends requires clear procedural planning.",
+    "text_0048": "Russian University Campus",
+    "text_0049": "1. Verify University Details",
+    "text_0050": "Always obtain the official invoice from the university accounting department. Verify the INN, KPP, BIC, and full Russian bank account number.",
+    "text_0051": "2. Reference Identification",
+    "text_0052": "Include the student’s full name (as written in passport), student ID number, and tuition contract number in the wire transfer comment field.",
+    "text_0053": "3. Retain Bank Receipts",
+    "text_0054": "Keep stamped bank payment receipts (or SWIFT MT103 confirmations). These are required by university registrars and visa renewal officers.",
+    "text_0055": "TRADE FINANCE INSTRUMENTS",
+    "text_0056": "Commercial Trade Settlement Mechanisms",
+    "text_0057": "Understanding standard trade finance instruments helps buyers and sellers structure secure commercial agreements that mitigate cross-border counterparty risk.",
+    "text_0058": "Commercial Invoices & Wire Transfers (T/T)",
+    "text_0059": "Telegraphic Transfers (T/T) are standard interbank wire payments executed directly between buyer and seller banks based on mutually agreed commercial invoices.",
+    "text_0060": "Best used for: Established long-term supplier relationships.",
+    "text_0061": "Letters of Credit (L/C)",
+    "text_0062": "Irrevocable Letters of Credit issued by the buyer’s bank guarantee payment to the exporter once compliant shipping and phytosanitary documents are presented.",
+    "text_0063": "Best used for: High-value bulk commodity & machinery shipments.",
+    "text_0064": "Escrow & Neutral Holding",
+    "text_0065": "An escrow agreement holds buyer funds with a neutral banking agent until cargo inspection reports (e.g. SGS) verify quality at destination loading ports.",
+    "text_0066": "Best used for: New trading partners and custom equipment orders.",
+    "text_0067": "Documentary Collections (D/P, D/A)",
+    "text_0068": "Documents Against Payment (D/P) or Acceptance (D/A) involve shipping documents being released to the importer only after bank payment or acceptance.",
+    "text_0069": "Best used for: Containerized agricultural produce & consumer goods.",
+    "text_0070": "Deferred Payment Terms",
+    "text_0071": "Credit agreements allowing buyers 30, 60, or 90 days after bill of lading issuance to complete payment, often backed by trade insurance policies.",
+    "text_0072": "Best used for: High-turnover agricultural and commodity distributors.",
+    "text_0073": "Bilateral Clearing Accounts",
+    "text_0074": "Specialized interbank accounts established between partner commercial banks allowing direct settlement in national currencies without third-country conversions.",
+    "text_0075": "Best used for: Direct government-to-government & major corporate trade.",
+    "text_0076": "INTERACTIVE EDUCATIONAL TOOL",
+    "text_0077": "Currency & Clearing Fee Simulator",
+    "text_0078": "Non-binding simulation demonstrating standard interbank cost models.",
+    "text_0079": "Transaction Type:",
+    "text_0080": "Tuition",
+    "text_0081": "Trade",
+    "text_0082": "Family",
+    "text_0083": "Select Currency Route:",
+    "text_0084": "RUB (Ruble) → NGN (Naira)",
+    "text_0085": "Amount to Transfer:",
+    "text_0086": "Estimated Conversion Output (Mid-Market Baseline)",
+    "text_0087": "1,650,000 NGN",
+    "text_0088": "Baseline for 100,000 RUB (Ruble)",
+    "text_0089": "Intermediary Fee Model:",
+    "text_0090": "0.8% – 1.5%",
+    "text_0091": "Interbank Transit Time:",
+    "text_0092": "1 – 2 Business Days",
+    "text_0093": "Educational Simulator Disclaimer: This tool provides conceptual estimates based on standard international interbank clearing formulas. AFRUS is an information platform and does not provide financial advice, take deposits, or execute wire transfers.",
+    "text_0094": "FINANCIAL INFRASTRUCTURE",
+    "text_0095": "International Banking & Messaging Systems",
+    "text_0096": "Understand the difference between financial messaging networks (which transmit instructions) and clearing houses (which move real money reserves).",
+    "text_0097": "01. SWIFT Network",
+    "text_0098": "Global Interbank Messaging",
+    "text_0099": "SWIFT uses standardized message formats (such as MT103 for customer transfers and MT202 for bank settlements) to instruct banks on fund distribution worldwide.",
+    "text_0100": "02. SPFS & CIPS Systems",
+    "text_0101": "Alternative Messaging Rails",
+    "text_0102": "SPFS (Russia) and CIPS (China) provide independent, secure messaging channels connecting participating banks across Eurasia, Asia, and partner African institutions.",
+    "text_0103": "03. Bilateral Nostro Links",
+    "text_0104": "Direct Reserve Settlement",
+    "text_0105": "Commercial banks holding direct accounts with one another clear funds directly without third-country intermediary delays, enhancing execution speed.",
+    "text_0106": "REGULATORY COMPLIANCE",
+    "text_0107": "Required Payment Documentation Checklist",
+    "text_0108": "Students",
+    "text_0109": "Businesses",
+    "text_0110": "Individuals",
+    "text_0111": "Official Russian University Invoice / Tuition Contract Number",
+    "text_0112": "Passport copy with valid Russian student visa page",
+    "text_0113": "Correct Bank Details (University INN, KPP, BIC, IBAN/Account Number)",
+    "text_0114": "Full Student Name and Reference Code in Transfer Purpose Field",
+    "text_0115": "Stamped Bank Receipt / SWIFT MT103 confirmation copy",
+    "text_0116": "FINANCIAL GLOSSARY",
+    "text_0117": "Key Financial Terminology",
+    "text_0118": "Search financial terms (e.g. L/C, Nostro, Form M, SWIFT)...",
+    "text_0119": "Correspondent Banking",
+    "text_0120": "A financial arrangement where one bank (correspondent) provides services on behalf of another (respondent) bank in a different jurisdiction to facilitate cross-border currency clearing.",
+    "text_0121": "Letter of Credit (L/C)",
+    "text_0122": "Nostro & Vostro Accounts",
+    "text_0123": "Form M & Form NXP (Nigeria)",
+    "text_0124": "CEMAC / BEAC Regulations",
+    "text_0125": "SWIFT MT103",
+    "text_0126": "SPFS (Financial Messaging System)",
+    "text_0127": "Sanction & AML Compliance Screening",
+    "text_0128": "BEST PRACTICES",
+    "text_0129": "Practical Guidance for Smooth Transfers",
+    "text_0130": "01. Verify Account Codes",
+    "text_0131": "Always double-check Russian INN, KPP, and BIC codes before executing tuition or invoice transfers. A single digit mismatch can delay clearing.",
+    "text_0132": "02. Plan Processing Buffers",
+    "text_0133": "Allow 3 to 5 business days for statutory compliance reviews, especially prior to university tuition deadlines or customs cargo arrivals.",
+    "text_0134": "03. Store Official Receipts",
+    "text_0135": "Always request and archive the official SWIFT MT103 copy or stamped bank receipt. Keep digital copies for immigration and tax records.",
+    "text_0136": "04. Monitor FX Trends",
+    "text_0137": "Understand mid-market exchange rate trends and compare bank spreads to optimize large commercial invoice or annual tuition payments.",
+    "text_0138": "EDUCATIONAL FAQ",
+    "text_0139": "Frequently Asked Financial Questions",
+    "text_0140": "How do international students pay university tuition fees in Russia?",
+    "text_0141": "What is the role of correspondent banks in Russia–Africa payments?",
+    "text_0142": "What documentation is required for commercial trade settlements?",
+    "text_0143": "How do currency exchange rates and bank spreads affect payment totals?",
+    "text_0144": "Is AFRUS a bank or licensed payment processor?",
+    "text_0145": "Need More Information About Russia–Africa Cross-Border Payments?",
+    "text_0146": "If you have questions about international payment systems, trade settlements, tuition transfers, or financial processes related to Russia and Africa, the AFRUS team is available to provide guidance and direct you to appropriate resources.",
+    "text_0147": "Contact AFRUS",
+    "text_0148": "Cross-Border Payment Rails",
+    "text_0149": "Secure Digital Clearing Corridors for Commercial & Academic Transactions",
+    "text_0150": "Direct Central-Bank Compliant RUB, CNY, XAF & USD SWIFT/SPFS Corridors",
+    "text_0151": "Commercial Trade & Treasury Settlement",
+    "text_0152": "Instant Clearing & Liquidity Management for Cross-Border Contracts",
+    "text_0153": "RUB (Ruble)",
+    "text_0154": "NGN (Naira)",
+    "text_0155": "XAF (BEAC Franc)",
+    "text_0156": "USD (Dollar)",
+    "text_0157": "RUB (Ruble) → XAF (CFA Franc)",
+    "text_0158": "RUB (Ruble) → USD (US Dollar)",
+    "text_0159": "NGN (Naira) → RUB (Ruble)",
+    "text_0160": "XAF (CFA Franc) → RUB (Ruble)",
+    "text_0161": "2 – 4 Business Days",
+    "text_0162": "A formal contractual document issued by a buyer’s bank guaranteeing payment to a seller upon presentation of specified shipping and inspection documents (e.g., Bill of Lading, Phytosanitary Certificate).",
+    "text_0163": "Nostro (\"our money held by you\") and Vostro (\"your money held by us\") are bank accounts held in a foreign country in foreign currency to facilitate direct trade settlements.",
+    "text_0164": "Mandatory statutory trade documents mandated by the Central Bank of Nigeria (CBN). Form M is required for commercial goods importation, while Form NXP is required for commercial exports.",
+    "text_0165": "Foreign exchange regulatory framework administered by the Bank of Central African States (BEAC) governing capital transfers, import documentation, and currency conversions across Central Africa.",
+    "text_0166": "Standardized single customer credit transfer message format used internationally to verify and track wire payment details, value dates, and bank processing reference codes.",
+    "text_0167": "Russia’s proprietary financial messaging system developed by the Central Bank of Russia as an alternative to SWIFT for interbank message transmission.",
+    "text_0168": "Automated statutory verification process performed by financial institutions to ensure transactions comply with international Anti-Money Laundering (AML) laws and sanctions databases.",
+    "text_0169": "Students typically arrange payments via international bank wire transfer, UnionPay cards, or authorized local bank accounts in Russia (such as Sber, VTB, or T-Bank). Essential steps include obtaining the university’s official invoice, verifying bank details (INN, KPP, BIC, IBAN/Account Number), including the student’s full name and passport number in the transfer description, and retaining the official payment receipt for university registration and visa processing.",
+    "text_0170": "Because direct banking links between Russian and African commercial banks are evolving, transactions often clear through specialized correspondent banks or third-country financial hubs (such as China, UAE, or Turkey) holding Nostro/Vostro accounts in local or neutral trade currencies.",
+    "text_0171": "Commercial transactions require a Pro-Forma or Commercial Invoice, Sales Contract, Bill of Lading or Transport Document, Certificate of Origin, and customs import declarations (e.g., Form M in Nigeria or BEAC declaration in Central Africa). Banks review these documents before authorizing foreign exchange disbursement.",
+    "text_0172": "Cross-border payments involve two financial costs: explicit transaction fees (intermediary bank charges) and implicit currency conversion spreads (the margin added by banks above the benchmark mid-market rate). Understanding both components helps businesses and students plan accurate budget transfers.",
+    "text_0173": "No. AFRUS is an international business, cultural, and educational information platform. We do not hold client funds, process banking transactions, or operate as a financial institution. This guide serves purely as an educational resource to inform businesses, students, and travelers about established international financial systems.",
+    "text_0174": "Signed International Commercial Sales Contract",
+    "text_0175": "Pro-Forma Invoice & Final Commercial Invoice",
+    "text_0176": "Bill of Lading / Air Waybill Transport Document",
+    "text_0177": "Customs Export/Import Declarations (e.g. Form M / BEAC)",
+    "text_0178": "Phytosanitary or SGS Cargo Inspection Certificates",
+    "text_0179": "Government-Issued Photo Identification (Passport / National ID)",
+    "text_0180": "Proof of Source of Funds (Salary Statement / Bank Record)",
+    "text_0181": "Verified Beneficiary Bank Account Details",
+    "text_0182": "Declaration of Non-Commercial Family Remittance Purpose",
+    "text_0183": "Tax Identification Number (TIN) where applicable",
+    "fragment_corridor_business_prefix": "Businesses and individuals conducting transactions between Russia and Central African nations—including",
+    "fragment_corridor_countries": "Cameroon, Gabon, Republic of the Congo, Chad, and Central African Republic",
+    "fragment_corridor_business_suffix": "—navigate foreign exchange rules defined by the Bank of Central African States (BEAC).",
+    "label_currencies": "Currencies Involved:",
+    "value_currencies": "Central African CFA Franc (XAF), Russian Ruble (RUB), Euros (EUR), Yuan (CNY).",
+    "label_beac": "BEAC FX Declarations:",
+    "label_correspondent": "Correspondent Clearing:",
+    "fragment_nigeria_prefix": "Commercial payments supporting bilateral trade in",
+    "fragment_nigeria_goods": "agricultural wheat, fertilizers, industrial machinery, raw cocoa, and consumer goods",
+    "fragment_nigeria_suffix": "follow regulations established by the Central Bank of Nigeria (CBN).",
+    "label_statutory": "Statutory Documentation:",
+    "fragment_importers": "Importers file",
+    "fragment_dealers": "through authorized dealer banks, while exporters utilize",
+    "fragment_clearing": "for regulatory clearing.",
+    "label_invoicing": "Trade Invoicing Options:",
+    "label_liquidity": "FX Liquidity Windows:",
+    "label_disclaimer": "Educational Simulator Disclaimer:",
+    "body_disclaimer": "This tool provides conceptual estimates based on standard international interbank clearing formulas. AFRUS is an information platform and does not provide financial advice, take deposits, or execute wire transfers."
+  },
+  "homePage": {
+    "home": {
+      "text_001": "AFRUS Trade Showroom",
+      "text_002": "Featured Store Preview",
+      "text_003": "Visit AFRUS Store",
+      "text_004": "View Product",
+      "text_005": "Bilateral Forums & Summits",
+      "text_006": "Upcoming Events Preview",
+      "text_007": "View All Events",
+      "text_008": "View Event Details",
+      "text_009": "Bilateral News & Articles",
+      "text_010": "Latest News Preview",
+      "text_011": "Visit News Hub",
+      "text_012": "Read Article",
+      "text_013": "Ready to Connect Russia and Africa?",
+      "text_014": "Contact AFRUS for trade, education, business, cultural, and professional services.",
+      "text_015": "Contact AFRUS",
+      "text_016": "Email",
+      "text_017": "WhatsApp Russia",
+      "text_018": "Africa Hotline (Calls Only)",
+      "misc_whatsapp_message": "Hello AFRUS, I would like to schedule a consultation regarding Russia–Africa opportunities."
+    },
+    "hero": {
+      "text_001": "54 African Nations Covered",
+      "text_002": "Verified Bilateral Network",
+      "text_003": "Executive Support",
+      "text_004": "Scroll to Explore"
+    },
+    "aboutAfrus": {
+      "text_001": "Nations Integrated",
+      "text_002": "Bilateral Partnership Network",
+      "text_003": "Introduction to AFRUS",
+      "text_004": "Bridging Nations & Unlocking New Opportunities",
+      "text_005": "AFRUS is an international platform building connections between Russia and Africa through trade, education, business expansion, cultural exchange, and professional services.",
+      "text_006": "Verified Trade & Logistics",
+      "text_007": "State University Admissions",
+      "text_008": "Corporate Market Expansion",
+      "text_009": "VIP Diplomatic Concierge",
+      "text_010": "Discover AFRUS",
+      "misc_hero_alt": "AFRUS Gateway Connecting Russia and Africa"
+    },
+    "quickServices": {
+      "text_001": "Gateway Solutions",
+      "text_002": "Our Bilateral Services & Opportunities",
+      "text_003": "A quick overview of our primary service divisions bridging Russia and African nations. Click any solution to explore full details on its dedicated page.",
+      "text_004": "Learn More"
+    },
+    "whyChooseAfrus": {
+      "text_001": "Trusted Information",
+      "text_002": "Verified information about education opportunities, trade regulations, and market opportunities across Russia and Africa.",
+      "text_003": "International Network",
+      "text_004": "Established connections across Russia and African markets bridging institutions, universities, and trade leadership.",
+      "text_005": "Business Opportunities",
+      "text_006": "Support for strategic partnerships, high-yield investments, trade corridors, and corporate market expansion.",
+      "text_007": "Professional Support",
+      "text_008": "Multilingual translation, travel assistance, VIP concierge services, visa support, and expert guidance.",
+      "text_009": "The AFRUS Advantage",
+      "text_010": "Why Choose AFRUS?",
+      "text_011": "Built on integrity, diplomatic prestige, and operational excellence to ensure your success across Russia and Africa.",
+      "text_012": "Verified Standard"
+    },
+    "navbar": {
+      "text_001": "Home",
+      "text_002": "Trade",
+      "text_003": "Bulk agricultural, machinery & minerals",
+      "text_004": "Export & Import Catalog",
+      "text_005": "Customs clearance & bilateral trade flow",
+      "text_006": "RUB, XAF, NGN cross-border payment corridors",
+      "text_007": "Education",
+      "text_008": "Russian state universities & scholarship quotas",
+      "text_009": "Learn English Academy",
+      "text_010": "C1 Business English & conversational fluency",
+      "text_011": "Learn French Academy",
+      "text_012": "West & Central African trade French immersion",
+      "text_013": "Business",
+      "text_014": "Legal entity setup (LLC), SEZs & bank accounts",
+      "text_015": "Market expansion across 54 African nations",
+      "text_016": "Economic Forum",
+      "text_017": "Bilateral B2B summits & delegation visits",
+      "text_018": "Concierge",
+      "text_019": "AFRUS Store",
+      "text_020": "Events",
+      "text_021": "All Events & Summits",
+      "text_022": "Calendar of bilateral forums & expos",
+      "text_023": "Cultural Festivals",
+      "text_024": "Pan-African heritage, art & film festivals",
+      "text_025": "Economic Forum",
+      "text_026": "High-level ministerial roundtables",
+      "text_027": "News",
+      "text_028": "About",
+      "text_029": "Contact",
+      "text_030": "AFRUS Curated Store",
+      "text_031": "Showroom",
+      "text_032": "Authentic African art, apparel, foods, flags & collectibles",
+      "text_033": "Visit Store",
+      "text_034": "Featured Quick Links",
+      "text_035": "Featured Products",
+      "text_036": "Top Rated ★",
+      "text_037": "New Arrivals",
+      "text_038": "Fresh",
+      "text_039": "All Catalog Items",
+      "text_040": "View All",
+      "text_041": "Featured Highlight",
+      "text_042": "Browse Categories",
+      "text_043": "Curated Collections",
+      "text_044": "Select Language",
+      "text_045": "Inquire",
+      "text_046": "Select Language",
+      "text_047": "Contact on Telegram (@AFRUSCULTURE)"
+    },
+    "footer": {
+      "text_001": "Core Pillars",
+      "text_002": "Trade & Freight Corridors",
+      "text_003": "Export & Import Catalog",
+      "text_004": "Study in Russia & Scholarships",
+      "text_005": "Cultural & Goods Store",
+      "text_006": "Events & Economic Forums",
+      "text_007": "VIP Concierge & Travel",
+      "text_008": "Business & Academy",
+      "text_009": "Business in Russia",
+      "text_010": "Business in Africa",
+      "text_011": "Money Transfer Corridors",
+      "text_012": "English Language Academy",
+      "text_013": "French Language Academy",
+      "text_014": "About AFRUS Mission",
+      "text_015": "Direct Contact",
+      "text_016": "Support Email",
+      "text_017": "Support Phone",
+      "text_018": "Support WhatsApp",
+      "text_019": "Telegram Channel",
+      "text_020": "All Rights Reserved.",
+      "text_021": "Designed for International Trade, Education & Cultural Diplomacy."
+    },
+    "floatingContact": {
+      "direct": "AFRUS Direct Line",
+      "intro": "Connect instantly with our team via WhatsApp or Telegram:",
+      "wa": "WhatsApp (Russia)",
+      "phone": "Phone Call (Africa)",
+      "telegram": "Telegram Channel",
+      "open": "Open Floating Support Options",
+      "heroAlt": "AFRUS Gateway Connecting Russia and Africa",
+      "waMessage": "Hello AFRUS, I would like to schedule a consultation regarding Russia–Africa opportunities."
+    }
+  },
+  "aboutPage": {
+    "statsSection": {
+      "text_001": "Countries Connected",
+      "text_002": "African Nations & All 89 Russian Regions",
+      "text_003": "Students Assisted",
+      "text_004": "Admitted with State Scholarships & Visas",
+      "text_005": "Bilateral Trade Volume",
+      "text_006": "Cross-Border Agreements & B2B Contracts",
+      "text_007": "Events & Forums Organized",
+      "text_008": "Diplomatic Summits, Expos & Cultural Festivals"
+    },
+    "testimonials": {
+      "goTo": "Go to testimonial",
+      "previous": "Previous Testimonial",
+      "next": "Next Testimonial",
+      "text_001": "Success Stories",
+      "text_002": "Trusted by Leaders & Students Across Continents",
+      "text_003": "Hear from medical graduates, corporate export directors, and gourmet business founders who achieved their bilateral goals with AFRUS.",
+      "text_004": "Location:"
+    },
+    "partnersMarquee": {
+      "text_001": "Trusted Institutional & Diplomatic Network"
+    },
+    "about": {
+      "missionTitle": "Our Mission",
+      "missionText": "To build transparent, high-efficiency channels that streamline cross-border trade, empower African youth through world-class Russian university education, and foster sustainable economic alliances between enterprises across both continents.",
+      "visionTitle": "Our Vision",
+      "visionText": "To be recognized globally as the most trusted institutional platform connecting Russia with all 54 African nations — unlocking multi-billion dollar trade corridors, cultural synergy, and diplomatic excellence."
+    },
+    "hero": {
+      "badge": "DIPLOMATIC & ECONOMIC BRIDGE",
+      "title": "Connecting Russia and Africa",
+      "accent": "Through Strategic Cooperation",
+      "subtitle": "AFRUS serves as the premier bilateral gateway facilitating international trade, university scholarship access, corporate expansion, cultural diplomacy, and VIP executive services.",
+      "partner": "Partner With AFRUS",
+      "explore": "Explore Mission & Vision",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slideLabel": "Slide",
+      "inquirySubject": "About AFRUS Partnership",
+      "slides": {
+        "executive": {
+          "tag": "Bilateral Corporate Strategy",
+          "caption": "Intergovernmental Alignment, Institutional Governance & Multi-Sector Alliances"
+        },
+        "summit": {
+          "tag": "Eurasia–Africa Summitry",
+          "caption": "Ministerial Delegations, High-Level Policy Forums & Trade Corridors"
+        },
+        "headquarters": {
+          "tag": "Moscow & Regional Headquarters",
+          "caption": "Operational Intelligence & Cross-Border Advisory Infrastructure"
+        },
+        "leadership": {
+          "tag": "Executive Leadership & Mentorship",
+          "caption": "Senior Economic Advisors, Trade Legal Counsel & Cultural Liaisons"
+        }
+      },
+      "chips": {
+        "mission": "Strategic Mission",
+        "bridge": "Why AFRUS Bridge",
+        "impact": "Institutional Impact",
+        "alliances": "Enterprise Alliances"
+      }
+    }
+  },
+  "contactPage": {
+    "section": {
+      "text_001": "Direct Bilateral Contact",
+      "text_002": "Connect with AFRUS Headquarters",
+      "text_003": "Our diplomatic, trade, and education liaisons are available through direct communication channels and physical bureaus in Moscow and Africa.",
+      "text_004": "Official Support Email",
+      "text_005": "Copied to Clipboard!",
+      "text_006": "Copy Email Address",
+      "text_007": "WhatsApp Russia Office",
+      "text_008": "Open WhatsApp Chat",
+      "text_009": "Direct Phone Line (Calls Only)",
+      "text_010": "Place Phone Call",
+      "text_011": "Telegram Channel & Contact",
+      "text_012": "Join Telegram Channel",
+      "text_013": "Diplomatic & Commercial Bureaus",
+      "text_014": "AFRUS Headquarters & Regional Hubs",
+      "text_015": "Visit or coordinate directly with our primary financial district headquarters in Moscow or our regional liaison bureau in Central Africa.",
+      "text_016": "Moscow Headquarters Bureau",
+      "text_017": "Presnenskaya Naberezhnaya 12, Moscow City, Federation Tower East, Russian Federation",
+      "text_018": "Mon - Fri: 09:00 - 18:00 (MSK)",
+      "text_019": "Verified HQ",
+      "text_020": "Moscow International Financial District",
+      "text_021": "Federation Tower East • Executive Suite",
+      "text_022": "Central Africa Regional Hub",
+      "text_023": "Avenue Rosa Parks, Bastos Diplomatic District, Yaoundé, Cameroon",
+      "text_024": "Mon - Fri: 08:30 - 17:30 (WAT)",
+      "text_025": "Regional Bureau",
+      "text_026": "Bastos Diplomatic Quarter",
+      "text_027": "Yaoundé • Central Africa Bureau"
+    },
+    "hero": {
+      "badge": "DIRECT DIPLOMATIC & TRADE LIAISONS",
+      "title": "Connect With",
+      "accent": "AFRUS Headquarters",
+      "subtitle": "Reach our Moscow Federation Tower headquarters or Yaoundé Africa Hub directly via encrypted WhatsApp, Telegram, or official diplomatic dispatch.",
+      "directChannels": "Direct Contact Channels",
+      "whatsappDesk": "WhatsApp Liaison Desk",
+      "whatsappMessage": "Hello AFRUS, I would like to reach the Liaison Office regarding bilateral opportunities.",
+      "slideLabel": "Slide",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "moscow": {
+          "tag": "Moscow Federation Tower HQ",
+          "caption": "Federation Tower East, 77th Floor, Presnenskaya Embankment, Moscow City"
+        },
+        "digital": {
+          "tag": "Encrypted Digital Hotlines",
+          "caption": "Real-Time Intergovernmental WhatsApp & Telegram Priority Desks"
+        },
+        "yaounde": {
+          "tag": "Yaoundé Central Africa Hub",
+          "caption": "Bastos Diplomatic District, Yaoundé, Cameroon & Regional Bureaus"
+        },
+        "advisory": {
+          "tag": "24/7 Diplomatic & Trade Advisory",
+          "caption": "Dedicated Commercial Attachés & Multilingual Concierge Support"
+        }
+      },
+      "chips": {
+        "moscow": "Moscow Federation Tower",
+        "yaounde": "Yaoundé Africa Hub",
+        "whatsapp": "WhatsApp Hotline",
+        "email": "Direct Support Email"
+      }
+    }
+  },
+  "tradePage": {
+    "trade": {
+      "text_001": "Annual Bilateral Trade Volume",
+      "text_002": "Growing steady across grain, energy & minerals",
+      "text_003": "African Partner Nations",
+      "text_004": "54 Countries",
+      "text_005": "Engaged in trade frameworks & diplomatic forums",
+      "text_006": "Wheat Supply to Africa",
+      "text_007": "70%+ Share",
+      "text_008": "Critical contributor to national food security",
+      "text_009": "Average Maritime Shipping Time",
+      "text_010": "14 – 21 Days",
+      "text_011": "Direct Black Sea & Baltic shipping corridors",
+      "text_012": "Wheat & Agricultural Grain",
+      "text_013": "Food Security & Milling",
+      "text_014": "Russia stands as one of the world’s leading exporters of high-protein milling wheat and coarse grains. Bulk maritime shipments provide essential agricultural inputs for national grain reserves and flour mills across Egypt, Algeria, Sudan, Nigeria, South Africa, and Kenya.",
+      "text_015": "Supports domestic food stability, mitigates grain supply volatility, and enables large-scale bread and food production.",
+      "text_016": "Eco-Friendly Fertilizers (NPK & Urea)",
+      "text_017": "Soil Fertility & Agriculture",
+      "text_018": "Mineral fertilizers—including Nitrogen (Urea), Phosphorus, and Potassium (Potash)—are critical exports that restore depleted tropical soils, enhance crop resilience, and boost harvest yields for commercial estates and smallholders alike.",
+      "text_019": "Increases farm productivity per hectare, lowering reliance on imported food products and advancing African agrarian self-sufficiency.",
+      "text_020": "Agricultural Machinery & Tractors",
+      "text_021": "Mechanization & Infrastructure",
+      "text_022": "Russian heavy tractors, combine harvesters, and mechanized tillage implements are engineered for high durability in rugged tropical and semi-arid conditions, offering cost-efficient mechanical power for large-scale farming.",
+      "text_023": "Accelerates the transition from manual cultivation to industrial agriculture, reducing harvest losses and boosting processing capacity.",
+      "text_024": "Petroleum Products & Energy Technology",
+      "text_025": "Energy Infrastructure",
+      "text_026": "Export of refined petroleum fuels, natural gas equipment, steam turbines, and hydro/nuclear engineering solutions tailored for national utility companies, heavy industrial plants, and off-grid mining complexes.",
+      "text_027": "Stabilizes power generation grids, powers transportation fleets, and provides raw fuel for expanding industrial sectors.",
+      "text_028": "Industrial Equipment & Mining Technology",
+      "text_029": "Capital Goods & Mining",
+      "text_030": "Heavy machinery, geological survey software, metallurgical equipment, and construction vehicles supplied to African infrastructure projects, railway developments, and mineral extraction sites.",
+      "text_031": "Provides high-torque, durable equipment suited for intensive resource extraction and civil engineering initiatives.",
+      "text_032": "Steel, Metallurgy & Construction Metals",
+      "text_033": "Construction & Civil Engineering",
+      "text_034": "Structural steel rebar, hot-rolled steel plates, seamless industrial piping, and specialized alloys essential for building seaports, bridges, urban housing, and transport corridors.",
+      "text_035": "Forms the structural foundation for rapid urbanization, maritime port expansions, and industrial zone developments.",
+      "text_036": "Specialty Arabica & Robusta Coffee",
+      "text_037": "Gourmet Commodity",
+      "text_038": "Ethiopia, Uganda, Kenya, Rwanda",
+      "text_039": "Single-origin green and roasted coffee beans renowned for rich flavor profiles. Shipped in moisture-controlled sea containers to satisfy Russia’s rapidly growing artisanal coffee house culture and commercial roasters.",
+      "text_040": "Drives agricultural revenue for millions of smallholder coffee farmers while supplying high-demand northern consumer markets.",
+      "text_041": "Premium Cocoa Beans & Shea Butter",
+      "text_042": "Confectionery & Cosmetics",
+      "text_043": "Côte d’Ivoire, Ghana, Nigeria, Cameroon",
+      "text_044": "High-fat cocoa beans, cocoa mass, and unrefined raw shea butter essential for Russia’s confectionery, chocolate manufacturing, and luxury cosmetics industries.",
+      "text_045": "Serves as primary raw material for major European and Russian chocolate processing facilities and personal care brands.",
+      "text_046": "Tropical Fruits, Citrus & Spices",
+      "text_047": "Fresh Agricultural Produce",
+      "text_048": "South Africa, Egypt, Tanzania, Madagascar",
+      "text_049": "Fresh citrus, bananas, avocados, pineapples, vanilla, cloves, and black pepper transported via specialized refrigerated reefer liners to maintain peak freshness during sea transit.",
+      "text_050": "Provides year-round access to fresh tropical produce during northern winter months when domestic harvests are offline.",
+      "text_051": "Strategic Minerals & Gemstones",
+      "text_052": "Industrial Inputs & Fine Jewelry",
+      "text_053": "DR Congo, Zambia, Zimbabwe, South Africa",
+      "text_054": "Copper cathodes, cobalt concentrates, manganese, lithium, high-grade bauxite, and raw gemstones essential for high-tech manufacturing, EV battery assembly, and jewelry craft.",
+      "text_055": "Supplies essential mineral elements for global green-energy transitions, high-tech electronics, and metallurgical industries.",
+      "text_056": "Textiles, Raw Cotton & Artisanal Goods",
+      "text_057": "Manufacturing & Cultural Commerce",
+      "text_058": "Egypt, Mali, Burkina Faso, Ethiopia",
+      "text_059": "Long-staple Egyptian cotton, organic raw cotton bales, traditional woven fabrics, leather craft, and handmade cultural goods for fashion, home decor, and retail buyers.",
+      "text_060": "Promotes African textile industrialization and connects master artisans with international luxury markets.",
+      "text_061": "Value-Added & Organic Processed Goods",
+      "text_062": "Sustainable Processing",
+      "text_063": "Pan-African Trade Hubs",
+      "text_064": "Increasingly, African exporters process raw harvests locally—dry roasting nuts, extracting essential oils, and packaging single-origin teas—capturing higher value before international export.",
+      "text_065": "Boosts local employment, preserves natural nutrients, and increases foreign exchange earnings for exporter nations.",
+      "text_066": "Bill of Lading (B/L)",
+      "text_067": "Title & Shipping Document",
+      "text_068": "Issued by the ocean carrier acknowledging receipt of cargo for shipment. Acts as a contract of carriage and official document of title required to claim goods at the destination seaport.",
+      "text_069": "Certificate of Origin (Form A / EUR.1)",
+      "text_070": "Tariff Compliance",
+      "text_071": "Official declaration certified by a Chamber of Commerce attesting that the exported commodities originated in a specific country, enabling preferential customs tariffs.",
+      "text_072": "Phytosanitary & Veterinary Certificate",
+      "text_073": "Health & Safety Standard",
+      "text_074": "Issued by agricultural authorities verifying that plant or animal products are free from regulated pests and meet international biosecurity standards.",
+      "text_075": "Commercial Invoice & Packing List",
+      "text_076": "Customs & Financial Declaration",
+      "text_077": "Itemized legal document detailing cargo values, harmonized HS codes, seller/buyer details, gross weight, net weight, and packaging unit specifications.",
+      "text_078": "Letter of Credit (LC)",
+      "text_079": "Bank Financial Instrument",
+      "text_080": "A financial payment guarantee issued by an issuing bank assuring that a seller will receive payment upon presenting exact compliant trade documents.",
+      "text_081": "Free on Board",
+      "text_082": "Loads cargo on ship & clears origin customs",
+      "text_083": "Pays main ocean freight, insurance & destination clearance",
+      "text_084": "Bulk grain, heavy machinery & sea container cargo",
+      "text_085": "Cost, Insurance & Freight",
+      "text_086": "Pays freight & basic maritime insurance to destination port",
+      "text_087": "Handles destination port unloading & customs clearance",
+      "text_088": "Agricultural produce & standard commercial imports",
+      "text_089": "Ex Works",
+      "text_090": "Makes goods available at origin factory gate",
+      "text_091": "Assumes full transport, export clearance & ocean freight risk",
+      "text_092": "Buyers with established in-country logistics representatives",
+      "text_093": "Delivered Duty Paid",
+      "text_094": "Handles complete end-to-end transport, clearance & duties",
+      "text_095": "Receives cleared cargo directly at destination warehouse",
+      "text_096": "High-value equipment & hassle-free door-to-door deliveries",
+      "text_097": "What are the main maritime trade corridors connecting Russia and Africa?",
+      "text_098": "The primary maritime trade corridors originate from Russia’s Black Sea ports (such as Novorossiysk) and Baltic Sea ports (such as St. Petersburg). Vessels travel through the Mediterranean, Red Sea, or Atlantic ocean lanes to reach major African maritime hubs including Alexandria (Egypt), Douala (Cameroon), Lagos (Nigeria), Abidjan (Côte d’Ivoire), Mombasa (Kenya), and Durban (South Africa).",
+      "text_099": "How are cross-border financial payments settled between Russian and African entities?",
+      "text_100": "Commercial transactions utilize direct correspondent banking agreements, interbank Letters of Credit (LC), alternative messaging protocols, and bilateral national currency settlement arrangements (such as Ruble, Rand, or local currency clearing) to ensure uninterrupted payment safety and regulatory compliance.",
+      "text_101": "What phytosanitary procedures are required for agricultural goods?",
+      "text_102": "Agricultural commodities (such as wheat, fruits, coffee, and cocoa) must undergo rigorous sampling and laboratory testing by accredited agricultural inspection agencies (such as Rosselkhoznadzor in Russia or national plant protection organizations in African countries). They are issued official Phytosanitary Certificates verifying freedom from pests and compliance with destination biosecurity laws.",
+      "text_103": "Why are Special Economic Zones (SEZs) important in bilateral trade?",
+      "text_104": "Special Economic Zones offer tax holidays, simplified customs clearance, duty-free equipment imports, and streamlined corporate registration. They encourage joint-venture manufacturing facilities, allowing raw materials imported from Africa or Russia to be processed locally into finished consumer products.",
+      "text_105": "When is air cargo preferred over maritime sea freight?",
+      "text_106": "Air cargo is selected for time-critical, high-value, or fragile commodities such as pharmaceuticals, emergency technical spare parts, electronic components, cut flowers, and luxury artisanal items. While maritime shipping carries 90%+ of bulk freight due to low cost, air freight delivers critical cargo within 24 to 48 hours.",
+      "text_107": "Bilateral Economic Landscape",
+      "text_108": "Russia – Africa Trade at a Glance",
+      "text_109": "Key indicators highlighting the expanding scale of commercial exchange, commodity reliance, and infrastructure connectivity.",
+      "text_110": "DID YOU KNOW?",
+      "text_111": "Complementary Economies Driving Growth",
+      "text_112": "Bilateral trade between Russia and Africa is uniquely complementary: Russian exports provide indispensable food security inputs (grain and nitrogen fertilizers) and capital equipment, while African nations supply vital raw commodities (coffee, cocoa, tropical fruits, strategic minerals) that power Russian consumer markets and specialized industrial processing plants.",
+      "text_113": "Export Insights",
+      "text_114": "Exports from Russia to Africa",
+      "text_115": "Russia’s industrial and agricultural capacities deliver critical resources supporting national food security, agricultural modernization, energy access, and civil infrastructure across the African continent.",
+      "text_116": "Strategic Importance:",
+      "text_117": "Import Insights",
+      "text_118": "Imports from Africa to Russia",
+      "text_119": "Africa’s rich agricultural heritage and mineral reserves supply high-demand commodities that feed Russian consumer markets, support gourmet manufacturing, and fuel industrial production lines.",
+      "text_120": "Origin:",
+      "text_121": "Trade Impact:",
+      "text_122": "Logistics & Freight Architecture",
+      "text_123": "Multimodal Freight Corridors",
+      "text_124": "Modern international supply chains connect Baltic and Black Sea maritime hubs with key West, Central, East, and Southern African seaports, enabling efficient end-to-end movements of bulk agricultural commodities, industrial goods, and temperature-sensitive products.",
+      "text_125": "Maritime Vessel Shipping",
+      "text_126": "Sea freight remains the absolute backbone of Russia–Africa trade. Transport operations utilize bulk dry cargo carriers (for grain and fertilizers), container liners (for packaged goods and manufactured commodities), and refrigerated reefer carriers (for fresh fruits and perishable produce).",
+      "text_127": "Key Seaports:",
+      "text_128": "St. Petersburg & Novorossiysk (Russia) to Douala, Lagos, Mombasa, Durban, Alexandria & Abidjan (Africa).",
+      "text_129": "Inland Transit & Customs",
+      "text_130": "Once cargo reaches coastal ports, inland transit mechanisms—including bonded rail freight lines, heavy road transport corridors, and regional customs clearance protocols—ensure seamless delivery to landlocked nations and hinterland industrial zones.",
+      "text_131": "Core Mechanisms:",
+      "text_132": "Bonded warehousing, railway feeder linkages, certified customs brokerage, and border transit inspections.",
+      "text_133": "Air Cargo Priority Logistics",
+      "text_134": "While sea freight handles bulk volume, air cargo serves time-sensitive and high-value shipments. Businesses choose chartered air transport when speed, strict climate control, or security is paramount.",
+      "text_135": "Typical Commodities:",
+      "text_136": "Pharmaceuticals, urgent technical replacement parts, high-tech electronics, cut flowers, and luxury artisanal goods.",
+      "text_137": "Regulatory & Shipping Standards",
+      "text_138": "Trade Documentation & Incoterms Overview",
+      "text_139": "Understanding essential international shipping legal terms and commercial documentation required for smooth cross-border customs clearance.",
+      "text_140": "Essential Trade Documentation",
+      "text_141": "Incoterms 2020 Cheat Sheet",
+      "text_142": "Seller Obligation:",
+      "text_143": "Buyer Obligation:",
+      "text_144": "Recommended for:",
+      "text_145": "Trade Knowledge FAQ",
+      "text_146": "Frequently Asked Questions",
+      "text_147": "Answers to key logistical, financial, and regulatory questions regarding Russia–Africa commerce.",
+      "text_148": "Connect With AFRUS",
+      "text_149": "Continue Your Russia–Africa Trade Journey",
+      "text_150": "If you would like guidance on understanding trade opportunities, logistics, market insights, or navigating commerce between Russia and Africa, the AFRUS team is available to assist.",
+      "text_151": "Contact AFRUS"
+    },
+    "tradeHero": {
+      "text_001": "Maritime Freight Corridors",
+      "text_002": "Cargo Ships & Container Liners Navigating Russia–Africa Ocean Corridors",
+      "text_003": "Container Terminals & Cranes",
+      "text_004": "High-Capacity Port Gantry Cranes & Container Operations at Baltic, Black Sea & African Ports",
+      "text_005": "Intermodal Freight Hubs",
+      "text_006": "Bonded Warehousing, Freight Rail & Customs Inspection Terminals",
+      "text_007": "Bulk Grain & Agrarian Logistics",
+      "text_008": "Deep-Water Grain Elevators & High-Volume Export Loading Operations",
+      "text_009": "Trade Overview",
+      "text_010": "Russian Exports",
+      "text_011": "African Exports",
+      "text_012": "Freight Corridors",
+      "text_013": "Customs & Incoterms",
+      "text_014": "African Nations",
+      "text_015": "Engaged in Bilateral Forums",
+      "text_016": "Trade Corridors",
+      "text_017": "Baltic, Black Sea, Red Sea & Atlantic",
+      "text_018": "Wheat Supply Share",
+      "text_019": "Supporting Food Security",
+      "text_020": "Annual Bilateral Volume",
+      "text_021": "Grain, Energy, Minerals & Goods",
+      "text_022": "Russia–Africa Trade Knowledge Hub",
+      "text_023": "Russia – Africa",
+      "text_024": "Trade & Freight Corridors",
+      "text_025": "AFRUS is an educational information platform dedicated to helping businesses, entrepreneurs, investors, students, and trade professionals better understand bilateral commerce, multimodal supply chains, customs clearance, and economic cooperation between Russia and Africa."
+    },
+    "tradeSection": {
+      "text_001": "Export from Russia to Africa",
+      "text_002": "Agricultural Produce, Fertilizers, Industrial Machinery & Energy",
+      "text_003": "Russian exports play a vital role in supporting national food security, agricultural modernization, and infrastructure across African nations.",
+      "text_004": "Grain & Wheat",
+      "text_005": "Russia is the world’s leading wheat exporter, supplying high-protein grain essential for African food processing and staple food security.",
+      "text_006": "Eco-Friendly Fertilizers",
+      "text_007": "NPK, Urea, and Potash exports replenish tropical soil nutrients and increase agricultural yields for African smallholder and commercial farms.",
+      "text_008": "Agricultural Machinery",
+      "text_009": "Heavy-duty tractors, combine harvesters, and irrigation systems engineered for rugged tropical and semi-arid field operations.",
+      "text_010": "Energy & Mining Tech",
+      "text_011": "Petroleum products, gas infrastructure, power generation equipment, and advanced geological survey technologies.",
+      "text_012": "Import from Africa to Russia",
+      "text_013": "Raw Produce, Gourmet Goods, Strategic Minerals & Artisanal Crafts",
+      "text_014": "African exports deliver essential raw materials, premium commodities, and specialized products to Russian industrial and consumer markets.",
+      "text_015": "Specialty Coffee & Cocoa",
+      "text_016": "Single-origin Arabica & Robusta beans from East & West Africa powering Russia’s growing gourmet coffee and chocolate industries.",
+      "text_017": "Tropical Produce & Spices",
+      "text_018": "Fresh citrus, bananas, exotic fruits, tea, vanilla, and shea butter supplied through temperature-controlled cold-chain logistics.",
+      "text_019": "Strategic Minerals & Metals",
+      "text_020": "Copper, cobalt, manganese, bauxite, and gemstones critical for Russian manufacturing, electronics, and jewelry production.",
+      "text_021": "Textiles & Cultural Crafts",
+      "text_022": "High-grade raw cotton, hand-woven fabrics, artisanal leather, and authentic cultural items for retail and design markets.",
+      "text_023": "Multimodal Freight & Supply Chains",
+      "text_024": "Maritime Routes, Air Cargo, Customs & Cold-Chain Storage",
+      "text_025": "Navigating maritime and intermodal transport channels connecting Baltic and Black Sea ports with major African coastal gateways.",
+      "text_026": "Direct Sea Corridors",
+      "text_027": "Bulk dry vessels and container liners connecting St. Petersburg and Novorossiysk directly with Douala, Lagos, Mombasa, and Durban.",
+      "text_028": "Cold-Chain Shipping",
+      "text_029": "Temperature-monitored refrigerated reefer containers protecting perishable fruits, cocoa, and seafood during transit.",
+      "text_030": "Customs Clearance",
+      "text_031": "Standardized phytosanitary inspections, certified origin compliance, and customs documentation protocols.",
+      "text_032": "Warehousing & Rail Linkages",
+      "text_033": "Strategic inland distribution hubs, bonded warehouses, and railway feeder networks for smooth cargo transit.",
+      "text_034": "Bilateral Trade Frameworks & Legal Structures",
+      "text_035": "Trade Policy, Tariff Agreements, Financial Settlements & SEZs",
+      "text_036": "Understanding the regulatory environment, banking mechanisms, and intergovernmental trade treaties shaping Russia–Africa commerce.",
+      "text_037": "Financial Settlement Channels",
+      "text_038": "Alternative payment mechanisms, Letters of Credit (LC), and national currency trade settlements facilitating international transactions.",
+      "text_039": "Special Economic Zones (SEZs)",
+      "text_040": "Investment incentives, duty-free industrial zones, and joint-venture corporate structures established in Russia and Africa.",
+      "text_041": "Customs & Tariff Policies",
+      "text_042": "Preferential tariff frameworks, bilateral economic agreements, and standardized trade compliance rules.",
+      "text_043": "B2B Matchmaking Forums",
+      "text_044": "Institutional trade missions, chambers of commerce partnerships, and annual bilateral economic summits.",
+      "text_045": "Bilateral Trade Knowledge Base",
+      "text_046": "Russia – Africa Trade Architecture",
+      "text_047": "An authoritative overview of key trade pillars, commodity flows, multimodal logistics networks, and regulatory frameworks connecting two dynamic regions.",
+      "text_048": "International Logistics & Compliance",
+      "text_049": "Understanding Cross-Border Freight Corridors",
+      "text_050": "Efficient trade between Russia and Africa relies on integrated maritime sea lanes, standardized phytosanitary documentation, bonded warehousing, and compliant customs procedures.",
+      "text_051": "Maritime Corridors",
+      "text_052": "Phytosanitary Certification",
+      "text_053": "Customs Compliance",
+      "portAlt": "International Maritime Trade Seaport"
+    },
+    "commodityDetailModal": {
+      "text_001": "Export from Russia to Africa",
+      "text_002": "Export from Africa to Russia",
+      "text_003": "Commodity Knowledge Summary",
+      "text_004": "Primary Producing & Exporting Hubs",
+      "text_005": "Primary Industrial Sectors",
+      "text_006": "Bilateral Economic Importance",
+      "text_007": "Logistics & Multimodal Transport Specifications",
+      "text_008": "Freight & Transport Mode",
+      "text_009": "Key Seaports & Gateways",
+      "text_010": "Seasonal Cycles",
+      "text_011": "Year-Round Continuous Supply Stream",
+      "text_012": "Market & Supply Chain Insights",
+      "text_013": "Phytosanitary & Quality Compliance",
+      "text_014": "Requires standard international phytosanitary certification, origin verification, and SGS/Cotecna cargo inspection prior to port loading.",
+      "text_015": "AFRUS Bilateral Commodity Knowledge Base",
+      "text_016": "Close Commodity Profile",
+      "close": "Close modal",
+      "hsCode": "HS Code:"
+    }
+  },
+  "exportImportPage": {
+    "exportImport": {
+      "text_001": "Milling Wheat, Barley & Grain Cereals",
+      "text_002": "High-protein milling wheat, feed barley, corn, and grain cereals essential for national food security across North, West, and East Africa.",
+      "text_003": "Krasnodar Krai, Rostov Oblast, Stavropol, Volga Region (Russia)",
+      "text_004": "Bread & Bakery Manufacturing",
+      "text_005": "Flour Milling Plants",
+      "text_006": "Animal Feed Production",
+      "text_007": "Supplies over 70% of total wheat imports for several African nations, stabilizing flour prices and safeguarding urban food security.",
+      "text_008": "Panamax & Handymax Dry Bulk Carriers (30,000–65,000 DWT)",
+      "text_009": "Global wheat demand across Africa is expanding at 4.2% annually due to urban demographic growth and expanding commercial bakery chains.",
+      "text_010": "Peak export window: July through March following Black Sea autumn harvest.",
+      "text_011": "Requires Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor) purity certificate, non-GMO declaration, and moisture controls below 13.5%.",
+      "text_012": "Unrefined & Refined Sunflower Oil",
+      "text_013": "Pure unrefined crude and bottled food-grade refined sunflower oil packaged for wholesale consumer distribution and food processing.",
+      "text_014": "Voronezh, Belgorod, Saratov, Krasnodar (Russia)",
+      "text_015": "Culinary Oil Packaging",
+      "text_016": "Food Processing",
+      "text_017": "Confectionery & Margarine",
+      "text_018": "Serves as a staple cooking oil across African households, offering high smoke point and Vitamin E content at competitive market tariffs.",
+      "text_019": "Flexitank Containers & Food-Grade Chemical Tankers",
+      "text_020": "Flexitank containerized shipments allow smaller regional distributors to import 24-metric-ton units with lower capital outlay.",
+      "text_021": "Continuous year-round supply with high crushing activity from September onwards.",
+      "text_022": "Certified free from chemical solvents, compliant with Codex Alimentarius food safety thresholds.",
+      "text_023": "Mineral Fertilizers (Urea, NPK & Potash)",
+      "text_024": "High-concentration Nitrogen (Urea), Complex NPK blends, and Potash fertilizers essential for restoring tropical soil fertility.",
+      "text_025": "Perm Krai, Murmansk, Vologda, Tatarstan (Russia)",
+      "text_026": "Commercial Crop Estates",
+      "text_027": "Smallholder Agrarian Cooperatives",
+      "text_028": "Soil Nutrient Blending",
+      "text_029": "Restores depleted tropical soils, enhancing crop yield per hectare for cash crops like cocoa, coffee, sugarcane, and maize.",
+      "text_030": "Bulk Carriers & Jumbo Bag 1,000kg Containerized Cargo",
+      "text_031": "Soil-specific NPK formulations customized for African soil profiles boost crop yield by up to 35% compared to generic fertilizers.",
+      "text_032": "Pre-planting distribution waves align with West African March–May and East African October–December rainy seasons.",
+      "text_033": "Granular size uniformity certification (2–4mm), anti-caking coating compliance, and heavy metal limits.",
+      "text_034": "Heavy Agricultural Harvesters & Tractors",
+      "text_035": "Combine harvesters, heavy-duty 4WD tractors, soil tillers, and automated irrigation equipment designed for rugged terrain.",
+      "text_036": "Rostov-on-Don, Saint Petersburg, Chelyabinsk (Russia)",
+      "text_037": "Large-Scale Commercial Farming",
+      "text_038": "State Agrarian Development Schemes",
+      "text_039": "Accelerates farm mechanization across Africa, enabling multi-crop harvests and reducing post-harvest field loss.",
+      "text_040": "Ro-Ro (Roll-on/Roll-off) Vessels & Flat Rack Containers",
+      "text_041": "Russian harvesters are highly favored in tropical farming due to simple mechanical maintenance, low fuel sensitivity, and durable chassis.",
+      "text_042": "Year-round delivery with seasonal spikes prior to major regional harvest cycles.",
+      "text_043": "Factory warranty certification, spare parts cataloging, and tropicalized cooling system verification.",
+      "text_044": "Power Generators & Energy Equipment",
+      "text_045": "High-capacity diesel and gas turbine generator sets, high-voltage transformers, and hydroelectric turbine components.",
+      "text_046": "Yekaterinburg, Saint Petersburg, Novosibirsk (Russia)",
+      "text_047": "National Power Grids",
+      "text_048": "Mining Extractive Sites",
+      "text_049": "Industrial Zones",
+      "text_050": "Provides uninterrupted electrical power for industrial manufacturing zones, hospital complexes, and remote mining sites.",
+      "text_051": "Breakbulk Heavy-Lift Vessels & Open-Top Containers",
+      "text_052": "Containerized modular power blocks allow rapid deployment in off-grid agricultural processing hubs.",
+      "text_053": "Continuous year-round delivery based on capital infrastructure projects.",
+      "text_054": "ISO 9001 quality compliance, tropical climate insulation grading, and high-voltage safety testing.",
+      "text_055": "Specialty Arabica/Robusta Coffee & Raw Cocoa",
+      "text_056": "Single-origin unroasted green coffee beans and high-fat raw cocoa beans sourced directly from certified agrarian cooperatives.",
+      "text_057": "Côte d’Ivoire, Ghana (Cocoa) / Ethiopia, Uganda, Tanzania (Coffee)",
+      "text_058": "Chocolate & Confectionery Manufacturing",
+      "text_059": "Coffee Roasteries",
+      "text_060": "Cosmetics",
+      "text_061": "Provides essential raw inputs for Russia’s confectionery processing centers and premium specialty coffee roasteries.",
+      "text_062": "Dry Food Containers with Moisture-Absorbing Liners & Jute Bags",
+      "text_063": "Specialty single-origin Ethiopian Arabica commands high premiums in Eurasian urban coffee houses.",
+      "text_064": "Main cocoa harvest: October to March; Coffee harvest: November to February.",
+      "text_065": "International Cocoa Organization (ICCO) moisture standards (<7.5%), phytosanitary origin certification, and mold control checks.",
+      "text_066": "Fresh Citrus, Avocados & Tropical Fruits",
+      "text_067": "Fresh Hass avocados, oranges, lemons, pineapples, and mangoes transported via specialized temperature-controlled reefer liners.",
+      "text_068": "South Africa, Egypt, Kenya, Tanzania, Madagascar",
+      "text_069": "Retail Grocery Chains",
+      "text_070": "Juice Processing",
+      "text_071": "Fresh Produce Distribution",
+      "text_072": "Provides fresh tropical fruits during northern winter months when Russian domestic fruit production is offline.",
+      "text_073": "Refrigerated Reefer Containers (+4°C to +8°C Controlled Atmosphere)",
+      "text_074": "Reefer direct shipping routes from Durban to Novorossiysk cut transit time down to 18 days, preserving shelf life.",
+      "text_075": "Southern Hemisphere harvest runs from April through September; Egyptian citrus peaks December through April.",
+      "text_076": "Cold-treatment protocol certification to ensure fruit-fly elimination and zero pesticide residue compliance.",
+      "text_077": "Strategic Copper Cathodes & Battery Minerals",
+      "text_078": "99.99% pure grade-A copper cathodes, cobalt concentrates, lithium ore, and high-grade bauxite for advanced manufacturing.",
+      "text_079": "DR Congo, Zambia, Zimbabwe, South Africa, Guinea",
+      "text_080": "High-Tech Electronics",
+      "text_081": "EV Battery Assembly",
+      "text_082": "Metallurgy & Power Wiring",
+      "text_083": "Supplies essential mineral elements for global green-energy transitions, electric transport, and industrial electrical grids.",
+      "text_084": "20ft Heavy-Duty Containerized Pallets & Bulk Ore Carriers",
+      "text_085": "Multimodal rail corridors connecting the Zambian Copperbelt to coastal ports are unlocking faster mineral exports.",
+      "text_086": "Continuous year-round production and shipping.",
+      "text_087": "Assay certificates of purity from certified independent laboratories (SGS) and ethical sourcing documentation.",
+      "text_088": "Raw Unrefined Shea Butter & Organic Oils",
+      "text_089": "Grade-A unrefined raw shea butter, marula oil, and botanical extracts harvested by rural women’s cooperatives in West Africa.",
+      "text_090": "Ghana, Nigeria, Burkina Faso, Mali",
+      "text_091": "Cosmetics & Skincare Brands",
+      "text_092": "Pharmaceutical Ointments",
+      "text_093": "Confectionery Cocoa-Butter Substitutes",
+      "text_094": "Serves as an essential natural ingredient for luxury cosmetics, organic body care products, and specialized food fats.",
+      "text_095": "Food-Grade Drums & Boxed Block Containers",
+      "text_096": "Organic shea butter imports into Eurasia have grown by 18% annually due to rising consumer demand for natural botanical cosmetics.",
+      "text_097": "Harvest and extraction peak from May through September.",
+      "text_098": "Organic verification certificates, free fatty acid (FFA) analysis below 2%, and peroxide value testing.",
+      "text_099": "Organic Cotton, Textiles & Artisanal Goods",
+      "text_100": "Long-staple Egyptian cotton bales, organic raw cotton, woven Ankara fabrics, hand-carved hardwood art, and leather goods.",
+      "text_101": "Egypt, Mali, Ethiopia, Burkina Faso, Kenya",
+      "text_102": "Textile & Apparel Factories",
+      "text_103": "Luxury Home Decor",
+      "text_104": "Cultural Boutiques",
+      "text_105": "Supplies high-grade organic fibers for garment manufacturing and connects African master artisans with international buyers.",
+      "text_106": "Standard 40ft High-Cube Dry Containers",
+      "text_107": "Long-staple Egyptian Giza cotton remains the global benchmark for luxury bedding and high-end fashion textiles.",
+      "text_108": "Cotton ginning and shipping peak from October through March.",
+      "text_109": "Fumigation certificates for wooden handicrafts and fiber strength/length grading reports for raw cotton bales.",
+      "text_110": "What are the main Incoterms used in Russia–Africa commodity trade?",
+      "text_111": "The most commonly used Incoterms 2020 in bilateral maritime trade are FOB (Free On Board) and CIF (Cost, Insurance & Freight) or CFR (Cost & Freight). Under FOB, the seller clears goods for export and loads them on board at the port of origin (e.g. Novorossiysk or Abidjan). Under CIF, the seller also arranges and pays for maritime freight and cargo marine insurance to the destination port (e.g. Alexandria or Lagos).",
+      "text_112": "How do customs clearance and phytosanitary certificates work for agricultural products?",
+      "text_113": "Agricultural exports like wheat, coffee, cocoa, and fruit require strict phytosanitary inspection. The exporter obtains an official certificate from their national agricultural authority (e.g., Rosselkhoznadzor in Russia or Ministry of Agriculture in Ghana/Ethiopia). Upon arrival at the destination seaport, border inspection authorities verify moisture levels, non-GMO status, pest-free condition, and issue final customs clearance.",
+      "text_114": "What payment and settlement corridors are used for bilateral trade transactions?",
+      "text_115": "Bilateral trade uses multi-currency clearing channels including Russian Rubles (RUB), Yuan (CNY), and local African currencies (such as EGP, NGN, XAF, ZAR) via direct correspondent banking relations, letter of credit (L/C) facilities, and digital trade clearing agreements.",
+      "text_116": "How do refrigerated reefer containers protect tropical fruit shipments during transit?",
+      "text_117": "Reefer containers maintain precision-controlled temperature (+4°C to +8°C) and humidity environments throughout transit. Fresh tropical produce like South African citrus or Egyptian avocados are loaded directly into reefer containers at packing facilities, transported via cold-chain trucks to port terminals, and monitored via satellite telemetry during ocean voyage.",
+      "text_118": "What role do bonded warehouses and intermodal transport corridors play?",
+      "text_119": "Bonded warehouses allow importers to store goods near major seaports without paying customs duties until the commodities are cleared for inland market distribution. Intermodal transport seamlessly connects maritime shipping with inland rail and heavy-duty trucking corridors across landlocked trading hubs.",
+      "text_120": "Bilateral Commodity Highlights",
+      "text_121": "International Trade Flow Metrics",
+      "text_122": "Source: AFRUS Trade Knowledge Base & Customs Registries",
+      "text_123": "African Nations",
+      "text_124": "Engaged in Bilateral Trade",
+      "text_125": "Wheat Share",
+      "text_126": "In Key North & East African Markets",
+      "text_127": "Transit Days",
+      "text_128": "Direct Maritime Shipping Routes",
+      "text_129": "Annual Trade",
+      "text_130": "Agri, Energy, Minerals & Goods",
+      "text_131": "Search commodities by name, HS code, or region...",
+      "text_132": "Clear",
+      "text_133": "All Streams",
+      "text_134": "🇷🇺 Russia → Africa",
+      "text_135": "🌍 Africa → Russia",
+      "text_136": "Filter By Commodity Category:",
+      "text_137": "All",
+      "text_138": "Agricultural & Food",
+      "text_139": "Fertilizers & Agro",
+      "text_140": "Minerals & Industrial",
+      "text_141": "Consumer & Textiles",
+      "text_142": "SUPPLY STREAM 01",
+      "text_143": "Exports from Russia to Africa",
+      "text_144": "Russia is a major supplier of strategic agricultural grains, soil nutrients, heavy agricultural machinery, industrial power generators, and mining equipment to African markets. These exports play a critical role in supporting food security, boosting farm productivity per hectare, and powering infrastructure expansion across the continent.",
+      "text_145": "Origins: ",
+      "text_146": "Impact: ",
+      "text_147": "View Educational Profile",
+      "text_148": "DID YOU KNOW? — AGRARIAN FOOD SECURITY",
+      "text_149": "Russia Supplies Over 30% of Total Wheat Consumed in North and East Africa",
+      "text_150": "High-protein Russian milling wheat serves as the foundation for bread and bakery manufacturing across Egypt, Algeria, Sudan, Kenya, and Tanzania. Continuous bulk shipments stabilize consumer flour prices during global market fluctuations.",
+      "text_151": "SUPPLY STREAM 02",
+      "text_152": "Exports from Africa to Russia",
+      "text_153": "Africa exports a rich array of specialty agricultural produce, raw cocoa, arabica coffee, fresh tropical citrus, strategic energy transition minerals, organic unrefined shea butter, and handcrafted cultural goods to Russia. These commodities fuel confectionery industries, specialty roasteries, cosmetics, and advanced technological manufacturing.",
+      "text_154": "Origins: ",
+      "text_155": "Impact: ",
+      "text_156": "View Educational Profile",
+      "text_157": "DID YOU KNOW? — SPECIALTY AGRARIAN HARVESTS",
+      "text_158": "West Africa Accounts for Over 60% of Global Raw Cocoa Beans Production",
+      "text_159": "Raw high-fat cocoa beans harvested in Côte d’Ivoire and Ghana serve as the primary ingredient for major European and Eurasian chocolate manufacturers. Direct maritime routes to Black Sea terminals ensure peak flavor preservation.",
+      "text_160": "International Trade Architecture",
+      "text_161": "5-Step Bilateral Commodity Supply Chain",
+      "text_162": "How commodities transition seamlessly from regional agrarian harvest and manufacturing hubs to international maritime transport and destination bonded warehouses.",
+      "text_163": "Harvest & Production",
+      "text_164": "Raw agricultural harvest, mineral extraction, or industrial equipment manufacturing at certified origin hubs.",
+      "text_165": "Phytosanitary & Quality",
+      "text_166": "Testing, moisture verification, SGS inspection, and official phytosanitary origin certification.",
+      "text_167": "Port Staging & Customs",
+      "text_168": "Inland transport to seaport terminals, export customs clearance, and container/bulk vessel loading.",
+      "text_169": "Multimodal Freight",
+      "text_170": "14–21 day maritime vessel voyage across Black Sea, Baltic Sea, or Atlantic/Indian Ocean shipping corridors.",
+      "text_171": "Bonded Warehousing",
+      "text_172": "Import customs clearance, duty assessment, and bonded warehouse staging for regional distribution.",
+      "text_173": "International Logistics Routes",
+      "text_174": "Multimodal Freight Corridors & Key Gateways",
+      "text_175": "Bilateral trade relies on strategic maritime shipping lanes, deep-water port infrastructure, and inland logistics hubs connecting Russia with West, East, North, and Southern Africa.",
+      "text_176": "Black Sea & Mediterranean Corridor",
+      "text_177": "Connects Russia’s deep-water Novorossiysk seaport directly with North African hubs (Alexandria, Port Said, Casablanca, Algiers) via 5–8 day maritime transit. Primary route for bulk grain, sunflower oil, and fertilizers.",
+      "text_178": "Key Ports: Novorossiysk, Kavkaz → Alexandria, Port Said, Casablanca",
+      "text_179": "Baltic & Atlantic West Africa Corridor",
+      "text_180": "Connects St. Petersburg and Ust-Luga terminals with West African commercial gateways (Lagos / Lekki Deep Sea, Abidjan, Tema, Douala) in 18–22 days. Handles containerized cocoa, machinery, and fertilizer jumbo bags.",
+      "text_181": "Key Ports: St. Petersburg → Abidjan, Tema, Lagos / Lekki, Douala",
+      "text_182": "Red Sea & Indian Ocean Corridor",
+      "text_183": "Connects Black Sea and Far East seaports (Vladivostok) with East African gateways (Mombasa, Dar es Salaam, Djibouti, Durban). Handles mineral ores, coffee, tea, and heavy power equipment.",
+      "text_184": "Key Ports: Novorossiysk / Vladivostok → Djibouti, Mombasa, Durban",
+      "text_185": "Regulatory Knowledge Framework",
+      "text_186": "Customs Clearance & Trade Terms",
+      "text_187": "Standardized international trade rules, phytosanitary origin documentation, and multi-currency clearing procedures governing bilateral exchange.",
+      "text_188": "Incoterms 2020 Standards",
+      "text_189": "FOB, CIF & CFR Frameworks",
+      "text_190": "Standard contractual terms define risk transfer, maritime freight responsibilities, and marine cargo insurance between origin suppliers and destination buyers.",
+      "text_191": "Certification & Quality",
+      "text_192": "Phytosanitary & SGS Compliance",
+      "text_193": "Official state certification verifying freedom from agricultural pests, non-GMO status, moisture thresholds, and international health standards.",
+      "text_194": "Financial Settlement",
+      "text_195": "Multi-Currency Trade Clearing",
+      "text_196": "Direct settlement channels using Russian Rubles (RUB), Yuan (CNY), and regional currencies via correspondent banking and letter of credit (L/C) structures.",
+      "text_197": "Educational FAQ",
+      "text_198": "Frequently Asked Trade Questions"
+    },
+    "exportImportHero": {
+      "text_001": "International Maritime Shipping",
+      "text_002": "Bulk Cargo Vessels & Container Liners Navigating Global Trade Corridors",
+      "text_003": "Container Terminals & Seaports",
+      "text_004": "Gantry Cranes & Cold-Storage Logistics at Baltic, Black Sea & African Ports",
+      "text_005": "Agrarian Export Terminals",
+      "text_006": "Deep-Water Grain Elevators & Phytosanitary Storage Inspection Facilities",
+      "text_007": "Industrial Energy & Equipment Exports",
+      "text_008": "Turbines, Generators & Heavy Machinery Shipments across Eurasia & Africa",
+      "text_009": "Russian Exports",
+      "text_010": "African Exports",
+      "text_011": "Commodity Categories",
+      "text_012": "Freight Corridors",
+      "text_013": "Customs & Incoterms",
+      "text_014": "EXPORT & IMPORT CATALOG",
+      "text_015": "Russia & Africa",
+      "text_016": "Commodity Catalog",
+      "text_017": "Explore the major commodities traded between Russia and Africa, understand their economic importance, discover supply chains, and learn how these products contribute to international trade and long-term economic cooperation.",
+      "text_018": "Explore Commodities",
+      "text_019": "Learn About Trade"
+    }
+  },
+  "studyPage": {
+    "content": {
+      "text_001": "Scholarship / University Selection",
+      "text_002": "Choose your desired field of study (Medicine, IT, Engineering, Economics) and submit academic transcripts.",
+      "text_003": "Official State Invitation",
+      "text_004": "AFRUS coordinates with the Ministry of Education to issue an official Russian Federation visa invitation letter.",
+      "text_005": "Consular Visa Application",
+      "text_006": "Submit passport, medical HIV certificate, and invitation to the nearest Russian Embassy or Consulate in your country.",
+      "text_007": "Airport Reception & Housing",
+      "text_008": "AFRUS VIP representatives greet you at Moscow/St. Petersburg airport and escort you directly to your university dorm.",
+      "text_009": "Academic Excellence & State Scholarships",
+      "text_010": "Study in Russia – Premier University Portal",
+      "text_011": "Earn globally recognized degrees across 12+ top Russian state universities with full government scholarship options and end-to-end student arrival concierge.",
+      "text_012": "Featured Institution Showcase",
+      "text_013": "of",
+      "text_014": "Tuition:",
+      "text_015": "Full State Scholarship Eligible",
+      "text_016": "Russian Federation",
+      "text_017": "Top Degree Programs:",
+      "text_018": "Apply Now",
+      "text_019": "Full State Institution Directory",
+      "text_020": "Universities Accepting International Students",
+      "text_021": "Browse all 12 premier state institutions in Moscow, St. Petersburg, Kazan, Novosibirsk, and regional academic capitals with English & Russian medium degree programs.",
+      "text_022": "Search university or field...",
+      "text_023": "City:",
+      "text_024": "All",
+      "text_025": "Tuition:",
+      "text_026": "Available Specialties:",
+      "text_027": "Full State Quota Eligible",
+      "text_028": "Apply for Admission",
+      "text_029": "No universities found matching",
+      "text_030": "Step-by-Step Admission & Visa Journey",
+      "text_031": "AFRUS guides you from document translation to your first day in a Russian lecture hall.",
+      "text_032": "AFRUS Verified Support",
+      "text_033": "Book Free Student Consultation Call",
+      "previousUniversity": "Previous University",
+      "nextUniversity": "Next University"
+    },
+    "hero": {
+      "badge": "Russian Government Scholarships & Universities",
+      "title": "Study at Russia’s Premier",
+      "accent": "State Universities",
+      "subtitle": "100% full tuition government scholarship quotas, English & Russian taught degree programs in Medicine, Artificial Intelligence, Engineering, and International Relations with full student visa & arrival concierge.",
+      "apply": "Apply for Scholarship Guidance",
+      "inquiry": "University Admission & Scholarship Consultation",
+      "fallbackInquiry": "Study in Russia General Inquiry",
+      "slide": "Slide",
+      "of": "of",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "campuses": {
+          "tag": "Historic State Universities",
+          "caption": "Majestic Neoclassical Architecture & Modern Research Facilities Across Moscow & St. Petersburg"
+        },
+        "graduates": {
+          "tag": "International Scholars",
+          "caption": "African & Russian Graduates Celebrating State Degree Achievements in Academic Gowns"
+        },
+        "rudn": {
+          "tag": "RUDN Peoples’ Friendship University",
+          "caption": "Multicultural Campus Welcoming Students from 160+ Nations Worldwide"
+        },
+        "spbsu": {
+          "tag": "St. Petersburg State University",
+          "caption": "Centuries of Scientific Research, Law, Medicine & International Relations"
+        }
+      },
+      "chips": {
+        "overview": "Overview",
+        "universities": "Universities",
+        "programs": "Degree Programs",
+        "visa": "Visa Journey",
+        "scholarships": "Scholarships"
+      }
+    },
+    "universityDescriptions": {
+      "msu": "Russia’s oldest and most prestigious university, renowned worldwide for groundbreaking research, elite academic faculty, and high international degree recognition.",
+      "spbpu": "A global powerhouse in engineering, artificial intelligence, and applied sciences with state-of-the-art laboratory complexes and industry partnerships.",
+      "spbsu": "Founded by Peter the Great in 1724, SPbSU offers world-class degrees, vast international research networks, and full state quota scholarships.",
+      "rudn": "Home to over 10,000 international students from 160 countries, RUDN is famous for medical, agricultural, and diplomatic degree excellence.",
+      "sechenov": "Russia’s oldest and premier medical research university with clinical hospital networks training top international doctors and surgeons.",
+      "itmo": "The global leader in competitive programming, robotics, optics, and artificial intelligence, attracting elite tech minds worldwide.",
+      "nsu": "Located in the famous Akademgorodok scientific forest city, NSU works directly with dozens of Russian Academy of Sciences research institutes.",
+      "kfu": "Situated in the vibrant cultural capital Kazan, offering world-recognized medical and engineering degrees fully taught in English.",
+      "hse": "A modern, dynamic institution specializing in cutting-edge digital technology, finance, global management, and economics.",
+      "tsu": "The premier research university of Siberia with rich 140+ year heritage, extensive international student services, and affordable fees.",
+      "mipt": "Famous as \"Phystech\", producing Nobel laureates, tech founders, and top scientists in quantum physics and aerospace.",
+      "sfeu": "A major scientific and education hub in warm Southern Russia offering diverse degree options and rich international student life."
+    }
+  },
+  "businessRussia": {
+    "steps": {
+      "legal": {
+        "title": "1. Legal Entity Incorporation",
+        "desc": "Registration of an OOO (LLC) or joint-stock company with Russian tax authorities within five business days."
+      },
+      "sez": {
+        "title": "2. SEZ & Tax Incentives Registration",
+        "desc": "Securing zero customs duties and corporate tax breaks in Technopolis Moscow, Alabuga, or Kaluga."
+      },
+      "banking": {
+        "title": "3. Corporate Banking & Currency Accounts",
+        "desc": "Opening multi-currency commercial accounts (RUB, CNY, XAF, EUR) with full Central Bank compliance."
+      },
+      "visas": {
+        "title": "4. Executive Work Visas & Permits",
+        "desc": "Expedited commercial work invitations, residence permits, and official certified translation services."
+      }
+    },
+    "zones": {
+      "moscow": {
+        "name": "Technopolis Moscow SEZ",
+        "focus": "Microelectronics, AI, biotech & advanced manufacturing",
+        "perk": "0% property tax for 10 years • 2% profits tax rate"
+      },
+      "alabuga": {
+        "name": "Alabuga SEZ (Tatarstan)",
+        "focus": "Chemical industry, automotive, agritech & heavy equipment",
+        "perk": "0% import duties & VAT on capital equipment"
+      },
+      "innopolis": {
+        "name": "Innopolis Innovation Center",
+        "focus": "Software development, fintech & autonomous systems",
+        "perk": "1% income tax under simplified taxation scheme"
+      },
+      "kaluga": {
+        "name": "Kaluga Industrial Cluster",
+        "focus": "Pharmaceuticals, logistics & consumer goods",
+        "perk": "Direct rail access to China, Central Asia & the Baltic Sea"
+      }
+    },
+    "roadmap": {
+      "eyebrow": "Structured Expansion Process",
+      "title": "Turnkey Setup Roadmap",
+      "description": "AFRUS guides African entrepreneurs, exporters, and corporations through every legal step of setting up in Russia."
+    },
+    "sez": {
+      "eyebrow": "Special Economic Zones (SEZs)",
+      "title": "Tax & Customs Incentives for Foreign Investors",
+      "cta": "Apply for SEZ Resident Status",
+      "focusLabel": "Focus Sectors:"
+    },
+    "banking": {
+      "eyebrow": "Commercial Banking & FX",
+      "title": "Multi-Currency Settlement & Account Opening",
+      "description": "AFRUS works directly with leading Russian commercial banks (VTB, Sber, Alfa Bank) to facilitate multi-currency accounts in Russian rubles (RUB), Chinese yuan (CNY), and Central African CFA francs (XAF), with full Central Bank compliance and swift regulatory clearances.",
+      "bullets": {
+        "transfers": "Zero-friction cross-border wire transfers between Russia and 20+ African banks.",
+        "hedging": "Currency exchange risk hedging & letters of credit (LC) for import/export.",
+        "managers": "Dedicated English- and French-speaking corporate account managers."
+      },
+      "currenciesTitle": "Supported Settlement Currencies",
+      "cta": "Open Corporate Account"
+    },
+    "currencies": {
+      "rub": "Russian Ruble",
+      "cny": "Chinese Yuan",
+      "cfa": "CFA Franc",
+      "aed": "UAE Dirham"
+    },
+    "visas": {
+      "eyebrow": "Executive Immigration & Accreditation",
+      "title": "Expedited Business Invitations & Highly Qualified Specialist (HQS) Visas",
+      "description": "AFRUS issues official state invitations, processes three-year HQS work permits for corporate directors, and provides certified notarized translations of all legal documentation.",
+      "cta": "Request Visa Consultation"
+    },
+    "subjects": {
+      "sez": "SEZ Registration Application",
+      "banking": "Corporate Banking Inquiry",
+      "visa": "Executive Visa Application",
+      "expansion": "Business Expansion in Russia"
+    },
+    "hero": {
+      "badge": "AFRUS CORPORATE GATEWAY TO RUSSIA",
+      "titlePrefix": "Establish & Expand Your",
+      "titleAccent": "Business in Russia",
+      "subtitle": "Turnkey incorporation of legal branches, tax-free Special Economic Zone (SEZ) status, multi-currency commercial banking accounts, and executive immigration support across Eurasia.",
+      "primaryCta": "Start Corporate Setup",
+      "secondaryCta": "Explore SEZ Tax Breaks",
+      "chips": {
+        "roadmap": "Setup Roadmap",
+        "sez": "SEZ Tax Breaks",
+        "banking": "Corporate Banking",
+        "visas": "Executive Visas"
+      },
+      "slideLabel": "Slide {{number}}",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "moscow": {
+          "tag": "Moscow Financial District",
+          "caption": "LLC (OOO) & joint-stock company incorporation in Central Eurasia"
+        },
+        "sez": {
+          "tag": "Special Economic Zones (SEZs)",
+          "caption": "Technopolis Moscow & Alabuga SEZ 0% customs duty and tax incentive hubs"
+        },
+        "innovation": {
+          "tag": "Federal Innovation Clusters",
+          "caption": "Tech parks, R&D labs & industrial engineering centers"
+        },
+        "headquarters": {
+          "tag": "Eurasian Headquarters",
+          "caption": "Corporate banking, compliance certification & executive residency"
+        }
+      }
+    }
+  },
+  "businessAfrica": {
+    "regions": {
+      "eyebrow": "Economic Communities & Industrial Zones",
+      "title": "Regional Trade Blocs & Expansion Hubs",
+      "description": "Strategic access points for Russian exporters, equipment manufacturers, and investors into major African regional markets.",
+      "hubsLabel": "Hubs:",
+      "opportunitiesLabel": "Key Opportunities:",
+      "items": {
+        "west": {
+          "name": "West Africa (ECOWAS)",
+          "hubs": "Cameroon, Nigeria, Senegal, Ivory Coast",
+          "sectors": "Agribusiness, cocoa processing, energy, port logistics"
+        },
+        "central": {
+          "name": "Central Africa (CEMAC)",
+          "hubs": "Cameroon, Gabon, Congo, Chad",
+          "sectors": "Timber, mining, hydroelectric power, infrastructure"
+        },
+        "east": {
+          "name": "East Africa (EAC)",
+          "hubs": "Kenya, Tanzania, Ethiopia, Uganda",
+          "sectors": "Coffee, tea, telecommunications, geothermal energy"
+        },
+        "southern": {
+          "name": "Southern Africa (SADC)",
+          "hubs": "South Africa, Zambia, Mozambique, Angola",
+          "sectors": "Heavy industrial equipment, platinum, agricultural technology"
+        }
+      }
+    },
+    "afcfta": {
+      "eyebrow": "African Continental Free Trade Area",
+      "title": "Capitalizing on the 1.3 Billion Consumer Single Market",
+      "cta": "Consult Tariff Specialist",
+      "pillars": {
+        "tariffs": {
+          "title": "Zero Tariff Corridors",
+          "desc": "Phase out of 90% of intra-African tariffs for registered goods and raw materials."
+        },
+        "standards": {
+          "title": "Harmonized Standards",
+          "desc": "Single ARSO quality certification across West, Central, East & Southern Africa."
+        },
+        "papss": {
+          "title": "PAPSS Digital Settlement",
+          "desc": "Pan-African Payment and Settlement System enabling instant local currency transactions."
+        },
+        "hubs": {
+          "title": "Special Economic Hubs",
+          "desc": "Duty-free export processing zones in Kribi, Lekki, Mombasa, and Durban."
+        }
+      }
+    },
+    "ventures": {
+      "eyebrow": "Public-Private Partnerships & Equity",
+      "title": "Joint Venture Structuring & Local Co-Investment",
+      "description": "AFRUS connects Russian industrial leaders, agritech providers, and energy firms with vetted African state authorities, sovereign wealth funds, and private industry leaders to co-invest in high-yield infrastructure and manufacturing projects.",
+      "spv": "Special Purpose Vehicle (SPV) Registration",
+      "tax": "Bilateral Tax Treaty Optimization",
+      "inquiryTitle": "Inquire About Joint Venture Opportunities",
+      "inquiryDescription": "Speak with AFRUS legal counsel and regional economists about co-investing in African energy, agriculture, or mining infrastructure.",
+      "cta": "Request SPV Proposal"
+    },
+    "vetting": {
+      "eyebrow": "Risk Mitigation & Compliance",
+      "title": "Rigorous Local Partner Vetting & Regulatory Clearance",
+      "description": "Eliminate commercial risk through AFRUS ground-level due diligence, background checks on prospective African distributors, land tenure verification, and government license auditing.",
+      "cta": "Order Due Diligence Report"
+    },
+    "subjects": {
+      "afcfta": "AfCFTA Tariff Strategy",
+      "venture": "Joint Venture Inquiry",
+      "vetting": "Partner Vetting & Due Diligence",
+      "entry": "African Market Entry Strategy"
+    },
+    "hero": {
+      "badge": "AFRUS GATEWAY TO 54 AFRICAN MARKETS",
+      "titlePrefix": "Guiding Russian Enterprises Into",
+      "titleAccent": "Fast-Growing African Markets",
+      "subtitle": "Comprehensive market intelligence, local corporate vetting, AfCFTA tariff strategy, joint venture structuring, and government diplomatic liaison across ECOWAS, CEMAC, EAC, and SADC trade zones.",
+      "primaryCta": "Consult Market Specialist",
+      "secondaryCta": "Explore Regional Trade Blocs",
+      "chips": {
+        "regions": "Regional Trade Blocs",
+        "afcfta": "AfCFTA Strategy",
+        "ventures": "Joint Ventures",
+        "vetting": "Partner Vetting"
+      },
+      "slideLabel": "Slide {{number}}",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "logistics": {
+          "tag": "54-Nation AfCFTA Gateway",
+          "caption": "Deep-water port terminals, free-trade warehouses & regional distribution hubs"
+        },
+        "minerals": {
+          "tag": "Strategic Minerals & Energy",
+          "caption": "Lithium, cobalt, bauxite & natural gas processing corridors"
+        },
+        "agriculture": {
+          "tag": "Agribusiness & Food Security",
+          "caption": "Commercial farm mechanization, irrigation infrastructure & processing"
+        },
+        "cities": {
+          "tag": "Metropolitan Commercial Centers",
+          "caption": "Lagos, Johannesburg, Nairobi & Cairo trade headquarters and joint ventures"
+        }
+      }
+    }
+  },
+  "forumPage": {
+    "schedule": {
+      "eyebrow": "High-Level Bilateral Schedule",
+      "title": "Upcoming Economic Summits & Forums",
+      "description": "Join intergovernmental plenaries, high-level economic conventions, and executive B2B networking sessions.",
+      "delegates": "Confirmed Key Delegates:",
+      "cta": "Register Delegation"
+    },
+    "roundtables": {
+      "eyebrow": "Specialized Industry Tracks",
+      "title": "Bilateral Industry Roundtables & Closed-Door Plenaries",
+      "cta": "Apply as Speaker / Panelist",
+      "attendance": "Expected Attendance:",
+      "items": {
+        "energy": {
+          "title": "Energy, Oil & Strategic Minerals Roundtable",
+          "focus": "Geological survey partnerships, mining machinery supply, and refined hydrocarbon logistics corridors.",
+          "delegates": "Ministers of Mines, Energy Consortium CEOs & Russian Heavy Industry"
+        },
+        "agriculture": {
+          "title": "Agricultural Sovereignty & Fertilizer Security",
+          "focus": "Grain elevators, cold-chain storage facilities, NPK fertilizer trade, and agricultural machinery exports.",
+          "delegates": "Agricultural Trade Boards, Farm Machinery Directors & Port Logistics"
+        },
+        "finance": {
+          "title": "Fintech, Central Bank Digital Corridors & FX Settlement",
+          "focus": "Multi-currency settlement mechanisms (RUB/XAF/CNY), trade guarantees, and currency swap agreements.",
+          "delegates": "Commercial Bank Chairs, Central Bank Representatives & Financial Regulators"
+        },
+        "sez": {
+          "title": "Special Economic Zones & Industrial Co-Investment",
+          "focus": "Technopolis Moscow, Alabuga, and African Free Zone resident tax incentives for joint ventures.",
+          "delegates": "SEZ Governors, Industrial Park Developers & Investment Promotion Directors"
+        }
+      }
+    },
+    "vip": {
+      "eyebrow": "Ministerial & Trade Delegation Support",
+      "title": "VIP Accreditation, Fast-Track Airport Transit & Executive Security",
+      "description": "AFRUS provides turnkey administrative, diplomatic, and executive travel coordination for official trade delegations, chamber of commerce presidents, and government ministers attending summits in Russia or Africa.",
+      "cta": "Request VIP Delegation Package"
+    },
+    "matchmaking": {
+      "eyebrow": "Targeted Dealroom Sessions",
+      "title": "Pre-Scheduled B2B Dealroom Sessions",
+      "description": "Before the forum, AFRUS pre-arranges one-to-one bilateral meetings between your executive team and vetted potential buyers, government regulators, or joint-venture co-investors tailored to your sector.",
+      "bullets": {
+        "profiles": "Pre-vetted counterparty profiles & company financial checks.",
+        "translators": "On-site simultaneous Russian, English, and French legal translators.",
+        "mou": "Bilateral MOU drafting and notary attestation support."
+      },
+      "cardTitle": "Schedule B2B Meetings",
+      "cardDescription": "Register your enterprise interest to receive a personalized B2B matchmaking schedule before the forum.",
+      "cta": "Book Matchmaking Session"
+    },
+    "subjects": {
+      "delegation": "Forum Delegation: {{title}}",
+      "speaker": "Roundtable Presentation Application",
+      "vip": "VIP Delegation Support Request",
+      "matchmaking": "Pre-Scheduled B2B Matchmaking",
+      "access": "Economic Forum Delegation Access"
+    },
+    "hero": {
+      "badge": "AFRUS BILATERAL ECONOMIC SUMMITS",
+      "titlePrefix": "Russia – Africa",
+      "titleAccent": "Economic Forum & Summits",
+      "subtitle": "Connecting government ministers, chamber of commerce leaders, industrial CEOs, and trade delegates for strategic B2B matchmaking, bilateral pacts, and joint economic development.",
+      "primaryCta": "Apply for Delegation Access",
+      "secondaryCta": "Explore Forum Agenda",
+      "chips": {
+        "agenda": "Summit Agenda",
+        "roundtables": "Bilateral Roundtables",
+        "delegation": "Delegation Access",
+        "matchmaking": "B2B Matchmaking"
+      },
+      "slideLabel": "Slide {{number}}",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "summits": {
+          "tag": "Bilateral State Summits",
+          "caption": "Intergovernmental plenary sessions, ministerial pacts & economic networks"
+        },
+        "finance": {
+          "tag": "Trade & Financial Corridors",
+          "caption": "Cross-border capital guarantees, currency settlements & joint ventures"
+        },
+        "industry": {
+          "tag": "Industrial & Energy Roundtables",
+          "caption": "Machinery exports, energy security & technology transfers"
+        },
+        "plenary": {
+          "tag": "Global Economic Plenary",
+          "caption": "Chamber of commerce assemblies & high-level executive dealrooms"
+        }
+      }
+    }
+  },
+  "languagePages": {
+    "english": {
+      "highlights": {
+        "fluency": {
+          "title": "Business C1 Fluency",
+          "desc": "Customized for exporters, diplomats, and executives conducting global negotiations."
+        },
+        "instructors": {
+          "title": "Native Instructors",
+          "desc": "Direct dialogue with native English speakers specialized in international business terminology."
+        },
+        "diplomacy": {
+          "title": "Diplomatic & Economic Focus",
+          "desc": "Mastering trade contracts, corporate presentations, and international forum dialogues."
+        },
+        "certification": {
+          "title": "Official Certification",
+          "desc": "Recognized certificate upon completion to boost career and academic credentials."
+        }
+      }
+    },
+    "french": {
+      "highlights": {
+        "markets": {
+          "title": "West & Central African French",
+          "desc": "Unlocking trade and diplomatic relations across 20+ French-speaking African nations."
+        },
+        "etiquette": {
+          "title": "Cultural Etiquette & Protocol",
+          "desc": "Understanding business customs, diplomatic protocol, and regional dialect nuances."
+        },
+        "audio": {
+          "title": "Interactive Audio Modules",
+          "desc": "Real-world dialogue simulations with native West & Central African instructors."
+        },
+        "groups": {
+          "title": "Small Group Interactive Sessions",
+          "desc": "Personalized attention and rapid conversational confidence."
+        }
+      }
+    }
+  },
+  "conciergePage": {
+    "subjects": {
+      "vip": "VIP Concierge Request",
+      "service": "Concierge Inquiry: {{title}}"
+    },
+    "hero": {
+      "badge": "VIP EXECUTIVE HOSPITALITY SUITE",
+      "titlePrefix": "VIP Concierge &",
+      "titleAccent": "Executive Travel",
+      "subtitle": "Airport VIP tarmac clearance, Maybach armored transfers, 5-star presidential hotel suites, certified court translators, and bespoke diplomatic delegation logistics across Eurasia & Africa.",
+      "subject": "VIP Executive Concierge Booking",
+      "primaryCta": "Request VIP Service",
+      "secondaryCta": "Explore Services",
+      "chips": {
+        "airport": "VIP Airport Fast-Track",
+        "motorcades": "Luxury Motorcades",
+        "security": "Armed Protection",
+        "hotels": "5-Star Suites"
+      },
+      "slideLabel": "Slide {{number}}",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "airport": {
+          "tag": "Tarmac VIP Fast-Track",
+          "caption": "Private jet reception, diplomatic passport control & expedited customs"
+        },
+        "security": {
+          "tag": "Maybach Motorcades & Security",
+          "caption": "Armored executive fleet & 24/7 diplomatic close-protection detail"
+        },
+        "hotels": {
+          "tag": "5-Star Presidential Suites",
+          "caption": "Curated hotel towers in Moscow, St. Petersburg & African capital cities"
+        },
+        "services": {
+          "tag": "Bespoke Executive Services",
+          "caption": "Certified court translators, private dealrooms & priority access"
+        }
+      }
+    },
+    "services": {
+      "vip-transfer": {
+        "title": "Airport VIP Fast-Track & Executive Transfer",
+        "description": "Personal greeting at aircraft gate, expedited VIP customs clearance, baggage assistance, and luxury chauffeur transport in Mercedes-Maybach or V-Class.",
+        "features": [
+          "24/7 Flight Monitoring",
+          "Multilingual Chauffeurs",
+          "Armored Transport Available",
+          "Luggage Concierge"
+        ]
+      },
+      "visa-legal": {
+        "title": "Expedited Visa & Residency Legal Support",
+        "description": "Official invitation letters, business visa extensions, student visa legalization, diplomatic protocol coordination, and notary-certified translations.",
+        "features": [
+          "Official Government Support",
+          "Document Attestation",
+          "Police Clearance Guidance",
+          "Work Permit Filing"
+        ]
+      },
+      "translation": {
+        "title": "Certified Multilingual Translation & Interpreting",
+        "description": "Simultaneous and consecutive interpreters fluent in Russian, English, French, Arabic, Portuguese, and major African languages for forums and legal contracts.",
+        "features": [
+          "Certified Court Interpreters",
+          "Bilateral Contract Translation",
+          "Conference Audio Technology",
+          "Diplomatic Etiquette"
+        ]
+      },
+      "hotel-booking": {
+        "title": "5-Star Hotel & Executive Suite Booking",
+        "description": "Exclusive negotiated corporate rates at premier luxury hotels in Moscow, St. Petersburg, Sochi, Kazan, and major African economic hubs.",
+        "features": [
+          "Guaranteed Upgrade Benefits",
+          "Private Dining Rooms",
+          "Conference Room Rental",
+          "Flexible Cancellation"
+        ]
+      },
+      "b2b-matching": {
+        "title": "Tailored B2B Matchmaking & Delegation Visits",
+        "description": "Curated itinerary planning for corporate delegations, including private meetings with ministry officials, chamber presidents, and industry leaders.",
+        "features": [
+          "Targeted Partner Vetting",
+          "Private Meeting Venues",
+          "Market Intelligence Reports",
+          "Post-Visit Follow-Up"
+        ]
+      },
+      "medical-travel": {
+        "title": "Medical Travel & Health Concierge",
+        "description": "Access to top specialized Russian medical centers, second opinions, emergency medical evacuations, and personalized recovery care.",
+        "features": [
+          "Top Surgical Specialists",
+          "Private Hospital Suites",
+          "Full Rehabilitation Support",
+          "Medical Insurance Support"
+        ]
+      }
+    }
+  },
+  "eventsPage": {
+    "registrationSubject": "Event Registration: {{title}}",
+    "hero": {
+      "badge": "DIPLOMATIC, TRADE & CULTURAL CONVENTIONS",
+      "titlePrefix": "Events, Summits &",
+      "titleAccent": "Bilateral Conventions",
+      "subtitle": "Participate in high-level trade forums, cultural heritage festivals, university expos, and exclusive bilateral networking roundtables across Russia & 54 African nations.",
+      "subject": "General Event Delegation Registration",
+      "primaryCta": "Register as Delegate",
+      "secondaryCta": "View Event Schedule",
+      "chips": {
+        "upcoming": "Upcoming Conventions",
+        "forums": "Economic Forums",
+        "festivals": "Cultural Festivals",
+        "exhibitions": "Trade Exhibitions"
+      },
+      "slideLabel": "Slide {{number}}",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "summits": {
+          "tag": "Bilateral State Summits",
+          "caption": "Intergovernmental plenaries, ministerial roundtables & bilateral pacts"
+        },
+        "festivals": {
+          "tag": "Russia–Africa Cultural Festivals",
+          "caption": "Heritage performing arts, film showcases & intercontinental exhibitions"
+        },
+        "expos": {
+          "tag": "Artisan & Trade Fair Expos",
+          "caption": "Craft guilds, commodity trade showrooms & fashion week showcases"
+        },
+        "plenary": {
+          "tag": "Global Convention Plenaries",
+          "caption": "Keynote addresses, sector panels & executive networking galas"
+        }
+      }
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "badge": "OFFICIAL DIPLOMATIC & TRADE PRESS WIRE",
+      "titlePrefix": "News & Press",
+      "titleAccent": "Intelligence Portal",
+      "subtitle": "Access verified press releases, university quota announcements, trade volume bulletins, and ministerial diplomatic briefs connecting Russia and 54 African nations.",
+      "cta": "Read Latest Articles",
+      "chips": {
+        "all": "All Intelligence",
+        "diplomacy": "Diplomatic & Policy",
+        "trade": "Trade & Economy",
+        "education": "Scholarships & Higher Ed"
+      },
+      "slideLabel": "Slide {{number}}",
+      "pause": "Pause slideshow",
+      "play": "Play slideshow",
+      "slides": {
+        "diplomacy": {
+          "tag": "Diplomatic Press Conferences",
+          "caption": "Official intergovernmental media briefings & ministerial communiqués"
+        },
+        "trade": {
+          "tag": "Bilateral Trade Intelligence",
+          "caption": "Real-time economic bulletins, commodity benchmarks & tariff updates"
+        },
+        "network": {
+          "tag": "Global Information Network",
+          "caption": "Cross-border news wire covering 54 African capitals & Eurasian centers"
+        },
+        "analytics": {
+          "tag": "Market & Policy Analytics",
+          "caption": "In-depth financial analysis, quota announcements & legal regulatory briefs"
+        }
+      }
+    },
+    "reader": {
+      "closeLabel": "Close news article",
+      "publishedBy": "Published by",
+      "publisher": "AFRUS Press Bureau",
+      "close": "Close Article"
+    },
+    "articles": {
+      "news-1": {
+        "content": "In a major step to deepen academic cooperation, Russian federal authorities have allocated over 4,700 full government scholarships for the upcoming academic cycle. Programs cover medicine, artificial intelligence, agricultural engineering, nuclear energy, and international law. AFRUS helps applicants navigate state quotas, document certification, and university selection."
+      },
+      "news-2": {
+        "content": "Trade analysis shows a sharp rise in direct shipments of Russian grain, sunflower oil, and environmentally friendly fertilizers to West and East Africa, while African coffee, cocoa, and exotic fruits are gaining ground in major Russian retail chains. AFRUS continues to support customs clearance and financial corridor solutions."
+      },
+      "news-3": {
+        "content": "Designed for international CEOs, government ministers, investors, and trade delegations, AFRUS Concierge provides end-to-end luxury hospitality in Moscow, St. Petersburg, and regional economic capitals. From private jet charters to tailored B2B matchmaking, the service guarantees confidentiality and prestige."
+      }
+    }
+  }
+}

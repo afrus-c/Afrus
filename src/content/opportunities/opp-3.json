@@ -1,0 +1,68 @@
+{
+  "id": "opp-3",
+  "title": "Special Economic Zone Investment Opportunities in Russia",
+  "category": "investment",
+  "location": "Tatarstan, Kaluga, Moscow Oblast",
+  "description": "Tax incentives, zero customs duties, and turnkey infrastructure for African manufacturers establishing production plants in Russia.",
+  "benefits": [
+    "0% corporate tax rate for first 5–10 years",
+    "Free connection to industrial power, gas, and rail networks",
+    "Accelerated visa & work permit processing for foreign specialists"
+  ],
+  "requirements": [
+    "Minimum investment threshold of $250,000 USD",
+    "Feasibility study and business plan presentation"
+  ],
+  "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+  "titleI18n": {
+    "en": "Special Economic Zone Investment Opportunities in Russia",
+    "fr": "Opportunités d’investissement dans les zones économiques spéciales en Russie",
+    "ru": "Инвестиционные возможности Особой экономической зоны в России"
+  },
+  "locationI18n": {
+    "en": "Tatarstan, Kaluga, Moscow Oblast",
+    "fr": "Tatarstan, Kalouga, oblast de Moscou",
+    "ru": "Татарстан, Калуга, Московская область"
+  },
+  "deadlineI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "descriptionI18n": {
+    "en": "Tax incentives, zero customs duties, and turnkey infrastructure for African manufacturers establishing production plants in Russia.",
+    "fr": "Des incitations fiscales, des droits de douane nuls et une infrastructure clé en main pour les fabricants africains qui établissent des usines de production en Russie.",
+    "ru": "Налоговые льготы, нулевые таможенные пошлины и инфраструктура «под ключ» для африканских производителей, открывающих производственные предприятия в России."
+  },
+  "benefitsI18n": {
+    "en": [
+      "0% corporate tax rate for first 5–10 years",
+      "Free connection to industrial power, gas, and rail networks",
+      "Accelerated visa & work permit processing for foreign specialists"
+    ],
+    "fr": [
+      "Taux d’impôt sur les sociétés de 0 % pendant les 5 à 10 premières années",
+      "Connexion gratuite aux réseaux industriels d’énergie, de gaz et ferroviaires",
+      "Traitement accéléré des visas et des permis de travail pour les spécialistes étrangers"
+    ],
+    "ru": [
+      "Ставка корпоративного налога 0% в течение первых 5–10 лет.",
+      "Бесплатное подключение к промышленным электросетям, газовым и железнодорожным сетям.",
+      "Ускоренное оформление виз и разрешений на работу для иностранных специалистов"
+    ]
+  },
+  "requirementsI18n": {
+    "en": [
+      "Minimum investment threshold of $250,000 USD",
+      "Feasibility study and business plan presentation"
+    ],
+    "fr": [
+      "Seuil d'investissement minimum de 250 000 $ USD",
+      "Etude de faisabilité et présentation du business plan"
+    ],
+    "ru": [
+      "Минимальный инвестиционный порог 250 000 долларов США.",
+      "Технико-экономическое обоснование и презентация бизнес-плана"
+    ]
+  }
+}

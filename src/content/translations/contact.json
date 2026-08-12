@@ -1,0 +1,60 @@
+{
+  "namespace": "contact",
+  "adminLabelFr": "Coordonnées et contact",
+  "entries": [
+    {
+      "key": "contact.title",
+      "en": "Get in Touch with AFRUS Bureaus",
+      "fr": "Contactez les Bureaux d'AFRUS",
+      "ru": "Связаться с Представительствами AFRUS"
+    },
+    {
+      "key": "contact.subtitle",
+      "en": "Direct diplomatic, commercial, and student assistance available in Moscow and Yaoundé.",
+      "fr": "Assistance diplomatique, commerciale et estudiantine directe disponible à Moscou et Yaoundé.",
+      "ru": "Прямая дипломатическая, торговая и академическая поддержка в Москве и Яунде."
+    },
+    {
+      "key": "contact.moscow_hq",
+      "en": "Moscow Headquarters",
+      "fr": "Siège Social à Moscou",
+      "ru": "Главный Офис в Москве"
+    },
+    {
+      "key": "contact.yaounde_hub",
+      "en": "Yaoundé Central Africa Hub",
+      "fr": "Centre Régional Afrique Centrale à Yaoundé",
+      "ru": "Региональный Хаб в Яунде"
+    },
+    {
+      "key": "contact.whatsapp_hotline",
+      "en": "WhatsApp Hotline",
+      "fr": "Ligne Directe WhatsApp",
+      "ru": "Горячая Линия WhatsApp"
+    },
+    {
+      "key": "contact.email_support",
+      "en": "Direct Support Email",
+      "fr": "E-mail de Support Direct",
+      "ru": "Прямая Электронная Почта"
+    },
+    {
+      "key": "contact.working_hours",
+      "en": "Working Hours",
+      "fr": "Heures d'Ouverture",
+      "ru": "Часы Работы"
+    },
+    {
+      "key": "contact.support_phone",
+      "en": "Support Phone",
+      "fr": "Téléphone de Support",
+      "ru": "Телефон Поддержки"
+    },
+    {
+      "key": "contact.support_whatsapp",
+      "en": "Support WhatsApp",
+      "fr": "WhatsApp de Support",
+      "ru": "WhatsApp Поддержки"
+    }
+  ]
+}

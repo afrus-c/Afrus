@@ -1,0 +1,144 @@
+{
+  "namespace": "eventsPage",
+  "adminLabelFr": "Page Événements",
+  "entries": [
+    {
+      "key": "eventsPage.registrationSubject",
+      "en": "Event Registration: {{title}}",
+      "fr": "Inscription à l’événement : {{title}}",
+      "ru": "Регистрация на мероприятие: {{title}}"
+    },
+    {
+      "key": "eventsPage.hero.badge",
+      "en": "DIPLOMATIC, TRADE & CULTURAL CONVENTIONS",
+      "fr": "CONVENTIONS DIPLOMATIQUES, COMMERCIALES ET CULTURELLES",
+      "ru": "ДИПЛОМАТИЧЕСКИЕ, ТОРГОВЫЕ И КУЛЬТУРНЫЕ КОНВЕНЦИИ"
+    },
+    {
+      "key": "eventsPage.hero.titlePrefix",
+      "en": "Events, Summits &",
+      "fr": "Événements, sommets et",
+      "ru": "Мероприятия, саммиты и"
+    },
+    {
+      "key": "eventsPage.hero.titleAccent",
+      "en": "Bilateral Conventions",
+      "fr": "conventions bilatérales",
+      "ru": "двусторонние конвенции"
+    },
+    {
+      "key": "eventsPage.hero.subtitle",
+      "en": "Participate in high-level trade forums, cultural heritage festivals, university expos, and exclusive bilateral networking roundtables across Russia & 54 African nations.",
+      "fr": "Participez à des forums commerciaux de haut niveau, festivals du patrimoine, salons universitaires et tables rondes bilatérales exclusives en Russie et dans 54 pays africains.",
+      "ru": "Участвуйте в торговых форумах высокого уровня, фестивалях культурного наследия, университетских выставках и закрытых двусторонних деловых встречах в России и 54 странах Африки."
+    },
+    {
+      "key": "eventsPage.hero.subject",
+      "en": "General Event Delegation Registration",
+      "fr": "Inscription générale d’une délégation",
+      "ru": "Общая регистрация делегации на мероприятие"
+    },
+    {
+      "key": "eventsPage.hero.primaryCta",
+      "en": "Register as Delegate",
+      "fr": "S’inscrire comme délégué",
+      "ru": "Зарегистрироваться как делегат"
+    },
+    {
+      "key": "eventsPage.hero.secondaryCta",
+      "en": "View Event Schedule",
+      "fr": "Voir le calendrier des événements",
+      "ru": "Посмотреть расписание мероприятий"
+    },
+    {
+      "key": "eventsPage.hero.chips.upcoming",
+      "en": "Upcoming Conventions",
+      "fr": "Conventions à venir",
+      "ru": "Предстоящие конвенции"
+    },
+    {
+      "key": "eventsPage.hero.chips.forums",
+      "en": "Economic Forums",
+      "fr": "Forums économiques",
+      "ru": "Экономические форумы"
+    },
+    {
+      "key": "eventsPage.hero.chips.festivals",
+      "en": "Cultural Festivals",
+      "fr": "Festivals culturels",
+      "ru": "Культурные фестивали"
+    },
+    {
+      "key": "eventsPage.hero.chips.exhibitions",
+      "en": "Trade Exhibitions",
+      "fr": "Salons commerciaux",
+      "ru": "Торговые выставки"
+    },
+    {
+      "key": "eventsPage.hero.slideLabel",
+      "en": "Slide {{number}}",
+      "fr": "Diapositive {{number}}",
+      "ru": "Слайд {{number}}"
+    },
+    {
+      "key": "eventsPage.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "eventsPage.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "eventsPage.hero.slides.summits.tag",
+      "en": "Bilateral State Summits",
+      "fr": "Sommets bilatéraux d’État",
+      "ru": "Двусторонние государственные саммиты"
+    },
+    {
+      "key": "eventsPage.hero.slides.summits.caption",
+      "en": "Intergovernmental plenaries, ministerial roundtables & bilateral pacts",
+      "fr": "Plénières intergouvernementales, tables rondes ministérielles et pactes bilatéraux",
+      "ru": "Межправительственные пленарные заседания, министерские круглые столы и двусторонние соглашения"
+    },
+    {
+      "key": "eventsPage.hero.slides.festivals.tag",
+      "en": "Russia–Africa Cultural Festivals",
+      "fr": "Festivals culturels Russie–Afrique",
+      "ru": "Культурные фестивали Россия–Африка"
+    },
+    {
+      "key": "eventsPage.hero.slides.festivals.caption",
+      "en": "Heritage performing arts, film showcases & intercontinental exhibitions",
+      "fr": "Arts du spectacle patrimoniaux, projections de films et expositions intercontinentales",
+      "ru": "Традиционные выступления, кинопоказы и межконтинентальные выставки"
+    },
+    {
+      "key": "eventsPage.hero.slides.expos.tag",
+      "en": "Artisan & Trade Fair Expos",
+      "fr": "Salons de l’artisanat et du commerce",
+      "ru": "Ремесленные и торговые выставки"
+    },
+    {
+      "key": "eventsPage.hero.slides.expos.caption",
+      "en": "Craft guilds, commodity trade showrooms & fashion week showcases",
+      "fr": "Guildes artisanales, espaces commerciaux et défilés de mode",
+      "ru": "Ремесленные объединения, товарные шоурумы и показы мод"
+    },
+    {
+      "key": "eventsPage.hero.slides.plenary.tag",
+      "en": "Global Convention Plenaries",
+      "fr": "Plénières des conventions mondiales",
+      "ru": "Пленарные заседания международных конвенций"
+    },
+    {
+      "key": "eventsPage.hero.slides.plenary.caption",
+      "en": "Keynote addresses, sector panels & executive networking galas",
+      "fr": "Discours d’ouverture, panels sectoriels et galas de réseautage exécutif",
+      "ru": "Основные доклады, отраслевые панели и деловые вечера"
+    }
+  ]
+}

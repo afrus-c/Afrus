@@ -1,0 +1,1500 @@
+{
+  "namespace": "tradePage",
+  "adminLabelFr": "Page Commerce et échanges bilatéraux",
+  "entries": [
+    {
+      "key": "tradePage.trade.text_001",
+      "en": "Annual Bilateral Trade Volume",
+      "fr": "Volume Annuel du Commerce Bilatéral",
+      "ru": "Ежегодный Объем Двусторонней Торговли"
+    },
+    {
+      "key": "tradePage.trade.text_002",
+      "en": "Growing steady across grain, energy & minerals",
+      "fr": "Croissance soutenue dans les céréales, l'énergie & les minéraux",
+      "ru": "Устойчивый рост в сфере зерновых, энергетики и минералов"
+    },
+    {
+      "key": "tradePage.trade.text_003",
+      "en": "African Partner Nations",
+      "fr": "Nations Africaines Partenaires",
+      "ru": "Африканские Страны-Партнеры"
+    },
+    {
+      "key": "tradePage.trade.text_004",
+      "en": "54 Countries",
+      "fr": "54 Pays",
+      "ru": "54 Страны"
+    },
+    {
+      "key": "tradePage.trade.text_005",
+      "en": "Engaged in trade frameworks & diplomatic forums",
+      "fr": "Engagées dans des cadres commerciaux & forums diplomatiques",
+      "ru": "Участники торговых соглашений и форумов"
+    },
+    {
+      "key": "tradePage.trade.text_006",
+      "en": "Wheat Supply to Africa",
+      "fr": "Approvisionnement en Blé de l'Afrique",
+      "ru": "Поставки Пшеницы в Африку"
+    },
+    {
+      "key": "tradePage.trade.text_007",
+      "en": "70%+ Share",
+      "fr": "70%+ de Part",
+      "ru": "Доля 70%+"
+    },
+    {
+      "key": "tradePage.trade.text_008",
+      "en": "Critical contributor to national food security",
+      "fr": "Contributeur clé à la sécurité alimentaire nationale",
+      "ru": "Ключевой фактор продовольственной безопасности"
+    },
+    {
+      "key": "tradePage.trade.text_009",
+      "en": "Average Maritime Shipping Time",
+      "fr": "Temps Moyen de Transport Maritime",
+      "ru": "Среднее Время Морской Доставки"
+    },
+    {
+      "key": "tradePage.trade.text_010",
+      "en": "14 – 21 Days",
+      "fr": "14 – 21 Jours",
+      "ru": "14 – 21 Дней"
+    },
+    {
+      "key": "tradePage.trade.text_011",
+      "en": "Direct Black Sea & Baltic shipping corridors",
+      "fr": "Corridors directs de la Mer Noire & Baltique",
+      "ru": "Прямые коридоры Черного Моря и Балтики"
+    },
+    {
+      "key": "tradePage.trade.text_012",
+      "en": "Wheat & Agricultural Grain",
+      "fr": "Blé & Céréales Agricoles",
+      "ru": "Пшеница и Сельхоззерно"
+    },
+    {
+      "key": "tradePage.trade.text_013",
+      "en": "Food Security & Milling",
+      "fr": "Sécurité Alimentaire & Meunerie",
+      "ru": "Продбезопасность и Мукомолье"
+    },
+    {
+      "key": "tradePage.trade.text_014",
+      "en": "Russia stands as one of the world’s leading exporters of high-protein milling wheat and coarse grains. Bulk maritime shipments provide essential agricultural inputs for national grain reserves and flour mills across Egypt, Algeria, Sudan, Nigeria, South Africa, and Kenya.",
+      "fr": "La Russie est l'un des premiers exportateurs mondiaux de blé de meunerie riche en protéines. Les envois maritimes en vrac approvisionnent les réserves nationales et les meuneries en Égypte, Algérie, Soudan, Nigeria, Afrique du Sud et Kenya.",
+      "ru": "Россия — один из ведущих мировых экспортеров продовольственной пшеницы. Морские поставки обеспечивают зерновые резервы и мукомольные предприятия Египта, Алжира, Судана, Нигерии, ЮАР и Кении."
+    },
+    {
+      "key": "tradePage.trade.text_015",
+      "en": "Supports domestic food stability, mitigates grain supply volatility, and enables large-scale bread and food production.",
+      "fr": "Soutient la stabilité alimentaire, atténue la volatilité des approvisionnements et permet la production de pain à grande échelle.",
+      "ru": "Поддерживает продовольственную стабильность, снижает волатильность поставок и обеспечивает массовое производство хлеба."
+    },
+    {
+      "key": "tradePage.trade.text_016",
+      "en": "Eco-Friendly Fertilizers (NPK & Urea)",
+      "fr": "Engrais Écologiques (NPK & Urée)",
+      "ru": "Экологичные Удобрения (NPK и Карбамид)"
+    },
+    {
+      "key": "tradePage.trade.text_017",
+      "en": "Soil Fertility & Agriculture",
+      "fr": "Fertilité des Sols & Agriculture",
+      "ru": "Плодородие Почв и Агрономия"
+    },
+    {
+      "key": "tradePage.trade.text_018",
+      "en": "Mineral fertilizers—including Nitrogen (Urea), Phosphorus, and Potassium (Potash)—are critical exports that restore depleted tropical soils, enhance crop resilience, and boost harvest yields for commercial estates and smallholders alike.",
+      "fr": "Les engrais minéraux (Azote, Phosphore et Potasse) enrichissent les sols tropicaux épuisés, renforcent la résilience des cultures et augmentent les rendements agricoles.",
+      "ru": "Минеральные удобрения (азот, фосфор, калий) восстанавливают тропические почвы, повышают устойчивость культур и урожайность."
+    },
+    {
+      "key": "tradePage.trade.text_019",
+      "en": "Increases farm productivity per hectare, lowering reliance on imported food products and advancing African agrarian self-sufficiency.",
+      "fr": "Augmente la productivité à l'hectare, réduit la dépendance aux importations alimentaires et renforce l'autonomie agricole.",
+      "ru": "Повышает урожайность с гектара, снижает зависимость от импорта продовольствия и продвигает аграрную автономию."
+    },
+    {
+      "key": "tradePage.trade.text_020",
+      "en": "Agricultural Machinery & Tractors",
+      "fr": "Machinisme Agricole & Tracteurs",
+      "ru": "Сельхозтехника и Тракторы"
+    },
+    {
+      "key": "tradePage.trade.text_021",
+      "en": "Mechanization & Infrastructure",
+      "fr": "Mécanisation & Infrastructure",
+      "ru": "Механизация и Инфраструктура"
+    },
+    {
+      "key": "tradePage.trade.text_022",
+      "en": "Russian heavy tractors, combine harvesters, and mechanized tillage implements are engineered for high durability in rugged tropical and semi-arid conditions, offering cost-efficient mechanical power for large-scale farming.",
+      "fr": "Les tracteurs lourds russes, moissonneuses-batteuses et outils de travail du sol sont conçus pour résister aux conditions tropicales et semi-arides, offrant une puissance mécanique rentable.",
+      "ru": "Российские тяжелые тракторы, комбайны и почвообрабатывающая техника созданы для работы в тяжелых тропических и полуаридных условиях."
+    },
+    {
+      "key": "tradePage.trade.text_023",
+      "en": "Accelerates the transition from manual cultivation to industrial agriculture, reducing harvest losses and boosting processing capacity.",
+      "fr": "Accélère la transition vers une agriculture industrielle, réduisant les pertes de récolte et augmentant la capacité de transformation.",
+      "ru": "Ускоряет переход от ручного труда к промышленному сельскому хозяйству, снижая потери урожая."
+    },
+    {
+      "key": "tradePage.trade.text_024",
+      "en": "Petroleum Products & Energy Technology",
+      "fr": "Produits Pétroliers & Technologies Énergétiques",
+      "ru": "Нефтепродукты и Энерготехнологии"
+    },
+    {
+      "key": "tradePage.trade.text_025",
+      "en": "Energy Infrastructure",
+      "fr": "Infrastructure Énergétique",
+      "ru": "Энергетическая Инфраструктура"
+    },
+    {
+      "key": "tradePage.trade.text_026",
+      "en": "Export of refined petroleum fuels, natural gas equipment, steam turbines, and hydro/nuclear engineering solutions tailored for national utility companies, heavy industrial plants, and off-grid mining complexes.",
+      "fr": "Exportation de carburants raffinés, équipements de gaz naturel, turbines à vapeur et solutions d'ingénierie hydro/nucléaire adaptées aux services publics et à l'industrie.",
+      "ru": "Экспорт нефтепродуктов, газового оборудования, паровых турбин и гидро/атомных инженерных решений для энергетических компаний и промышленности."
+    },
+    {
+      "key": "tradePage.trade.text_027",
+      "en": "Stabilizes power generation grids, powers transportation fleets, and provides raw fuel for expanding industrial sectors.",
+      "fr": "Stabilise les réseaux électriques, alimente les flottes de transport et fournit du carburant aux secteurs industriels en expansion.",
+      "ru": "Стабилизирует энергосети, обеспечивает топливом транспортные парки и развивающиеся промышленные секторы."
+    },
+    {
+      "key": "tradePage.trade.text_028",
+      "en": "Industrial Equipment & Mining Technology",
+      "fr": "Équipements Industriels & Technologies Minières",
+      "ru": "Промоборудование и Горные Технологии"
+    },
+    {
+      "key": "tradePage.trade.text_029",
+      "en": "Capital Goods & Mining",
+      "fr": "Biens d'Équipement & Mines",
+      "ru": "Средства Производства и Добыча"
+    },
+    {
+      "key": "tradePage.trade.text_030",
+      "en": "Heavy machinery, geological survey software, metallurgical equipment, and construction vehicles supplied to African infrastructure projects, railway developments, and mineral extraction sites.",
+      "fr": "Machines lourdes, logiciels de prospection géologique, équipements métallurgiques et véhicules de construction pour les projets d'infrastructure africains.",
+      "ru": "Тяжелая техника, ПО для геологоразведки, металлургическое оборудование и строительный транспорт для африканских проектов."
+    },
+    {
+      "key": "tradePage.trade.text_031",
+      "en": "Provides high-torque, durable equipment suited for intensive resource extraction and civil engineering initiatives.",
+      "fr": "Fournit des équipements durables et puissants adaptés à l'extraction intensive de ressources et au génie civil.",
+      "ru": "Обеспечивает надежное оборудование высокой мощности для добычи ресурсов и гражданского строительства."
+    },
+    {
+      "key": "tradePage.trade.text_032",
+      "en": "Steel, Metallurgy & Construction Metals",
+      "fr": "Acier, Métallurgie & Métaux de Construction",
+      "ru": "Сталь, Металлургия и Строительные Металлы"
+    },
+    {
+      "key": "tradePage.trade.text_033",
+      "en": "Construction & Civil Engineering",
+      "fr": "Construction & Génie Civil",
+      "ru": "Строительство и Гражданская Инженерия"
+    },
+    {
+      "key": "tradePage.trade.text_034",
+      "en": "Structural steel rebar, hot-rolled steel plates, seamless industrial piping, and specialized alloys essential for building seaports, bridges, urban housing, and transport corridors.",
+      "fr": "Barres d'armature en acier, tôles laminées à chaud, tuyaux industriels sans soudure et alliages spécialisés pour ports, ponts et logements.",
+      "ru": "Строительная арматура, горячекатаные стальные листы, бесшовные трубы и сплавы для строительства портов, мостов и жилья."
+    },
+    {
+      "key": "tradePage.trade.text_035",
+      "en": "Forms the structural foundation for rapid urbanization, maritime port expansions, and industrial zone developments.",
+      "fr": "Forme la base structurelle d'une urbanisation rapide, de l'expansion des ports maritimes et des zones industrielles.",
+      "ru": "Формирует конструктивную основу для урбанизации, расширения портов и развития промышленных зон."
+    },
+    {
+      "key": "tradePage.trade.text_036",
+      "en": "Specialty Arabica & Robusta Coffee",
+      "fr": "Café Spécial Arabica & Robusta",
+      "ru": "Спешелти Кофе Арабика и Робуста"
+    },
+    {
+      "key": "tradePage.trade.text_037",
+      "en": "Gourmet Commodity",
+      "fr": "Produit Gourmand",
+      "ru": "Гастрономический Товар"
+    },
+    {
+      "key": "tradePage.trade.text_038",
+      "en": "Ethiopia, Uganda, Kenya, Rwanda",
+      "fr": "Éthiopie, Ouganda, Kenya, Rwanda",
+      "ru": "Эфиопия, Уганда, Кения, Руанда"
+    },
+    {
+      "key": "tradePage.trade.text_039",
+      "en": "Single-origin green and roasted coffee beans renowned for rich flavor profiles. Shipped in moisture-controlled sea containers to satisfy Russia’s rapidly growing artisanal coffee house culture and commercial roasters.",
+      "fr": "Grains de café verts et torréfiés d'origine pure réputés pour leurs arômes riches. Expédiés dans des conteneurs maritimes à humidité contrôlée pour les torréfacteurs et salons de café russes.",
+      "ru": "Моносорта зеленого и обжаренного кофе с богатым вкусовым профилем. Доставляются в контейнерах с контролем влажности для кофеен и ростеров России."
+    },
+    {
+      "key": "tradePage.trade.text_040",
+      "en": "Drives agricultural revenue for millions of smallholder coffee farmers while supplying high-demand northern consumer markets.",
+      "fr": "Génère des revenus pour des millions de petits producteurs tout en approvisionnant les marchés du Nord.",
+      "ru": "Обеспечивает доход миллионам мелких фермеров и снабжает востребованный северный рынок."
+    },
+    {
+      "key": "tradePage.trade.text_041",
+      "en": "Premium Cocoa Beans & Shea Butter",
+      "fr": "Fèves de Cacao & Beurre de Karité",
+      "ru": "Какао-Бобы Премиум и Масло Карите"
+    },
+    {
+      "key": "tradePage.trade.text_042",
+      "en": "Confectionery & Cosmetics",
+      "fr": "Confiserie & Cosmétiques",
+      "ru": "Кондитерская Деятельность и Косметика"
+    },
+    {
+      "key": "tradePage.trade.text_043",
+      "en": "Côte d’Ivoire, Ghana, Nigeria, Cameroon",
+      "fr": "Côte d’Ivoire, Ghana, Nigeria, Cameroun",
+      "ru": "Кот-д’Ивуар, Гана, Нигерия, Камерун"
+    },
+    {
+      "key": "tradePage.trade.text_044",
+      "en": "High-fat cocoa beans, cocoa mass, and unrefined raw shea butter essential for Russia’s confectionery, chocolate manufacturing, and luxury cosmetics industries.",
+      "fr": "Fèves de cacao à haute teneur en matière grasse, pâte de cacao et beurre de karité brut essentiels pour la chocolaterie et les cosmétiques en Russie.",
+      "ru": "Какао-бобы высокой жирности, какао-тертое и нерафинированное масло карите для кондитерской и косметической промышленности России."
+    },
+    {
+      "key": "tradePage.trade.text_045",
+      "en": "Serves as primary raw material for major European and Russian chocolate processing facilities and personal care brands.",
+      "fr": "Matière première principale pour les grandes chocolateries et marques de soins en Russie et en Europe.",
+      "ru": "Основное сырье для шоколадных фабрик и косметических брендов."
+    },
+    {
+      "key": "tradePage.trade.text_046",
+      "en": "Tropical Fruits, Citrus & Spices",
+      "fr": "Fruits Tropicaux, Agrumes & Épices",
+      "ru": "Тропические Фрукты, Цитрусы и Специи"
+    },
+    {
+      "key": "tradePage.trade.text_047",
+      "en": "Fresh Agricultural Produce",
+      "fr": "Produits Agricoles Frais",
+      "ru": "Свежая Сельхозпродукция"
+    },
+    {
+      "key": "tradePage.trade.text_048",
+      "en": "South Africa, Egypt, Tanzania, Madagascar",
+      "fr": "Afrique du Sud, Égypte, Tanzanie, Madagascar",
+      "ru": "ЮАР, Египет, Танзания, Мадагаскар"
+    },
+    {
+      "key": "tradePage.trade.text_049",
+      "en": "Fresh citrus, bananas, avocados, pineapples, vanilla, cloves, and black pepper transported via specialized refrigerated reefer liners to maintain peak freshness during sea transit.",
+      "fr": "Agrumes frais, bananes, avocats, ananas, vanille, clous de girofle et poivre noir transportés par navires frigo spécialisés.",
+      "ru": "Свежие цитрусовые, бананы, авокадо, ананасы, ваниль, гвоздика и черный перец, доставляемые рефрижераторными судами."
+    },
+    {
+      "key": "tradePage.trade.text_050",
+      "en": "Provides year-round access to fresh tropical produce during northern winter months when domestic harvests are offline.",
+      "fr": "Garantit un accès toute l'année à des produits tropicaux frais pendant les mois d'hiver septentrionaux.",
+      "ru": "Круглогодичный доступ к тропическим фруктам в зимний период, когда местный урожай отсутствует."
+    },
+    {
+      "key": "tradePage.trade.text_051",
+      "en": "Strategic Minerals & Gemstones",
+      "fr": "Minéraux Stratégiques & Pierres Précieuses",
+      "ru": "Стратегические Минералы и Драгоценные Камни"
+    },
+    {
+      "key": "tradePage.trade.text_052",
+      "en": "Industrial Inputs & Fine Jewelry",
+      "fr": "Matières Industrielles & Joaillerie",
+      "ru": "Промышленное Сырье и Ювелирное Дело"
+    },
+    {
+      "key": "tradePage.trade.text_053",
+      "en": "DR Congo, Zambia, Zimbabwe, South Africa",
+      "fr": "RDC, Zambie, Zimbabwe, Afrique du Sud",
+      "ru": "ДР Конго, Замбия, Зимбабве, ЮАР"
+    },
+    {
+      "key": "tradePage.trade.text_054",
+      "en": "Copper cathodes, cobalt concentrates, manganese, lithium, high-grade bauxite, and raw gemstones essential for high-tech manufacturing, EV battery assembly, and jewelry craft.",
+      "fr": "Cathodes de cuivre, concentrés de cobalt, manganèse, lithium, bauxite de haute qualité et pierres précieuses brutes.",
+      "ru": "Медные катоды, кобальтовый концентрат, марганец, литий, бокситы и неограненные камни для высоких технологий и батарей."
+    },
+    {
+      "key": "tradePage.trade.text_055",
+      "en": "Supplies essential mineral elements for global green-energy transitions, high-tech electronics, and metallurgical industries.",
+      "fr": "Fournit des éléments minéraux essentiels pour la transition énergétique, l'électronique et la métallurgie.",
+      "ru": "Поставляет ключевые элементы для зеленой энергетики, электроники и металлургии."
+    },
+    {
+      "key": "tradePage.trade.text_056",
+      "en": "Textiles, Raw Cotton & Artisanal Goods",
+      "fr": "Textiles, Coton Brut & Produits Artisanaux",
+      "ru": "Текстиль, Хлопок-Сырец и Ремесла"
+    },
+    {
+      "key": "tradePage.trade.text_057",
+      "en": "Manufacturing & Cultural Commerce",
+      "fr": "Fabrication & Commerce Culturel",
+      "ru": "Производство и Культурная Торговля"
+    },
+    {
+      "key": "tradePage.trade.text_058",
+      "en": "Egypt, Mali, Burkina Faso, Ethiopia",
+      "fr": "Égypte, Mali, Burkina Faso, Éthiopie",
+      "ru": "Египет, Мали, Буркина-Фасо, Эфиопия"
+    },
+    {
+      "key": "tradePage.trade.text_059",
+      "en": "Long-staple Egyptian cotton, organic raw cotton bales, traditional woven fabrics, leather craft, and handmade cultural goods for fashion, home decor, and retail buyers.",
+      "fr": "Coton égyptien à fibres longues, balles de coton biologique, tissus traditionnels, artisanat du cuir et objets culturels.",
+      "ru": "Длинноволокнистый египетский хлопок, органический хлопок, традиционные ткани, кожа и изделия ручной работы."
+    },
+    {
+      "key": "tradePage.trade.text_060",
+      "en": "Promotes African textile industrialization and connects master artisans with international luxury markets.",
+      "fr": "Favorise l'industrialisation textile africaine et relie les maîtres artisans aux marchés de luxe internationaux.",
+      "ru": "Стимулирует развитие текстильной промышленности Африки и связывает ремесленников с мировыми рынками."
+    },
+    {
+      "key": "tradePage.trade.text_061",
+      "en": "Value-Added & Organic Processed Goods",
+      "fr": "Produits Transformés à Valeur Ajoutée & Bio",
+      "ru": "Готовая Продукция и Органические Товары"
+    },
+    {
+      "key": "tradePage.trade.text_062",
+      "en": "Sustainable Processing",
+      "fr": "Transformation Durable",
+      "ru": "Устойчивая Переработка"
+    },
+    {
+      "key": "tradePage.trade.text_063",
+      "en": "Pan-African Trade Hubs",
+      "fr": "Centres Commerciaux Panafricains",
+      "ru": "Панафриканские Торговые Хабы"
+    },
+    {
+      "key": "tradePage.trade.text_064",
+      "en": "Increasingly, African exporters process raw harvests locally—dry roasting nuts, extracting essential oils, and packaging single-origin teas—capturing higher value before international export.",
+      "fr": "De plus en plus, les exportateurs africains transforment leurs récoltes localement : torréfaction de noix, extraction d'huiles essentielles et conditionnement de thés.",
+      "ru": "Все чаще африканские экспортеры перерабатывают урожай на месте: обжарка орехов, экстракция эфирных масел и упаковка чая."
+    },
+    {
+      "key": "tradePage.trade.text_065",
+      "en": "Boosts local employment, preserves natural nutrients, and increases foreign exchange earnings for exporter nations.",
+      "fr": "Stimule l'emploi local, préserve les nutriments naturels et augmente les recettes en devises étrangères.",
+      "ru": "Увеличивает местную занятость, сохраняет питательные вещества и повышает валютные поступления."
+    },
+    {
+      "key": "tradePage.trade.text_066",
+      "en": "Bill of Lading (B/L)",
+      "fr": "Connaissement Maritime (B/L)",
+      "ru": "Коносамент (B/L)"
+    },
+    {
+      "key": "tradePage.trade.text_067",
+      "en": "Title & Shipping Document",
+      "fr": "Titre de Propriété & Document d'Expédition",
+      "ru": "Правоустанавливающий Документ"
+    },
+    {
+      "key": "tradePage.trade.text_068",
+      "en": "Issued by the ocean carrier acknowledging receipt of cargo for shipment. Acts as a contract of carriage and official document of title required to claim goods at the destination seaport.",
+      "fr": "Émis par le transporteur maritime accusant réception de la marchandise. Sert de contrat de transport et de titre de propriété requis pour réclamer la marchandise au port.",
+      "ru": "Выдается морским перевозчиком в подтверждение приема груза. Служит договором перевозки и документом на право собственности."
+    },
+    {
+      "key": "tradePage.trade.text_069",
+      "en": "Certificate of Origin (Form A / EUR.1)",
+      "fr": "Certificat d'Origine (Formule A / EUR.1)",
+      "ru": "Сертификат Происхождения (Форма А / EUR.1)"
+    },
+    {
+      "key": "tradePage.trade.text_070",
+      "en": "Tariff Compliance",
+      "fr": "Conformité Tarifaire",
+      "ru": "Тарифное Соответствие"
+    },
+    {
+      "key": "tradePage.trade.text_071",
+      "en": "Official declaration certified by a Chamber of Commerce attesting that the exported commodities originated in a specific country, enabling preferential customs tariffs.",
+      "fr": "Déclaration officielle certifiée par une Chambre de Commerce attestant du pays d'origine des marchandises pour bénéficier de tarifs douaniers préférentiels.",
+      "ru": "Официальный документ, заверенный ТПП, подтверждающий страну происхождения товара для применения преференциальных пошлин."
+    },
+    {
+      "key": "tradePage.trade.text_072",
+      "en": "Phytosanitary & Veterinary Certificate",
+      "fr": "Certificat Phytosanitaire & Vétérinaire",
+      "ru": "Фитосанитарный и Ветеринарный Сертификат"
+    },
+    {
+      "key": "tradePage.trade.text_073",
+      "en": "Health & Safety Standard",
+      "fr": "Norme de Santé & Sécurité",
+      "ru": "Стандарт Безопасности"
+    },
+    {
+      "key": "tradePage.trade.text_074",
+      "en": "Issued by agricultural authorities verifying that plant or animal products are free from regulated pests and meet international biosecurity standards.",
+      "fr": "Émis par les autorités agricoles vérifiant que les produits végétaux ou animaux sont exempts de parasites et conformes aux normes de biosécurité.",
+      "ru": "Выдается государственными органами контроля, подтверждая отсутствие вредителей и соответствие фитосанитарным нормам."
+    },
+    {
+      "key": "tradePage.trade.text_075",
+      "en": "Commercial Invoice & Packing List",
+      "fr": "Facture Commerciale & Liste de Colisage",
+      "ru": "Коммерческий Инвойс и Упаковочный Лист"
+    },
+    {
+      "key": "tradePage.trade.text_076",
+      "en": "Customs & Financial Declaration",
+      "fr": "Déclaration Douanière & Financière",
+      "ru": "Таможенная и Финансовая Декларация"
+    },
+    {
+      "key": "tradePage.trade.text_077",
+      "en": "Itemized legal document detailing cargo values, harmonized HS codes, seller/buyer details, gross weight, net weight, and packaging unit specifications.",
+      "fr": "Document légal détaillé indiquant la valeur de la cargaison, les codes SH, les détails acheteur/vendeur, le poids brut, le poids net et l'emballage.",
+      "ru": "Детализированный юридический документ с указанием стоимости груза, кодов ТН ВЭД, реквизитов сторон, веса и спецификации упаковки."
+    },
+    {
+      "key": "tradePage.trade.text_078",
+      "en": "Letter of Credit (LC)",
+      "fr": "Lettre de Crédit (LC)",
+      "ru": "Аккредитив (LC)"
+    },
+    {
+      "key": "tradePage.trade.text_079",
+      "en": "Bank Financial Instrument",
+      "fr": "Instrument Financier Bancaire",
+      "ru": "Банковский Инструмент"
+    },
+    {
+      "key": "tradePage.trade.text_080",
+      "en": "A financial payment guarantee issued by an issuing bank assuring that a seller will receive payment upon presenting exact compliant trade documents.",
+      "fr": "Une garantie financière émise par une banque assurant au vendeur qu'il sera payé sur présentation de documents commerciaux conformes.",
+      "ru": "Финансовая гарантия банка, обеспечивающая выплату продавцу при представлении документов, полностью соответствующих условиям."
+    },
+    {
+      "key": "tradePage.trade.text_081",
+      "en": "Free on Board",
+      "fr": "Franco à Bord",
+      "ru": "Франко Борт"
+    },
+    {
+      "key": "tradePage.trade.text_082",
+      "en": "Loads cargo on ship & clears origin customs",
+      "fr": "Charge la marchandise sur le navire & dédouane à l'origine",
+      "ru": "Погрузка на судно и таможенная очистка на экспорте"
+    },
+    {
+      "key": "tradePage.trade.text_083",
+      "en": "Pays main ocean freight, insurance & destination clearance",
+      "fr": "Paie le fret maritime principal, l'assurance & le dédouanement",
+      "ru": "Оплата морского фрахта, страховки и таможни на импорте"
+    },
+    {
+      "key": "tradePage.trade.text_084",
+      "en": "Bulk grain, heavy machinery & sea container cargo",
+      "fr": "Céréales en vrac, machines lourdes & conteneurs maritimes",
+      "ru": "Наваличные грузы, тяжелая техника и контейнеры"
+    },
+    {
+      "key": "tradePage.trade.text_085",
+      "en": "Cost, Insurance & Freight",
+      "fr": "Coût, Assurance & Fret",
+      "ru": "Стоимость, Страхование и Фрахт"
+    },
+    {
+      "key": "tradePage.trade.text_086",
+      "en": "Pays freight & basic maritime insurance to destination port",
+      "fr": "Paie le fret & l'assurance maritime de base jusqu'au port de destination",
+      "ru": "Оплата фрахта и базовой страховки до порта назначения"
+    },
+    {
+      "key": "tradePage.trade.text_087",
+      "en": "Handles destination port unloading & customs clearance",
+      "fr": "Gère le déchargement au port de destination & le dédouanement",
+      "ru": "Разгрузка в порту назначения и таможенная очистка"
+    },
+    {
+      "key": "tradePage.trade.text_088",
+      "en": "Agricultural produce & standard commercial imports",
+      "fr": "Produits agricoles & importations commerciales standard",
+      "ru": "Сельхозпродукция и стандартный импорт"
+    },
+    {
+      "key": "tradePage.trade.text_089",
+      "en": "Ex Works",
+      "fr": "À l'Usine",
+      "ru": "Франко Завод"
+    },
+    {
+      "key": "tradePage.trade.text_090",
+      "en": "Makes goods available at origin factory gate",
+      "fr": "Mettre les marchandises à disposition à la sortie de l'usine",
+      "ru": "Предоставление товара на складе/заводе продавца"
+    },
+    {
+      "key": "tradePage.trade.text_091",
+      "en": "Assumes full transport, export clearance & ocean freight risk",
+      "fr": "Assume l'intégralité du transport, du dédouanement & du fret",
+      "ru": "Полная ответственность за транспортировку и таможню"
+    },
+    {
+      "key": "tradePage.trade.text_092",
+      "en": "Buyers with established in-country logistics representatives",
+      "fr": "Acheteurs disposant de représentants logistiques sur place",
+      "ru": "Покупатели с собственными логистическими агентами"
+    },
+    {
+      "key": "tradePage.trade.text_093",
+      "en": "Delivered Duty Paid",
+      "fr": "Rendu Droits Acquittés",
+      "ru": "Поставка с Оплатой Пошлин"
+    },
+    {
+      "key": "tradePage.trade.text_094",
+      "en": "Handles complete end-to-end transport, clearance & duties",
+      "fr": "Gère le transport de bout en bout, le dédouanement & les taxes",
+      "ru": "Полный цикл доставки, таможни и уплаты всех пошлин"
+    },
+    {
+      "key": "tradePage.trade.text_095",
+      "en": "Receives cleared cargo directly at destination warehouse",
+      "fr": "Reçoit la cargaison dédouanée directement à l'entrepôt",
+      "ru": "Получение очищенного груза прямо на своем складе"
+    },
+    {
+      "key": "tradePage.trade.text_096",
+      "en": "High-value equipment & hassle-free door-to-door deliveries",
+      "fr": "Équipements de valeur & livraisons porte-à-porte sans souci",
+      "ru": "Ценное оборудование и доставка \"под ключ\""
+    },
+    {
+      "key": "tradePage.trade.text_097",
+      "en": "What are the main maritime trade corridors connecting Russia and Africa?",
+      "fr": "Quels sont les principaux corridors commerciaux maritimes reliant la Russie et l'Afrique ?",
+      "ru": "Каковы основные морские торговые коридоры между Россией и Африкой?"
+    },
+    {
+      "key": "tradePage.trade.text_098",
+      "en": "The primary maritime trade corridors originate from Russia’s Black Sea ports (such as Novorossiysk) and Baltic Sea ports (such as St. Petersburg). Vessels travel through the Mediterranean, Red Sea, or Atlantic ocean lanes to reach major African maritime hubs including Alexandria (Egypt), Douala (Cameroon), Lagos (Nigeria), Abidjan (Côte d’Ivoire), Mombasa (Kenya), and Durban (South Africa).",
+      "fr": "Les principaux corridors maritimes partent des ports russes de la Mer Noire (Novorossiysk) et de la Baltique (St. Pétersbourg). Les navires traversent la Méditerranée, la Mer Rouge ou l'Atlantique pour rejoindre les grands ports africains tels qu'Alexandrie, Douala, Lagos, Abidjan, Mombasa et Durban.",
+      "ru": "Основные морские коридоры идут из портов Новороссийска (Черное море) и Санкт-Петербурга (Балтика). Суда проходят через Средиземное, Красное моря или Атлантику к крупнейшим портам Африки: Александрии, Дуале, Лагосу, Абиджану, Момбасе и Дурбану."
+    },
+    {
+      "key": "tradePage.trade.text_099",
+      "en": "How are cross-border financial payments settled between Russian and African entities?",
+      "fr": "Comment les paiements financiers transfrontaliers sont-ils réglés entre les entités russes et africaines ?",
+      "ru": "Как осуществляются трансграничные финансовые расчеты между Россией и Африкой?"
+    },
+    {
+      "key": "tradePage.trade.text_100",
+      "en": "Commercial transactions utilize direct correspondent banking agreements, interbank Letters of Credit (LC), alternative messaging protocols, and bilateral national currency settlement arrangements (such as Ruble, Rand, or local currency clearing) to ensure uninterrupted payment safety and regulatory compliance.",
+      "fr": "Les transactions commerciales utilisent des accords bancaires correspondants directs, des lettres de crédit (LC) interbancaires, des protocoles de messagerie alternatifs et des règlements en monnaies nationales (Rouble, Rand ou devises locales).",
+      "ru": "Коммерческие сделки используют прямые корреспондентские счета, межбанковские аккредитивы (LC), альтернативные финансовые каналы и расчеты в национальных валютах (рубли, ранды и др.)."
+    },
+    {
+      "key": "tradePage.trade.text_101",
+      "en": "What phytosanitary procedures are required for agricultural goods?",
+      "fr": "Quelles sont les procédures phytosanitaires requises pour les marchandises agricoles ?",
+      "ru": "Какие фитосанитарные процедуры необходимы для сельскохозяйственных товаров?"
+    },
+    {
+      "key": "tradePage.trade.text_102",
+      "en": "Agricultural commodities (such as wheat, fruits, coffee, and cocoa) must undergo rigorous sampling and laboratory testing by accredited agricultural inspection agencies (such as Rosselkhoznadzor in Russia or national plant protection organizations in African countries). They are issued official Phytosanitary Certificates verifying freedom from pests and compliance with destination biosecurity laws.",
+      "fr": "Les produits agricoles (blé, fruits, café, cacao) doivent subir des prélevements et tests en laboratoire par des organismes d'inspection agréés. Un certificat phytosanitaire officiel garantit l'absence de parasites et la conformité aux lois de biosécurité.",
+      "ru": "Сельхозпродукция (пшеница, фрукты, кофе, какао) проходит лабораторные исследования и контроль аккредитованными органами (Россельхознадзор и национальные службы Африки) с выдачей фитосанитарного сертификата."
+    },
+    {
+      "key": "tradePage.trade.text_103",
+      "en": "Why are Special Economic Zones (SEZs) important in bilateral trade?",
+      "fr": "Pourquoi les Zones Économiques Spéciales (ZES) sont-elles importantes dans le commerce bilatéral ?",
+      "ru": "Почему Особые Экономические Зоны (ОЭЗ) важны для двусторонней торговли?"
+    },
+    {
+      "key": "tradePage.trade.text_104",
+      "en": "Special Economic Zones offer tax holidays, simplified customs clearance, duty-free equipment imports, and streamlined corporate registration. They encourage joint-venture manufacturing facilities, allowing raw materials imported from Africa or Russia to be processed locally into finished consumer products.",
+      "fr": "Les Zones Économiques Spéciales offrent des exonérations fiscales, un dédouanement simplifié et l'importation d'équipements en franchise de droits. Elles encouragent les coentreprises et la transformation locale des matières premières.",
+      "ru": "ОЭЗ предоставляют налоговые льготы, упрощенную таможню и беспошлинный импорт оборудования, стимулируя создание совместных перерабатывающих производств."
+    },
+    {
+      "key": "tradePage.trade.text_105",
+      "en": "When is air cargo preferred over maritime sea freight?",
+      "fr": "Quand le fret aérien est-il préféré au fret maritime ?",
+      "ru": "Когда авиаперевозки предпочтительнее морского фрахта?"
+    },
+    {
+      "key": "tradePage.trade.text_106",
+      "en": "Air cargo is selected for time-critical, high-value, or fragile commodities such as pharmaceuticals, emergency technical spare parts, electronic components, cut flowers, and luxury artisanal items. While maritime shipping carries 90%+ of bulk freight due to low cost, air freight delivers critical cargo within 24 to 48 hours.",
+      "fr": "Le fret aérien est choisi pour les marchandises urgentes, de haute valeur ou fragiles (médicaments, pièces détachées d'urgence, électronique, fleurs coupées, artisanat de luxe). Alors que la voie maritime achemine 90%+ du vrac, l'aérien livre sous 24 à 48 heures.",
+      "ru": "Авиаперевозки используются для срочных, ценных или хрупких грузов (медикаменты, запчасти, электроника, цветы, арт-объекты). Если море везет 90%+ объема, то авиация доставляет груз за 24–48 часов."
+    },
+    {
+      "key": "tradePage.trade.text_107",
+      "en": "Bilateral Economic Landscape",
+      "fr": "Paysage Économique Bilatéral",
+      "ru": "Двусторонний Экономический Ландшафт"
+    },
+    {
+      "key": "tradePage.trade.text_108",
+      "en": "Russia – Africa Trade at a Glance",
+      "fr": "Aperçu du Commerce Russie – Afrique",
+      "ru": "Торговля Россия – Африка в Цифрах"
+    },
+    {
+      "key": "tradePage.trade.text_109",
+      "en": "Key indicators highlighting the expanding scale of commercial exchange, commodity reliance, and infrastructure connectivity.",
+      "fr": "Indicateurs clés soulignant l'expansion des échanges commerciaux, la dépendance aux produits de base et la connectivité des infrastructures.",
+      "ru": "Ключевые показатели, отражающие рост торговли, товарную зависимость и инфраструктуру."
+    },
+    {
+      "key": "tradePage.trade.text_110",
+      "en": "DID YOU KNOW?",
+      "fr": "LE SAVIEZ-VOUS ?",
+      "ru": "ЗНАЕТЕ ЛИ ВЫ?"
+    },
+    {
+      "key": "tradePage.trade.text_111",
+      "en": "Complementary Economies Driving Growth",
+      "fr": "Des Économies Complémentaires Moteurs de Croissance",
+      "ru": "Взаимодополняемые Экономики Как Двигатель Роста"
+    },
+    {
+      "key": "tradePage.trade.text_112",
+      "en": "Bilateral trade between Russia and Africa is uniquely complementary: Russian exports provide indispensable food security inputs (grain and nitrogen fertilizers) and capital equipment, while African nations supply vital raw commodities (coffee, cocoa, tropical fruits, strategic minerals) that power Russian consumer markets and specialized industrial processing plants.",
+      "fr": "Le commerce bilatéral entre la Russie et l'Afrique est éminemment complémentaire : les exportations russes fournissent des intrants indispensables à la sécurité alimentaire (céréales et engrais azotés) et des équipements, tandis que les nations africaines fournissent des matières premières vitales (café, cacao, fruits tropicaux, minéraux stratégiques).",
+      "ru": "Двусторонняя торговля между Россией и Африкой носит взаимно дополняющий характер: российский экспорт обеспечивает продовольственную безопасность (зерно и удобрения) и оборудование, а страны Африки поставляют сырье (кофе, какао, фрукты, минералы)."
+    },
+    {
+      "key": "tradePage.trade.text_113",
+      "en": "Export Insights",
+      "fr": "Aperçu des Exportations",
+      "ru": "Аналитика Экспорта"
+    },
+    {
+      "key": "tradePage.trade.text_114",
+      "en": "Exports from Russia to Africa",
+      "fr": "Exportations de la Russie vers l'Afrique",
+      "ru": "Экспорт из России в Африку"
+    },
+    {
+      "key": "tradePage.trade.text_115",
+      "en": "Russia’s industrial and agricultural capacities deliver critical resources supporting national food security, agricultural modernization, energy access, and civil infrastructure across the African continent.",
+      "fr": "Les capacités industrielles et agricoles de la Russie fournissent des ressources critiques soutenant la sécurité alimentaire nationale, la modernisation agricole, l'accès à l'énergie et les infrastructures civiles sur le continent africain.",
+      "ru": "Промышленные и сельскохозяйственные мощности России поставляют важнейшие ресурсы для продовольственной безопасности, модернизации АПК, энергетики и инфраструктуры в Африке."
+    },
+    {
+      "key": "tradePage.trade.text_116",
+      "en": "Strategic Importance:",
+      "fr": "Importance Stratégique :",
+      "ru": "Стратегическая Важность:"
+    },
+    {
+      "key": "tradePage.trade.text_117",
+      "en": "Import Insights",
+      "fr": "Aperçu des Importations",
+      "ru": "Аналитика Импорта"
+    },
+    {
+      "key": "tradePage.trade.text_118",
+      "en": "Imports from Africa to Russia",
+      "fr": "Importations de l'Afrique vers la Russie",
+      "ru": "Импорт из Африки в Россию"
+    },
+    {
+      "key": "tradePage.trade.text_119",
+      "en": "Africa’s rich agricultural heritage and mineral reserves supply high-demand commodities that feed Russian consumer markets, support gourmet manufacturing, and fuel industrial production lines.",
+      "fr": "Le riche patrimoine agricole et les réserves minérales de l'Afrique fournissent des produits très demandés qui approvisionnent les marchés russes, soutiennent la transformation gastronomique et alimentent l'industrie.",
+      "ru": "Богатый аграрный потенциал и минеральные запасы Африки поставляют востребованные товары на российский рынок и производственные линии."
+    },
+    {
+      "key": "tradePage.trade.text_120",
+      "en": "Origin:",
+      "fr": "Origine :",
+      "ru": "Происхождение:"
+    },
+    {
+      "key": "tradePage.trade.text_121",
+      "en": "Trade Impact:",
+      "fr": "Impact Commercial :",
+      "ru": "Торговый Эффект:"
+    },
+    {
+      "key": "tradePage.trade.text_122",
+      "en": "Logistics & Freight Architecture",
+      "fr": "Architecture Logistique & Fret",
+      "ru": "Логистика и Грузоперевозки"
+    },
+    {
+      "key": "tradePage.trade.text_123",
+      "en": "Multimodal Freight Corridors",
+      "fr": "Corridors de Fret Multimodaux",
+      "ru": "Мультимодальные Транспортные Коридоры"
+    },
+    {
+      "key": "tradePage.trade.text_124",
+      "en": "Modern international supply chains connect Baltic and Black Sea maritime hubs with key West, Central, East, and Southern African seaports, enabling efficient end-to-end movements of bulk agricultural commodities, industrial goods, and temperature-sensitive products.",
+      "fr": "Les chaînes d'approvisionnement internationales modernes relient les hubs maritimes de la Baltique et de la Mer Noire aux principaux ports africains, permettant des mouvements efficaces de produits agricoles, industriels et sous température contrôlée.",
+      "ru": "Современные цепочки поставок связывают порты Балтики и Черного моря с крупнейшими портами Африки, обеспечивая эффективную доставку грузов."
+    },
+    {
+      "key": "tradePage.trade.text_125",
+      "en": "Maritime Vessel Shipping",
+      "fr": "Transport Maritime par Navire",
+      "ru": "Морские Судоходные Перевозки"
+    },
+    {
+      "key": "tradePage.trade.text_126",
+      "en": "Sea freight remains the absolute backbone of Russia–Africa trade. Transport operations utilize bulk dry cargo carriers (for grain and fertilizers), container liners (for packaged goods and manufactured commodities), and refrigerated reefer carriers (for fresh fruits and perishable produce).",
+      "fr": "Le fret maritime reste l'épine dorsale absolue du commerce Russie-Afrique. Les opérations utilisent des vraquiers, des porte-conteneurs et des navires frigorifiques.",
+      "ru": "Морской фрахт остается основой торговли Россия–Африка. Используются балкеры, контейнеровозы и рефрижераторные суда."
+    },
+    {
+      "key": "tradePage.trade.text_127",
+      "en": "Key Seaports:",
+      "fr": "Principaux Ports Maritimes :",
+      "ru": "Ключевые Морские Порты:"
+    },
+    {
+      "key": "tradePage.trade.text_128",
+      "en": "St. Petersburg & Novorossiysk (Russia) to Douala, Lagos, Mombasa, Durban, Alexandria & Abidjan (Africa).",
+      "fr": "St. Pétersbourg & Novorossiysk (Russie) vers Douala, Lagos, Mombasa, Durban, Alexandrie & Abidjan (Afrique).",
+      "ru": "Санкт-Петербург и Новороссийск (Россия) в Дуалу, Лагос, Момбасу, Дурбан, Александрию и Абиджан (Африка)."
+    },
+    {
+      "key": "tradePage.trade.text_129",
+      "en": "Inland Transit & Customs",
+      "fr": "Transit Terrestre & Douanes",
+      "ru": "Наземный Транзит и Таможня"
+    },
+    {
+      "key": "tradePage.trade.text_130",
+      "en": "Once cargo reaches coastal ports, inland transit mechanisms—including bonded rail freight lines, heavy road transport corridors, and regional customs clearance protocols—ensure seamless delivery to landlocked nations and hinterland industrial zones.",
+      "fr": "Une fois le fret arrivé dans les ports côtiers, le transit terrestre (ferroviaire, routier, dédouanement régional) assure la livraison vers les pays enclavés et les zones industrielles.",
+      "ru": "После прибытия в порты механизмы наземного транзита (железные дороги, автокоридоры, региональная таможня) обеспечивают доставку в глубинные регионы."
+    },
+    {
+      "key": "tradePage.trade.text_131",
+      "en": "Core Mechanisms:",
+      "fr": "Mécanismes Principaux :",
+      "ru": "Ключевые Механизмы:"
+    },
+    {
+      "key": "tradePage.trade.text_132",
+      "en": "Bonded warehousing, railway feeder linkages, certified customs brokerage, and border transit inspections.",
+      "fr": "Entreposage sous douane, liaisons ferroviaires, courtage en douane certifié et inspections de transit aux frontières.",
+      "ru": "Таможенные склады, железнодорожные ветки, брокерские услуги и пограничный контроль."
+    },
+    {
+      "key": "tradePage.trade.text_133",
+      "en": "Air Cargo Priority Logistics",
+      "fr": "Logistique Prioritaire de Fret Aérien",
+      "ru": "Приоритетная Авиалогистика"
+    },
+    {
+      "key": "tradePage.trade.text_134",
+      "en": "While sea freight handles bulk volume, air cargo serves time-sensitive and high-value shipments. Businesses choose chartered air transport when speed, strict climate control, or security is paramount.",
+      "fr": "Alors que le fret maritime traite le gros des volumes, le fret aérien dessert les envois urgents et à haute valeur ajoutée nécessitant rapidité, contrôle de température ou sécurité.",
+      "ru": "В то время как морской фрахт перевозит основные объемы, авиаперевозки служат для срочных и дорогостоящих грузов."
+    },
+    {
+      "key": "tradePage.trade.text_135",
+      "en": "Typical Commodities:",
+      "fr": "Marchandises Typiques :",
+      "ru": "Типичные Товары:"
+    },
+    {
+      "key": "tradePage.trade.text_136",
+      "en": "Pharmaceuticals, urgent technical replacement parts, high-tech electronics, cut flowers, and luxury artisanal goods.",
+      "fr": "Produits pharmaceutiques, pièces de rechange d'urgence, électronique de pointe, fleurs coupées et objets d'artisanat de luxe.",
+      "ru": "Фармацевтика, срочные запчасти, электроника, свежие цветы и предметы роскоши."
+    },
+    {
+      "key": "tradePage.trade.text_137",
+      "en": "Regulatory & Shipping Standards",
+      "fr": "Normes Réglementaires & d'Expédition",
+      "ru": "Нормативы и Стандарты Доставки"
+    },
+    {
+      "key": "tradePage.trade.text_138",
+      "en": "Trade Documentation & Incoterms Overview",
+      "fr": "Aperçu de la Documentation Commerciale & Incoterms",
+      "ru": "Документация и Правила Инкотермс"
+    },
+    {
+      "key": "tradePage.trade.text_139",
+      "en": "Understanding essential international shipping legal terms and commercial documentation required for smooth cross-border customs clearance.",
+      "fr": "Comprendre les termes juridiques d'expédition internationale essentiels et la documentation commerciale requise pour un dédouanement transfrontalier fluide.",
+      "ru": "Понимание юридических условий и международной документации, необходимых для беспрепятственной таможенной очистки."
+    },
+    {
+      "key": "tradePage.trade.text_140",
+      "en": "Essential Trade Documentation",
+      "fr": "Documentation Commerciale Essentielle",
+      "ru": "Основные Торговые Документы"
+    },
+    {
+      "key": "tradePage.trade.text_141",
+      "en": "Incoterms 2020 Cheat Sheet",
+      "fr": "Guide Pratique Incoterms 2020",
+      "ru": "Справочник Инкотермс 2020"
+    },
+    {
+      "key": "tradePage.trade.text_142",
+      "en": "Seller Obligation:",
+      "fr": "Obligation du Vendeur :",
+      "ru": "Обязанности Продавца:"
+    },
+    {
+      "key": "tradePage.trade.text_143",
+      "en": "Buyer Obligation:",
+      "fr": "Obligation de l'Acheteur :",
+      "ru": "Обязанности Покупателя:"
+    },
+    {
+      "key": "tradePage.trade.text_144",
+      "en": "Recommended for:",
+      "fr": "Recommandé pour :",
+      "ru": "Рекомендуется для:"
+    },
+    {
+      "key": "tradePage.trade.text_145",
+      "en": "Trade Knowledge FAQ",
+      "fr": "FAQ Commerce & Logistique",
+      "ru": "Часто Задаваемые Вопросы"
+    },
+    {
+      "key": "tradePage.trade.text_146",
+      "en": "Frequently Asked Questions",
+      "fr": "Foire Aux Questions",
+      "ru": "Часто Задаваемые Вопросы"
+    },
+    {
+      "key": "tradePage.trade.text_147",
+      "en": "Answers to key logistical, financial, and regulatory questions regarding Russia–Africa commerce.",
+      "fr": "Réponses aux questions clés logistiques, financières et réglementaires sur le commerce Russie-Afrique.",
+      "ru": "Ответы на ключевые логистические, финансовые и правовые вопросы торговли Россия–Африка."
+    },
+    {
+      "key": "tradePage.trade.text_148",
+      "en": "Connect With AFRUS",
+      "fr": "Contactez AFRUS",
+      "ru": "Связаться с AFRUS"
+    },
+    {
+      "key": "tradePage.trade.text_149",
+      "en": "Continue Your Russia–Africa Trade Journey",
+      "fr": "Poursuivez Votre Parcours Commercial Russie–Afrique",
+      "ru": "Продолжите Ваше Торговое Путешествие Россия–Африка"
+    },
+    {
+      "key": "tradePage.trade.text_150",
+      "en": "If you would like guidance on understanding trade opportunities, logistics, market insights, or navigating commerce between Russia and Africa, the AFRUS team is available to assist.",
+      "fr": "Si vous souhaitez obtenir des conseils sur la compréhension des opportunités commerciales, la logistique, l'analyse du marché ou la navigation commerciale entre la Russie et l'Afrique, l'équipe AFRUS est à votre disposition.",
+      "ru": "Если вам нужны консультации по торговым возможностям, логистике или аналитике между Россией и Африкой, команда AFRUS готова помочь."
+    },
+    {
+      "key": "tradePage.trade.text_151",
+      "en": "Contact AFRUS",
+      "fr": "Contacter AFRUS",
+      "ru": "Связаться с AFRUS"
+    },
+    {
+      "key": "tradePage.tradeHero.text_001",
+      "en": "Maritime Freight Corridors",
+      "fr": "Corridors de Fret Maritime",
+      "ru": "Морские Грузовые Коридоры"
+    },
+    {
+      "key": "tradePage.tradeHero.text_002",
+      "en": "Cargo Ships & Container Liners Navigating Russia–Africa Ocean Corridors",
+      "fr": "Navires Marchands & Porte-conteneurs Naviguant sur les Corridors Océaniques Russie–Afrique",
+      "ru": "Грузовые Суда и Контейнеровозы на Океанских Маршрутах Россия–Африка"
+    },
+    {
+      "key": "tradePage.tradeHero.text_003",
+      "en": "Container Terminals & Cranes",
+      "fr": "Terminaux à Conteneurs & Grues",
+      "ru": "Контейнерные Терминалы и Краны"
+    },
+    {
+      "key": "tradePage.tradeHero.text_004",
+      "en": "High-Capacity Port Gantry Cranes & Container Operations at Baltic, Black Sea & African Ports",
+      "fr": "Grues de Port à Grande Capacité & Opérations de Conteneurs dans les Ports de la Baltique, Mer Noire & Afrique",
+      "ru": "Портовые Краны Высокой Мощности и Контейнерные Операции в Портах Балтики, Черного Моря и Африки"
+    },
+    {
+      "key": "tradePage.tradeHero.text_005",
+      "en": "Intermodal Freight Hubs",
+      "fr": "Hubs de Fret Intermodal",
+      "ru": "Интермодальные Грузовые Хабы"
+    },
+    {
+      "key": "tradePage.tradeHero.text_006",
+      "en": "Bonded Warehousing, Freight Rail & Customs Inspection Terminals",
+      "fr": "Entreposage sous Douane, Fret Ferroviaire & Terminaux d'Inspection Douanière",
+      "ru": "Таможенные Склады, Железнодорожные Перевозки и Таможенные Терминалы"
+    },
+    {
+      "key": "tradePage.tradeHero.text_007",
+      "en": "Bulk Grain & Agrarian Logistics",
+      "fr": "Logistique des Céréales & Agricole",
+      "ru": "Зерновая и Сельскохозяйственная Логистика"
+    },
+    {
+      "key": "tradePage.tradeHero.text_008",
+      "en": "Deep-Water Grain Elevators & High-Volume Export Loading Operations",
+      "fr": "Élévateurs à Grains en Eau Profonde & Chargement d'Exportation à Grand Volume",
+      "ru": "Глубоководные Зерновые Элеваторы и Высокообъемная Погрузка на Экспорт"
+    },
+    {
+      "key": "tradePage.tradeHero.text_009",
+      "en": "Trade Overview",
+      "fr": "Aperçu Commercial",
+      "ru": "Обзор Торговли"
+    },
+    {
+      "key": "tradePage.tradeHero.text_010",
+      "en": "Russian Exports",
+      "fr": "Exportations Russes",
+      "ru": "Российский Экспорт"
+    },
+    {
+      "key": "tradePage.tradeHero.text_011",
+      "en": "African Exports",
+      "fr": "Exportations Africaines",
+      "ru": "Африканский Экспорт"
+    },
+    {
+      "key": "tradePage.tradeHero.text_012",
+      "en": "Freight Corridors",
+      "fr": "Corridors de Fret",
+      "ru": "Грузовые Коридоры"
+    },
+    {
+      "key": "tradePage.tradeHero.text_013",
+      "en": "Customs & Incoterms",
+      "fr": "Douanes & Incoterms",
+      "ru": "Таможня и Инкотермс"
+    },
+    {
+      "key": "tradePage.tradeHero.text_014",
+      "en": "African Nations",
+      "fr": "Nations Africaines",
+      "ru": "Страны Африки"
+    },
+    {
+      "key": "tradePage.tradeHero.text_015",
+      "en": "Engaged in Bilateral Forums",
+      "fr": "Engagées dans les Forums Bilatéraux",
+      "ru": "Участники Двусторонних Форумов"
+    },
+    {
+      "key": "tradePage.tradeHero.text_016",
+      "en": "Trade Corridors",
+      "fr": "Corridors Commerciaux",
+      "ru": "Торговые Коридоры"
+    },
+    {
+      "key": "tradePage.tradeHero.text_017",
+      "en": "Baltic, Black Sea, Red Sea & Atlantic",
+      "fr": "Baltique, Mer Noire, Mer Rouge & Atlantique",
+      "ru": "Балтика, Черное Море, Красное Море и Атлантика"
+    },
+    {
+      "key": "tradePage.tradeHero.text_018",
+      "en": "Wheat Supply Share",
+      "fr": "Part d'Approvisionnement en Blé",
+      "ru": "Доля Поставок Пшеницы"
+    },
+    {
+      "key": "tradePage.tradeHero.text_019",
+      "en": "Supporting Food Security",
+      "fr": "Soutenant la Sécurité Alimentaire",
+      "ru": "Поддержка Продбезопасности"
+    },
+    {
+      "key": "tradePage.tradeHero.text_020",
+      "en": "Annual Bilateral Volume",
+      "fr": "Volume Annuel Bilatéral",
+      "ru": "Ежегодный Объем Торговли"
+    },
+    {
+      "key": "tradePage.tradeHero.text_021",
+      "en": "Grain, Energy, Minerals & Goods",
+      "fr": "Céréales, Énergie, Minéraux & Biens",
+      "ru": "Зерно, Энергия, Минералы и Товары"
+    },
+    {
+      "key": "tradePage.tradeHero.text_022",
+      "en": "Russia–Africa Trade Knowledge Hub",
+      "fr": "Centre de Connaissances Commerciales Russie–Afrique",
+      "ru": "Центр Торговых Знаний Россия–Африка"
+    },
+    {
+      "key": "tradePage.tradeHero.text_023",
+      "en": "Russia – Africa",
+      "fr": "Russie – Afrique",
+      "ru": "Россия – Африка"
+    },
+    {
+      "key": "tradePage.tradeHero.text_024",
+      "en": "Trade & Freight Corridors",
+      "fr": "Corridors Commerciaux & de Fret",
+      "ru": "Торговые и Грузовые Коридоры"
+    },
+    {
+      "key": "tradePage.tradeHero.text_025",
+      "en": "AFRUS is an educational information platform dedicated to helping businesses, entrepreneurs, investors, students, and trade professionals better understand bilateral commerce, multimodal supply chains, customs clearance, and economic cooperation between Russia and Africa.",
+      "fr": "AFRUS est une plateforme d'information éducative dédiée à aider les entreprises, entrepreneurs, investisseurs, étudiants et professionnels à mieux comprendre le commerce bilatéral, les chaînes d'approvisionnement multimodales, le dédouanement et la coopération économique entre la Russie et l'Afrique.",
+      "ru": "AFRUS — это образовательная информационная платформа, помогающая бизнесу, инвесторам, студентам и экспертам лучше понять двустороннюю торговлю, логистику, таможенное оформление и экономическое сотрудничество России и Африки."
+    },
+    {
+      "key": "tradePage.tradeSection.text_001",
+      "en": "Export from Russia to Africa",
+      "fr": "Exportations de la Russie vers l'Afrique",
+      "ru": "Экспорт из России в Африку"
+    },
+    {
+      "key": "tradePage.tradeSection.text_002",
+      "en": "Agricultural Produce, Fertilizers, Industrial Machinery & Energy",
+      "fr": "Produits Agricoles, Engrais, Machines Industrielles & Énergie",
+      "ru": "Сельхозпродукция, Удобрения, Техника и Энергетика"
+    },
+    {
+      "key": "tradePage.tradeSection.text_003",
+      "en": "Russian exports play a vital role in supporting national food security, agricultural modernization, and infrastructure across African nations.",
+      "fr": "Les exportations russes jouent un rôle clé dans la sécurité alimentaire, la modernisation agricole et les infrastructures en Afrique.",
+      "ru": "Российский экспорт играет ключевую роль в продовольственной безопасности и модернизации инфраструктуры стран Африки."
+    },
+    {
+      "key": "tradePage.tradeSection.text_004",
+      "en": "Grain & Wheat",
+      "fr": "Céréales & Blé",
+      "ru": "Зерно и Пшеница"
+    },
+    {
+      "key": "tradePage.tradeSection.text_005",
+      "en": "Russia is the world’s leading wheat exporter, supplying high-protein grain essential for African food processing and staple food security.",
+      "fr": "La Russie est le premier exportateur mondial de blé, fournissant des céréales à haute teneur en protéines essentielles à la sécurité alimentaire.",
+      "ru": "Россия — ведущий мировой экспортер пшеницы высокого качества для пищевой промышленности Африки."
+    },
+    {
+      "key": "tradePage.tradeSection.text_006",
+      "en": "Eco-Friendly Fertilizers",
+      "fr": "Engrais Écologiques",
+      "ru": "Экологичные Удобрения"
+    },
+    {
+      "key": "tradePage.tradeSection.text_007",
+      "en": "NPK, Urea, and Potash exports replenish tropical soil nutrients and increase agricultural yields for African smallholder and commercial farms.",
+      "fr": "Les exportations de NPK, Urée et Potasse enrichissent les sols tropicaux et augmentent les rendements agricoles.",
+      "ru": "Поставки NPK, карбамида и калия обогащают почвы и повышают урожайность африканских ферм."
+    },
+    {
+      "key": "tradePage.tradeSection.text_008",
+      "en": "Agricultural Machinery",
+      "fr": "Machinisme Agricole",
+      "ru": "Сельхозтехника"
+    },
+    {
+      "key": "tradePage.tradeSection.text_009",
+      "en": "Heavy-duty tractors, combine harvesters, and irrigation systems engineered for rugged tropical and semi-arid field operations.",
+      "fr": "Tracteurs robustes, moissonneuses-batteuses et systèmes d'irrigation conçus pour les conditions tropicales et arides.",
+      "ru": "Тяжелые тракторы, комбайны и системы орошения для работы в суровых климатических условиях."
+    },
+    {
+      "key": "tradePage.tradeSection.text_010",
+      "en": "Energy & Mining Tech",
+      "fr": "Énergie & Technologies Minières",
+      "ru": "Энергетика и Горные Технологии"
+    },
+    {
+      "key": "tradePage.tradeSection.text_011",
+      "en": "Petroleum products, gas infrastructure, power generation equipment, and advanced geological survey technologies.",
+      "fr": "Produits pétroliers, infrastructures gazières, équipements de production d'électricité et prospection géologique.",
+      "ru": "Нефтепродукты, газовая инфраструктура, энергооборудование и геологоразведка."
+    },
+    {
+      "key": "tradePage.tradeSection.text_012",
+      "en": "Import from Africa to Russia",
+      "fr": "Importations de l'Afrique vers la Russie",
+      "ru": "Импорт из Африки в Россию"
+    },
+    {
+      "key": "tradePage.tradeSection.text_013",
+      "en": "Raw Produce, Gourmet Goods, Strategic Minerals & Artisanal Crafts",
+      "fr": "Matières Premières, Produits Gourmets, Minéraux Stratégiques & Artisanat",
+      "ru": "Сырье, Гастрономия, Минералы и Ремесла"
+    },
+    {
+      "key": "tradePage.tradeSection.text_014",
+      "en": "African exports deliver essential raw materials, premium commodities, and specialized products to Russian industrial and consumer markets.",
+      "fr": "Les exportations africaines fournissent des matières premières essentielles et des produits de haute qualité aux marchés russes.",
+      "ru": "Африканский экспорт поставляет ценное сырье и товары премиум-класса на российский рынок."
+    },
+    {
+      "key": "tradePage.tradeSection.text_015",
+      "en": "Specialty Coffee & Cocoa",
+      "fr": "Café Spécial & Cacao",
+      "ru": "Спешелти Кофе и Какао"
+    },
+    {
+      "key": "tradePage.tradeSection.text_016",
+      "en": "Single-origin Arabica & Robusta beans from East & West Africa powering Russia’s growing gourmet coffee and chocolate industries.",
+      "fr": "Grains d'Arabica et Robusta d'origine pure d'Afrique de l'Est et de l'Ouest alimentant les industries du café et du chocolat en Russie.",
+      "ru": "Арабика и робуста из Восточной и Западной Африки для кофеен и кондитерских фабрик России."
+    },
+    {
+      "key": "tradePage.tradeSection.text_017",
+      "en": "Tropical Produce & Spices",
+      "fr": "Produits Tropicaux & Épices",
+      "ru": "Тропические Фрукты и Специи"
+    },
+    {
+      "key": "tradePage.tradeSection.text_018",
+      "en": "Fresh citrus, bananas, exotic fruits, tea, vanilla, and shea butter supplied through temperature-controlled cold-chain logistics.",
+      "fr": "Agrumes frais, bananes, fruits exotiques, thé, vanille et beurre de karité livrés par chaîne du froid contrôlée.",
+      "ru": "Свежие цитрусовые, бананы, экзотические фрукты, чай, ваниль и масло карите с контролем температуры."
+    },
+    {
+      "key": "tradePage.tradeSection.text_019",
+      "en": "Strategic Minerals & Metals",
+      "fr": "Minéraux Stratégiques & Métaux",
+      "ru": "Минералы и Металлы"
+    },
+    {
+      "key": "tradePage.tradeSection.text_020",
+      "en": "Copper, cobalt, manganese, bauxite, and gemstones critical for Russian manufacturing, electronics, and jewelry production.",
+      "fr": "Cuivre, cobalt, manganèse, bauxite et pierres précieuses essentiels à la fabrication industrielle et à la joaillerie en Russie.",
+      "ru": "Медь, кобальт, марганец, бокситы и драгоценные камни для российской промышленности."
+    },
+    {
+      "key": "tradePage.tradeSection.text_021",
+      "en": "Textiles & Cultural Crafts",
+      "fr": "Textiles & Artisanat Culturel",
+      "ru": "Текстиль и Ремесла"
+    },
+    {
+      "key": "tradePage.tradeSection.text_022",
+      "en": "High-grade raw cotton, hand-woven fabrics, artisanal leather, and authentic cultural items for retail and design markets.",
+      "fr": "Coton brut de haute qualité, tissus tissés main, cuir artisanal et objets culturels pour le commerce et le design.",
+      "ru": "Высококачественный хлопок, ткани ручной работы, кожа и арт-объекты для розничной торговли."
+    },
+    {
+      "key": "tradePage.tradeSection.text_023",
+      "en": "Multimodal Freight & Supply Chains",
+      "fr": "Fret Multimodal & Chaînes d'Approvisionnement",
+      "ru": "Мультимодальные Перевозки и Логистика"
+    },
+    {
+      "key": "tradePage.tradeSection.text_024",
+      "en": "Maritime Routes, Air Cargo, Customs & Cold-Chain Storage",
+      "fr": "Routes Maritimes, Fret Aérien, Douanes & Entreposage Frigorifique",
+      "ru": "Морские Пути, Авиагрузы, Таможня и Хладокомбинаты"
+    },
+    {
+      "key": "tradePage.tradeSection.text_025",
+      "en": "Navigating maritime and intermodal transport channels connecting Baltic and Black Sea ports with major African coastal gateways.",
+      "fr": "Exploitation de canaux de transport reliant les ports de la Baltique et de la Mer Noire aux grands ports côtiers africains.",
+      "ru": "Логистические маршруты, связывающие порты Балтики и Черного моря с крупнейшими портами Африки."
+    },
+    {
+      "key": "tradePage.tradeSection.text_026",
+      "en": "Direct Sea Corridors",
+      "fr": "Corridors Maritimes Directs",
+      "ru": "Прямые Морские Коридоры"
+    },
+    {
+      "key": "tradePage.tradeSection.text_027",
+      "en": "Bulk dry vessels and container liners connecting St. Petersburg and Novorossiysk directly with Douala, Lagos, Mombasa, and Durban.",
+      "fr": "Navires vraquiers et porte-conteneurs reliant St. Pétersbourg et Novorossiysk directement à Douala, Lagos, Mombasa et Durban.",
+      "ru": "Сухогрузы и контейнеровозы из СПб и Новороссийска в Дуалу, Лагос, Момбасу и Дурбан."
+    },
+    {
+      "key": "tradePage.tradeSection.text_028",
+      "en": "Cold-Chain Shipping",
+      "fr": "Transport sous Chaîne du Froid",
+      "ru": "Рефрижераторные Перевозки"
+    },
+    {
+      "key": "tradePage.tradeSection.text_029",
+      "en": "Temperature-monitored refrigerated reefer containers protecting perishable fruits, cocoa, and seafood during transit.",
+      "fr": "Conteneurs frigorifiques à température contrôlée protégeant les fruits périssables, le cacao et les produits de la mer.",
+      "ru": "Рефрижераторные контейнеры с контролем температуры для скоропортящихся продуктов."
+    },
+    {
+      "key": "tradePage.tradeSection.text_030",
+      "en": "Customs Clearance",
+      "fr": "Dédouanement & Formalités",
+      "ru": "Таможенное Оформление"
+    },
+    {
+      "key": "tradePage.tradeSection.text_031",
+      "en": "Standardized phytosanitary inspections, certified origin compliance, and customs documentation protocols.",
+      "fr": "Inspections phytosanitaires normalisées, certificats d'origine et formalités douanières.",
+      "ru": "Фитосанитарный контроль, сертификаты происхождения и таможенное декларирование."
+    },
+    {
+      "key": "tradePage.tradeSection.text_032",
+      "en": "Warehousing & Rail Linkages",
+      "fr": "Entreposage & Connexions Ferroviaires",
+      "ru": "Склады и Ж/Д Логистика"
+    },
+    {
+      "key": "tradePage.tradeSection.text_033",
+      "en": "Strategic inland distribution hubs, bonded warehouses, and railway feeder networks for smooth cargo transit.",
+      "fr": "Centres de distribution stratégiques, entrepôts sous douane et réseaux ferroviaires pour un transit fluide.",
+      "ru": "Логистические хабы, таможенные склады и железнодорожные сети для быстрой доставки."
+    },
+    {
+      "key": "tradePage.tradeSection.text_034",
+      "en": "Bilateral Trade Frameworks & Legal Structures",
+      "fr": "Cadres Commerciaux & Structures Juridiques",
+      "ru": "Торговые Соглашения и Правовые Структуры"
+    },
+    {
+      "key": "tradePage.tradeSection.text_035",
+      "en": "Trade Policy, Tariff Agreements, Financial Settlements & SEZs",
+      "fr": "Politique Commerciale, Accords Tarifaires, Règlements Financiers & ZES",
+      "ru": "Торговая Политика, Тарифы, Расчеты и ОЭЗ"
+    },
+    {
+      "key": "tradePage.tradeSection.text_036",
+      "en": "Understanding the regulatory environment, banking mechanisms, and intergovernmental trade treaties shaping Russia–Africa commerce.",
+      "fr": "Compréhension de l'environnement réglementaire, des mécanismes bancaires et des traités intergouvernementaux.",
+      "ru": "Анализ регуляторной среды, банковских механизмов и межправительственных соглашений."
+    },
+    {
+      "key": "tradePage.tradeSection.text_037",
+      "en": "Financial Settlement Channels",
+      "fr": "Canaux de Règlement Financier",
+      "ru": "Финансовые Расчеты"
+    },
+    {
+      "key": "tradePage.tradeSection.text_038",
+      "en": "Alternative payment mechanisms, Letters of Credit (LC), and national currency trade settlements facilitating international transactions.",
+      "fr": "Mécanismes de paiement alternatifs, lettres de crédit (LC) et règlements en monnaies nationales.",
+      "ru": "Альтернативные платежные системы, аккредитивы и расчеты в национальных валютах."
+    },
+    {
+      "key": "tradePage.tradeSection.text_039",
+      "en": "Special Economic Zones (SEZs)",
+      "fr": "Zones Économiques Spéciales (ZES)",
+      "ru": "Особые Экономические Зоны (ОЭЗ)"
+    },
+    {
+      "key": "tradePage.tradeSection.text_040",
+      "en": "Investment incentives, duty-free industrial zones, and joint-venture corporate structures established in Russia and Africa.",
+      "fr": "Incitations à l'investissement, zones industrielles franches et coentreprises en Russie et en Afrique.",
+      "ru": "Инвестиционные льготы, беспошлинные зоны и совместные предприятия."
+    },
+    {
+      "key": "tradePage.tradeSection.text_041",
+      "en": "Customs & Tariff Policies",
+      "fr": "Politiques Douanières & Tarifaires",
+      "ru": "Таможенная и Тарифная Политика"
+    },
+    {
+      "key": "tradePage.tradeSection.text_042",
+      "en": "Preferential tariff frameworks, bilateral economic agreements, and standardized trade compliance rules.",
+      "fr": "Cadres tarifaires préférentiels, accords économiques bilatéraux et règles de conformité.",
+      "ru": "Преференциальные тарифы, двусторонние экономические соглашения и правила торговли."
+    },
+    {
+      "key": "tradePage.tradeSection.text_043",
+      "en": "B2B Matchmaking Forums",
+      "fr": "Forums de Mise en Relation B2B",
+      "ru": "B2B Биржи Контактов"
+    },
+    {
+      "key": "tradePage.tradeSection.text_044",
+      "en": "Institutional trade missions, chambers of commerce partnerships, and annual bilateral economic summits.",
+      "fr": "Missions commerciales institutionnelles, partenariats de chambres de commerce et sommets économiques.",
+      "ru": "Торговые миссии, партнерства палат торговли и ежегодные экономические саммиты."
+    },
+    {
+      "key": "tradePage.tradeSection.text_045",
+      "en": "Bilateral Trade Knowledge Base",
+      "fr": "Base de Connaissances sur le Commerce Bilatéral",
+      "ru": "База Знаний по Двусторонней Торговле"
+    },
+    {
+      "key": "tradePage.tradeSection.text_046",
+      "en": "Russia – Africa Trade Architecture",
+      "fr": "Architecture Commerciale Russie – Afrique",
+      "ru": "Торговая Архитектура Россия – Африка"
+    },
+    {
+      "key": "tradePage.tradeSection.text_047",
+      "en": "An authoritative overview of key trade pillars, commodity flows, multimodal logistics networks, and regulatory frameworks connecting two dynamic regions.",
+      "fr": "Un aperçu faisant autorité des piliers commerciaux, flux de marchandises, réseaux logistiques et cadres réglementaires.",
+      "ru": "Авторитетный обзор ключевых торговых направлений, грузопотоков, логистических сетей и правовых норм."
+    },
+    {
+      "key": "tradePage.tradeSection.text_048",
+      "en": "International Logistics & Compliance",
+      "fr": "Logistique Internationale & Conformité",
+      "ru": "Международная Логистика и Стандарты"
+    },
+    {
+      "key": "tradePage.tradeSection.text_049",
+      "en": "Understanding Cross-Border Freight Corridors",
+      "fr": "Comprendre les Corridors de Fret Transfrontaliers",
+      "ru": "Трансграничные Грузовые Коридоры"
+    },
+    {
+      "key": "tradePage.tradeSection.text_050",
+      "en": "Efficient trade between Russia and Africa relies on integrated maritime sea lanes, standardized phytosanitary documentation, bonded warehousing, and compliant customs procedures.",
+      "fr": "Le commerce efficace entre la Russie et l'Afrique repose sur des voies maritimes intégrées, des documents phytosanitaires normalisés et des procédures douanières conformes.",
+      "ru": "Эффективная торговля основана на морских маршрутах, фитосанитарных документах, таможенных складах и надежном таможенном оформлении."
+    },
+    {
+      "key": "tradePage.tradeSection.text_051",
+      "en": "Maritime Corridors",
+      "fr": "Corridors Maritimes",
+      "ru": "Морские Коридоры"
+    },
+    {
+      "key": "tradePage.tradeSection.text_052",
+      "en": "Phytosanitary Certification",
+      "fr": "Certification Phytosanitaire",
+      "ru": "Фитосанитарная Сертификация"
+    },
+    {
+      "key": "tradePage.tradeSection.text_053",
+      "en": "Customs Compliance",
+      "fr": "Conformité Douanière",
+      "ru": "Таможенное Соответствие"
+    },
+    {
+      "key": "tradePage.tradeSection.portAlt",
+      "en": "International Maritime Trade Seaport",
+      "fr": "Port maritime de commerce international",
+      "ru": "Международный морской торговый порт"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_001",
+      "en": "Export from Russia to Africa",
+      "fr": "Exportation de la Russie vers l'Afrique",
+      "ru": "Экспорт из России в Африку"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_002",
+      "en": "Export from Africa to Russia",
+      "fr": "Exportation de l'Afrique vers la Russie",
+      "ru": "Экспорт из Африки в Россию"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_003",
+      "en": "Commodity Knowledge Summary",
+      "fr": "Résumé des Connaissances du Produit",
+      "ru": "Сводка Сведений о Товаре"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_004",
+      "en": "Primary Producing & Exporting Hubs",
+      "fr": "Principaux Centres de Production & d'Exportation",
+      "ru": "Основные Производственные и Экспортные Центры"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_005",
+      "en": "Primary Industrial Sectors",
+      "fr": "Secteurs Industriels Principaux",
+      "ru": "Основные Промышленные Секторы"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_006",
+      "en": "Bilateral Economic Importance",
+      "fr": "Importance Économique Bilatérale",
+      "ru": "Двусторонняя Экономическая Значимость"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_007",
+      "en": "Logistics & Multimodal Transport Specifications",
+      "fr": "Spécifications Logistiques & Transport Multimodal",
+      "ru": "Характеристики Логистики и Мультимодального Транспорта"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_008",
+      "en": "Freight & Transport Mode",
+      "fr": "Mode de Fret & Transport",
+      "ru": "Режим Перевозки и Транспорта"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_009",
+      "en": "Key Seaports & Gateways",
+      "fr": "Ports Maritimes & Voies d'Accès Principaux",
+      "ru": "Основные Морские Порты и Ворота"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_010",
+      "en": "Seasonal Cycles",
+      "fr": "Cycles Saisonniers",
+      "ru": "Сезонные Циклы"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_011",
+      "en": "Year-Round Continuous Supply Stream",
+      "fr": "Flux d'Approvisionnement Continu Toute l'Année",
+      "ru": "Круглогодичный Непрерывный Поток Поставок"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_012",
+      "en": "Market & Supply Chain Insights",
+      "fr": "Perspectives du Marché & de la Chaîne d'Approvisionnement",
+      "ru": "Анализ Рынка и Цепочек Поставок"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_013",
+      "en": "Phytosanitary & Quality Compliance",
+      "fr": "Conformité Phytosanitaire & Qualité",
+      "ru": "Фитосанитарное Соответствие и Качество"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_014",
+      "en": "Requires standard international phytosanitary certification, origin verification, and SGS/Cotecna cargo inspection prior to port loading.",
+      "fr": "Nécessite une certification phytosanitaire internationale standard, une vérification d'origine et une inspection de cargaison SGS/Cotecna avant le chargement au port.",
+      "ru": "Требует стандартной международной фитосанитарной сертификации, подтверждения происхождения и инспекции груза SGS/Cotecna перед погрузкой в порту."
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_015",
+      "en": "AFRUS Bilateral Commodity Knowledge Base",
+      "fr": "Base de Connaissances des Produits Bilatéraux AFRUS",
+      "ru": "База Знаний о Двусторонней Торговле Товарами AFRUS"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.text_016",
+      "en": "Close Commodity Profile",
+      "fr": "Fermer le Profil du Produit",
+      "ru": "Закрыть Профиль Товара"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.close",
+      "en": "Close modal",
+      "fr": "Fermer la fenêtre",
+      "ru": "Закрыть окно"
+    },
+    {
+      "key": "tradePage.commodityDetailModal.hsCode",
+      "en": "HS Code:",
+      "fr": "Code SH :",
+      "ru": "Код ТН ВЭД:"
+    },
+    {
+      "key": "tradePage.inquiry.knowledgeHub",
+      "en": "Russia–Africa Trade Knowledge Hub Guidance",
+      "fr": "Accompagnement du centre de connaissances sur le commerce Russie–Afrique",
+      "ru": "Консультация центра знаний по торговле Россия–Африка"
+    }
+  ]
+}

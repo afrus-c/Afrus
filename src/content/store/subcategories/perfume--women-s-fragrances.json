@@ -1,0 +1,10 @@
+{
+  "id": "perfume--women-s-fragrances",
+  "categoryId": "perfume",
+  "name": "Women's Fragrances",
+  "nameI18n": {
+    "en": "Women's Fragrances",
+    "fr": "Parfums Femme",
+    "ru": "Женский Парфюм"
+  }
+}

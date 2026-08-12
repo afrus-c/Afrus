@@ -1,0 +1,35 @@
+{
+  "id": "test-3",
+  "name": "Amina Diop",
+  "role": "Founder & CEO",
+  "organization": "Senegal Coffee & Gourmet Trade",
+  "country": "Senegal",
+  "quote": "Through the AFRUS Store and trade showcase, we successfully established distribution channels for our specialty coffee in Moscow gourmet boutiques. Truly a transformative platform.",
+  "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
+  "rating": 5,
+  "nameI18n": {
+    "en": "Amina Diop",
+    "fr": "Amina Diop",
+    "ru": "Амина Диоп"
+  },
+  "roleI18n": {
+    "en": "Founder & CEO",
+    "fr": "Fondateur et PDG",
+    "ru": "Основатель и генеральный директор"
+  },
+  "organizationI18n": {
+    "en": "Senegal Coffee & Gourmet Trade",
+    "fr": "Sénégal Café & Commerce Gourmand",
+    "ru": "Сенегал Торговля кофе и деликатесами"
+  },
+  "countryI18n": {
+    "en": "Senegal",
+    "fr": "Sénégal",
+    "ru": "Сенегал"
+  },
+  "quoteI18n": {
+    "en": "Through the AFRUS Store and trade showcase, we successfully established distribution channels for our specialty coffee in Moscow gourmet boutiques. Truly a transformative platform.",
+    "fr": "Grâce au magasin AFRUS et à la vitrine commerciale, nous avons réussi à établir des canaux de distribution de notre café de spécialité dans les boutiques gastronomiques de Moscou. Vraiment une plateforme transformatrice.",
+    "ru": "Через магазин и торговую витрину «АФРУС» мы успешно наладили каналы сбыта нашего спешелти кофе в изысканных бутиках Москвы. Поистине преобразующая платформа."
+  }
+}

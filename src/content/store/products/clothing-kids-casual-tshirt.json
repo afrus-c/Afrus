@@ -1,0 +1,40 @@
+{
+    "id":  "clothing-kids-casual-tshirt",
+    "title":  "Kids\u0027 Casual T-Shirt",
+    "category":  "Clothing",
+    "subcategory":  "Kids",
+    "priceUsd": 24,
+    "priceRub": 2208,
+    "origin":  "AFRUS Junior",
+    "description":  "A comfortable children\u0027s casual T-shirt featuring a fun, original design and soft-looking fabric. Suitable for everyday activities, outings, and casual wear.",
+    "image":  "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Soft Cotton",
+    "brand":  "AFRUS Junior",
+    "availableSizes":  [
+                           "3-4Y",
+                           "5-6Y",
+                           "7-8Y",
+                           "9-10Y"
+                       ],
+    "inventoryCount":  50,
+    "titleI18n":  {
+                      "en":  "Kids\u0027 Casual T-Shirt",
+                      "fr":  "T-Shirt Imprimé Enfant",
+                      "ru":  "Детская Футболка с Принтом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A comfortable children\u0027s casual T-shirt featuring a fun, original design and soft-looking fabric. Suitable for everyday activities, outings, and casual wear.",
+                            "fr":  "T-shirt doux en coton biologique pour garçons et filles.",
+                            "ru":  "Мягкая футболка из органического хлопка для детей."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--kids",
+    "badgeI18n":  {
+                      "ru":  "Мягкий хлопок",
+                      "en":  "Soft Cotton",
+                      "fr":  "Coton doux"
+                  }
+}

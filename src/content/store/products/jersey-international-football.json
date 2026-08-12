@@ -1,0 +1,41 @@
+{
+    "id":  "jersey-international-football",
+    "title":  "International Football Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "National Team Jerseys",
+    "priceUsd": 48,
+    "priceRub": 4416,
+    "origin":  "AFRUS International",
+    "description":  "A modern football jersey inspired by international sporting culture, combining a clean athletic design with bold colors and comfortable-looking fabric.",
+    "image":  "/uploads/store/jersey_international_football_1786180068894.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Global Edition",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  25,
+    "titleI18n":  {
+                      "en":  "International Football Jersey",
+                      "fr":  "Maillot de Football International",
+                      "ru":  "Международная Футбольная Джерси"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A modern football jersey inspired by international sporting culture, combining a clean athletic design with bold colors and comfortable-looking fabric.",
+                            "fr":  "Maillot de supporter universel célébrant les tournois de football internationaux.",
+                            "ru":  "Универсальная форма для международных турниров."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--national-team-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Глобальное издание",
+                      "en":  "Global Edition",
+                      "fr":  "Édition mondiale"
+                  }
+}

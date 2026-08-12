@@ -1,0 +1,10 @@
+{
+  "id": "accessories--men-s-accessories",
+  "categoryId": "accessories",
+  "name": "Men's Accessories",
+  "nameI18n": {
+    "en": "Men's Accessories",
+    "fr": "Accessoires Homme",
+    "ru": "Мужские Аксессуары"
+  }
+}

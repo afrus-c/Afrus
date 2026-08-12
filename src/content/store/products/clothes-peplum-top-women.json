@@ -1,0 +1,40 @@
+{
+    "id":  "clothes-peplum-top-women",
+    "title":  "African Print Peplum Top",
+    "category":  "African Clothes",
+    "subcategory":  "Women\u0027s African Wear",
+    "priceUsd": 55,
+    "priceRub": 5060,
+    "origin":  "Lagos, Nigeria",
+    "description":  "A contemporary peplum top featuring colorful African-inspired fabric and a stylish design. Easy to pair with trousers, skirts, or jeans.",
+    "image":  "/uploads/store/african_peplum_top_1786178488187.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Trendy",
+    "brand":  "Naija Chic",
+    "availableSizes":  [
+                           "XS",
+                           "S",
+                           "M",
+                           "L"
+                       ],
+    "inventoryCount":  50,
+    "titleI18n":  {
+                      "en":  "African Print Peplum Top",
+                      "fr":  "Haut Peplum Africain Femme",
+                      "ru":  "Женский Топ Пеплум с Принтом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A contemporary peplum top featuring colorful African-inspired fabric and a stylish design. Easy to pair with trousers, skirts, or jeans.",
+                            "fr":  "Blouse peplum chic à taille évasée ajustée confectionnée en tissu Ankara africain.",
+                            "ru":  "Шикарная блуза с баской из традиционной африканской ткани."
+                        },
+    "categoryId":  "african-clothes",
+    "subcategoryId":  "african-clothes--women-s-african-wear",
+    "badgeI18n":  {
+                      "ru":  "Модный",
+                      "en":  "Trendy",
+                      "fr":  "Branché"
+                  }
+}

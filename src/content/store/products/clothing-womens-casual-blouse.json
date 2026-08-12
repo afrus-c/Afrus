@@ -1,0 +1,40 @@
+{
+    "id":  "clothing-womens-casual-blouse",
+    "title":  "Women\u0027s Casual Blouse",
+    "category":  "Clothing",
+    "subcategory":  "Women",
+    "priceUsd": 38,
+    "priceRub": 3496,
+    "origin":  "AFRUS Apparel",
+    "description":  "A versatile women\u0027s blouse featuring a contemporary design that can be paired with trousers, skirts, or jeans for everyday and casual styling.",
+    "image":  "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Versatile Top",
+    "brand":  "AFRUS Womenswear",
+    "availableSizes":  [
+                           "XS",
+                           "S",
+                           "M",
+                           "L"
+                       ],
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "Women\u0027s Casual Blouse",
+                      "fr":  "Blouse Décontractée en Soie Femme",
+                      "ru":  "Женская Повседневная Блузка"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A versatile women\u0027s blouse featuring a contemporary design that can be paired with trousers, skirts, or jeans for everyday and casual styling.",
+                            "fr":  "Blouse en soie douce et élégante aux manches évasées confortables.",
+                            "ru":  "Элегантная мягкая блузка с комфортными рукавами."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--women",
+    "badgeI18n":  {
+                      "ru":  "Универсальный топ",
+                      "en":  "Versatile Top",
+                      "fr":  "Haut polyvalent"
+                  }
+}

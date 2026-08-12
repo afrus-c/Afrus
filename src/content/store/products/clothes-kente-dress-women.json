@@ -1,0 +1,39 @@
+{
+    "id":  "clothes-kente-dress-women",
+    "title":  "Kente-Inspired Women\u0027s Dress",
+    "category":  "African Clothes",
+    "subcategory":  "Women\u0027s African Wear",
+    "priceUsd": 140,
+    "priceRub": 12880,
+    "origin":  "Kumasi, Ghana",
+    "description":  "A vibrant women\u0027s dress inspired by traditional Kente patterns, combining bold colors and distinctive African design with modern fashion.",
+    "image":  "/uploads/store/kente_inspired_dress_1786178477724.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  5,
+    "badge":  "Exclusive",
+    "brand":  "Ashanti Gold Wear",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L"
+                       ],
+    "inventoryCount":  18,
+    "titleI18n":  {
+                      "en":  "Kente-Inspired Women\u0027s Dress",
+                      "fr":  "Robe d\u0027Inspiration Kente Femme",
+                      "ru":  "Женское Платье Кенте"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A vibrant women\u0027s dress inspired by traditional Kente patterns, combining bold colors and distinctive African design with modern fashion.",
+                            "fr":  "Superbe robe de soirée inspirée des textiles tissés Kente du Ghana.",
+                            "ru":  "Роскошное вечернее платье с мотивами ганского текстиля Кенте."
+                        },
+    "categoryId":  "african-clothes",
+    "subcategoryId":  "african-clothes--women-s-african-wear",
+    "badgeI18n":  {
+                      "ru":  "Эксклюзивный",
+                      "en":  "Exclusive",
+                      "fr":  "Exclusif"
+                  }
+}

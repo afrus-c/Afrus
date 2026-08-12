@@ -1,0 +1,35 @@
+{
+  "id": "test-2",
+  "name": "Valery S. Morozov",
+  "role": "Director of International Export",
+  "organization": "AgroTech Machinery Group",
+  "country": "Russia",
+  "quote": "Partnering with AFRUS allowed our agricultural equipment enterprise to enter four new African markets within six months. Their B2B matchmaking and legal advisory are unmatched.",
+  "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+  "rating": 5,
+  "nameI18n": {
+    "en": "Valery S. Morozov",
+    "fr": "Valéry S. Morozov",
+    "ru": "Валерий Сергеевич Морозов"
+  },
+  "roleI18n": {
+    "en": "Director of International Export",
+    "fr": "Directeur de l'Exportation Internationale",
+    "ru": "Директор по международному экспорту"
+  },
+  "organizationI18n": {
+    "en": "AgroTech Machinery Group",
+    "fr": "Groupe de machines AgroTech",
+    "ru": "Машиностроительная группа «АгроТех»"
+  },
+  "countryI18n": {
+    "en": "Russia",
+    "fr": "Russie",
+    "ru": "Россия"
+  },
+  "quoteI18n": {
+    "en": "Partnering with AFRUS allowed our agricultural equipment enterprise to enter four new African markets within six months. Their B2B matchmaking and legal advisory are unmatched.",
+    "fr": "Le partenariat avec AFRUS a permis à notre entreprise de matériel agricole de pénétrer quatre nouveaux marchés africains en six mois. Leur mise en relation B2B et leurs conseils juridiques sont inégalés.",
+    "ru": "Партнерство с AFRUS позволило нашему предприятию по производству сельскохозяйственной техники за шесть месяцев выйти на четыре новых африканских рынка. Их подбор партнеров в сфере B2B и юридические консультации не имеют себе равных."
+  }
+}

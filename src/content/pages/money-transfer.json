@@ -1,0 +1,251 @@
+{
+  "hero": {
+    "badge": {
+      "en": "CROSS-BORDER PAYMENTS",
+      "fr": "PAIEMENTS TRANSFRONTALIERS",
+      "ru": "ТРАНСГРАНИЧНЫЕ ПЛАТЕЖИ"
+    },
+    "title": {
+      "en": "Russia–Africa Money Transfer &",
+      "fr": "Transferts d’argent Russie–Afrique et",
+      "ru": "Денежные переводы между Россией и Африкой и"
+    },
+    "titleAccent": {
+      "en": "Financial Clearing Guide",
+      "fr": "Guide de la compensation financière",
+      "ru": "Руководство по финансовому клирингу"
+    },
+    "description": {
+      "en": "Learn how cross-border payments, commercial settlements, tuition transfers, and international banking systems support financial transactions between Russia and African countries. Explore common payment methods, currency considerations, compliance requirements, and practical guidance for international transfers.",
+      "fr": "Découvrez comment les paiements transfrontaliers, les règlements commerciaux, les transferts de frais de scolarité et les systèmes bancaires internationaux facilitent les transactions financières entre la Russie et les pays africains. Explorez les méthodes de paiement courantes, les considérations monétaires, les exigences de conformité et les conseils pratiques relatifs aux transferts internationaux.",
+      "ru": "Узнайте, как трансграничные платежи, коммерческие расчёты, переводы средств на оплату обучения и международные банковские системы обеспечивают финансовые операции между Россией и африканскими странами. Ознакомьтесь с распространёнными способами оплаты, валютными аспектами, требованиями комплаенса и практическими рекомендациями по международным переводам."
+    },
+    "primaryCta": {
+      "en": "Explore Payment Methods",
+      "fr": "Explorer les méthodes de paiement",
+      "ru": "Изучить способы оплаты"
+    },
+    "secondaryCta": {
+      "en": "Learn About Financial Clearing",
+      "fr": "En savoir plus sur la compensation financière",
+      "ru": "Узнать больше о финансовом клиринге"
+    },
+    "slides": [
+      {
+        "id": "digital-corridors",
+        "image": "/uploads/money-transfer/digital-payment.jpg",
+        "tag": {
+          "en": "Cross-Border Payment Rails",
+          "fr": "Réseaux de paiement transfrontaliers",
+          "ru": "Трансграничная платёжная инфраструктура"
+        },
+        "caption": {
+          "en": "Secure Digital Clearing Corridors for Commercial & Academic Transactions",
+          "fr": "Corridors numériques sécurisés de compensation pour les transactions commerciales et universitaires",
+          "ru": "Безопасные цифровые клиринговые коридоры для коммерческих и образовательных операций"
+        }
+      },
+      {
+        "id": "financial-hub",
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1920&q=80",
+        "tag": {
+          "en": "International Interbank Networks",
+          "fr": "Réseaux interbancaires internationaux",
+          "ru": "Международные межбанковские сети"
+        },
+        "caption": {
+          "en": "Direct Central-Bank Compliant RUB, CNY, XAF & USD SWIFT/SPFS Corridors",
+          "fr": "Corridors directs SWIFT/SPFS en RUB, CNY, XAF et USD conformes aux exigences des banques centrales",
+          "ru": "Прямые коридоры SWIFT/SPFS в RUB, CNY, XAF и USD, соответствующие требованиям центральных банков"
+        }
+      },
+      {
+        "id": "treasury-settlements",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1920&q=80",
+        "tag": {
+          "en": "Commercial Trade & Treasury Settlement",
+          "fr": "Commerce et règlements de trésorerie",
+          "ru": "Торговые и казначейские расчёты"
+        },
+        "caption": {
+          "en": "Instant Clearing & Liquidity Management for Cross-Border Contracts",
+          "fr": "Compensation instantanée et gestion des liquidités pour les contrats transfrontaliers",
+          "ru": "Мгновенный клиринг и управление ликвидностью по трансграничным контрактам"
+        }
+      }
+    ]
+  },
+  "glossary": [
+    {
+      "id": "glossary-1",
+      "term": {
+        "en": "Correspondent Banking",
+        "fr": "Banque correspondante",
+        "ru": "Корреспондентский банкинг"
+      },
+      "definition": {
+        "en": "A financial arrangement where one bank (correspondent) provides services on behalf of another (respondent) bank in a different jurisdiction to facilitate cross-border currency clearing.",
+        "fr": "Dispositif financier dans lequel une banque (correspondante) fournit des services pour le compte d’une autre banque (répondante) située dans une juridiction différente, afin de faciliter la compensation transfrontalière des devises.",
+        "ru": "Финансовая схема, при которой один банк (банк-корреспондент) оказывает услуги от имени другого банка (банка-респондента), находящегося в иной юрисдикции, чтобы обеспечить трансграничный валютный клиринг."
+      }
+    },
+    {
+      "id": "glossary-2",
+      "term": {
+        "en": "Letter of Credit (L/C)",
+        "fr": "Lettre de crédit (L/C)",
+        "ru": "Аккредитив (L/C)"
+      },
+      "definition": {
+        "en": "A formal contractual document issued by a buyer’s bank guaranteeing payment to a seller upon presentation of specified shipping and inspection documents (e.g., Bill of Lading, Phytosanitary Certificate).",
+        "fr": "Document contractuel officiel émis par la banque de l’acheteur, garantissant le paiement au vendeur sur présentation des documents d’expédition et d’inspection spécifiés (par exemple, connaissement et certificat phytosanitaire).",
+        "ru": "Официальный договорный документ, выпускаемый банком покупателя и гарантирующий оплату продавцу после представления указанных отгрузочных и инспекционных документов (например, коносамента и фитосанитарного сертификата)."
+      }
+    },
+    {
+      "id": "glossary-3",
+      "term": {
+        "en": "Nostro & Vostro Accounts",
+        "fr": "Comptes Nostro et Vostro",
+        "ru": "Счета Nostro и Vostro"
+      },
+      "definition": {
+        "en": "Nostro (\"our money held by you\") and Vostro (\"your money held by us\") are bank accounts held in a foreign country in foreign currency to facilitate direct trade settlements.",
+        "fr": "Les comptes Nostro (« notre argent détenu chez vous ») et Vostro (« votre argent détenu chez nous ») sont des comptes bancaires tenus à l’étranger dans une devise étrangère afin de faciliter les règlements commerciaux directs.",
+        "ru": "Nostro («наши деньги у вас») и Vostro («ваши деньги у нас») — это банковские счета, открытые за рубежом в иностранной валюте для проведения прямых торговых расчётов."
+      }
+    },
+    {
+      "id": "glossary-4",
+      "term": {
+        "en": "Form M & Form NXP (Nigeria)",
+        "fr": "Formulaires M et NXP (Nigeria)",
+        "ru": "Формы M и NXP (Нигерия)"
+      },
+      "definition": {
+        "en": "Mandatory statutory trade documents mandated by the Central Bank of Nigeria (CBN). Form M is required for commercial goods importation, while Form NXP is required for commercial exports.",
+        "fr": "Documents commerciaux réglementaires obligatoires imposés par la Banque centrale du Nigeria (CBN). Le formulaire M est requis pour l’importation commerciale de marchandises, tandis que le formulaire NXP est requis pour les exportations commerciales.",
+        "ru": "Обязательные торговые документы, установленные Центральным банком Нигерии (CBN). Форма M требуется для коммерческого импорта товаров, а форма NXP — для коммерческого экспорта."
+      }
+    },
+    {
+      "id": "glossary-5",
+      "term": {
+        "en": "CEMAC / BEAC Regulations",
+        "fr": "Réglementation CEMAC / BEAC",
+        "ru": "Правила CEMAC / BEAC"
+      },
+      "definition": {
+        "en": "Foreign exchange regulatory framework administered by the Bank of Central African States (BEAC) governing capital transfers, import documentation, and currency conversions across Central Africa.",
+        "fr": "Cadre réglementaire des changes administré par la Banque des États de l’Afrique centrale (BEAC), qui régit les transferts de capitaux, les documents d’importation et les conversions monétaires en Afrique centrale.",
+        "ru": "Система валютного регулирования Банка государств Центральной Африки (BEAC), регулирующая переводы капитала, импортную документацию и конвертацию валют в Центральной Африке."
+      }
+    },
+    {
+      "id": "glossary-6",
+      "term": {
+        "en": "SWIFT MT103",
+        "fr": "SWIFTMT103",
+        "ru": "СВИФТ МТ103"
+      },
+      "definition": {
+        "en": "Standardized single customer credit transfer message format used internationally to verify and track wire payment details, value dates, and bank processing reference codes.",
+        "fr": "Format normalisé de message de virement pour un seul client, utilisé à l’échelle internationale pour vérifier et suivre les détails du paiement, les dates de valeur et les références de traitement bancaire.",
+        "ru": "Стандартизированный формат сообщения об одиночном клиентском переводе, используемый во всём мире для проверки и отслеживания реквизитов платежа, дат валютирования и банковских кодов обработки."
+      }
+    },
+    {
+      "id": "glossary-7",
+      "term": {
+        "en": "SPFS (Financial Messaging System)",
+        "fr": "SPFS (système de messagerie financière)",
+        "ru": "SPFS (система передачи финансовых сообщений)"
+      },
+      "definition": {
+        "en": "Russia’s proprietary financial messaging system developed by the Central Bank of Russia as an alternative to SWIFT for interbank message transmission.",
+        "fr": "Système russe de messagerie financière développé par la Banque centrale de Russie comme solution de remplacement de SWIFT pour la transmission de messages interbancaires.",
+        "ru": "Российская система передачи финансовых сообщений, разработанная Банком России как альтернатива SWIFT для обмена межбанковскими сообщениями."
+      }
+    },
+    {
+      "id": "glossary-8",
+      "term": {
+        "en": "Sanction & AML Compliance Screening",
+        "fr": "Filtrage des sanctions et de la conformité AML",
+        "ru": "Проверка соблюдения санкций и требований AML"
+      },
+      "definition": {
+        "en": "Automated statutory verification process performed by financial institutions to ensure transactions comply with international Anti-Money Laundering (AML) laws and sanctions databases.",
+        "fr": "Processus automatisé de vérification réglementaire effectué par les institutions financières pour garantir que les transactions respectent les lois internationales de lutte contre le blanchiment d’argent (AML) et les bases de données de sanctions.",
+        "ru": "Автоматизированная обязательная проверка, проводимая финансовыми учреждениями для обеспечения соответствия операций международным нормам противодействия отмыванию денег (AML) и санкционным базам данных."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": {
+        "en": "How do international students pay university tuition fees in Russia?",
+        "fr": "Comment les étudiants internationaux paient-ils leurs frais universitaires en Russie ?",
+        "ru": "Как иностранные студенты оплачивают обучение в российских университетах?"
+      },
+      "answer": {
+        "en": "Students typically arrange payments via international bank wire transfer, UnionPay cards, or authorized local bank accounts in Russia (such as Sber, VTB, or T-Bank). Essential steps include obtaining the university’s official invoice, verifying bank details (INN, KPP, BIC, IBAN/Account Number), including the student’s full name and passport number in the transfer description, and retaining the official payment receipt for university registration and visa processing.",
+        "fr": "Les étudiants effectuent généralement leurs paiements par virement bancaire international, carte UnionPay ou compte bancaire local agréé en Russie (par exemple Sber, VTB ou T-Bank). Il est essentiel d’obtenir la facture officielle de l’université, de vérifier les coordonnées bancaires (INN, KPP, BIC, IBAN/numéro de compte), d’indiquer le nom complet et le numéro de passeport de l’étudiant dans le motif du transfert, puis de conserver le reçu officiel pour l’inscription universitaire et les formalités de visa.",
+        "ru": "Студенты обычно оплачивают обучение международным банковским переводом, картой UnionPay или через разрешённые местные банковские счета в России (например, Сбер, ВТБ или Т-Банк). Необходимо получить официальный счёт университета, проверить банковские реквизиты (ИНН, КПП, БИК, IBAN/номер счёта), указать полное имя и номер паспорта студента в назначении перевода и сохранить официальную квитанцию для регистрации в университете и оформления визы."
+      }
+    },
+    {
+      "id": "faq-2",
+      "question": {
+        "en": "What is the role of correspondent banks in Russia–Africa payments?",
+        "fr": "Quel est le rôle des banques correspondantes dans les paiements entre la Russie et l’Afrique ?",
+        "ru": "Какова роль банков-корреспондентов в платежах между Россией и Африкой?"
+      },
+      "answer": {
+        "en": "Because direct banking links between Russian and African commercial banks are evolving, transactions often clear through specialized correspondent banks or third-country financial hubs (such as China, UAE, or Turkey) holding Nostro/Vostro accounts in local or neutral trade currencies.",
+        "fr": "Les liens bancaires directs entre les banques commerciales russes et africaines étant encore en développement, les transactions sont souvent compensées par des banques correspondantes spécialisées ou des centres financiers de pays tiers (comme la Chine, les Émirats arabes unis ou la Turquie) détenant des comptes Nostro/Vostro en monnaies locales ou commerciales neutres.",
+        "ru": "Поскольку прямые связи между российскими и африканскими коммерческими банками продолжают развиваться, операции часто проходят через специализированные банки-корреспонденты или финансовые центры третьих стран (например, Китая, ОАЭ или Турции), имеющие счета Nostro/Vostro в местных или нейтральных торговых валютах."
+      }
+    },
+    {
+      "id": "faq-3",
+      "question": {
+        "en": "What documentation is required for commercial trade settlements?",
+        "fr": "Quels documents sont requis pour les règlements commerciaux ?",
+        "ru": "Какие документы необходимы для расчётов по коммерческим сделкам?"
+      },
+      "answer": {
+        "en": "Commercial transactions require a Pro-Forma or Commercial Invoice, Sales Contract, Bill of Lading or Transport Document, Certificate of Origin, and customs import declarations (e.g., Form M in Nigeria or BEAC declaration in Central Africa). Banks review these documents before authorizing foreign exchange disbursement.",
+        "fr": "Les transactions commerciales nécessitent une facture pro forma ou commerciale, un contrat de vente, un connaissement ou document de transport, un certificat d’origine et des déclarations douanières d’importation (par exemple, le formulaire M au Nigeria ou une déclaration BEAC en Afrique centrale). Les banques examinent ces documents avant d’autoriser le décaissement en devises.",
+        "ru": "Для коммерческих операций требуются счёт-проформа или коммерческий счёт, договор купли-продажи, коносамент или транспортный документ, сертификат происхождения и таможенные импортные декларации (например, форма M в Нигерии или декларация BEAC в Центральной Африке). Банки проверяют эти документы до разрешения валютного платежа."
+      }
+    },
+    {
+      "id": "faq-4",
+      "question": {
+        "en": "How do currency exchange rates and bank spreads affect payment totals?",
+        "fr": "Comment les taux de change et les marges bancaires influencent-ils le montant total des paiements ?",
+        "ru": "Как валютные курсы и банковские наценки влияют на итоговую сумму платежа?"
+      },
+      "answer": {
+        "en": "Cross-border payments involve two financial costs: explicit transaction fees (intermediary bank charges) and implicit currency conversion spreads (the margin added by banks above the benchmark mid-market rate). Understanding both components helps businesses and students plan accurate budget transfers.",
+        "fr": "Les paiements transfrontaliers comportent deux coûts financiers : les frais de transaction explicites (commissions des banques intermédiaires) et les marges implicites de conversion monétaire (marge ajoutée par les banques au taux moyen du marché). La compréhension de ces deux éléments aide les entreprises et les étudiants à planifier précisément leurs transferts.",
+        "ru": "Трансграничные платежи включают два вида затрат: явные комиссии за операцию (сборы банков-посредников) и скрытую курсовую маржу (надбавку банка к базовому среднерыночному курсу). Понимание обоих компонентов помогает компаниям и студентам точно планировать суммы переводов."
+      }
+    },
+    {
+      "id": "faq-5",
+      "question": {
+        "en": "Is AFRUS a bank or licensed payment processor?",
+        "fr": "AFRUS est-elle une banque ou un prestataire de services de paiement agréé ?",
+        "ru": "Является ли AFRUS банком или лицензированным оператором платёжных услуг?"
+      },
+      "answer": {
+        "en": "No. AFRUS is an international business, cultural, and educational information platform. We do not hold client funds, process banking transactions, or operate as a financial institution. This guide serves purely as an educational resource to inform businesses, students, and travelers about established international financial systems.",
+        "fr": "Non. AFRUS est une plateforme internationale d’information commerciale, culturelle et éducative. Nous ne détenons pas les fonds des clients, ne traitons pas d’opérations bancaires et n’exerçons pas en tant qu’institution financière. Ce guide est exclusivement une ressource pédagogique destinée à informer les entreprises, les étudiants et les voyageurs sur les systèmes financiers internationaux établis.",
+        "ru": "Нет. AFRUS — международная информационная платформа в сфере бизнеса, культуры и образования. Мы не храним средства клиентов, не обрабатываем банковские операции и не действуем как финансовое учреждение. Это руководство является исключительно образовательным ресурсом для компаний, студентов и путешественников о действующих международных финансовых системах."
+      }
+    }
+  ]
+}

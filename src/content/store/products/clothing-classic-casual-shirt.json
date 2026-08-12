@@ -1,0 +1,41 @@
+{
+    "id":  "clothing-classic-casual-shirt",
+    "title":  "Classic Casual Shirt",
+    "category":  "Clothing",
+    "subcategory":  "Men",
+    "priceUsd": 42,
+    "priceRub": 3864,
+    "origin":  "AFRUS Apparel",
+    "description":  "A versatile men\u0027s casual shirt featuring a clean modern design and comfortable fit. Suitable for everyday wear, casual outings, and relaxed occasions.",
+    "image":  "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Classic Casual",
+    "brand":  "AFRUS Menswear",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  45,
+    "titleI18n":  {
+                      "en":  "Classic Casual Shirt",
+                      "fr":  "Chemise Décontractée en Coton Homme",
+                      "ru":  "Мужская Хлопковая Повседневная Рубашка"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A versatile men\u0027s casual shirt featuring a clean modern design and comfortable fit. Suitable for everyday wear, casual outings, and relaxed occasions.",
+                            "fr":  "Chemise respirante 100% coton idéale pour le bureau ou les loisirs.",
+                            "ru":  "Дышащая рубашка из 100% хлопка для работы и отдыха."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--men",
+    "badgeI18n":  {
+                      "ru":  "Классический Повседневный",
+                      "en":  "Classic Casual",
+                      "fr":  "Classique décontracté"
+                  }
+}

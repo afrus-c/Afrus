@@ -1,0 +1,11 @@
+{
+  "name": "Russian Export Center (REC)",
+  "logoText": "EXPORT RUSSIA",
+  "id": "russian-export-center-rec",
+  "nameI18n": {
+    "en": "Russian Export Center (REC)",
+    "fr": "Centre d'exportation russe (REC)",
+    "ru": "Российский экспортный центр (РЭЦ)"
+  },
+  "order": 6
+}

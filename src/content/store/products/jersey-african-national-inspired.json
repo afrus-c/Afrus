@@ -1,0 +1,41 @@
+{
+    "id":  "jersey-african-national-inspired",
+    "title":  "African National Team Inspired Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "National Team Jerseys",
+    "priceUsd": 55,
+    "priceRub": 5060,
+    "origin":  "AFRUS International",
+    "description":  "A football jersey inspired by African national-team football, featuring an original design that celebrates African sporting culture.",
+    "image":  "/uploads/store/jersey_african_national_1786180046426.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  5,
+    "badge":  "National Spirit",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "African National Team Inspired Jersey",
+                      "fr":  "Maillot d\u0027Équipe Nationale Africaine",
+                      "ru":  "Форма Сборной Африканской Страны"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A football jersey inspired by African national-team football, featuring an original design that celebrates African sporting culture.",
+                            "fr":  "Maillot de fierté nationale inspiré des grandes nations du football africain.",
+                            "ru":  "Форма с символикой ведущих футбольных сборных Африки."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--national-team-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Национальный дух",
+                      "en":  "National Spirit",
+                      "fr":  "Esprit national"
+                  }
+}

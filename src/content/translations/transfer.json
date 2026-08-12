@@ -1,0 +1,24 @@
+{
+  "namespace": "transfer",
+  "adminLabelFr": "Transfert d’argent — textes généraux",
+  "entries": [
+    {
+      "key": "transfer.badge",
+      "en": "SECURE FINANCIAL CORRIDOR",
+      "fr": "CORRIDOR FINANCIER SÉCURISÉ",
+      "ru": "НАДЕЖНЫЙ ФИНАНСОВЫЙ КОРИДОР"
+    },
+    {
+      "key": "transfer.title",
+      "en": "Seamless Russia–Africa Money Transfers",
+      "fr": "Transferts d'Argent Fluides Russie–Afrique",
+      "ru": "Быстрые Денежные Переводы Россия–Африка"
+    },
+    {
+      "key": "transfer.subtitle",
+      "en": "Bilateral settlement solutions in Rubles, CFA Francs, Naira, Shillings, and Dirhams with instant confirmation.",
+      "fr": "Solutions de règlement bilatéral en Roubles, Francs CFA, Naira, Shillings et Dirhams avec confirmation instantanée.",
+      "ru": "Двусторонние расчеты в рублях, франках КФА, найрах, шиллингах и дирхамах с мгновенным подтверждением."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "festivals-culture",
+  "title": "Festivals & Culture",
+  "category": "events",
+  "description": "Promoting art exhibitions, musical summits, film festivals, and cultural heritage exchanges between Russia & Africa.",
+  "iconName": "Sparkles",
+  "badge": "Heritage",
+  "titleI18n": {
+    "en": "Festivals & Culture",
+    "fr": "Fêtes et culture",
+    "ru": "Фестивали и культура"
+  },
+  "descriptionI18n": {
+    "en": "Promoting art exhibitions, musical summits, film festivals, and cultural heritage exchanges between Russia & Africa.",
+    "fr": "Promouvoir des expositions d'art, des sommets musicaux, des festivals de films et des échanges de patrimoine culturel entre la Russie et l'Afrique.",
+    "ru": "Продвижение художественных выставок, музыкальных саммитов, кинофестивалей и обмена культурным наследием между Россией и Африкой."
+  },
+  "badgeI18n": {
+    "en": "Heritage",
+    "fr": "Patrimoine",
+    "ru": "Наследство"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 7
+}

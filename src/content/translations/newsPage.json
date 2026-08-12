@@ -1,0 +1,168 @@
+{
+  "namespace": "newsPage",
+  "adminLabelFr": "Page Actualités",
+  "entries": [
+    {
+      "key": "newsPage.hero.badge",
+      "en": "OFFICIAL DIPLOMATIC & TRADE PRESS WIRE",
+      "fr": "FIL DE PRESSE DIPLOMATIQUE ET COMMERCIAL OFFICIEL",
+      "ru": "ОФИЦИАЛЬНАЯ ДИПЛОМАТИЧЕСКАЯ И ТОРГОВАЯ ЛЕНТА"
+    },
+    {
+      "key": "newsPage.hero.titlePrefix",
+      "en": "News & Press",
+      "fr": "Actualités et presse",
+      "ru": "Новости и пресса"
+    },
+    {
+      "key": "newsPage.hero.titleAccent",
+      "en": "Intelligence Portal",
+      "fr": "Portail d’information stratégique",
+      "ru": "Информационно-аналитический портал"
+    },
+    {
+      "key": "newsPage.hero.subtitle",
+      "en": "Access verified press releases, university quota announcements, trade volume bulletins, and ministerial diplomatic briefs connecting Russia and 54 African nations.",
+      "fr": "Accédez aux communiqués vérifiés, annonces de quotas universitaires, bulletins commerciaux et notes diplomatiques reliant la Russie à 54 pays africains.",
+      "ru": "Получайте проверенные пресс-релизы, объявления об университетских квотах, торговые бюллетени и дипломатические обзоры о связях России с 54 странами Африки."
+    },
+    {
+      "key": "newsPage.hero.cta",
+      "en": "Read Latest Articles",
+      "fr": "Lire les derniers articles",
+      "ru": "Читать последние статьи"
+    },
+    {
+      "key": "newsPage.hero.chips.all",
+      "en": "All Intelligence",
+      "fr": "Toutes les analyses",
+      "ru": "Вся аналитика"
+    },
+    {
+      "key": "newsPage.hero.chips.diplomacy",
+      "en": "Diplomatic & Policy",
+      "fr": "Diplomatie et politique",
+      "ru": "Дипломатия и политика"
+    },
+    {
+      "key": "newsPage.hero.chips.trade",
+      "en": "Trade & Economy",
+      "fr": "Commerce et économie",
+      "ru": "Торговля и экономика"
+    },
+    {
+      "key": "newsPage.hero.chips.education",
+      "en": "Scholarships & Higher Ed",
+      "fr": "Bourses et enseignement supérieur",
+      "ru": "Стипендии и высшее образование"
+    },
+    {
+      "key": "newsPage.hero.slideLabel",
+      "en": "Slide {{number}}",
+      "fr": "Diapositive {{number}}",
+      "ru": "Слайд {{number}}"
+    },
+    {
+      "key": "newsPage.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "newsPage.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "newsPage.hero.slides.diplomacy.tag",
+      "en": "Diplomatic Press Conferences",
+      "fr": "Conférences de presse diplomatiques",
+      "ru": "Дипломатические пресс-конференции"
+    },
+    {
+      "key": "newsPage.hero.slides.diplomacy.caption",
+      "en": "Official intergovernmental media briefings & ministerial communiqués",
+      "fr": "Points presse intergouvernementaux officiels et communiqués ministériels",
+      "ru": "Официальные межправительственные брифинги и министерские коммюнике"
+    },
+    {
+      "key": "newsPage.hero.slides.trade.tag",
+      "en": "Bilateral Trade Intelligence",
+      "fr": "Renseignement commercial bilatéral",
+      "ru": "Аналитика двусторонней торговли"
+    },
+    {
+      "key": "newsPage.hero.slides.trade.caption",
+      "en": "Real-time economic bulletins, commodity benchmarks & tariff updates",
+      "fr": "Bulletins économiques en temps réel, références des matières premières et mises à jour tarifaires",
+      "ru": "Оперативные экономические бюллетени, товарные индикаторы и обновления тарифов"
+    },
+    {
+      "key": "newsPage.hero.slides.network.tag",
+      "en": "Global Information Network",
+      "fr": "Réseau mondial d’information",
+      "ru": "Глобальная информационная сеть"
+    },
+    {
+      "key": "newsPage.hero.slides.network.caption",
+      "en": "Cross-border news wire covering 54 African capitals & Eurasian centers",
+      "fr": "Fil d’actualités transfrontalier couvrant 54 capitales africaines et les centres eurasiens",
+      "ru": "Международная новостная лента из 54 африканских столиц и евразийских центров"
+    },
+    {
+      "key": "newsPage.hero.slides.analytics.tag",
+      "en": "Market & Policy Analytics",
+      "fr": "Analyses des marchés et politiques",
+      "ru": "Рыночная и политическая аналитика"
+    },
+    {
+      "key": "newsPage.hero.slides.analytics.caption",
+      "en": "In-depth financial analysis, quota announcements & legal regulatory briefs",
+      "fr": "Analyses financières approfondies, annonces de quotas et notes réglementaires",
+      "ru": "Углублённый финансовый анализ, объявления о квотах и правовые обзоры"
+    },
+    {
+      "key": "newsPage.reader.closeLabel",
+      "en": "Close news article",
+      "fr": "Fermer l’article",
+      "ru": "Закрыть новостную статью"
+    },
+    {
+      "key": "newsPage.reader.publishedBy",
+      "en": "Published by",
+      "fr": "Publié par",
+      "ru": "Опубликовано"
+    },
+    {
+      "key": "newsPage.reader.publisher",
+      "en": "AFRUS Press Bureau",
+      "fr": "Bureau de presse AFRUS",
+      "ru": "Пресс-бюро AFRUS"
+    },
+    {
+      "key": "newsPage.reader.close",
+      "en": "Close Article",
+      "fr": "Fermer l’article",
+      "ru": "Закрыть статью"
+    },
+    {
+      "key": "newsPage.articles.news-1.content",
+      "en": "In a major step to deepen academic cooperation, Russian federal authorities have allocated over 4,700 full government scholarships for the upcoming academic cycle. Programs cover medicine, artificial intelligence, agricultural engineering, nuclear energy, and international law. AFRUS helps applicants navigate state quotas, document certification, and university selection.",
+      "fr": "Dans une étape majeure pour approfondir la coopération universitaire, les autorités fédérales russes ont attribué plus de 4 700 bourses gouvernementales complètes pour le prochain cycle. Les programmes couvrent la médecine, l’intelligence artificielle, l’ingénierie agricole, l’énergie nucléaire et le droit international. AFRUS accompagne les candidats pour les quotas, la certification des documents et le choix de l’université.",
+      "ru": "В рамках углубления академического сотрудничества российские федеральные органы выделили более 4 700 полных государственных стипендий на предстоящий учебный цикл. Программы охватывают медицину, искусственный интеллект, агроинженерию, атомную энергетику и международное право. AFRUS помогает кандидатам с квотами, заверением документов и выбором университета."
+    },
+    {
+      "key": "newsPage.articles.news-2.content",
+      "en": "Trade analysis shows a sharp rise in direct shipments of Russian grain, sunflower oil, and environmentally friendly fertilizers to West and East Africa, while African coffee, cocoa, and exotic fruits are gaining ground in major Russian retail chains. AFRUS continues to support customs clearance and financial corridor solutions.",
+      "fr": "Les analyses montrent une forte hausse des expéditions directes de céréales, d’huile de tournesol et d’engrais écologiques russes vers l’Afrique de l’Ouest et de l’Est, tandis que le café, le cacao et les fruits exotiques africains progressent dans les grandes enseignes russes. AFRUS poursuit son soutien au dédouanement et aux solutions de paiement.",
+      "ru": "Торговая аналитика показывает резкий рост прямых поставок российского зерна, подсолнечного масла и экологичных удобрений в Западную и Восточную Африку. Африканские кофе, какао и экзотические фрукты расширяют присутствие в российских торговых сетях. AFRUS продолжает поддерживать таможенное оформление и финансовые коридоры."
+    },
+    {
+      "key": "newsPage.articles.news-3.content",
+      "en": "Designed for international CEOs, government ministers, investors, and trade delegations, AFRUS Concierge provides end-to-end luxury hospitality in Moscow, St. Petersburg, and regional economic capitals. From private jet charters to tailored B2B matchmaking, the service guarantees confidentiality and prestige.",
+      "fr": "Destinée aux dirigeants internationaux, ministres, investisseurs et délégations commerciales, la conciergerie AFRUS fournit une hospitalité haut de gamme complète à Moscou, Saint-Pétersbourg et dans les capitales économiques régionales. Des jets privés à la mise en relation B2B, le service garantit confidentialité et prestige.",
+      "ru": "Консьерж-сервис AFRUS для международных руководителей, министров, инвесторов и торговых делегаций обеспечивает комплексное премиальное обслуживание в Москве, Санкт-Петербурге и региональных экономических столицах. От чартеров частных самолётов до индивидуального B2B-подбора партнёров — сервис гарантирует конфиденциальность и престиж."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "store-crafts",
+  "title": "Store & Crafts",
+  "category": "trade",
+  "description": "Curated showroom of authentic African coffee, tea, fashion, jewelry, home decor, and handcrafted products.",
+  "iconName": "ShoppingBag",
+  "badge": "Showroom",
+  "titleI18n": {
+    "en": "Store & Crafts",
+    "fr": "Magasin et artisanat",
+    "ru": "Магазин и ремесла"
+  },
+  "descriptionI18n": {
+    "en": "Curated showroom of authentic African coffee, tea, fashion, jewelry, home decor, and handcrafted products.",
+    "fr": "Showroom organisé de café, de thé, de mode, de bijoux, de décoration intérieure et de produits artisanaux africains authentiques.",
+    "ru": "Кураторский выставочный зал настоящего африканского кофе, чая, модной одежды, ювелирных изделий, домашнего декора и изделий ручной работы."
+  },
+  "badgeI18n": {
+    "en": "Showroom",
+    "fr": "Salle d'exposition",
+    "ru": "Выставочный зал"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 6
+}

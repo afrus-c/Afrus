@@ -1,0 +1,21 @@
+[Unit]
+Description=AFRUS GitHub OAuth service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=afrus
+Group=afrus
+WorkingDirectory=/opt/afrus-oauth
+EnvironmentFile=/etc/afrus/oauth.env
+ExecStart=/usr/bin/node server/oauth-server.mjs
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+
+[Install]
+WantedBy=multi-user.target

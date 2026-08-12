@@ -1,0 +1,10 @@
+{
+  "id": "flags--african-country-flags",
+  "categoryId": "flags",
+  "name": "African Country Flags",
+  "nameI18n": {
+    "en": "African Country Flags",
+    "fr": "Drapeaux des Pays Africains",
+    "ru": "Флаги Стран Африки"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "event-4",
+  "title": "Energy & Mining Technology Bilateral Roundtable",
+  "type": "Networking",
+  "date": "December 02, 2026",
+  "location": "Kazan / Johannesburg Executive Center",
+  "description": "Focusing on geological exploration, clean energy transitions, mining machinery supply chains, and technology transfers.",
+  "image": "/uploads/editorial/commodity_strategic_minerals_1785939095875.jpg",
+  "speakers": [
+    "Geological Survey Directors",
+    "Mining Equipment Executives"
+  ],
+  "isUpcoming": true,
+  "titleI18n": {
+    "en": "Energy & Mining Technology Bilateral Roundtable",
+    "fr": "Table Ronde Bilatérale sur les Technologies Énergétiques et Minières",
+    "ru": "Круглый Стол по Энергетическим и Горнодобывающим Технологиям"
+  },
+  "typeI18n": {
+    "en": "Networking",
+    "fr": "Réseautage",
+    "ru": "Нетворкинг"
+  },
+  "dateI18n": {
+    "en": "December 02, 2026",
+    "fr": "02 Décembre 2026",
+    "ru": "02 Декабря 2026"
+  },
+  "locationI18n": {
+    "en": "Kazan / Johannesburg Executive Center",
+    "fr": "Kazan / Centre Exécutif de Johannesburg",
+    "ru": "Казань / Бизнес-центр Йоханнесбурга"
+  },
+  "descriptionI18n": {
+    "en": "Focusing on geological exploration, clean energy transitions, mining machinery supply chains, and technology transfers.",
+    "fr": "Focus sur l'exploration géologique, les transitions vers les énergies propres, les chaînes d'approvisionnement d'équipements miniers et le transfert de technologies.",
+    "ru": "Геологоразведка, переход к чистой энергетике, поставки горношахтного оборудования и трансфер технологий."
+  }
+}

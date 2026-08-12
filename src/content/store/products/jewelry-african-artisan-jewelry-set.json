@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-african-artisan-jewelry-set",
+    "title":  "African Artisan Jewelry Set",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Cultural Jewelry",
+    "priceUsd": 75,
+    "priceRub": 6900,
+    "origin":  "Lagos, Nigeria",
+    "description":  "A coordinated jewelry set inspired by African craftsmanship, combining complementary accessories with distinctive patterns and handcrafted character. Suitable for cultural occasions, gifting, and collectors.",
+    "image":  "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Complete Set",
+    "brand":  "Yoruba Heritage Studio",
+    "inventoryCount":  15,
+    "titleI18n":  {
+                      "en":  "African Artisan Jewelry Set",
+                      "fr":  "Parure de Bijoux Artisanaux Africains",
+                      "ru":  "Африканский Ювелирный Комплект"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A coordinated jewelry set inspired by African craftsmanship, combining complementary accessories with distinctive patterns and handcrafted character. Suitable for cultural occasions, gifting, and collectors.",
+                            "fr":  "Ensemble collier et boucles d\u0027oreilles assortis faits main avec des perles naturelles.",
+                            "ru":  "Комплект из колье и серег ручной работы."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--cultural-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Полный комплект",
+                      "en":  "Complete Set",
+                      "fr":  "Ensemble complet"
+                  }
+}

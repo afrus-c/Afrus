@@ -1,0 +1,41 @@
+{
+    "id":  "jersey-african-club-inspired",
+    "title":  "African Club Inspired Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Club Jerseys",
+    "priceUsd": 49,
+    "priceRub": 4508,
+    "origin":  "AFRUS Club",
+    "description":  "A football jersey inspired by African club football, featuring an original design with bold colors and contemporary sporting aesthetics.",
+    "image":  "/uploads/store/jersey_african_club_1786180090752.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Club Special",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  14,
+    "titleI18n":  {
+                      "en":  "African Club Inspired Jersey",
+                      "fr":  "Maillot Inspiré de Club Africain",
+                      "ru":  "Клубная Джерси в Африканском Дизайне"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A football jersey inspired by African club football, featuring an original design with bold colors and contemporary sporting aesthetics.",
+                            "fr":  "Maillot de football de club distingué orné de graphismes tribaux.",
+                            "ru":  "Клубная форма с традиционными африканскими эмблемами."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--club-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Клубное специальное предложение",
+                      "en":  "Club Special",
+                      "fr":  "Spécial Club"
+                  }
+}

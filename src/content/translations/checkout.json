@@ -1,0 +1,336 @@
+{
+  "namespace": "checkout",
+  "adminLabelFr": "Commande et paiement",
+  "entries": [
+    {
+      "key": "checkout.title",
+      "en": "Complete Your Order Inquiry",
+      "fr": "Finaliser la Demande de Commande",
+      "ru": "Оформление Заказа"
+    },
+    {
+      "key": "checkout.subtitle",
+      "en": "Review your selected items and confirm delivery details via WhatsApp or Telegram.",
+      "fr": "Vérifiez vos articles sélectionnés et confirmez vos coordonnées de livraison via WhatsApp ou Telegram.",
+      "ru": "Проверьте выбранные товары и подтвердите детали доставки через WhatsApp или Telegram."
+    },
+    {
+      "key": "checkout.cart_summary",
+      "en": "Order Summary",
+      "fr": "Détails de la Commande",
+      "ru": "Состав Заказа"
+    },
+    {
+      "key": "checkout.contact_details",
+      "en": "Customer Details",
+      "fr": "Coordonnées du Client",
+      "ru": "Данные Покупателя"
+    },
+    {
+      "key": "checkout.full_name",
+      "en": "Full Name",
+      "fr": "Nom Complet",
+      "ru": "ФИО / Имя"
+    },
+    {
+      "key": "checkout.email",
+      "en": "Email Address",
+      "fr": "Adresse E-mail",
+      "ru": "Электронная почта"
+    },
+    {
+      "key": "checkout.phone",
+      "en": "Phone / WhatsApp Number",
+      "fr": "Numéro de Téléphone / WhatsApp",
+      "ru": "Телефон / WhatsApp"
+    },
+    {
+      "key": "checkout.delivery_address",
+      "en": "Delivery Address",
+      "fr": "Adresse de Livraison",
+      "ru": "Адрес Доставки"
+    },
+    {
+      "key": "checkout.city",
+      "en": "City",
+      "fr": "Ville",
+      "ru": "Город"
+    },
+    {
+      "key": "checkout.country",
+      "en": "Country",
+      "fr": "Pays",
+      "ru": "Страна"
+    },
+    {
+      "key": "checkout.notes",
+      "en": "Order Notes or Special Instructions",
+      "fr": "Remarques ou Instructions Spéciales",
+      "ru": "Комментарий к заказу"
+    },
+    {
+      "key": "checkout.send_order_whatsapp",
+      "en": "Confirm & Order via WhatsApp",
+      "fr": "Confirmer & Commander via WhatsApp",
+      "ru": "Подтвердить и заказать через WhatsApp"
+    },
+    {
+      "key": "checkout.send_order_telegram",
+      "en": "Confirm & Order via Telegram",
+      "fr": "Confirmer & Commander via Telegram",
+      "ru": "Подтвердить и заказать через Telegram"
+    },
+    {
+      "key": "checkout.delivery_method",
+      "en": "Select Delivery Method",
+      "fr": "Mode de Livraison",
+      "ru": "Способ Доставки"
+    },
+    {
+      "key": "checkout.cdek_courier",
+      "en": "CDEK Courier Express",
+      "fr": "Express CDEK",
+      "ru": "Курьер СДЭК"
+    },
+    {
+      "key": "checkout.moscow_pickup",
+      "en": "Moscow Showroom Pickup",
+      "fr": "Retrait Showroom Moscou",
+      "ru": "Самовывоз из Шоурума в Москве"
+    },
+    {
+      "key": "checkout.russian_post",
+      "en": "Russian Post (Pochta)",
+      "fr": "Poste Russe (Pochta)",
+      "ru": "Почта России"
+    },
+    {
+      "key": "checkout.africa_shipping",
+      "en": "Africa Shipping",
+      "fr": "Expédition Afrique",
+      "ru": "Доставка в Африку"
+    },
+    {
+      "key": "checkout.empty_title",
+      "en": "Your Order Inquiry Cart is Empty",
+      "fr": "Votre panier de demande de commande est vide",
+      "ru": "Корзина запроса заказа пуста"
+    },
+    {
+      "key": "checkout.empty_description",
+      "en": "Please select items from the AFRUS Store catalog to build your order inquiry.",
+      "fr": "Sélectionnez des articles du catalogue AFRUS pour préparer votre demande.",
+      "ru": "Выберите товары из каталога AFRUS, чтобы сформировать запрос заказа."
+    },
+    {
+      "key": "checkout.browse_store",
+      "en": "Browse AFRUS Store",
+      "fr": "Parcourir la boutique AFRUS",
+      "ru": "Перейти в магазин AFRUS"
+    },
+    {
+      "key": "checkout.back_store",
+      "en": "Back to Store",
+      "fr": "Retour à la boutique",
+      "ru": "Вернуться в магазин"
+    },
+    {
+      "key": "checkout.ready",
+      "en": "Order Inquiry Ready",
+      "fr": "Demande de commande prête",
+      "ru": "Запрос заказа готов"
+    },
+    {
+      "key": "checkout.how_it_works",
+      "en": "How Order Inquiries Work at AFRUS Store",
+      "fr": "Fonctionnement des demandes de commande AFRUS",
+      "ru": "Как работают запросы заказов в AFRUS"
+    },
+    {
+      "key": "checkout.explanation",
+      "en": "The AFRUS Store operates as a product discovery and order inquiry system. No online payment details or credit cards are collected on this website. Send your structured cart via WhatsApp or Telegram to confirm product availability, final shipping options, delivery times, and direct payment arrangements with the AFRUS team.",
+      "fr": "La boutique AFRUS est un système de découverte de produits et de demandes de commande. Aucune donnée de paiement ni carte bancaire n’est collectée sur ce site. Envoyez votre panier structuré par WhatsApp ou Telegram pour confirmer la disponibilité, la livraison, les délais et les modalités de paiement directes avec AFRUS.",
+      "ru": "Магазин AFRUS предназначен для выбора товаров и отправки запросов на заказ. Платёжные данные и банковские карты на сайте не собираются. Отправьте сформированную корзину через WhatsApp или Telegram, чтобы уточнить наличие, доставку, сроки и прямые условия оплаты с командой AFRUS."
+    },
+    {
+      "key": "checkout.qty",
+      "en": "Qty:",
+      "fr": "Qté :",
+      "ru": "Кол-во:"
+    },
+    {
+      "key": "checkout.item_subtotal",
+      "en": "Item Subtotal:",
+      "fr": "Sous-total de l’article :",
+      "ru": "Сумма товара:"
+    },
+    {
+      "key": "checkout.estimated_cart_total",
+      "en": "Estimated Cart Total",
+      "fr": "Total estimé du panier",
+      "ru": "Предварительная сумма корзины"
+    },
+    {
+      "key": "checkout.dual_currency",
+      "en": "Dual Currency ($ & ₽)",
+      "fr": "Double devise ($ et ₽)",
+      "ru": "Две валюты ($ и ₽)"
+    },
+    {
+      "key": "checkout.optional_info",
+      "en": "Optional Customer Information (Appended to Message)",
+      "fr": "Informations client facultatives (ajoutées au message)",
+      "ru": "Дополнительные данные клиента (будут добавлены в сообщение)"
+    },
+    {
+      "key": "checkout.your_name",
+      "en": "Your Name",
+      "fr": "Votre nom",
+      "ru": "Ваше имя"
+    },
+    {
+      "key": "checkout.name_placeholder",
+      "en": "e.g., Amara Okafor",
+      "fr": "ex. Amara Okafor",
+      "ru": "например, Амара Окафор"
+    },
+    {
+      "key": "checkout.delivery_location",
+      "en": "Delivery City / Country",
+      "fr": "Ville / pays de livraison",
+      "ru": "Город / страна доставки"
+    },
+    {
+      "key": "checkout.location_placeholder",
+      "en": "e.g., Moscow, Russia / Lagos, Nigeria",
+      "fr": "ex. Moscou, Russie / Lagos, Nigeria",
+      "ru": "например, Москва, Россия / Лагос, Нигерия"
+    },
+    {
+      "key": "checkout.special_note",
+      "en": "Special Delivery Note / Questions",
+      "fr": "Instructions de livraison / questions",
+      "ru": "Примечание к доставке / вопросы"
+    },
+    {
+      "key": "checkout.note_placeholder",
+      "en": "e.g., Express courier requested / Requesting custom sizes",
+      "fr": "ex. Livraison express souhaitée / tailles personnalisées",
+      "ru": "например, требуется экспресс-доставка / индивидуальные размеры"
+    },
+    {
+      "key": "checkout.message_preview",
+      "en": "Generated Message Preview",
+      "fr": "Aperçu du message généré",
+      "ru": "Предпросмотр сообщения"
+    },
+    {
+      "key": "checkout.copied",
+      "en": "Copied!",
+      "fr": "Copié !",
+      "ru": "Скопировано!"
+    },
+    {
+      "key": "checkout.copy_message",
+      "en": "Copy Message",
+      "fr": "Copier le message",
+      "ru": "Скопировать сообщение"
+    },
+    {
+      "key": "checkout.estimated_total",
+      "en": "Estimated Total",
+      "fr": "Total estimé",
+      "ru": "Предварительная сумма"
+    },
+    {
+      "key": "checkout.send_whatsapp",
+      "en": "Send Order via WhatsApp",
+      "fr": "Envoyer la commande par WhatsApp",
+      "ru": "Отправить заказ через WhatsApp"
+    },
+    {
+      "key": "checkout.send_telegram",
+      "en": "Send Order via Telegram",
+      "fr": "Envoyer la commande par Telegram",
+      "ru": "Отправить заказ через Telegram"
+    },
+    {
+      "key": "checkout.text_copied",
+      "en": "Text Copied to Clipboard!",
+      "fr": "Texte copié dans le presse-papiers !",
+      "ru": "Текст скопирован!"
+    },
+    {
+      "key": "checkout.copy_order",
+      "en": "Copy Order Text",
+      "fr": "Copier le texte de la commande",
+      "ru": "Скопировать текст заказа"
+    },
+    {
+      "key": "checkout.assurances.response",
+      "en": "Direct response from AFRUS sales team with availability confirmation.",
+      "fr": "Réponse directe de l’équipe commerciale AFRUS avec confirmation de disponibilité.",
+      "ru": "Прямой ответ отдела продаж AFRUS с подтверждением наличия."
+    },
+    {
+      "key": "checkout.assurances.payment",
+      "en": "Flexible payment options arranged directly via agreed channels.",
+      "fr": "Options de paiement flexibles organisées directement par les canaux convenus.",
+      "ru": "Гибкие варианты оплаты согласовываются напрямую."
+    },
+    {
+      "key": "checkout.assurances.shipping",
+      "en": "Express courier & dispatch across Moscow, Russia, and Africa.",
+      "fr": "Expédition express à Moscou, en Russie et en Afrique.",
+      "ru": "Экспресс-доставка по Москве, России и странам Африки."
+    },
+    {
+      "key": "checkout.review_label",
+      "en": "Order Review & Inquiry",
+      "fr": "Vérification et demande de commande",
+      "ru": "Проверка и запрос заказа"
+    },
+    {
+      "key": "checkout.review_title",
+      "en": "Review Your Order Inquiry",
+      "fr": "Vérifiez votre demande de commande",
+      "ru": "Проверьте запрос заказа"
+    },
+    {
+      "key": "checkout.review_description",
+      "en": "Verify your selected items and send your order directly to AFRUS via WhatsApp or Telegram.",
+      "fr": "Vérifiez les articles sélectionnés et envoyez votre commande directement à AFRUS via WhatsApp ou Telegram.",
+      "ru": "Проверьте выбранные товары и отправьте заказ напрямую в AFRUS через WhatsApp или Telegram."
+    },
+    {
+      "key": "checkout.send_heading",
+      "en": "Send Order Inquiry",
+      "fr": "Envoyer la demande de commande",
+      "ru": "Отправить запрос заказа"
+    },
+    {
+      "key": "checkout.send_description",
+      "en": "Select your preferred messenger to connect with AFRUS.",
+      "fr": "Sélectionnez votre messagerie préférée pour contacter AFRUS.",
+      "ru": "Выберите удобный мессенджер для связи с AFRUS."
+    },
+    {
+      "key": "checkout.continue_shopping",
+      "en": "Continue Shopping",
+      "fr": "Continuer mes achats",
+      "ru": "Продолжить покупки"
+    },
+    {
+      "key": "checkout.shipping_method",
+      "en": "Shipping method",
+      "fr": "Mode de livraison",
+      "ru": "Способ доставки"
+    },
+    {
+      "key": "checkout.free",
+      "en": "Free",
+      "fr": "Gratuit",
+      "ru": "Бесплатно"
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "namespace": "homePage",
+  "adminLabelFr": "Page d’accueil",
+  "entries": [
+    {
+      "key": "homePage.home.text_001",
+      "en": "AFRUS Trade Showroom",
+      "fr": "Salle d'Exposition AFRUS",
+      "ru": "Шоурум AFRUS"
+    },
+    {
+      "key": "homePage.home.text_002",
+      "en": "Featured Store Preview",
+      "fr": "Aperçu de la Boutique",
+      "ru": "Витрина Магазина"
+    },
+    {
+      "key": "homePage.home.text_003",
+      "en": "Visit AFRUS Store",
+      "fr": "Visiter la Boutique AFRUS",
+      "ru": "Посетить Магазин AFRUS"
+    },
+    {
+      "key": "homePage.home.text_004",
+      "en": "View Product",
+      "fr": "Voir le Produit",
+      "ru": "Посмотреть Товар"
+    },
+    {
+      "key": "homePage.home.text_005",
+      "en": "Bilateral Forums & Summits",
+      "fr": "Forums Bilatéraux & Sommets",
+      "ru": "Двусторонние Форумы и Саммиты"
+    },
+    {
+      "key": "homePage.home.text_006",
+      "en": "Upcoming Events Preview",
+      "fr": "Aperçu des Événements à Venir",
+      "ru": "Предстоящие События"
+    },
+    {
+      "key": "homePage.home.text_007",
+      "en": "View All Events",
+      "fr": "Voir Tous les Événements",
+      "ru": "Все События"
+    },
+    {
+      "key": "homePage.home.text_008",
+      "en": "View Event Details",
+      "fr": "Voir les Détails de l'Événement",
+      "ru": "Подробнее о Событии"
+    },
+    {
+      "key": "homePage.home.text_009",
+      "en": "Bilateral News & Articles",
+      "fr": "Actualités Bilatérales & Articles",
+      "ru": "Двусторонние Новости и Статьи"
+    },
+    {
+      "key": "homePage.home.text_010",
+      "en": "Latest News Preview",
+      "fr": "Aperçu des Dernières Actualités",
+      "ru": "Предстоящие Новости"
+    },
+    {
+      "key": "homePage.home.text_011",
+      "en": "Visit News Hub",
+      "fr": "Visiter le Centre d'Actualités",
+      "ru": "Перейти в Новости"
+    },
+    {
+      "key": "homePage.home.text_012",
+      "en": "Read Article",
+      "fr": "Lire l'Article",
+      "ru": "Читать Статью"
+    },
+    {
+      "key": "homePage.home.text_013",
+      "en": "Ready to Connect Russia and Africa?",
+      "fr": "Prêt à Connecter la Russie et l'Afrique ?",
+      "ru": "Готовы Связать Россию и Африку?"
+    },
+    {
+      "key": "homePage.home.text_014",
+      "en": "Contact AFRUS for trade, education, business, cultural, and professional services.",
+      "fr": "Contactez AFRUS pour le commerce, l'éducation, les affaires, la culture et les services professionnels.",
+      "ru": "Свяжитесь с AFRUS по вопросам торговли, образования, бизнеса, культуры и услуг."
+    },
+    {
+      "key": "homePage.home.text_015",
+      "en": "Contact AFRUS",
+      "fr": "Contacter AFRUS",
+      "ru": "Связаться с AFRUS"
+    },
+    {
+      "key": "homePage.home.text_016",
+      "en": "Email",
+      "fr": "Courriel",
+      "ru": "Эл. почта"
+    },
+    {
+      "key": "homePage.home.text_017",
+      "en": "WhatsApp Russia",
+      "fr": "WhatsApp Russie",
+      "ru": "WhatsApp Россия"
+    },
+    {
+      "key": "homePage.home.text_018",
+      "en": "Africa Hotline (Calls Only)",
+      "fr": "Ligne Directe Afrique (Appels Uniquement)",
+      "ru": "Горячая Линия Африка (Звонки)"
+    },
+    {
+      "key": "homePage.home.misc_whatsapp_message",
+      "en": "Hello AFRUS, I would like to schedule a consultation regarding Russia–Africa opportunities.",
+      "fr": "Bonjour AFRUS, je souhaite planifier une consultation concernant les opportunités entre la Russie et l’Afrique.",
+      "ru": "Здравствуйте, AFRUS! Я хотел(а) бы запланировать консультацию по возможностям сотрудничества между Россией и Африкой."
+    },
+    {
+      "key": "homePage.hero.text_001",
+      "en": "54 African Nations Covered",
+      "fr": "54 pays africains couverts",
+      "ru": "54 Африканских Наций"
+    },
+    {
+      "key": "homePage.hero.text_002",
+      "en": "Verified Bilateral Network",
+      "fr": "Réseau Bilatéral Vérifié",
+      "ru": "Проверенная Двусторонняя Сеть"
+    },
+    {
+      "key": "homePage.hero.text_003",
+      "en": "Executive Support",
+      "fr": "Support Exécutif",
+      "ru": "Исполнительная Поддержка"
+    },
+    {
+      "key": "homePage.hero.text_004",
+      "en": "Scroll to Explore",
+      "fr": "Défiler pour Explorer",
+      "ru": "Прокрутите для Просмотра"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_001",
+      "en": "Nations Integrated",
+      "fr": "Nations Intégrées",
+      "ru": "Страны в Сети"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_002",
+      "en": "Bilateral Partnership Network",
+      "fr": "Réseau de Partenariat Bilatéral",
+      "ru": "Сеть Партнерства"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_003",
+      "en": "Introduction to AFRUS",
+      "fr": "Présentation d'AFRUS",
+      "ru": "Знакомство с AFRUS"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_004",
+      "en": "Bridging Nations & Unlocking New Opportunities",
+      "fr": "Relier les Nations & Révéler les Opportunités",
+      "ru": "Связывая Страны и Открывая Возможности"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_005",
+      "en": "AFRUS is an international platform building connections between Russia and Africa through trade, education, business expansion, cultural exchange, and professional services.",
+      "fr": "AFRUS est une plateforme internationale renforçant les liens entre la Russie et l'Afrique par le commerce, l'éducation, les affaires, la culture et les services professionnels.",
+      "ru": "AFRUS — международная платформа, развивающая связи между Россией и Африкой через торговлю, образование, бизнес и культуру."
+    },
+    {
+      "key": "homePage.aboutAfrus.text_006",
+      "en": "Verified Trade & Logistics",
+      "fr": "Commerce & Logistique Vérifiés",
+      "ru": "Проверенная Логистика"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_007",
+      "en": "State University Admissions",
+      "fr": "Admissions Universitaires d'État",
+      "ru": "Поступление в Университеты"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_008",
+      "en": "Corporate Market Expansion",
+      "fr": "Expansion Commerciale & Marchés",
+      "ru": "Расширение Бизнеса"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_009",
+      "en": "VIP Diplomatic Concierge",
+      "fr": "Conciergerie Diplomatique VIP",
+      "ru": "VIP Консьерж Сервис"
+    },
+    {
+      "key": "homePage.aboutAfrus.text_010",
+      "en": "Discover AFRUS",
+      "fr": "Découvrir AFRUS",
+      "ru": "Узнать больше о AFRUS"
+    },
+    {
+      "key": "homePage.aboutAfrus.misc_hero_alt",
+      "en": "AFRUS Gateway Connecting Russia and Africa",
+      "fr": "Passerelle AFRUS reliant la Russie et l’Afrique",
+      "ru": "AFRUS — мост между Россией и Африкой"
+    },
+    {
+      "key": "homePage.quickServices.text_001",
+      "en": "Gateway Solutions",
+      "fr": "Solutions Passerelle",
+      "ru": "Ключевые Направления"
+    },
+    {
+      "key": "homePage.quickServices.text_002",
+      "en": "Our Bilateral Services & Opportunities",
+      "fr": "Nos Services Bilatéraux & Opportunités",
+      "ru": "Наши Двусторонние Услуги и Сервисы"
+    },
+    {
+      "key": "homePage.quickServices.text_003",
+      "en": "A quick overview of our primary service divisions bridging Russia and African nations. Click any solution to explore full details on its dedicated page.",
+      "fr": "Aperçu rapide de nos pôles de services reliant la Russie et les pays africains. Cliquez sur une option pour découvrir tous les détails.",
+      "ru": "Краткий обзор основных направлений работы между Россией и странами Африки. Нажмите на раздел для перехода."
+    },
+    {
+      "key": "homePage.quickServices.text_004",
+      "en": "Learn More",
+      "fr": "En Savoir Plus",
+      "ru": "Подробнее"
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_001",
+      "en": "Trusted Information",
+      "fr": "Information Vérifiée",
+      "ru": "Проверенная Информация"
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_002",
+      "en": "Verified information about education opportunities, trade regulations, and market opportunities across Russia and Africa.",
+      "fr": "Informations vérifiées sur les opportunités éducatives, réglementations commerciales et marchés en Russie et en Afrique.",
+      "ru": "Проверенная информация об образовании, торговле и возможностях рынка в России и Африке."
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_003",
+      "en": "International Network",
+      "fr": "Réseau International",
+      "ru": "Международная Сеть"
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_004",
+      "en": "Established connections across Russia and African markets bridging institutions, universities, and trade leadership.",
+      "fr": "Réseau solide reliant les institutions russes et africaines, les universités d'État et les décideurs commerciaux.",
+      "ru": "Связи на рынках России и Африки между институтами, университетами и бизнес-сообществом."
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_005",
+      "en": "Business Opportunities",
+      "fr": "Opportunités d'Affaires",
+      "ru": "Бизнес Возможности"
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_006",
+      "en": "Support for strategic partnerships, high-yield investments, trade corridors, and corporate market expansion.",
+      "fr": "Accompagnement des partenariats stratégiques, investissements à fort rendement, corridors commerciaux et expansion.",
+      "ru": "Поддержка стратегического партнерства, инвестиций, торговых коридоров и расширения бизнеса."
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_007",
+      "en": "Professional Support",
+      "fr": "Support Professionnel",
+      "ru": "Профессиональная Поддержка"
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_008",
+      "en": "Multilingual translation, travel assistance, VIP concierge services, visa support, and expert guidance.",
+      "fr": "Traduction multilingue certifiée, assistance voyage, conciergerie VIP, visas et accompagnement d'experts.",
+      "ru": "Мультиязычный перевод, поддержка поездок, VIP-консьерж, визы и экспертная помощь."
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_009",
+      "en": "The AFRUS Advantage",
+      "fr": "L'Avantage AFRUS",
+      "ru": "Преимущества AFRUS"
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_010",
+      "en": "Why Choose AFRUS?",
+      "fr": "Pourquoi Choisir AFRUS ?",
+      "ru": "Почему Выбирают AFRUS?"
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_011",
+      "en": "Built on integrity, diplomatic prestige, and operational excellence to ensure your success across Russia and Africa.",
+      "fr": "Fondé sur l'intégrité, le prestige diplomatique et l'excellence opérationnelle pour garantir votre succès.",
+      "ru": "Основан на надежности, дипломатическом статусе и высоком качестве услуг для вашего успеха."
+    },
+    {
+      "key": "homePage.whyChooseAfrus.text_012",
+      "en": "Verified Standard",
+      "fr": "Norme Vérifiée",
+      "ru": "Проверенный Стандарт"
+    },
+    {
+      "key": "homePage.navbar.text_001",
+      "en": "Home",
+      "fr": "Accueil",
+      "ru": "Главная"
+    },
+    {
+      "key": "homePage.navbar.text_002",
+      "en": "Trade",
+      "fr": "Commerce",
+      "ru": "Торговля"
+    },
+    {
+      "key": "homePage.navbar.text_003",
+      "en": "Bulk agricultural, machinery & minerals",
+      "fr": "Agroalimentaire, machines & minerais",
+      "ru": "Сельхозпродукция, оборудование и минералы"
+    },
+    {
+      "key": "homePage.navbar.text_004",
+      "en": "Export & Import Catalog",
+      "fr": "Catalogue Import/Export",
+      "ru": "Каталог Экспорта и Импорта"
+    },
+    {
+      "key": "homePage.navbar.text_005",
+      "en": "Customs clearance & bilateral trade flow",
+      "fr": "Dédouanement & flux commerciaux bilatéraux",
+      "ru": "Таможенное оформление и торговый поток"
+    },
+    {
+      "key": "homePage.navbar.text_006",
+      "en": "RUB, XAF, NGN cross-border payment corridors",
+      "fr": "Corridors de paiement transfrontaliers RUB, XAF, NGN",
+      "ru": "Межгосударственные переводы РУБ, XAF, NGN"
+    },
+    {
+      "key": "homePage.navbar.text_007",
+      "en": "Education",
+      "fr": "Éducation",
+      "ru": "Образование"
+    },
+    {
+      "key": "homePage.navbar.text_008",
+      "en": "Russian state universities & scholarship quotas",
+      "fr": "Universités d'État russes & quotas de bourses",
+      "ru": "Вузы России и государственные квоты"
+    },
+    {
+      "key": "homePage.navbar.text_009",
+      "en": "Learn English Academy",
+      "fr": "Académie d'Anglais",
+      "ru": "Академия Английского Языка"
+    },
+    {
+      "key": "homePage.navbar.text_010",
+      "en": "C1 Business English & conversational fluency",
+      "fr": "Anglais des affaires C1 & fluidité orale",
+      "ru": "Деловой английский С1 и разговорная речь"
+    },
+    {
+      "key": "homePage.navbar.text_011",
+      "en": "Learn French Academy",
+      "fr": "Académie de Français",
+      "ru": "Академия Французского Языка"
+    },
+    {
+      "key": "homePage.navbar.text_012",
+      "en": "West & Central African trade French immersion",
+      "fr": "Immersion en français des affaires africain",
+      "ru": "Деловой французский язык для торговли в Африке"
+    },
+    {
+      "key": "homePage.navbar.text_013",
+      "en": "Business",
+      "fr": "Affaires",
+      "ru": "Бизнес"
+    },
+    {
+      "key": "homePage.navbar.text_014",
+      "en": "Legal entity setup (LLC), SEZs & bank accounts",
+      "fr": "Création de société (ООО), ZEZ & comptes bancaires",
+      "ru": "Регистрация ООО, ОЭЗ и банковские счета"
+    },
+    {
+      "key": "homePage.navbar.text_015",
+      "en": "Market expansion across 54 African nations",
+      "fr": "Expansion commerciale dans 54 pays africains",
+      "ru": "Выход на рынки 54 стран Африки"
+    },
+    {
+      "key": "homePage.navbar.text_016",
+      "en": "Economic Forum",
+      "fr": "Forum Économique",
+      "ru": "Экономический Форум"
+    },
+    {
+      "key": "homePage.navbar.text_017",
+      "en": "Bilateral B2B summits & delegation visits",
+      "fr": "Sommets B2B bilatéraux & visites de délégations",
+      "ru": "Двусторонние B2B саммиты и бизнес-миссии"
+    },
+    {
+      "key": "homePage.navbar.text_018",
+      "en": "Concierge",
+      "fr": "Conciergerie",
+      "ru": "Консьерж"
+    },
+    {
+      "key": "homePage.navbar.text_019",
+      "en": "AFRUS Store",
+      "fr": "Boutique AFRUS",
+      "ru": "Магазин AFRUS"
+    },
+    {
+      "key": "homePage.navbar.text_020",
+      "en": "Events",
+      "fr": "Événements",
+      "ru": "События"
+    },
+    {
+      "key": "homePage.navbar.text_021",
+      "en": "All Events & Summits",
+      "fr": "Tous les Événements & Sommets",
+      "ru": "Все События и Саммиты"
+    },
+    {
+      "key": "homePage.navbar.text_022",
+      "en": "Calendar of bilateral forums & expos",
+      "fr": "Calendrier des forums bilatéraux & salons",
+      "ru": "Календарь форумов и выставок"
+    },
+    {
+      "key": "homePage.navbar.text_023",
+      "en": "Cultural Festivals",
+      "fr": "Festivals Culturels",
+      "ru": "Культурные Фестивали"
+    },
+    {
+      "key": "homePage.navbar.text_024",
+      "en": "Pan-African heritage, art & film festivals",
+      "fr": "Patrimoine panafricain, festivals d'art & cinéma",
+      "ru": "Панафриканское наследие, арт и кинофестивали"
+    },
+    {
+      "key": "homePage.navbar.text_025",
+      "en": "Economic Forum",
+      "fr": "Forum Économique",
+      "ru": "Экономический Форум"
+    },
+    {
+      "key": "homePage.navbar.text_026",
+      "en": "High-level ministerial roundtables",
+      "fr": "Tables rondes ministérielles de haut niveau",
+      "ru": "Министерские круглые столы высокого уровня"
+    },
+    {
+      "key": "homePage.navbar.text_027",
+      "en": "News",
+      "fr": "Actualités",
+      "ru": "Новости"
+    },
+    {
+      "key": "homePage.navbar.text_028",
+      "en": "About",
+      "fr": "À Propos",
+      "ru": "О нас"
+    },
+    {
+      "key": "homePage.navbar.text_029",
+      "en": "Contact",
+      "fr": "Contact",
+      "ru": "Контакты"
+    },
+    {
+      "key": "homePage.navbar.text_030",
+      "en": "AFRUS Curated Store",
+      "fr": "Boutique Sélectionnée AFRUS",
+      "ru": "Избранный Магазин AFRUS"
+    },
+    {
+      "key": "homePage.navbar.text_031",
+      "en": "Showroom",
+      "fr": "Espace Dédié",
+      "ru": "Шоурум"
+    },
+    {
+      "key": "homePage.navbar.text_032",
+      "en": "Authentic African art, apparel, foods, flags & collectibles",
+      "fr": "Art africain authentique, vêtements, alimentation, drapeaux & collections",
+      "ru": "Аутентичное африканское искусство, одежда, продукты и сувениры"
+    },
+    {
+      "key": "homePage.navbar.text_033",
+      "en": "Visit Store",
+      "fr": "Visiter la Boutique",
+      "ru": "Перейти в Магазин"
+    },
+    {
+      "key": "homePage.navbar.text_034",
+      "en": "Featured Quick Links",
+      "fr": "Liens Rapides Vedettes",
+      "ru": "Быстрые Ссылки"
+    },
+    {
+      "key": "homePage.navbar.text_035",
+      "en": "Featured Products",
+      "fr": "Produits Vedettes",
+      "ru": "Популярные Товары"
+    },
+    {
+      "key": "homePage.navbar.text_036",
+      "en": "Top Rated ★",
+      "fr": "Mieux Notés ★",
+      "ru": "Лучшие ★"
+    },
+    {
+      "key": "homePage.navbar.text_037",
+      "en": "New Arrivals",
+      "fr": "Nouveautés",
+      "ru": "Новинки"
+    },
+    {
+      "key": "homePage.navbar.text_038",
+      "en": "Fresh",
+      "fr": "Nouveau",
+      "ru": "Новое"
+    },
+    {
+      "key": "homePage.navbar.text_039",
+      "en": "All Catalog Items",
+      "fr": "Tous les Articles du Catalogue",
+      "ru": "Весь Каталог"
+    },
+    {
+      "key": "homePage.navbar.text_040",
+      "en": "View All",
+      "fr": "Tout Voir",
+      "ru": "Смотреть Все"
+    },
+    {
+      "key": "homePage.navbar.text_041",
+      "en": "Featured Highlight",
+      "fr": "Produit à la Une",
+      "ru": "Рекомендуем"
+    },
+    {
+      "key": "homePage.navbar.text_042",
+      "en": "Browse Categories",
+      "fr": "Parcourir les Catégories",
+      "ru": "Категории Товаров"
+    },
+    {
+      "key": "homePage.navbar.text_043",
+      "en": "Curated Collections",
+      "fr": "Collections Sélectionnées",
+      "ru": "Коллекции"
+    },
+    {
+      "key": "homePage.navbar.text_044",
+      "en": "Select Language",
+      "fr": "Choisir la Langue",
+      "ru": "Выбрать Язык"
+    },
+    {
+      "key": "homePage.navbar.text_045",
+      "en": "Inquire",
+      "fr": "Demander",
+      "ru": "Запрос"
+    },
+    {
+      "key": "homePage.navbar.text_046",
+      "en": "Select Language",
+      "fr": "Choisir la Langue",
+      "ru": "Выбрать Язык"
+    },
+    {
+      "key": "homePage.navbar.text_047",
+      "en": "Contact on Telegram (@AFRUSCULTURE)",
+      "fr": "Contacter sur Telegram (@AFRUSCULTURE)",
+      "ru": "Связаться в Telegram (@AFRUSCULTURE)"
+    },
+    {
+      "key": "homePage.footer.text_001",
+      "en": "Core Pillars",
+      "fr": "Piliers Principaux",
+      "ru": "Основные Направления"
+    },
+    {
+      "key": "homePage.footer.text_002",
+      "en": "Trade & Freight Corridors",
+      "fr": "Corridors de Commerce & Fret",
+      "ru": "Торговые и Грузовые Коридоры"
+    },
+    {
+      "key": "homePage.footer.text_003",
+      "en": "Export & Import Catalog",
+      "fr": "Catalogue Import & Export",
+      "ru": "Каталог Экспорта и Импорта"
+    },
+    {
+      "key": "homePage.footer.text_004",
+      "en": "Study in Russia & Scholarships",
+      "fr": "Étudier en Russie & Bourses",
+      "ru": "Обучение в России и Квоты"
+    },
+    {
+      "key": "homePage.footer.text_005",
+      "en": "Cultural & Goods Store",
+      "fr": "Boutique Culturelle & Mode",
+      "ru": "Магазин Культуры и Товаров"
+    },
+    {
+      "key": "homePage.footer.text_006",
+      "en": "Events & Economic Forums",
+      "fr": "Événements & Forums Économiques",
+      "ru": "События и Экономические Форумы"
+    },
+    {
+      "key": "homePage.footer.text_007",
+      "en": "VIP Concierge & Travel",
+      "fr": "Conciergerie VIP & Voyages",
+      "ru": "VIP Консьерж и Поездки"
+    },
+    {
+      "key": "homePage.footer.text_008",
+      "en": "Business & Academy",
+      "fr": "Affaires & Académie",
+      "ru": "Бизнес и Академия"
+    },
+    {
+      "key": "homePage.footer.text_009",
+      "en": "Business in Russia",
+      "fr": "Affaires en Russie",
+      "ru": "Бизнес в России"
+    },
+    {
+      "key": "homePage.footer.text_010",
+      "en": "Business in Africa",
+      "fr": "Affaires en Afrique",
+      "ru": "Бизнес в Африке"
+    },
+    {
+      "key": "homePage.footer.text_011",
+      "en": "Money Transfer Corridors",
+      "fr": "Corridors de Transfert d'Argent",
+      "ru": "Денежные Переводы"
+    },
+    {
+      "key": "homePage.footer.text_012",
+      "en": "English Language Academy",
+      "fr": "Académie de Langue Anglaise",
+      "ru": "Академия Английского Языка"
+    },
+    {
+      "key": "homePage.footer.text_013",
+      "en": "French Language Academy",
+      "fr": "Académie de Langue Française",
+      "ru": "Академия Французского Языка"
+    },
+    {
+      "key": "homePage.footer.text_014",
+      "en": "About AFRUS Mission",
+      "fr": "À Propos de la Mission AFRUS",
+      "ru": "О Миссии AFRUS"
+    },
+    {
+      "key": "homePage.footer.text_015",
+      "en": "Direct Contact",
+      "fr": "Contact Direct",
+      "ru": "Прямой Контакт"
+    },
+    {
+      "key": "homePage.footer.text_016",
+      "en": "Support Email",
+      "fr": "E-mail de Support",
+      "ru": "Электронная Почта"
+    },
+    {
+      "key": "homePage.footer.text_017",
+      "en": "Support Phone",
+      "fr": "Téléphone de Support",
+      "ru": "Телефон Поддержки"
+    },
+    {
+      "key": "homePage.footer.text_018",
+      "en": "Support WhatsApp",
+      "fr": "WhatsApp de Support",
+      "ru": "WhatsApp Поддержки"
+    },
+    {
+      "key": "homePage.footer.text_019",
+      "en": "Telegram Channel",
+      "fr": "Canal Telegram",
+      "ru": "Канал Telegram"
+    },
+    {
+      "key": "homePage.footer.text_020",
+      "en": "All Rights Reserved.",
+      "fr": "Tous Droits Réservés.",
+      "ru": "Все Права Защищены."
+    },
+    {
+      "key": "homePage.footer.text_021",
+      "en": "Designed for International Trade, Education & Cultural Diplomacy.",
+      "fr": "Conçu pour le Commerce International, l'Éducation & la Diplomatie Culturelle.",
+      "ru": "Создано для Международной Торговли, Образования и Дипломатии."
+    },
+    {
+      "key": "homePage.floatingContact.direct",
+      "en": "AFRUS Direct Line",
+      "fr": "Ligne directe AFRUS",
+      "ru": "Прямая линия AFRUS"
+    },
+    {
+      "key": "homePage.floatingContact.intro",
+      "en": "Connect instantly with our team via WhatsApp or Telegram:",
+      "fr": "Contactez instantanément notre équipe via WhatsApp ou Telegram :",
+      "ru": "Свяжитесь с нашей командой через WhatsApp или Telegram:"
+    },
+    {
+      "key": "homePage.floatingContact.wa",
+      "en": "WhatsApp (Russia)",
+      "fr": "WhatsApp (Russie)",
+      "ru": "WhatsApp (Россия)"
+    },
+    {
+      "key": "homePage.floatingContact.phone",
+      "en": "Phone Call (Africa)",
+      "fr": "Appel téléphonique (Afrique)",
+      "ru": "Телефонный звонок (Африка)"
+    },
+    {
+      "key": "homePage.floatingContact.telegram",
+      "en": "Telegram Channel",
+      "fr": "Chaîne Telegram",
+      "ru": "Канал Telegram"
+    },
+    {
+      "key": "homePage.floatingContact.open",
+      "en": "Open Floating Support Options",
+      "fr": "Ouvrir les options d’assistance",
+      "ru": "Открыть варианты поддержки"
+    },
+    {
+      "key": "homePage.floatingContact.heroAlt",
+      "en": "AFRUS Gateway Connecting Russia and Africa",
+      "fr": "Passerelle AFRUS reliant la Russie et l’Afrique",
+      "ru": "AFRUS — мост между Россией и Африкой"
+    },
+    {
+      "key": "homePage.floatingContact.waMessage",
+      "en": "Hello AFRUS, I would like to schedule a consultation regarding Russia–Africa opportunities.",
+      "fr": "Bonjour AFRUS, je souhaite planifier une consultation concernant les opportunités entre la Russie et l’Afrique.",
+      "ru": "Здравствуйте, AFRUS! Я хотел(а) бы запланировать консультацию по возможностям сотрудничества между Россией и Африкой."
+    },
+    {
+      "key": "homePage.contact.inquirySubject",
+      "en": "General Contact Request",
+      "fr": "Demande générale de contact",
+      "ru": "Общий запрос на связь"
+    }
+  ]
+}

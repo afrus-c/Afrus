@@ -1,0 +1,61 @@
+{
+  "id": "tsu",
+  "name": "Tomsk State University (TSU)",
+  "city": "Tomsk",
+  "ranking": "Imperial Siberian Academic Hub",
+  "programs": [
+    "Robotics",
+    "Environmental Science",
+    "Software Engineering",
+    "International Management"
+  ],
+  "tuitionRange": "$2,500 – $4,200 / year",
+  "scholarshipsAvailable": true,
+  "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80",
+  "description": "The premier research university of Siberia with rich 140+ year heritage, extensive international student services, and affordable fees.",
+  "nameI18n": {
+    "en": "Tomsk State University (TSU)",
+    "fr": "Université d'État de Tomsk (TSU)",
+    "ru": "Томский государственный университет (ТГУ)"
+  },
+  "cityI18n": {
+    "en": "Tomsk",
+    "fr": "Tomsk",
+    "ru": "Томск"
+  },
+  "rankingI18n": {
+    "en": "Imperial Siberian Academic Hub",
+    "fr": "Centre académique impérial de Sibérie",
+    "ru": "Императорский Сибирский Академический Хаб"
+  },
+  "programsI18n": {
+    "en": [
+      "Robotics",
+      "Environmental Science",
+      "Software Engineering",
+      "International Management"
+    ],
+    "fr": [
+      "Robotique",
+      "Sciences de l'environnement",
+      "Génie logiciel",
+      "Gestion internationale"
+    ],
+    "ru": [
+      "Робототехника",
+      "Наука об окружающей среде",
+      "Программная инженерия",
+      "Международный менеджмент"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$2,500 – $4,200 / year",
+    "fr": "2 500 $ – 4 200 $/an",
+    "ru": "2500–4200 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "The premier research university of Siberia with rich 140+ year heritage, extensive international student services, and affordable fees.",
+    "fr": "La principale université de recherche de Sibérie, forte de plus de 140 ans d’histoire, de nombreux services pour les étudiants internationaux et de frais abordables.",
+    "ru": "Ведущий исследовательский университет Сибири с более чем 140-летней историей, развитой поддержкой иностранных студентов и доступной стоимостью обучения."
+  }
+}

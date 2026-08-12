@@ -1,0 +1,10 @@
+{
+  "id": "shoes--kids-shoes",
+  "categoryId": "shoes",
+  "name": "Kids' Shoes",
+  "nameI18n": {
+    "en": "Kids' Shoes",
+    "fr": "Chaussures Enfant",
+    "ru": "Детская Обувь"
+  }
+}

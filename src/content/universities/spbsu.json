@@ -1,0 +1,61 @@
+{
+  "id": "spbsu",
+  "name": "Saint Petersburg State University (SPbSU)",
+  "city": "St. Petersburg",
+  "ranking": "Top #2 Historic State University",
+  "programs": [
+    "General Medicine",
+    "International Law",
+    "Political Science",
+    "Asian & African Studies"
+  ],
+  "tuitionRange": "$3,500 – $5,400 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/uni_spbsu_petersburg_1785952511367.jpg",
+  "description": "Founded by Peter the Great in 1724, SPbSU offers world-class degrees, vast international research networks, and full state quota scholarships.",
+  "nameI18n": {
+    "en": "Saint Petersburg State University (SPbSU)",
+    "fr": "Université d'État de Saint-Pétersbourg (SPbSU)",
+    "ru": "Санкт-Петербургский государственный университет (СПбГУ)"
+  },
+  "cityI18n": {
+    "en": "St. Petersburg",
+    "fr": "Saint-Pétersbourg",
+    "ru": "Санкт-Петербург"
+  },
+  "rankingI18n": {
+    "en": "Top #2 Historic State University",
+    "fr": "Meilleure université d'État historique n°2",
+    "ru": "Лучший исторический государственный университет № 2"
+  },
+  "programsI18n": {
+    "en": [
+      "General Medicine",
+      "International Law",
+      "Political Science",
+      "Asian & African Studies"
+    ],
+    "fr": [
+      "Médecine générale",
+      "Droit international",
+      "Science politique",
+      "Études asiatiques et africaines"
+    ],
+    "ru": [
+      "Общая медицина",
+      "Международное право",
+      "Политология",
+      "Азиатские и африканские исследования"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$3,500 – $5,400 / year",
+    "fr": "3 500 $ – 5 400 $/an",
+    "ru": "3500–5400 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "Founded by Peter the Great in 1724, SPbSU offers world-class degrees, vast international research networks, and full state quota scholarships.",
+    "fr": "Fondée par Pierre le Grand en 1724, la SPbSU propose des diplômes d’excellence, de vastes réseaux internationaux de recherche et des bourses complètes au titre des quotas d’État.",
+    "ru": "Основанный Петром Великим в 1724 году СПбГУ предлагает образование мирового уровня, широкую международную исследовательскую сеть и полные стипендии по государственной квоте."
+  }
+}

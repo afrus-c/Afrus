@@ -1,0 +1,40 @@
+{
+    "id":  "jersey-classic-basketball",
+    "title":  "Classic Basketball Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Basketball Jerseys",
+    "priceUsd": 46,
+    "priceRub": 4232,
+    "origin":  "AFRUS Hoops",
+    "description":  "A comfortable basketball jersey featuring a lightweight athletic design suitable for sports, casual wear, and basketball fans.",
+    "image":  "/uploads/store/jersey_classic_basketball_1786180010743.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Sleeveless Fit",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  28,
+    "titleI18n":  {
+                      "en":  "Classic Basketball Jersey",
+                      "fr":  "Maillot de Basket Classique",
+                      "ru":  "Классическая Баскетбольная Джерси"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A comfortable basketball jersey featuring a lightweight athletic design suitable for sports, casual wear, and basketball fans.",
+                            "fr":  "Maillot de basket-ball sans manches en maille conçu pour la mobilité sportive.",
+                            "ru":  "Баскетбольная майка из сетчатой ткани для свободы движений."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--basketball-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Без рукавов",
+                      "en":  "Sleeveless Fit",
+                      "fr":  "Coupe sans manches"
+                  }
+}

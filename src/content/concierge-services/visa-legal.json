@@ -1,0 +1,47 @@
+{
+  "id": "visa-legal",
+  "title": "Expedited Visa & Residency Legal Support",
+  "description": "Official invitation letters, business visa extensions, student visa legalization, diplomatic protocol coordination, and notary certified translations.",
+  "features": [
+    "Official Government Support",
+    "Document Attestation",
+    "Police Clearance Guidance",
+    "Work Permit Filing"
+  ],
+  "icon": "FileCheck",
+  "titleI18n": {
+    "en": "Expedited Visa & Residency Legal Support",
+    "fr": "Assistance juridique accélérée pour visas et résidence",
+    "ru": "Ускоренное юридическое сопровождение виз и ВНЖ"
+  },
+  "descriptionI18n": {
+    "en": "Official invitation letters, business visa extensions, student visa legalization, diplomatic protocol coordination, and notary-certified translations.",
+    "fr": "Lettres d’invitation officielles, prolongation de visas d’affaires, légalisation des visas étudiants, coordination du protocole diplomatique et traductions certifiées par notaire.",
+    "ru": "Официальные приглашения, продление деловых виз, легализация студенческих виз, координация дипломатического протокола и нотариально заверенные переводы."
+  },
+  "featuresI18n": {
+    "en": [
+      "Official Government Support",
+      "Document Attestation",
+      "Police Clearance Guidance",
+      "Work Permit Filing"
+    ],
+    "fr": [
+      "Soutien officiel auprès des autorités",
+      "Authentification des documents",
+      "Accompagnement pour le certificat de police",
+      "Dépôt des demandes de permis de travail"
+    ],
+    "ru": [
+      "Официальное взаимодействие с госорганами",
+      "Заверение документов",
+      "Помощь в получении справки о несудимости",
+      "Подача документов на разрешение на работу"
+    ]
+  },
+  "highlightI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  }
+}

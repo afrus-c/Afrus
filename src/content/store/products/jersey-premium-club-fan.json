@@ -1,0 +1,41 @@
+{
+    "id":  "jersey-premium-club-fan",
+    "title":  "Premium Club Fan Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Club Jerseys",
+    "priceUsd": 52,
+    "priceRub": 4784,
+    "origin":  "AFRUS Club",
+    "description":  "A premium football fan jersey featuring a clean modern design, comfortable athletic fit, and high-quality sporting aesthetic.",
+    "image":  "/uploads/store/jersey_premium_club_fan_1786180100883.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Premium Club",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  24,
+    "titleI18n":  {
+                      "en":  "Premium Club Fan Jersey",
+                      "fr":  "Maillot Supporter de Club Premium",
+                      "ru":  "Премиум Клубная Форма Болельщика"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A premium football fan jersey featuring a clean modern design, comfortable athletic fit, and high-quality sporting aesthetic.",
+                            "fr":  "Maillot de supporter de club haut de gamme avec ventilation en maille respirante.",
+                            "ru":  "Клубная майка премиум-класса с сетчатыми вставками."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--club-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Премиум-клуб",
+                      "en":  "Premium Club",
+                      "fr":  "Club Premium"
+                  }
+}

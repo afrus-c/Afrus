@@ -1,0 +1,72 @@
+{
+  "id": "opp-2",
+  "title": "Russian Agriculture & Equipment Trade Partnership",
+  "category": "trade",
+  "location": "Russian Grain Belt / Central & West Africa",
+  "description": "Direct procurement agreement for Russian wheat, sunflower oil, agricultural fertilizers, and modern tractor machinery with flexible payment options.",
+  "benefits": [
+    "Direct factory & farm gate prices without intermediaries",
+    "Customs clearance & maritime cargo logistics insurance",
+    "Quality certification by international inspection agencies"
+  ],
+  "requirements": [
+    "Registered corporate trade entity",
+    "Letter of Intent (LOI) with volume estimates",
+    "Proof of import authorization"
+  ],
+  "image": "/uploads/opportunities/trade_logistics_hub_1785919873629.jpg",
+  "titleI18n": {
+    "en": "Russian Agriculture & Equipment Trade Partnership",
+    "fr": "Partenariat commercial russe pour l’agriculture et l’équipement",
+    "ru": "Российское торговое партнерство в сфере сельского хозяйства и оборудования"
+  },
+  "locationI18n": {
+    "en": "Russian Grain Belt / Central & West Africa",
+    "fr": "Ceinture céréalière russe / Afrique centrale et occidentale",
+    "ru": "Зерновой пояс России / Центральная и Западная Африка"
+  },
+  "deadlineI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "descriptionI18n": {
+    "en": "Direct procurement agreement for Russian wheat, sunflower oil, agricultural fertilizers, and modern tractor machinery with flexible payment options.",
+    "fr": "Accord d'approvisionnement direct pour du blé russe, de l'huile de tournesol, des engrais agricoles et des tracteurs modernes avec des options de paiement flexibles.",
+    "ru": "Соглашение о прямых закупках российской пшеницы, подсолнечного масла, сельскохозяйственных удобрений и современной тракторной техники с гибкими вариантами оплаты."
+  },
+  "benefitsI18n": {
+    "en": [
+      "Direct factory & farm gate prices without intermediaries",
+      "Customs clearance & maritime cargo logistics insurance",
+      "Quality certification by international inspection agencies"
+    ],
+    "fr": [
+      "Prix ​​​​directs à l'usine et à la ferme sans intermédiaires",
+      "Dédouanement et assurance logistique du fret maritime",
+      "Certification de qualité par des agences d'inspection internationales"
+    ],
+    "ru": [
+      "Прямые заводские и фермерские цены без посредников",
+      "Таможенное оформление и страхование морской логистики грузов",
+      "Сертификация качества международными инспекционными агентствами"
+    ]
+  },
+  "requirementsI18n": {
+    "en": [
+      "Registered corporate trade entity",
+      "Letter of Intent (LOI) with volume estimates",
+      "Proof of import authorization"
+    ],
+    "fr": [
+      "Entité commerciale enregistrée",
+      "Lettre d'intention (LOI) avec estimations de volume",
+      "Preuve d'autorisation d'importation"
+    ],
+    "ru": [
+      "Зарегистрированная корпоративная торговая организация",
+      "Письмо о намерениях (LOI) с оценками объема",
+      "Доказательство разрешения на импорт"
+    ]
+  }
+}

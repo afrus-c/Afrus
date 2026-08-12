@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="theme-color" content="#020617" />
+  <title>Administration du contenu AFRUS</title>
+  <link rel="icon" href="/afrus-logo-transparent-v3.png" />
+  <link rel="stylesheet" href="/admin/admin.css?v=20" />
+</head>
+<body>
+  <div id="afrus-admin-loader" class="admin-loader" role="status" aria-live="polite">
+    <img src="/afrus-logo-transparent-v3.png" alt="AFRUS" />
+    <strong>Administration du contenu AFRUS</strong>
+    <span>Chargement de l’espace éditorial…</span>
+  </div>
+
+  <noscript>
+    <div class="admin-error">JavaScript est nécessaire pour utiliser le portail d’administration AFRUS.</div>
+  </noscript>
+
+  <script src="/admin/admin-locale-bootstrap.js?v=2"></script>
+  <script src="https://unpkg.com/decap-cms@3.11.0/dist/decap-cms.js"></script>
+  <script src="/admin/admin-preview.js?v=4"></script>
+  <script src="/admin/admin-i18n.js?v=11"></script>
+  <script>
+    window.addEventListener('load', function () {
+      window.setTimeout(function () {
+        document.getElementById('afrus-admin-loader')?.remove();
+      }, 2500);
+    });
+  </script>
+</body>
+</html>

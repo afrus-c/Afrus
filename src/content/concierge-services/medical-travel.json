@@ -1,0 +1,47 @@
+{
+  "id": "medical-travel",
+  "title": "Medical Travel & Health Concierge",
+  "description": "Access to top specialized Russian medical centers, second opinions, emergency medical evacuations, and personalized recovery care.",
+  "features": [
+    "Top Surgical Specialists",
+    "Private Hospital Suites",
+    "Full Rehabilitation Support",
+    "Medical Insurance Support"
+  ],
+  "icon": "HeartPulse",
+  "titleI18n": {
+    "en": "Medical Travel & Health Concierge",
+    "fr": "Voyages médicaux et conciergerie santé",
+    "ru": "Медицинские поездки и консьерж-сервис"
+  },
+  "descriptionI18n": {
+    "en": "Access to top specialized Russian medical centers, second opinions, emergency medical evacuations, and personalized recovery care.",
+    "fr": "Accès aux meilleurs centres médicaux spécialisés de Russie, seconds avis, évacuations médicales d’urgence et soins de convalescence personnalisés.",
+    "ru": "Доступ к ведущим специализированным медицинским центрам России, второму врачебному мнению, экстренной медицинской эвакуации и индивидуальному восстановлению."
+  },
+  "featuresI18n": {
+    "en": [
+      "Top Surgical Specialists",
+      "Private Hospital Suites",
+      "Full Rehabilitation Support",
+      "Medical Insurance Support"
+    ],
+    "fr": [
+      "Chirurgiens spécialistes de premier plan",
+      "Suites hospitalières privées",
+      "Accompagnement complet en rééducation",
+      "Assistance pour l’assurance médicale"
+    ],
+    "ru": [
+      "Ведущие хирурги-специалисты",
+      "Частные больничные палаты",
+      "Полное реабилитационное сопровождение",
+      "Поддержка по медицинскому страхованию"
+    ]
+  },
+  "highlightI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  }
+}

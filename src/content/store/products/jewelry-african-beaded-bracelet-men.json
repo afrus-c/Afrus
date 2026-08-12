@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-african-beaded-bracelet-men",
+    "title":  "African Beaded Bracelet",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Men\u0027s Jewelry",
+    "priceUsd": 28,
+    "priceRub": 2576,
+    "origin":  "Nairobi, Kenya",
+    "description":  "A handcrafted bracelet featuring traditional African-inspired beadwork and a comfortable design suitable for everyday wear. A simple accessory that adds distinctive cultural character to any outfit.",
+    "image":  "https://images.unsplash.com/photo-1611591475168-e4eb245c7980?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Men\u0027s Beadwork",
+    "brand":  "Maasai Craft",
+    "inventoryCount":  35,
+    "titleI18n":  {
+                      "en":  "African Beaded Bracelet",
+                      "fr":  "Bracelet Africain en Perles Homme",
+                      "ru":  "Мужской Африканский Браслет из Бусин"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A handcrafted bracelet featuring traditional African-inspired beadwork and a comfortable design suitable for everyday wear. A simple accessory that adds distinctive cultural character to any outfit.",
+                            "fr":  "Bracelet élastique en perles fait main avec pierres naturelles de lave et d\u0027agate.",
+                            "ru":  "Браслет ручной работы из вулканической лавы и агата."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--men-s-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Мужское вышивка бисером",
+                      "en":  "Men\u0027s Beadwork",
+                      "fr":  "Perles pour hommes"
+                  }
+}

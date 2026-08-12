@@ -1,0 +1,47 @@
+{
+  "id": "translation",
+  "title": "Certified Multilingual Translation & Interpreting",
+  "description": "Simultaneous and consecutive interpreters fluent in Russian, English, French, Arabic, Portuguese, and major African languages for forums and legal contracts.",
+  "features": [
+    "Certified Court Interpreters",
+    "Bilateral Contract Translation",
+    "Conference Audio Tech",
+    "Diplomatic Etiquette"
+  ],
+  "icon": "Languages",
+  "titleI18n": {
+    "en": "Certified Multilingual Translation & Interpreting",
+    "fr": "Traduction et interprétation multilingues certifiées",
+    "ru": "Сертифицированный многоязычный перевод"
+  },
+  "descriptionI18n": {
+    "en": "Simultaneous and consecutive interpreters fluent in Russian, English, French, Arabic, Portuguese, and major African languages for forums and legal contracts.",
+    "fr": "Interprètes simultanés et consécutifs maîtrisant le russe, l’anglais, le français, l’arabe, le portugais et les principales langues africaines pour les forums et contrats juridiques.",
+    "ru": "Синхронные и последовательные переводчики русского, английского, французского, арабского, португальского и основных африканских языков для форумов и юридических договоров."
+  },
+  "featuresI18n": {
+    "en": [
+      "Certified Court Interpreters",
+      "Bilateral Contract Translation",
+      "Conference Audio Technology",
+      "Diplomatic Etiquette"
+    ],
+    "fr": [
+      "Interprètes judiciaires certifiés",
+      "Traduction de contrats bilatéraux",
+      "Technologie audio pour conférences",
+      "Étiquette diplomatique"
+    ],
+    "ru": [
+      "Сертифицированные судебные переводчики",
+      "Перевод двусторонних договоров",
+      "Аудиооборудование для конференций",
+      "Дипломатический этикет"
+    ]
+  },
+  "highlightI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  }
+}

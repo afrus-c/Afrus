@@ -1,0 +1,65 @@
+{
+  "id": "msu",
+  "name": "Lomonosov Moscow State University (MSU)",
+  "city": "Moscow",
+  "ranking": "Top #1 in Russia / World Top 100",
+  "programs": [
+    "Medicine",
+    "Computer Science & AI",
+    "International Relations",
+    "Economics",
+    "Physics"
+  ],
+  "tuitionRange": "$3,800 – $6,200 / year",
+  "scholarshipsAvailable": true,
+  "image": "/uploads/universities/edu_russia_university_1785951841700.jpg",
+  "description": "Russia’s oldest and most prestigious university, renowned worldwide for groundbreaking research, elite academic faculty, and high international degree recognition.",
+  "nameI18n": {
+    "en": "Lomonosov Moscow State University (MSU)",
+    "fr": "Université d'État Lomonossov de Moscou (MSU)",
+    "ru": "Московский государственный университет имени Ломоносова (МГУ)"
+  },
+  "cityI18n": {
+    "en": "Moscow",
+    "fr": "Moscou",
+    "ru": "Москва"
+  },
+  "rankingI18n": {
+    "en": "Top #1 in Russia / World Top 100",
+    "fr": "Top n°1 en Russie / Top 100 mondial",
+    "ru": "Топ №1 в России / Топ-100 мира"
+  },
+  "programsI18n": {
+    "en": [
+      "Medicine",
+      "Computer Science & AI",
+      "International Relations",
+      "Economics",
+      "Physics"
+    ],
+    "fr": [
+      "Médecine",
+      "Informatique et IA",
+      "Relations internationales",
+      "Économie",
+      "Physique"
+    ],
+    "ru": [
+      "Лекарство",
+      "Компьютерные науки и искусственный интеллект",
+      "Международные отношения",
+      "Экономика",
+      "Физика"
+    ]
+  },
+  "tuitionRangeI18n": {
+    "en": "$3,800 – $6,200 / year",
+    "fr": "3 800 $ – 6 200 $/an",
+    "ru": "3800–6200 долларов США в год"
+  },
+  "descriptionI18n": {
+    "en": "Russia’s oldest and most prestigious university, renowned worldwide for groundbreaking research, elite academic faculty, and high international degree recognition.",
+    "fr": "La plus ancienne et la plus prestigieuse université de Russie, mondialement reconnue pour ses recherches novatrices, son corps professoral d’élite et la forte reconnaissance internationale de ses diplômes.",
+    "ru": "Старейший и наиболее престижный университет России, всемирно известный передовыми исследованиями, выдающимся преподавательским составом и высоким международным признанием дипломов."
+  }
+}

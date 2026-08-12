@@ -1,0 +1,41 @@
+{
+    "id":  "jersey-premium-football-fan",
+    "title":  "Premium Football Fan Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Football Jerseys",
+    "priceUsd": 52,
+    "priceRub": 4784,
+    "origin":  "AFRUS Sport",
+    "description":  "A premium football fan jersey featuring a modern athletic design, breathable-looking fabric, and a comfortable fit suitable for sporting events and casual wear.",
+    "image":  "/uploads/store/jersey_premium_football_fan_1786180001207.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Premium Mesh",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  20,
+    "titleI18n":  {
+                      "en":  "Premium Football Fan Jersey",
+                      "fr":  "Maillot Supporter Football Édition Premium",
+                      "ru":  "Премиум Джерси для Футбольных Болельщиков"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A premium football fan jersey featuring a modern athletic design, breathable-looking fabric, and a comfortable fit suitable for sporting events and casual wear.",
+                            "fr":  "Maillot officiel édition supporter fabriqué en tissu haute performance léger.",
+                            "ru":  "Официальная форма болельщика из легкого технологичного материала."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--football-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Премиум сетка",
+                      "en":  "Premium Mesh",
+                      "fr":  "Maille haut de gamme"
+                  }
+}

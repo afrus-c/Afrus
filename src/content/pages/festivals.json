@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": {"en":"HERITAGE, FINE ART & PERFORMING ARTS","fr":"PATRIMOINE, BEAUX-ARTS ET ARTS DE LA SCÈNE","ru":"НАСЛЕДИЕ, ИЗОБРАЗИТЕЛЬНОЕ И СЦЕНИЧЕСКОЕ ИСКУССТВО"},
+    "titlePrefix": {"en":"Festivals, Arts &","fr":"Festivals, arts et","ru":"Фестивали, искусство и"},
+    "titleAccent": {"en":"Cultural Heritage","fr":"patrimoine culturel","ru":"культурное наследие"},
+    "subtitle": {"en":"Celebrate the shared cultural richness of Russia and Africa through music, fine art, fashion, cinema, crafts, and culinary experiences.","fr":"Célébrez la richesse culturelle commune de la Russie et de l’Afrique à travers la musique, les beaux-arts, la mode, le cinéma, l’artisanat et la gastronomie.","ru":"Откройте общее культурное богатство России и Африки через музыку, изобразительное искусство, моду, кино, ремёсла и гастрономию."},
+    "primaryCta": {"en":"Inquire About Festival Passes","fr":"Demander des pass festival","ru":"Запросить фестивальные билеты"},
+    "secondaryCta": {"en":"Explore Lineup","fr":"Découvrir le programme","ru":"Посмотреть программу"},
+    "inquirySubject": {"en":"Festival Pass Inquiry","fr":"Demande de pass festival","ru":"Запрос фестивальных билетов"},
+    "pause": {"en":"Pause slideshow","fr":"Mettre le diaporama en pause","ru":"Приостановить слайд-шоу"},
+    "play": {"en":"Play slideshow","fr":"Lire le diaporama","ru":"Запустить слайд-шоу"},
+    "slides": [
+      {"id":"musical-heritage","image":"https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1920&q=80","tag":{"en":"Pan-African Music & Heritage","fr":"Musique et patrimoine panafricains","ru":"Панафриканская музыка и наследие"},"caption":{"en":"Intercontinental symphony orchestras, traditional rhythms & stage showcases","fr":"Orchestres symphoniques intercontinentaux, rythmes traditionnels et spectacles","ru":"Межконтинентальные симфонические оркестры, традиционные ритмы и сценические программы"}},
+      {"id":"fine-art-exhibitions","image":"https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1920&q=80","tag":{"en":"Fine Art & Modern Crafts","fr":"Beaux-arts et artisanat moderne","ru":"Изобразительное искусство и современные ремёсла"},"caption":{"en":"Gallery exhibitions, sculpture pavilions & mastercraft guild exchange","fr":"Expositions, pavillons de sculpture et échanges entre maîtres artisans","ru":"Галерейные выставки, павильоны скульптуры и обмен мастеров"}},
+      {"id":"fashion-runway","image":"/uploads/editorial/african_art_crafts_1785919917844.jpg","tag":{"en":"Fashion & Textile Runway","fr":"Défilé de mode et textiles","ru":"Показ моды и текстиля"},"caption":{"en":"High-fashion African textiles, couture designers & fashion week showcases","fr":"Textiles africains de haute couture, créateurs et défilés de la Fashion Week","ru":"Африканский текстиль высокой моды, дизайнеры и показы недели моды"}},
+      {"id":"cinema-culinary","image":"https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1920&q=80","tag":{"en":"Cinema & Culinary Arts","fr":"Cinéma et arts culinaires","ru":"Кино и кулинарное искусство"},"caption":{"en":"Pan-African film screenings, director Q&As & intercontinental culinary feasts","fr":"Projections panafricaines, échanges avec les réalisateurs et fêtes culinaires","ru":"Показы панафриканского кино, встречи с режиссёрами и кулинарные фестивали"}}
+    ],
+    "chips": [
+      {"id":"festival-highlights","label":{"en":"Cultural Highlights","fr":"Temps forts culturels","ru":"Культурные события"}},
+      {"id":"music-stage","label":{"en":"Music & Stage","fr":"Musique et scène","ru":"Музыка и сцена"}},
+      {"id":"art-exhibits","label":{"en":"Fine Art & Craft","fr":"Beaux-arts et artisanat","ru":"Искусство и ремёсла"}},
+      {"id":"film-cinema","label":{"en":"Film & Cinema","fr":"Film et cinéma","ru":"Фильмы и кино"}}
+    ]
+  },
+  "lineup": {
+    "eyebrow":{"en":"Featured Intercontinental Showcases","fr":"Sélections intercontinentales à l’honneur","ru":"Избранные межконтинентальные программы"},
+    "title":{"en":"Pan-African Cultural Festivals & Expos","fr":"Festivals et expositions culturels panafricains","ru":"Панафриканские культурные фестивали и выставки"},
+    "description":{"en":"Immerse yourself in authentic fine-art galleries, live music galas, film screenings, and culinary heritage showcases.","fr":"Plongez dans des galeries d’art authentiques, galas musicaux, projections de films et présentations culinaires patrimoniales.","ru":"Посетите художественные галереи, музыкальные гала-концерты, кинопоказы и презентации кулинарного наследия."},
+    "cta":{"en":"Inquire / Register Passes","fr":"Demander / réserver des pass","ru":"Запросить / зарегистрировать билеты"},
+    "inquiryPrefix":{"en":"Festival Registration","fr":"Inscription au festival","ru":"Регистрация на фестиваль"}
+  }
+}

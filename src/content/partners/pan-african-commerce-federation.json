@@ -1,0 +1,11 @@
+{
+  "name": "Pan-African Commerce Federation",
+  "logoText": "PACF",
+  "id": "pan-african-commerce-federation",
+  "nameI18n": {
+    "en": "Pan-African Commerce Federation",
+    "fr": "Fédération panafricaine du commerce",
+    "ru": "Панафриканская торговая федерация"
+  },
+  "order": 4
+}

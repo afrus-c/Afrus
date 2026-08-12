@@ -1,0 +1,144 @@
+{
+  "namespace": "btn",
+  "adminLabelFr": "Boutons du site",
+  "entries": [
+    {
+      "key": "btn.contact_afrus",
+      "en": "Contact AFRUS",
+      "fr": "Contacter AFRUS",
+      "ru": "Связаться с AFRUS"
+    },
+    {
+      "key": "btn.apply_now",
+      "en": "Apply Now",
+      "fr": "Postuler Maintenant",
+      "ru": "Подать Заявку"
+    },
+    {
+      "key": "btn.learn_more",
+      "en": "Learn More",
+      "fr": "En Savoir Plus",
+      "ru": "Узнать Больше"
+    },
+    {
+      "key": "btn.view_all",
+      "en": "View All",
+      "fr": "Tout Afficher",
+      "ru": "Смотреть Все"
+    },
+    {
+      "key": "btn.explore",
+      "en": "Explore",
+      "fr": "Explorer",
+      "ru": "Исследовать"
+    },
+    {
+      "key": "btn.add_to_cart",
+      "en": "Add to Cart",
+      "fr": "Ajouter au Panier",
+      "ru": "В Корзину"
+    },
+    {
+      "key": "btn.added",
+      "en": "Added to Cart",
+      "fr": "Ajouté au Panier",
+      "ru": "Добавлено в Корзину"
+    },
+    {
+      "key": "btn.inquire_now",
+      "en": "Inquire Now",
+      "fr": "Demander des Infos",
+      "ru": "Отправить Запрос"
+    },
+    {
+      "key": "btn.send_message",
+      "en": "Send Message",
+      "fr": "Envoyer un Message",
+      "ru": "Написать Сообщение"
+    },
+    {
+      "key": "btn.submit",
+      "en": "Submit",
+      "fr": "Soumettre",
+      "ru": "Отправить"
+    },
+    {
+      "key": "btn.checkout",
+      "en": "Proceed to Checkout",
+      "fr": "Procéder à la Commande",
+      "ru": "Оформить Заказ"
+    },
+    {
+      "key": "btn.continue_shopping",
+      "en": "Continue Shopping",
+      "fr": "Continuer vos Achats",
+      "ru": "Продолжить Покупки"
+    },
+    {
+      "key": "btn.close",
+      "en": "Close",
+      "fr": "Fermer",
+      "ru": "Закрыть"
+    },
+    {
+      "key": "btn.search",
+      "en": "Search",
+      "fr": "Rechercher",
+      "ru": "Поиск"
+    },
+    {
+      "key": "btn.reset_filters",
+      "en": "Reset Filters",
+      "fr": "Réinitialiser les Filtres",
+      "ru": "Сбросить Фильтры"
+    },
+    {
+      "key": "btn.order_via_whatsapp",
+      "en": "Order via WhatsApp",
+      "fr": "Commander via WhatsApp",
+      "ru": "Заказать через WhatsApp"
+    },
+    {
+      "key": "btn.order_via_telegram",
+      "en": "Order via Telegram",
+      "fr": "Commander via Telegram",
+      "ru": "Заказать через Telegram"
+    },
+    {
+      "key": "btn.download_brochure",
+      "en": "Download Official Guide",
+      "fr": "Télécharger le Guide Officiel",
+      "ru": "Скачать Руководство"
+    },
+    {
+      "key": "btn.view_details",
+      "en": "View Details",
+      "fr": "Voir les Détails",
+      "ru": "Подробнее"
+    },
+    {
+      "key": "btn.filter",
+      "en": "Filter",
+      "fr": "Filtrer",
+      "ru": "Фильтр"
+    },
+    {
+      "key": "btn.quick_inquiry",
+      "en": "Quick Inquiry",
+      "fr": "Demande Rapide",
+      "ru": "Быстрый Запрос"
+    },
+    {
+      "key": "btn.back_to_store",
+      "en": "Back to Store",
+      "fr": "Retour à la Boutique",
+      "ru": "Вернуться в Магазин"
+    },
+    {
+      "key": "btn.buy_now",
+      "en": "Buy Now",
+      "fr": "Acheter Maintenant",
+      "ru": "Купить Сейчас"
+    }
+  ]
+}

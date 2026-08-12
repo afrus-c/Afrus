@@ -1,0 +1,11 @@
+{
+  "name": "African Union Trade Chamber",
+  "logoText": "AU TRADE",
+  "id": "african-union-trade-chamber",
+  "nameI18n": {
+    "en": "African Union Trade Chamber",
+    "fr": "Chambre de commerce de l'Union africaine",
+    "ru": "Торговая палата Африканского союза"
+  },
+  "order": 2
+}

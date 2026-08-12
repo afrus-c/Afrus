@@ -1,0 +1,41 @@
+{
+    "id":  "shoes-womens-casual-sneakers",
+    "title":  "Women\u0027s Casual Sneakers",
+    "category":  "Shoes",
+    "subcategory":  "Women\u0027s Shoes",
+    "priceUsd": 58,
+    "priceRub": 5336,
+    "origin":  "AFRUS Footwear",
+    "description":  "Modern women\u0027s casual sneakers designed for everyday comfort and versatile styling. Suitable for travel, casual outings, walking, and everyday fashion.",
+    "image":  "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Everyday Style",
+    "brand":  "AFRUS Active",
+    "availableSizes":  [
+                           "36",
+                           "37",
+                           "38",
+                           "39",
+                           "40"
+                       ],
+    "inventoryCount":  45,
+    "titleI18n":  {
+                      "en":  "Women\u0027s Casual Sneakers",
+                      "fr":  "Baskets Éléganes Blanches Femme",
+                      "ru":  "Женские Белые Кроссовки"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Modern women\u0027s casual sneakers designed for everyday comfort and versatile styling. Suitable for travel, casual outings, walking, and everyday fashion.",
+                            "fr":  "Baskets en cuir minimalistes avec semelle intérieure matelassée confortable.",
+                            "ru":  "Минималистичные кожаные кроссовки с мягкой стелькой."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--women-s-shoes",
+    "badgeI18n":  {
+                      "ru":  "Повседневный стиль",
+                      "en":  "Everyday Style",
+                      "fr":  "Style de tous les jours"
+                  }
+}

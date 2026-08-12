@@ -1,0 +1,47 @@
+{
+  "id": "vip-transfer",
+  "title": "Airport VIP Fast-Track & Executive Transfer",
+  "description": "Personal greeting at aircraft gate, expedited VIP customs clearance, baggage assistance, and luxury chauffeur transport in Mercedes-Maybach or V-Class.",
+  "features": [
+    "24/7 Flight Monitoring",
+    "Multilingual Chauffeurs",
+    "Armored Transport Available",
+    "Luggage Concierge"
+  ],
+  "icon": "Plane",
+  "titleI18n": {
+    "en": "Airport VIP Fast-Track & Executive Transfer",
+    "fr": "Accueil VIP prioritaire à l’aéroport et transfert exécutif",
+    "ru": "Ускоренное VIP-обслуживание в аэропорту и трансфер для руководителей"
+  },
+  "descriptionI18n": {
+    "en": "Personal greeting at aircraft gate, expedited VIP customs clearance, baggage assistance, and luxury chauffeur transport in Mercedes-Maybach or V-Class.",
+    "fr": "Accueil personnalisé à la porte de l’avion, passage accéléré des douanes VIP, assistance bagages et transport avec chauffeur en Mercedes-Maybach ou Classe V.",
+    "ru": "Персональная встреча у выхода из самолёта, ускоренное прохождение VIP-таможни, помощь с багажом и трансфер с водителем на Mercedes-Maybach или V-Class."
+  },
+  "featuresI18n": {
+    "en": [
+      "24/7 Flight Monitoring",
+      "Multilingual Chauffeurs",
+      "Armored Transport Available",
+      "Luggage Concierge"
+    ],
+    "fr": [
+      "Suivi des vols 24 h/24 et 7 j/7",
+      "Chauffeurs multilingues",
+      "Transport blindé disponible",
+      "Conciergerie bagages"
+    ],
+    "ru": [
+      "Круглосуточное отслеживание рейсов",
+      "Многоязычные водители",
+      "Доступен бронированный транспорт",
+      "Сопровождение багажа"
+    ]
+  },
+  "highlightI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  }
+}

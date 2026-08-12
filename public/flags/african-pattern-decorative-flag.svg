@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <linearGradient id="waveHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="25%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="75%" stop-color="#000000" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.12"/>
+    </linearGradient>
+
+    <!-- Vibrant African Ankara/Wax Print Pattern Unit -->
+    <pattern id="ankaraPattern" width="120" height="120" patternUnits="userSpaceOnUse">
+      <!-- Background Tile Base -->
+      <rect width="120" height="120" fill="#D96B27"/>
+
+      <!-- Cross Diamond Shapes -->
+      <polygon points="60,0 120,60 60,120 0,60" fill="#1C3F3A"/>
+      <polygon points="60,15 105,60 60,105 15,60" fill="#F2B705"/>
+      <polygon points="60,30 90,60 60,90 30,60" fill="#B82626"/>
+
+      <!-- Center Star/Sun Accent -->
+      <circle cx="60" cy="60" r="14" fill="#111111"/>
+      <circle cx="60" cy="60" r="8" fill="#F2B705"/>
+
+      <!-- Corner Stars -->
+      <circle cx="0" cy="0" r="12" fill="#F2B705"/>
+      <circle cx="120" cy="0" r="12" fill="#F2B705"/>
+      <circle cx="0" cy="120" r="12" fill="#F2B705"/>
+      <circle cx="120" cy="120" r="12" fill="#F2B705"/>
+
+      <!-- Decorative Rays -->
+      <line x1="60" y1="0" x2="60" y2="15" stroke="#FFFFFF" stroke-width="3"/>
+      <line x1="60" y1="105" x2="60" y2="120" stroke="#FFFFFF" stroke-width="3"/>
+      <line x1="0" y1="60" x2="15" y2="60" stroke="#FFFFFF" stroke-width="3"/>
+      <line x1="105" y1="60" x2="120" y2="60" stroke="#FFFFFF" stroke-width="3"/>
+    </pattern>
+  </defs>
+
+  <!-- Base Pattern Canvas -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#ankaraPattern)"/>
+
+  <!-- Ornate Decorative Top and Bottom Borders -->
+  <g fill="#111111">
+    <!-- Top Border -->
+    <rect x="0" y="0" width="900" height="40" fill="#111111"/>
+    <rect x="0" y="40" width="900" height="10" fill="#F2B705"/>
+    <!-- Brass Grommets for Hanging Flag -->
+    <circle cx="60" cy="20" r="10" fill="#D4AF37" stroke="#111111" stroke-width="3"/>
+    <circle cx="60" cy="20" r="5" fill="#222222"/>
+    <circle cx="840" cy="20" r="10" fill="#D4AF37" stroke="#111111" stroke-width="3"/>
+    <circle cx="840" cy="20" r="5" fill="#222222"/>
+
+    <!-- Bottom Border -->
+    <rect x="0" y="550" width="900" height="10" fill="#F2B705"/>
+    <rect x="0" y="560" width="900" height="40" fill="#111111"/>
+  </g>
+
+  <!-- Fabric Texture & Waving Overlay -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#waveHighlight)" style="mix-blend-mode: overlay;"/>
+
+  <!-- Outer Hem -->
+  <rect x="0" y="0" width="900" height="600" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="6"/>
+</svg>

@@ -1,0 +1,366 @@
+{
+  "namespace": "conciergePage",
+  "adminLabelFr": "Page Conciergerie",
+  "entries": [
+    {
+      "key": "conciergePage.subjects.vip",
+      "en": "VIP Concierge Request",
+      "fr": "Demande de conciergerie VIP",
+      "ru": "Запрос на VIP-консьерж-сервис"
+    },
+    {
+      "key": "conciergePage.subjects.service",
+      "en": "Concierge Inquiry: {{title}}",
+      "fr": "Demande de conciergerie : {{title}}",
+      "ru": "Запрос консьерж-услуги: {{title}}"
+    },
+    {
+      "key": "conciergePage.hero.badge",
+      "en": "VIP EXECUTIVE HOSPITALITY SUITE",
+      "fr": "SUITE D’HOSPITALITÉ VIP POUR DIRIGEANTS",
+      "ru": "VIP-КОМПЛЕКС ГОСТЕПРИИМСТВА ДЛЯ РУКОВОДИТЕЛЕЙ"
+    },
+    {
+      "key": "conciergePage.hero.titlePrefix",
+      "en": "VIP Concierge &",
+      "fr": "Conciergerie VIP et",
+      "ru": "VIP-консьерж и"
+    },
+    {
+      "key": "conciergePage.hero.titleAccent",
+      "en": "Executive Travel",
+      "fr": "voyages d’affaires",
+      "ru": "деловые поездки"
+    },
+    {
+      "key": "conciergePage.hero.subtitle",
+      "en": "Airport VIP tarmac clearance, Maybach armored transfers, 5-star presidential hotel suites, certified court translators, and bespoke diplomatic delegation logistics across Eurasia & Africa.",
+      "fr": "Accès VIP au tarmac, transferts blindés Maybach, suites présidentielles cinq étoiles, interprètes judiciaires certifiés et logistique sur mesure pour les délégations diplomatiques en Eurasie et en Afrique.",
+      "ru": "VIP-доступ на аэродром, бронированные трансферы Maybach, президентские номера в пятизвёздочных отелях, сертифицированные судебные переводчики и индивидуальная логистика дипломатических делегаций в Евразии и Африке."
+    },
+    {
+      "key": "conciergePage.hero.subject",
+      "en": "VIP Executive Concierge Booking",
+      "fr": "Réservation de conciergerie VIP pour dirigeants",
+      "ru": "Бронирование VIP-консьерж-сервиса"
+    },
+    {
+      "key": "conciergePage.hero.primaryCta",
+      "en": "Request VIP Service",
+      "fr": "Demander un service VIP",
+      "ru": "Запросить VIP-услугу"
+    },
+    {
+      "key": "conciergePage.hero.secondaryCta",
+      "en": "Explore Services",
+      "fr": "Découvrir les services",
+      "ru": "Изучить услуги"
+    },
+    {
+      "key": "conciergePage.hero.chips.airport",
+      "en": "VIP Airport Fast-Track",
+      "fr": "Accès prioritaire VIP à l’aéroport",
+      "ru": "VIP-прохождение аэропорта"
+    },
+    {
+      "key": "conciergePage.hero.chips.motorcades",
+      "en": "Luxury Motorcades",
+      "fr": "Cortèges de luxe",
+      "ru": "Люксовые кортежи"
+    },
+    {
+      "key": "conciergePage.hero.chips.security",
+      "en": "Armed Protection",
+      "fr": "Protection armée",
+      "ru": "Вооружённая охрана"
+    },
+    {
+      "key": "conciergePage.hero.chips.hotels",
+      "en": "5-Star Suites",
+      "fr": "Suites cinq étoiles",
+      "ru": "Пятизвёздочные номера"
+    },
+    {
+      "key": "conciergePage.hero.slideLabel",
+      "en": "Slide {{number}}",
+      "fr": "Diapositive {{number}}",
+      "ru": "Слайд {{number}}"
+    },
+    {
+      "key": "conciergePage.hero.pause",
+      "en": "Pause slideshow",
+      "fr": "Mettre le diaporama en pause",
+      "ru": "Приостановить слайд-шоу"
+    },
+    {
+      "key": "conciergePage.hero.play",
+      "en": "Play slideshow",
+      "fr": "Lire le diaporama",
+      "ru": "Запустить слайд-шоу"
+    },
+    {
+      "key": "conciergePage.hero.slides.airport.tag",
+      "en": "Tarmac VIP Fast-Track",
+      "fr": "Accès VIP prioritaire au tarmac",
+      "ru": "Ускоренное VIP-обслуживание на аэродроме"
+    },
+    {
+      "key": "conciergePage.hero.slides.airport.caption",
+      "en": "Private jet reception, diplomatic passport control & expedited customs",
+      "fr": "Accueil des jets privés, contrôle diplomatique des passeports et douanes accélérées",
+      "ru": "Встреча частного самолёта, дипломатический паспортный контроль и ускоренная таможня"
+    },
+    {
+      "key": "conciergePage.hero.slides.security.tag",
+      "en": "Maybach Motorcades & Security",
+      "fr": "Cortèges Maybach et sécurité",
+      "ru": "Кортежи Maybach и безопасность"
+    },
+    {
+      "key": "conciergePage.hero.slides.security.caption",
+      "en": "Armored executive fleet & 24/7 diplomatic close-protection detail",
+      "fr": "Flotte blindée pour dirigeants et protection diplomatique rapprochée 24 h/24",
+      "ru": "Бронированный представительский автопарк и круглосуточная дипломатическая охрана"
+    },
+    {
+      "key": "conciergePage.hero.slides.hotels.tag",
+      "en": "5-Star Presidential Suites",
+      "fr": "Suites présidentielles cinq étoiles",
+      "ru": "Президентские номера пяти звёзд"
+    },
+    {
+      "key": "conciergePage.hero.slides.hotels.caption",
+      "en": "Curated hotel towers in Moscow, St. Petersburg & African capital cities",
+      "fr": "Hôtels sélectionnés à Moscou, Saint-Pétersbourg et dans les capitales africaines",
+      "ru": "Отобранные отели Москвы, Санкт-Петербурга и африканских столиц"
+    },
+    {
+      "key": "conciergePage.hero.slides.services.tag",
+      "en": "Bespoke Executive Services",
+      "fr": "Services sur mesure pour dirigeants",
+      "ru": "Индивидуальные услуги для руководителей"
+    },
+    {
+      "key": "conciergePage.hero.slides.services.caption",
+      "en": "Certified court translators, private dealrooms & priority access",
+      "fr": "Interprètes judiciaires certifiés, salles de négociation privées et accès prioritaire",
+      "ru": "Сертифицированные судебные переводчики, частные переговорные и приоритетный доступ"
+    },
+    {
+      "key": "conciergePage.services.vip-transfer.title",
+      "en": "Airport VIP Fast-Track & Executive Transfer",
+      "fr": "Accueil VIP prioritaire à l’aéroport et transfert exécutif",
+      "ru": "Ускоренное VIP-обслуживание в аэропорту и трансфер для руководителей"
+    },
+    {
+      "key": "conciergePage.services.vip-transfer.description",
+      "en": "Personal greeting at aircraft gate, expedited VIP customs clearance, baggage assistance, and luxury chauffeur transport in Mercedes-Maybach or V-Class.",
+      "fr": "Accueil personnalisé à la porte de l’avion, passage accéléré des douanes VIP, assistance bagages et transport avec chauffeur en Mercedes-Maybach ou Classe V.",
+      "ru": "Персональная встреча у выхода из самолёта, ускоренное прохождение VIP-таможни, помощь с багажом и трансфер с водителем на Mercedes-Maybach или V-Class."
+    },
+    {
+      "key": "conciergePage.services.vip-transfer.features.0",
+      "en": "24/7 Flight Monitoring",
+      "fr": "Suivi des vols 24 h/24 et 7 j/7",
+      "ru": "Круглосуточное отслеживание рейсов"
+    },
+    {
+      "key": "conciergePage.services.vip-transfer.features.1",
+      "en": "Multilingual Chauffeurs",
+      "fr": "Chauffeurs multilingues",
+      "ru": "Многоязычные водители"
+    },
+    {
+      "key": "conciergePage.services.vip-transfer.features.2",
+      "en": "Armored Transport Available",
+      "fr": "Transport blindé disponible",
+      "ru": "Доступен бронированный транспорт"
+    },
+    {
+      "key": "conciergePage.services.vip-transfer.features.3",
+      "en": "Luggage Concierge",
+      "fr": "Conciergerie bagages",
+      "ru": "Сопровождение багажа"
+    },
+    {
+      "key": "conciergePage.services.visa-legal.title",
+      "en": "Expedited Visa & Residency Legal Support",
+      "fr": "Assistance juridique accélérée pour visas et résidence",
+      "ru": "Ускоренное юридическое сопровождение виз и ВНЖ"
+    },
+    {
+      "key": "conciergePage.services.visa-legal.description",
+      "en": "Official invitation letters, business visa extensions, student visa legalization, diplomatic protocol coordination, and notary-certified translations.",
+      "fr": "Lettres d’invitation officielles, prolongation de visas d’affaires, légalisation des visas étudiants, coordination du protocole diplomatique et traductions certifiées par notaire.",
+      "ru": "Официальные приглашения, продление деловых виз, легализация студенческих виз, координация дипломатического протокола и нотариально заверенные переводы."
+    },
+    {
+      "key": "conciergePage.services.visa-legal.features.0",
+      "en": "Official Government Support",
+      "fr": "Soutien officiel auprès des autorités",
+      "ru": "Официальное взаимодействие с госорганами"
+    },
+    {
+      "key": "conciergePage.services.visa-legal.features.1",
+      "en": "Document Attestation",
+      "fr": "Authentification des documents",
+      "ru": "Заверение документов"
+    },
+    {
+      "key": "conciergePage.services.visa-legal.features.2",
+      "en": "Police Clearance Guidance",
+      "fr": "Accompagnement pour le certificat de police",
+      "ru": "Помощь в получении справки о несудимости"
+    },
+    {
+      "key": "conciergePage.services.visa-legal.features.3",
+      "en": "Work Permit Filing",
+      "fr": "Dépôt des demandes de permis de travail",
+      "ru": "Подача документов на разрешение на работу"
+    },
+    {
+      "key": "conciergePage.services.translation.title",
+      "en": "Certified Multilingual Translation & Interpreting",
+      "fr": "Traduction et interprétation multilingues certifiées",
+      "ru": "Сертифицированный многоязычный перевод"
+    },
+    {
+      "key": "conciergePage.services.translation.description",
+      "en": "Simultaneous and consecutive interpreters fluent in Russian, English, French, Arabic, Portuguese, and major African languages for forums and legal contracts.",
+      "fr": "Interprètes simultanés et consécutifs maîtrisant le russe, l’anglais, le français, l’arabe, le portugais et les principales langues africaines pour les forums et contrats juridiques.",
+      "ru": "Синхронные и последовательные переводчики русского, английского, французского, арабского, португальского и основных африканских языков для форумов и юридических договоров."
+    },
+    {
+      "key": "conciergePage.services.translation.features.0",
+      "en": "Certified Court Interpreters",
+      "fr": "Interprètes judiciaires certifiés",
+      "ru": "Сертифицированные судебные переводчики"
+    },
+    {
+      "key": "conciergePage.services.translation.features.1",
+      "en": "Bilateral Contract Translation",
+      "fr": "Traduction de contrats bilatéraux",
+      "ru": "Перевод двусторонних договоров"
+    },
+    {
+      "key": "conciergePage.services.translation.features.2",
+      "en": "Conference Audio Technology",
+      "fr": "Technologie audio pour conférences",
+      "ru": "Аудиооборудование для конференций"
+    },
+    {
+      "key": "conciergePage.services.translation.features.3",
+      "en": "Diplomatic Etiquette",
+      "fr": "Étiquette diplomatique",
+      "ru": "Дипломатический этикет"
+    },
+    {
+      "key": "conciergePage.services.hotel-booking.title",
+      "en": "5-Star Hotel & Executive Suite Booking",
+      "fr": "Réservation d’hôtels cinq étoiles et de suites exécutives",
+      "ru": "Бронирование пятизвёздочных отелей и представительских номеров"
+    },
+    {
+      "key": "conciergePage.services.hotel-booking.description",
+      "en": "Exclusive negotiated corporate rates at premier luxury hotels in Moscow, St. Petersburg, Sochi, Kazan, and major African economic hubs.",
+      "fr": "Tarifs d’entreprise exclusifs négociés auprès des meilleurs hôtels de luxe de Moscou, Saint-Pétersbourg, Sotchi, Kazan et des grands pôles économiques africains.",
+      "ru": "Эксклюзивные корпоративные тарифы в ведущих отелях Москвы, Санкт-Петербурга, Сочи, Казани и крупнейших экономических центров Африки."
+    },
+    {
+      "key": "conciergePage.services.hotel-booking.features.0",
+      "en": "Guaranteed Upgrade Benefits",
+      "fr": "Surclassements garantis",
+      "ru": "Гарантированные преимущества при повышении категории"
+    },
+    {
+      "key": "conciergePage.services.hotel-booking.features.1",
+      "en": "Private Dining Rooms",
+      "fr": "Salles à manger privées",
+      "ru": "Частные обеденные залы"
+    },
+    {
+      "key": "conciergePage.services.hotel-booking.features.2",
+      "en": "Conference Room Rental",
+      "fr": "Location de salles de conférence",
+      "ru": "Аренда конференц-залов"
+    },
+    {
+      "key": "conciergePage.services.hotel-booking.features.3",
+      "en": "Flexible Cancellation",
+      "fr": "Annulation flexible",
+      "ru": "Гибкая отмена"
+    },
+    {
+      "key": "conciergePage.services.b2b-matching.title",
+      "en": "Tailored B2B Matchmaking & Delegation Visits",
+      "fr": "Mise en relation B2B et visites de délégations sur mesure",
+      "ru": "Индивидуальный B2B-подбор партнёров и визиты делегаций"
+    },
+    {
+      "key": "conciergePage.services.b2b-matching.description",
+      "en": "Curated itinerary planning for corporate delegations, including private meetings with ministry officials, chamber presidents, and industry leaders.",
+      "fr": "Planification d’itinéraires pour les délégations d’entreprise et organisation de réunions privées avec des responsables ministériels, présidents de chambres et dirigeants sectoriels.",
+      "ru": "Подготовка маршрутов корпоративных делегаций и организация закрытых встреч с представителями министерств, главами торговых палат и руководителями отрасли."
+    },
+    {
+      "key": "conciergePage.services.b2b-matching.features.0",
+      "en": "Targeted Partner Vetting",
+      "fr": "Vérification ciblée des partenaires",
+      "ru": "Целевая проверка партнёров"
+    },
+    {
+      "key": "conciergePage.services.b2b-matching.features.1",
+      "en": "Private Meeting Venues",
+      "fr": "Lieux de réunion privés",
+      "ru": "Закрытые площадки для встреч"
+    },
+    {
+      "key": "conciergePage.services.b2b-matching.features.2",
+      "en": "Market Intelligence Reports",
+      "fr": "Rapports de veille commerciale",
+      "ru": "Отчёты по рыночной аналитике"
+    },
+    {
+      "key": "conciergePage.services.b2b-matching.features.3",
+      "en": "Post-Visit Follow-Up",
+      "fr": "Suivi après la visite",
+      "ru": "Сопровождение после визита"
+    },
+    {
+      "key": "conciergePage.services.medical-travel.title",
+      "en": "Medical Travel & Health Concierge",
+      "fr": "Voyages médicaux et conciergerie santé",
+      "ru": "Медицинские поездки и консьерж-сервис"
+    },
+    {
+      "key": "conciergePage.services.medical-travel.description",
+      "en": "Access to top specialized Russian medical centers, second opinions, emergency medical evacuations, and personalized recovery care.",
+      "fr": "Accès aux meilleurs centres médicaux spécialisés de Russie, seconds avis, évacuations médicales d’urgence et soins de convalescence personnalisés.",
+      "ru": "Доступ к ведущим специализированным медицинским центрам России, второму врачебному мнению, экстренной медицинской эвакуации и индивидуальному восстановлению."
+    },
+    {
+      "key": "conciergePage.services.medical-travel.features.0",
+      "en": "Top Surgical Specialists",
+      "fr": "Chirurgiens spécialistes de premier plan",
+      "ru": "Ведущие хирурги-специалисты"
+    },
+    {
+      "key": "conciergePage.services.medical-travel.features.1",
+      "en": "Private Hospital Suites",
+      "fr": "Suites hospitalières privées",
+      "ru": "Частные больничные палаты"
+    },
+    {
+      "key": "conciergePage.services.medical-travel.features.2",
+      "en": "Full Rehabilitation Support",
+      "fr": "Accompagnement complet en rééducation",
+      "ru": "Полное реабилитационное сопровождение"
+    },
+    {
+      "key": "conciergePage.services.medical-travel.features.3",
+      "en": "Medical Insurance Support",
+      "fr": "Assistance pour l’assurance médicale",
+      "ru": "Поддержка по медицинскому страхованию"
+    }
+  ]
+}

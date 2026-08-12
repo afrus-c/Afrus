@@ -1,0 +1,34 @@
+{
+    "id":  "souvenir-african-handmade-gift-box",
+    "title":  "African Handmade Gift Box",
+    "category":  "Souvenirs",
+    "subcategory":  "Cultural Gifts",
+    "priceUsd": 55,
+    "priceRub": 5060,
+    "origin":  "Accra, Ghana",
+    "description":  "A curated gift box featuring a selection of African-inspired handcrafted items, making it a thoughtful choice for birthdays, celebrations, cultural occasions, and international gifting.",
+    "image":  "/uploads/store/souvenir_gift_box_1786181150658.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Curated Gift Box",
+    "brand":  "Ghana Heritage Gift",
+    "inventoryCount":  20,
+    "titleI18n":  {
+                      "en":  "African Handmade Gift Box",
+                      "fr":  "Coffret Cadeau Souvenir Culturel Africain",
+                      "ru":  "Подарочный Африканский Культурный Набор"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A curated gift box featuring a selection of African-inspired handcrafted items, making it a thoughtful choice for birthdays, celebrations, cultural occasions, and international gifting.",
+                            "fr":  "Coffret cadeau comprenant un mini tambour, des porte-clés en perles et du thé épicé.",
+                            "ru":  "Подарочный комплект с мини-барабаном, брелоками и чаем."
+                        },
+    "categoryId":  "souvenirs",
+    "subcategoryId":  "souvenirs--cultural-gifts",
+    "badgeI18n":  {
+                      "ru":  "Специально подобранная подарочная коробка",
+                      "en":  "Curated Gift Box",
+                      "fr":  "Coffret cadeau organisé"
+                  }
+}

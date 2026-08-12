@@ -1,0 +1,114 @@
+{
+  "namespace": "nav",
+  "adminLabelFr": "Navigation principale",
+  "entries": [
+    {
+      "key": "nav.home",
+      "en": "Home",
+      "fr": "Accueil",
+      "ru": "Главная"
+    },
+    {
+      "key": "nav.study_russia",
+      "en": "Study in Russia",
+      "fr": "Étudier en Russie",
+      "ru": "Обучение в России"
+    },
+    {
+      "key": "nav.trade_freight",
+      "en": "Trade & Freight",
+      "fr": "Commerce & Fret",
+      "ru": "Торговля и Логистика"
+    },
+    {
+      "key": "nav.money_transfer",
+      "en": "Money Transfer",
+      "fr": "Transfert d'Argent",
+      "ru": "Денежные Переводы"
+    },
+    {
+      "key": "nav.store",
+      "en": "AFRUS Store",
+      "fr": "Boutique AFRUS",
+      "ru": "Магазин AFRUS"
+    },
+    {
+      "key": "nav.concierge",
+      "en": "Concierge & Travel",
+      "fr": "Conciergerie & Voyage",
+      "ru": "Консьерж и Поездки"
+    },
+    {
+      "key": "nav.languages",
+      "en": "Language Academy",
+      "fr": "Académie de Langues",
+      "ru": "Языковая Академия"
+    },
+    {
+      "key": "nav.business_russia",
+      "en": "Business in Russia",
+      "fr": "Affaires en Russie",
+      "ru": "Бизнес в России"
+    },
+    {
+      "key": "nav.business_africa",
+      "en": "Business in Africa",
+      "fr": "Affaires en Afrique",
+      "ru": "Бизнес в Африке"
+    },
+    {
+      "key": "nav.events_forums",
+      "en": "Events & Forums",
+      "fr": "Événements & Forums",
+      "ru": "События и Форумы"
+    },
+    {
+      "key": "nav.news_media",
+      "en": "News & Media",
+      "fr": "Actualités & Médias",
+      "ru": "Новости и Медиа"
+    },
+    {
+      "key": "nav.about",
+      "en": "About AFRUS",
+      "fr": "À Propos d'AFRUS",
+      "ru": "Об AFRUS"
+    },
+    {
+      "key": "nav.contact",
+      "en": "Contact Us",
+      "fr": "Contactez-Nous",
+      "ru": "Контакты"
+    },
+    {
+      "key": "nav.cart",
+      "en": "Cart",
+      "fr": "Panier",
+      "ru": "Корзина"
+    },
+    {
+      "key": "nav.select_language",
+      "en": "Select Language",
+      "fr": "Choisir la Langue",
+      "ru": "Выбрать язык"
+    },
+    {
+      "key": "nav.visit_store",
+      "en": "Visit AFRUS Store",
+      "fr": "Visiter la Boutique AFRUS",
+      "ru": "Магазин AFRUS"
+    },
+    {
+      "key": "nav.official_gateway",
+      "en": "Official Intergovernmental Gateway",
+      "fr": "Passerelle Intergouvernementale Officielle",
+      "ru": "Официальный Межправительственный Портал"
+    },
+    {
+      "key": "nav.consultationSubject",
+      "en": "General Consultation",
+      "fr": "Consultation générale",
+      "ru": "Общая консультация"
+    }
+  ]
+}

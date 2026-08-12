@@ -1,0 +1,24 @@
+{
+  "namespace": "lang",
+  "adminLabelFr": "Sélecteur de langue",
+  "entries": [
+    {
+      "key": "lang.badge",
+      "en": "AFRUS LANGUAGE ACADEMY",
+      "fr": "ACADÉMIE DE LANGUES AFRUS",
+      "ru": "ЯЗЫКОВАЯ АКАДЕМИЯ AFRUS"
+    },
+    {
+      "key": "lang.title",
+      "en": "Master Russian, French & English",
+      "fr": "Maîtrisez le Russe, le Français et l'Anglais",
+      "ru": "Изучение Русского, Французского и Английского"
+    },
+    {
+      "key": "lang.subtitle",
+      "en": "Specialized language immersion programs designed for university students, diplomats, and trade executives.",
+      "fr": "Programmes d'immersion linguistique conçus pour étudiants universitaires, diplomates et cadres commerciaux.",
+      "ru": "Интенсивные языковые программы для студентов, дипломатов и предпринимателей."
+    }
+  ]
+}

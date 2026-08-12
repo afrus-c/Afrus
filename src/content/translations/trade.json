@@ -1,0 +1,24 @@
+{
+  "namespace": "trade",
+  "adminLabelFr": "Commerce — textes généraux",
+  "entries": [
+    {
+      "key": "trade.badge",
+      "en": "BILATERAL COMMODITY FREIGHT",
+      "fr": "FRET DE MARCHANDISES BILATÉRAL",
+      "ru": "ДВУСТОРОННЯЯ ГРУЗОВАЯ ЛОГИСТИКА"
+    },
+    {
+      "key": "trade.title",
+      "en": "Russia–Africa Trade & Freight Corridor",
+      "fr": "Corridor Commercial & Fret Russie–Afrique",
+      "ru": "Торговый Коридор Россия–Африка"
+    },
+    {
+      "key": "trade.subtitle",
+      "en": "Bulk fertilizer shipments, agricultural produce, cocoa, coffee, machinery, and strategic minerals handled with full customs clearance.",
+      "fr": "Expéditions d'engrais en vrac, produits agricoles, cacao, café, machines et minéraux stratégiques avec dédouanement complet.",
+      "ru": "Оптовые поставки удобрений, сельхозпродукции, какао, кофе, промышленного оборудования и полезных ископаемых."
+    }
+  ]
+}

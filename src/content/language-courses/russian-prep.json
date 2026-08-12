@@ -1,0 +1,66 @@
+{
+  "id": "russian-prep",
+  "language": "Russian",
+  "level": "TORFL (TRKI) Test Prep A1–C1",
+  "duration": "6 Months Intensive",
+  "format": "In-Person",
+  "description": "Comprehensive preparatory Russian course tailored for African students entering university degree programs or business in Russia.",
+  "targetAudience": "Prospective Students, Business Owners, Expatriates",
+  "features": [
+    "Certified TORFL Examiners",
+    "University Admission Readiness",
+    "Daily Speaking Club Access",
+    "Comprehensive Study Materials"
+  ],
+  "icon": "BookOpen",
+  "titleI18n": {
+    "en": "Russian University Preparation",
+    "fr": "Préparation universitaire en russe",
+    "ru": "Подготовительный курс русского языка для поступления в университет"
+  },
+  "levelI18n": {
+    "en": "TORFL (TRKI) Test Prep A1–C1",
+    "fr": "Préparation aux tests TORFL (TRKI) A1 – C1",
+    "ru": "ТРКИ (ТРКИ) Подготовка к экзамену А1–С1"
+  },
+  "durationI18n": {
+    "en": "6 Months Intensive",
+    "fr": "6 mois intensif",
+    "ru": "6 месяцев интенсива"
+  },
+  "formatI18n": {
+    "en": "In-Person",
+    "fr": "En personne",
+    "ru": "Лично"
+  },
+  "descriptionI18n": {
+    "en": "Comprehensive preparatory Russian course tailored for African students entering university degree programs or business in Russia.",
+    "fr": "Cours préparatoire complet de russe adapté aux étudiants africains entrant dans des programmes universitaires ou en commerce en Russie.",
+    "ru": "Комплексный подготовительный курс русского языка, предназначенный для африканских студентов, поступающих на университетские программы или в бизнес в России."
+  },
+  "targetAudienceI18n": {
+    "en": "Prospective Students, Business Owners, Expatriates",
+    "fr": "Futurs étudiants, chefs d'entreprise, expatriés",
+    "ru": "Потенциальные студенты, владельцы бизнеса, иностранцы"
+  },
+  "featuresI18n": {
+    "en": [
+      "Certified TORFL Examiners",
+      "University Admission Readiness",
+      "Daily Speaking Club Access",
+      "Comprehensive Study Materials"
+    ],
+    "fr": [
+      "Examinateurs TORFL certifiés",
+      "Préparation à l'admission à l'université",
+      "Accès quotidien au club de parole",
+      "Matériel d'étude complet"
+    ],
+    "ru": [
+      "Сертифицированные экзаменаторы ТРКИ",
+      "Готовность к поступлению в университет",
+      "Ежедневный доступ в разговорный клуб",
+      "Комплексные учебные материалы"
+    ]
+  }
+}

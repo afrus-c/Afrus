@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <!-- Vibrant Sunset Gradient -->
+    <linearGradient id="sunsetSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2D0B2E"/>
+      <stop offset="20%" stop-color="#580C35"/>
+      <stop offset="40%" stop-color="#A2132F"/>
+      <stop offset="65%" stop-color="#E24A1F"/>
+      <stop offset="85%" stop-color="#F29318"/>
+      <stop offset="100%" stop-color="#FFD13B"/>
+    </linearGradient>
+
+    <!-- Sun Glow -->
+    <radialGradient id="glowingSun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="35%" stop-color="#FFF39A"/>
+      <stop offset="70%" stop-color="#F29318" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#E24A1F" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Fabric Lighting Overlay -->
+    <linearGradient id="waveHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="25%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="75%" stop-color="#000000" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky Canvas -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#sunsetSky)"/>
+
+  <!-- Sun sitting on the horizon -->
+  <circle cx="450" cy="380" r="140" fill="url(#glowingSun)"/>
+  <circle cx="450" cy="380" r="75" fill="#FFF8C6"/>
+
+  <!-- Sunset Horizon & Savanna Ridges -->
+  <path d="M 0 430 Q 250 410 450 435 Q 650 460 900 420 L 900 600 L 0 600 Z" fill="#1A060A"/>
+
+  <!-- Acacia Trees & Wildlife Silhouettes -->
+  <!-- Main Acacia Tree on Right (x=680) -->
+  <g fill="#110306">
+    <path d="M 680 500 Q 675 420 640 340 L 655 342 Q 688 410 695 500 Z"/>
+    <path d="M 660 365 Q 630 320 570 290 L 580 282 Q 635 310 665 355 Z"/>
+    <path d="M 672 380 Q 710 330 760 295 L 770 302 Q 720 335 680 390 Z"/>
+    <!-- Canopies -->
+    <ellipse cx="560" cy="285" rx="75" ry="16"/>
+    <ellipse cx="640" cy="270" rx="90" ry="20"/>
+    <ellipse cx="740" cy="290" rx="80" ry="18"/>
+
+    <!-- Small Acacia Tree on Left (x=180) -->
+    <path d="M 180 500 Q 185 450 165 390 L 175 392 Q 192 445 190 500 Z"/>
+    <ellipse cx="160" cy="385" rx="60" ry="14"/>
+    <ellipse cx="205" cy="375" rx="55" ry="13"/>
+
+    <!-- Soaring Flock of Birds across Sunset -->
+    <path d="M 380 180 Q 392 165 404 180 Q 416 165 428 180 Q 416 172 404 184 Q 392 172 380 180 Z"/>
+    <path d="M 450 140 Q 460 128 470 140 Q 480 128 490 140 Q 480 133 470 143 Q 460 133 450 140 Z"/>
+    <path d="M 320 220 Q 330 208 340 220 Q 350 208 360 220 Q 350 213 340 223 Q 330 213 320 220 Z"/>
+    <path d="M 510 190 Q 518 178 526 190 Q 534 178 542 190 Q 534 184 526 193 Q 518 184 510 190 Z"/>
+
+    <!-- Gazelles / Antelopes Silhouettes on Savanna Hill -->
+    <path d="
+      M 310 440
+      L 312 415 L 316 395 L 310 380 C 310 375 315 370 318 370 L 319 385 L 325 410 L 338 418 L 340 440
+      L 336 440 L 334 422 L 328 422 L 326 440 Z"/>
+    <path d="
+      M 260 445
+      L 262 425 L 265 408 L 260 395 L 268 420 L 278 426 L 280 445
+      L 276 445 L 274 428 L 270 428 L 268 445 Z"/>
+  </g>
+
+  <!-- Ornate Decorative Flag Edges -->
+  <rect x="0" y="0" width="900" height="20" fill="#110306"/>
+  <rect x="0" y="20" width="900" height="6" fill="#FFD13B"/>
+  <rect x="0" y="574" width="900" height="6" fill="#FFD13B"/>
+  <rect x="0" y="580" width="900" height="20" fill="#110306"/>
+
+  <!-- Fabric Texture & Waving Overlay -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#waveHighlight)" style="mix-blend-mode: overlay;"/>
+
+  <!-- Border -->
+  <rect x="0" y="0" width="900" height="600" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="6"/>
+</svg>

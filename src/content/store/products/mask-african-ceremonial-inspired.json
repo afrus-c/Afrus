@@ -1,0 +1,34 @@
+{
+    "id":  "mask-african-ceremonial-inspired",
+    "title":  "African Ceremonial-Inspired Mask",
+    "category":  "Masks",
+    "subcategory":  "Traditional African Masks",
+    "priceUsd": 92,
+    "priceRub": 8464,
+    "origin":  "Cotonou, Benin",
+    "description":  "A decorative mask inspired by traditional African ceremonial art, featuring detailed craftsmanship, bold patterns, and an authentic handcrafted appearance.",
+    "image":  "/uploads/store/mask_ceremonial_african_1786180598355.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  5,
+    "badge":  "Ceremonial Art",
+    "brand":  "Benin Bronze \u0026 Wood",
+    "inventoryCount":  14,
+    "titleI18n":  {
+                      "en":  "African Ceremonial-Inspired Mask",
+                      "fr":  "Masque Cérémoniel Africain",
+                      "ru":  "Африканская Церемониальная Маска"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A decorative mask inspired by traditional African ceremonial art, featuring detailed craftsmanship, bold patterns, and an authentic handcrafted appearance.",
+                            "fr":  "Masque cérémoniel finement sculpté représentant la force et la protection ancestrales.",
+                            "ru":  "Изящно вырезанная маска, символизирующая силу предков."
+                        },
+    "categoryId":  "masks",
+    "subcategoryId":  "masks--traditional-african-masks",
+    "badgeI18n":  {
+                      "ru":  "Церемониальное искусство",
+                      "en":  "Ceremonial Art",
+                      "fr":  "Art cérémoniel"
+                  }
+}

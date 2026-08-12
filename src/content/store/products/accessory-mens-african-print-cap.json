@@ -1,0 +1,34 @@
+{
+    "id":  "accessory-mens-african-print-cap",
+    "title":  "Men\u0027s African Print Cap",
+    "category":  "Accessories",
+    "subcategory":  "Men\u0027s Accessories",
+    "priceUsd": 28,
+    "priceRub": 2576,
+    "origin":  "Dakar, Senegal",
+    "description":  "A modern men\u0027s cap featuring an original African-inspired print. A versatile accessory suitable for casual outfits, outdoor activities, travel, and everyday wear.",
+    "image":  "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "African Print",
+    "brand":  "Senegal Streetwear",
+    "inventoryCount":  50,
+    "titleI18n":  {
+                      "en":  "Men\u0027s African Print Cap",
+                      "fr":  "Casquette Imprimé Africain Homme",
+                      "ru":  "Мужская Кепка с Африканским Принтом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A modern men\u0027s cap featuring an original African-inspired print. A versatile accessory suitable for casual outfits, outdoor activities, travel, and everyday wear.",
+                            "fr":  "Casquette ajustable avec visière en tissu wax Ankara.",
+                            "ru":  "Регулируемая бейсболка с козырьком из ткани анкара."
+                        },
+    "categoryId":  "accessories",
+    "subcategoryId":  "accessories--men-s-accessories",
+    "badgeI18n":  {
+                      "ru":  "Африканский принт",
+                      "en":  "African Print",
+                      "fr":  "Impression africaine"
+                  }
+}

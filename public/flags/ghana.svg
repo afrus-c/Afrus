@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+  <defs>
+    <!-- Fabric Lighting Overlay -->
+    <linearGradient id="waveHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="25%" stop-color="#000000" stop-opacity="0.10"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="75%" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Red top band -->
+  <rect x="0" y="0" width="900" height="200" fill="#CE1126"/>
+  <!-- Yellow middle band -->
+  <rect x="0" y="200" width="900" height="200" fill="#FCD116"/>
+  <!-- Green bottom band -->
+  <rect x="0" y="400" width="900" height="200" fill="#006B3F"/>
+
+  <!-- Black 5-pointed star centered in yellow band (x=450, y=300) -->
+  <!-- Outer radius ~85px, inner radius ~32.5px -->
+  <g transform="translate(450, 300)">
+    <polygon points="
+      0,-88
+      25.86,-28.59
+      83.69,-27.19
+      37.02,12.03
+      51.72,67.99
+      0,32.48
+      -51.72,67.99
+      -37.02,12.03
+      -83.69,-27.19
+      -25.86,-28.59
+    " fill="#000000"/>
+  </g>
+
+  <!-- Fabric Texture & Waving Overlay -->
+  <rect x="0" y="0" width="900" height="600" fill="url(#waveHighlight)" style="mix-blend-mode: overlay;"/>
+
+  <!-- Outer Border -->
+  <rect x="0" y="0" width="900" height="600" fill="none" stroke="#000000" stroke-opacity="0.25" stroke-width="6"/>
+</svg>

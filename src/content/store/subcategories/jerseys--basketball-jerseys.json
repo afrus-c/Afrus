@@ -1,0 +1,10 @@
+{
+  "id": "jerseys--basketball-jerseys",
+  "categoryId": "jerseys",
+  "name": "Basketball Jerseys",
+  "nameI18n": {
+    "en": "Basketball Jerseys",
+    "fr": "Maillots de Basket",
+    "ru": "Баскетбольная Форма"
+  }
+}

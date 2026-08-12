@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-african-heritage-bracelet",
+    "title":  "African Heritage Bracelet",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Cultural Jewelry",
+    "priceUsd": 34,
+    "priceRub": 3128,
+    "origin":  "Johannesburg, South Africa",
+    "description":  "A handcrafted bracelet inspired by African artistic traditions, featuring distinctive beads and cultural-inspired patterns. A meaningful accessory for cultural events and everyday wear.",
+    "image":  "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Cultural Pattern",
+    "brand":  "Ubuntu Artisan Guild",
+    "inventoryCount":  25,
+    "titleI18n":  {
+                      "en":  "African Heritage Bracelet",
+                      "fr":  "Bracelet Héritage Africain",
+                      "ru":  "Браслет Африканского Наследия"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A handcrafted bracelet inspired by African artistic traditions, featuring distinctive beads and cultural-inspired patterns. A meaningful accessory for cultural events and everyday wear.",
+                            "fr":  "Bracelet en perles personnalisé célébrant l\u0027unité culturelle panafricaine.",
+                            "ru":  "Браслет из бусин, символизирующий культурное единство."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--cultural-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Культурный образец",
+                      "en":  "Cultural Pattern",
+                      "fr":  "Modèle culturel"
+                  }
+}

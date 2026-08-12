@@ -1,0 +1,34 @@
+{
+    "id":  "perfume-golden-bloom-fragrance",
+    "title":  "Golden Bloom Fragrance",
+    "category":  "Perfume",
+    "subcategory":  "Women\u0027s Fragrances",
+    "priceUsd": 80,
+    "priceRub": 7360,
+    "origin":  "Tunis, Tunisia",
+    "description":  "A sophisticated women\u0027s fragrance inspired by warm floral and fresh aromatic notes, presented as an elegant addition to a modern fragrance collection.",
+    "image":  "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Golden Bloom",
+    "brand":  "Atlas Aromatics",
+    "inventoryCount":  28,
+    "titleI18n":  {
+                      "en":  "Golden Bloom Fragrance",
+                      "fr":  "Parfum de Luxe Éclosion Dorée",
+                      "ru":  "Парфюм Золотое Цветение"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A sophisticated women\u0027s fragrance inspired by warm floral and fresh aromatic notes, presented as an elegant addition to a modern fragrance collection.",
+                            "fr":  "Parfum floral oriental chaleureux infusé de miel et d\u0027ambre doré.",
+                            "ru":  "Теплый восточно-цветочный аромат с нотами меда и золотистой амбры."
+                        },
+    "categoryId":  "perfume",
+    "subcategoryId":  "perfume--women-s-fragrances",
+    "badgeI18n":  {
+                      "ru":  "Золотой Блум",
+                      "en":  "Golden Bloom",
+                      "fr":  "Floraison dorée"
+                  }
+}

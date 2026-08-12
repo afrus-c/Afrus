@@ -1,0 +1,34 @@
+{
+    "id":  "flag-african-sunset-decorative-flag",
+    "title":  "African Sunset Decorative Flag",
+    "category":  "Flags",
+    "subcategory":  "Decorative Flags",
+    "priceUsd": 29,
+    "priceRub": 2668,
+    "origin":  "Cape Town, South Africa",
+    "description":  "A vibrant decorative flag inspired by African landscapes and sunsets, featuring warm colors and an artistic design suitable for interior and outdoor decorative displays.",
+    "image":  "/flags/african-sunset-decorative-flag.svg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Landscape Decor",
+    "brand":  "African Horizons",
+    "inventoryCount":  32,
+    "titleI18n":  {
+                      "en":  "African Sunset Decorative Flag",
+                      "fr":  "Drapeau Paysage Coucher de Soleil Africain",
+                      "ru":  "Декоративное Панно Африканский Закат"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A vibrant decorative flag inspired by African landscapes and sunsets, featuring warm colors and an artistic design suitable for interior and outdoor decorative displays.",
+                            "fr":  "Tapisserie de fond au coucher du soleil doré chaleureux avec acacias.",
+                            "ru":  "Теплый гобелен с силуэтами акаций на фоне золотого заката."
+                        },
+    "categoryId":  "flags",
+    "subcategoryId":  "flags--decorative-flags",
+    "badgeI18n":  {
+                      "ru":  "Пейзажный Декор",
+                      "en":  "Landscape Decor",
+                      "fr":  "Décor paysager"
+                  }
+}

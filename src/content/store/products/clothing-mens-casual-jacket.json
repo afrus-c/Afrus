@@ -1,0 +1,40 @@
+{
+    "id":  "clothing-mens-casual-jacket",
+    "title":  "Men\u0027s Casual Jacket",
+    "category":  "Clothing",
+    "subcategory":  "Men",
+    "priceUsd": 78,
+    "priceRub": 7176,
+    "origin":  "AFRUS Apparel",
+    "description":  "A modern men\u0027s casual jacket designed for everyday styling, combining a clean contemporary appearance with a comfortable and practical design.",
+    "image":  "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Outerwear",
+    "brand":  "AFRUS Menswear",
+    "availableSizes":  [
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  22,
+    "titleI18n":  {
+                      "en":  "Men\u0027s Casual Jacket",
+                      "fr":  "Veste Urbaine Décontractée Homme",
+                      "ru":  "Мужская Повседневная Куртка"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A modern men\u0027s casual jacket designed for everyday styling, combining a clean contemporary appearance with a comfortable and practical design.",
+                            "fr":  "Blouson bomber léger moderne avec bordures aux motifs africains.",
+                            "ru":  "Современная легкая куртка-бомбер с этнической отделкой."
+                        },
+    "categoryId":  "clothing",
+    "subcategoryId":  "clothing--men",
+    "badgeI18n":  {
+                      "ru":  "Верхняя одежда",
+                      "en":  "Outerwear",
+                      "fr":  "Vêtements d\u0027extérieur"
+                  }
+}

@@ -1,0 +1,1308 @@
+{
+  "namespace": "exportImportPage",
+  "adminLabelFr": "Page Exportation et Importation",
+  "entries": [
+    {
+      "key": "exportImportPage.exportImport.text_001",
+      "en": "Milling Wheat, Barley & Grain Cereals",
+      "fr": "Blé de Meunerie, Orge & Céréales",
+      "ru": "Продовольственная Пшеница, Ячмень и Зерновые"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_002",
+      "en": "High-protein milling wheat, feed barley, corn, and grain cereals essential for national food security across North, West, and East Africa.",
+      "fr": "Blé de meunerie riche en protéines, orge fourragère, maïs et céréales essentiels pour la sécurité alimentaire nationale en Afrique du Nord, de l'Ouest et de l'Est.",
+      "ru": "Высокобелковая пшеница, фуражный ячмень, кукуруза и зерновые культуры, необходимые для продовольственной безопасности Африки."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_003",
+      "en": "Krasnodar Krai, Rostov Oblast, Stavropol, Volga Region (Russia)",
+      "fr": "Krasnodar, Rostov, Stavropol, Région de la Volga (Russie)",
+      "ru": "Краснодарский край, Ростовская обл., Ставрополье, Поволжье (Россия)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_004",
+      "en": "Bread & Bakery Manufacturing",
+      "fr": "Boulangerie & Panification",
+      "ru": "Хлебопекарное Производство"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_005",
+      "en": "Flour Milling Plants",
+      "fr": "Moulins à Farine",
+      "ru": "Мукомольные Заводы"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_006",
+      "en": "Animal Feed Production",
+      "fr": "Production d'Aliments pour Animaux",
+      "ru": "Производство Комбикормов"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_007",
+      "en": "Supplies over 70% of total wheat imports for several African nations, stabilizing flour prices and safeguarding urban food security.",
+      "fr": "Fournit plus de 70 % des importations totales de blé de plusieurs nations africaines, stabilisant les prix de la farine et protégeant la sécurité alimentaire urbaine.",
+      "ru": "Обеспечивает более 70% импорта пшеницы в ряд стран Африки, стабилизируя цены на муку и обеспечивая продовольственную безопасность."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_008",
+      "en": "Panamax & Handymax Dry Bulk Carriers (30,000–65,000 DWT)",
+      "fr": "Vraquiers Secs Panamax & Handymax (30 000–65 000 DWT)",
+      "ru": "Сухогрузы Panamax и Handymax (30 000–65 000 DWT)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_009",
+      "en": "Global wheat demand across Africa is expanding at 4.2% annually due to urban demographic growth and expanding commercial bakery chains.",
+      "fr": "La demande mondiale de blé en Afrique augmente de 4,2 % par an en raison de la croissance démographique urbaine et de l'expansion des chaînes de boulangerie.",
+      "ru": "Спрос на пшеницу в Африке растет на 4,2% в год из-за урбанизации и расширения пекарных сетей."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_010",
+      "en": "Peak export window: July through March following Black Sea autumn harvest.",
+      "fr": "Fenêtre d'exportation maximale : juillet à mars après la récolte d'automne de la Mer Noire.",
+      "ru": "Пик экспорта: с июля по март после сбора урожая в Черноморском регионе."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_011",
+      "en": "Requires Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor) purity certificate, non-GMO declaration, and moisture controls below 13.5%.",
+      "fr": "Nécessite le certificat de pureté du Rosselkhoznadzor, une déclaration non-OGM et un contrôle d'humidité inférieur à 13,5 %.",
+      "ru": "Требуется сертификат Россельхознадзора, декларация об отсутствии ГМО и контроль влажности ниже 13,5%."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_012",
+      "en": "Unrefined & Refined Sunflower Oil",
+      "fr": "Huile de Tournesol Non Raffinée & Raffinée",
+      "ru": "Нерафинированное и Рафинированное Подсолнечное Масло"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_013",
+      "en": "Pure unrefined crude and bottled food-grade refined sunflower oil packaged for wholesale consumer distribution and food processing.",
+      "fr": "Huile de tournesol brute pure et raffinée conditionnée pour la distribution en gros et la transformation alimentaire.",
+      "ru": "Чистое нерафинированное и бутилированное пищевое рафинированное подсолнечное масло для оптовой торговли и пищепрома."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_014",
+      "en": "Voronezh, Belgorod, Saratov, Krasnodar (Russia)",
+      "fr": "Voronej, Belgorod, Saratov, Krasnodar (Russie)",
+      "ru": "Воронеж, Белгород, Саратов, Краснодар (Россия)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_015",
+      "en": "Culinary Oil Packaging",
+      "fr": "Conditionnement d'Huile Alimentaire",
+      "ru": "Фасовка Пищевого Масла"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_016",
+      "en": "Food Processing",
+      "fr": "Transformation Alimentaire",
+      "ru": "Пищевая Промышленность"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_017",
+      "en": "Confectionery & Margarine",
+      "fr": "Confiserie & Margarine",
+      "ru": "Кондитерские Изделия и Маргарин"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_018",
+      "en": "Serves as a staple cooking oil across African households, offering high smoke point and Vitamin E content at competitive market tariffs.",
+      "fr": "Sert d'huile de cuisson de base pour les ménages africains, offrant un point de fumée élevé et une teneur en vitamine E à des tarifs compétitifs.",
+      "ru": "Является основным пищевым маслом в африканских домохозяйствах с высоким содержанием витамина E по конкурентным ценам."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_019",
+      "en": "Flexitank Containers & Food-Grade Chemical Tankers",
+      "fr": "Conteneurs Flexitank & Chimiquiers Alimentaires",
+      "ru": "Флекситанки в Контейнерах и Пищевые Танкеры"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_020",
+      "en": "Flexitank containerized shipments allow smaller regional distributors to import 24-metric-ton units with lower capital outlay.",
+      "fr": "Les expéditions en conteneurs flexitank permettent aux petits distributeurs régionaux d'importer des unités de 24 tonnes métriques avec un investissement réduit.",
+      "ru": "Контейнерные перевозки во флекситанках позволяют региональным дистрибьюторам импортировать партии по 24 тонны."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_021",
+      "en": "Continuous year-round supply with high crushing activity from September onwards.",
+      "fr": "Approvisionnement continu toute l'année avec une forte activité de trituration à partir de septembre.",
+      "ru": "Круглогодичные поставки с пиком переработки начиная с сентября."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_022",
+      "en": "Certified free from chemical solvents, compliant with Codex Alimentarius food safety thresholds.",
+      "fr": "Certifiée sans solvants chimiques, conforme aux seuils de sécurité alimentaire du Codex Alimentarius.",
+      "ru": "Сертифицировано об отсутствии химических растворителей, соответствие нормам Codex Alimentarius."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_023",
+      "en": "Mineral Fertilizers (Urea, NPK & Potash)",
+      "fr": "Engrais Minéraux (Urée, NPK & Potasse)",
+      "ru": "Минеральные Удобрения (Карбамид, NPK и Калий)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_024",
+      "en": "High-concentration Nitrogen (Urea), Complex NPK blends, and Potash fertilizers essential for restoring tropical soil fertility.",
+      "fr": "Azote haute concentration (Urée), mélanges complexes NPK et engrais potassiques essentiels pour restaurer la fertilité des sols tropicaux.",
+      "ru": "Высококонцентрированный азот (карбамид), комплексные NPK смеси и калийные удобрения для почв."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_025",
+      "en": "Perm Krai, Murmansk, Vologda, Tatarstan (Russia)",
+      "fr": "Perm, Mourmansk, Vologda, Tatarstan (Russie)",
+      "ru": "Пермский край, Мурманск, Вологда, Татарстан (Россия)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_026",
+      "en": "Commercial Crop Estates",
+      "fr": "Exploitations Agricoles Commerciales",
+      "ru": "Коммерческие Сельхозугодья"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_027",
+      "en": "Smallholder Agrarian Cooperatives",
+      "fr": "Coopératives Agricoles de Petits Exploitants",
+      "ru": "Аграрные Кооперативы"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_028",
+      "en": "Soil Nutrient Blending",
+      "fr": "Mélange de Nutriments du Sol",
+      "ru": "Смешивание Удобрений"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_029",
+      "en": "Restores depleted tropical soils, enhancing crop yield per hectare for cash crops like cocoa, coffee, sugarcane, and maize.",
+      "fr": "Restaure les sols tropicaux épuisés, augmentant le rendement des cultures par hectare pour le cacao, le café, la canne à sucre et le maïs.",
+      "ru": "Восстанавливает тропические почвы, повышая урожайность какао, кофе, сахарного тростника и кукурузы."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_030",
+      "en": "Bulk Carriers & Jumbo Bag 1,000kg Containerized Cargo",
+      "fr": "Vraquiers & Cargaisons en Conteneurs Jumbo Bags 1 000 kg",
+      "ru": "Балкеры и Контейнерные Перевозки в Биг-Бэгах по 1000 кг"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_031",
+      "en": "Soil-specific NPK formulations customized for African soil profiles boost crop yield by up to 35% compared to generic fertilizers.",
+      "fr": "Les formulations NPK personnalisées pour les sols africains augmentent le rendement des cultures jusqu'à 35 % par rapport aux engrais génériques.",
+      "ru": "Специализированные формулы NPK для африканских почв повышают урожайность до 35%."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_032",
+      "en": "Pre-planting distribution waves align with West African March–May and East African October–December rainy seasons.",
+      "fr": "Les vagues de distribution pré-plantation s'alignent sur les saisons des pluies en Afrique.",
+      "ru": "Поставки перед посевной совпадают с сезонами дождей в Западной и Восточной Африке."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_033",
+      "en": "Granular size uniformity certification (2–4mm), anti-caking coating compliance, and heavy metal limits.",
+      "fr": "Certification d'uniformité de taille des granulés (2–4 mm), conformité de l'enrobage anti-mottant et limites de métaux lourds.",
+      "ru": "Сертификат гранулометрического состава (2–4 мм), антислеживающего покрытия и лимитов тяжелых металлов."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_034",
+      "en": "Heavy Agricultural Harvesters & Tractors",
+      "fr": "Moissonneuses & Tracteurs Agricoles Lourds",
+      "ru": "Тяжелые Комбайны и Тракторы"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_035",
+      "en": "Combine harvesters, heavy-duty 4WD tractors, soil tillers, and automated irrigation equipment designed for rugged terrain.",
+      "fr": "Moissonneuses-batteuses, tracteurs 4x4 lourds, motoculteurs et équipements d'irrigation automatisés conçus pour les terrains difficiles.",
+      "ru": "Зерноуборочные комбайны, тяжелые полноприводные тракторы, культиваторы и системы орошения."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_036",
+      "en": "Rostov-on-Don, Saint Petersburg, Chelyabinsk (Russia)",
+      "fr": "Rostov-sur-le-Don, Saint-Pétersbourg, Tcheliabinsk (Russie)",
+      "ru": "Ростов-на-Дону, Санкт-Петербург, Челябинск (Россия)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_037",
+      "en": "Large-Scale Commercial Farming",
+      "fr": "Exploitations Commerciales à Grande Échelle",
+      "ru": "Крупное Коммерческое Земледелие"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_038",
+      "en": "State Agrarian Development Schemes",
+      "fr": "Projets d'État de Développement Agraire",
+      "ru": "Государственные Программы Развития Сельского Хозяйства"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_039",
+      "en": "Accelerates farm mechanization across Africa, enabling multi-crop harvests and reducing post-harvest field loss.",
+      "fr": "Accélère la mécanisation agricole en Afrique, permettant des récoltes multiples et réduisant les pertes après récolte.",
+      "ru": "Ускоряет механизацию сельского хозяйства Африки, повышая урожайность и сокращая потери."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_040",
+      "en": "Ro-Ro (Roll-on/Roll-off) Vessels & Flat Rack Containers",
+      "fr": "Navires Ro-Ro (Rouliers) & Conteneurs Flat Rack",
+      "ru": "Суда Ro-Ro (Ролкеры) и Контейнеры Flat Rack"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_041",
+      "en": "Russian harvesters are highly favored in tropical farming due to simple mechanical maintenance, low fuel sensitivity, and durable chassis.",
+      "fr": "Les moissonneuses russes sont très appréciées en agriculture tropicale pour leur entretien mécanique simple et leur châssis robuste.",
+      "ru": "Российские комбайны высоко ценятся в тропиках благодаря простоте обслуживания и надежному шасси."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_042",
+      "en": "Year-round delivery with seasonal spikes prior to major regional harvest cycles.",
+      "fr": "Livraison toute l'année avec des pics saisonniers avant les grands cycles de récolte régionaux.",
+      "ru": "Круглогодичные поставки с пиками перед началом уборочных кампаний."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_043",
+      "en": "Factory warranty certification, spare parts cataloging, and tropicalized cooling system verification.",
+      "fr": "Certification de garantie d'usine, catalogage des pièces de rechange et vérification du système de refroidissement tropicalisé.",
+      "ru": "Заводская гарантия, каталог запчастей и тропическое исполнение системы охлаждения."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_044",
+      "en": "Power Generators & Energy Equipment",
+      "fr": "Générateurs Électriques & Équipements Énergétiques",
+      "ru": "Электрогенераторы и Энергетическое Оборудование"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_045",
+      "en": "High-capacity diesel and gas turbine generator sets, high-voltage transformers, and hydroelectric turbine components.",
+      "fr": "Groupes électrogènes diesel et turbines à gaz haute capacité, transformateurs haute tension et composants de turbines hydroélectriques.",
+      "ru": "Высокомощные дизельные и газотурбинные генераторные установки, трансформаторы и гидротурбины."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_046",
+      "en": "Yekaterinburg, Saint Petersburg, Novosibirsk (Russia)",
+      "fr": "Iekaterinbourg, Saint-Pétersbourg, Novossibirsk (Russie)",
+      "ru": "Екатеринбург, Санкт-Петербург, Новосибирск (Россия)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_047",
+      "en": "National Power Grids",
+      "fr": "Réseaux Électriques Nationaux",
+      "ru": "Национальные Энергосети"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_048",
+      "en": "Mining Extractive Sites",
+      "fr": "Sites d'Extraction Minière",
+      "ru": "Горнодобывающие Предприятия"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_049",
+      "en": "Industrial Zones",
+      "fr": "Zones Industrielles",
+      "ru": "Промышленные Зоны"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_050",
+      "en": "Provides uninterrupted electrical power for industrial manufacturing zones, hospital complexes, and remote mining sites.",
+      "fr": "Fournit une alimentation électrique ininterrompue pour les zones de fabrication industrielle, les complexes hospitaliers et les sites miniers isolés.",
+      "ru": "Обеспечивает бесперебойное электроснабжение промышленных зон, больниц и горнодобывающих объектов."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_051",
+      "en": "Breakbulk Heavy-Lift Vessels & Open-Top Containers",
+      "fr": "Navires Pour Colis Lourds Breakbulk & Conteneurs Open-Top",
+      "ru": "Суда для Перевозки Наваличных и Тяжеловесных Грузов"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_052",
+      "en": "Containerized modular power blocks allow rapid deployment in off-grid agricultural processing hubs.",
+      "fr": "Les blocs d'alimentation modulaires en conteneurs permettent un déploiement rapide dans les centres de transformation agricole hors réseau.",
+      "ru": "Модульные контейнерные энергоблоки позволяют быстро разворачивать мощности в отдаленных районах."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_053",
+      "en": "Continuous year-round delivery based on capital infrastructure projects.",
+      "fr": "Livraison continue toute l'année basée sur les projets d'infrastructures.",
+      "ru": "Круглогодичные поставки под инфраструктурные проекты."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_054",
+      "en": "ISO 9001 quality compliance, tropical climate insulation grading, and high-voltage safety testing.",
+      "fr": "Conformité qualité ISO 9001, isolation adaptée au climat tropical et tests de sécurité haute tension.",
+      "ru": "Соответствие ISO 9001, тропическое исполнение изоляции и испытания высокого напряжения."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_055",
+      "en": "Specialty Arabica/Robusta Coffee & Raw Cocoa",
+      "fr": "Café Spécialisé Arabica/Robusta & Cacao Brut",
+      "ru": "Спешелти Кофе Арабика/Робуста и Какао-Бобы"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_056",
+      "en": "Single-origin unroasted green coffee beans and high-fat raw cocoa beans sourced directly from certified agrarian cooperatives.",
+      "fr": "Grains de café vert non torréfiés d'origine unique et fèves de cacao brut riches en matières grasses provenant de coopératives certifiées.",
+      "ru": "Моносорта зеленого кофе и жирные какао-бобы напрямую от сертифицированных аграрных кооперативов."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_057",
+      "en": "Côte d’Ivoire, Ghana (Cocoa) / Ethiopia, Uganda, Tanzania (Coffee)",
+      "fr": "Côte d'Ivoire, Ghana (Cacao) / Éthiopie, Ouganda, Tanzanie (Café)",
+      "ru": "Кот-д’Ивуар, Гана (Какао) / Эфиопия, Уганда, Танзания (Кофе)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_058",
+      "en": "Chocolate & Confectionery Manufacturing",
+      "fr": "Chocolaterie & Confiserie",
+      "ru": "Шоколадное и Кондитерское Производство"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_059",
+      "en": "Coffee Roasteries",
+      "fr": "Torréfacteurs de Café",
+      "ru": "Кофейные Ростерии"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_060",
+      "en": "Cosmetics",
+      "fr": "Cosmétiques",
+      "ru": "Косметическая Промышленность"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_061",
+      "en": "Provides essential raw inputs for Russia’s confectionery processing centers and premium specialty coffee roasteries.",
+      "fr": "Fournit les matières premières essentielles pour les centres de transformation de confiserie et les torréfacteurs de café haut de gamme en Russie.",
+      "ru": "Поставляет сырье для кондитерской промышленности и торговцев кофе в России."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_062",
+      "en": "Dry Food Containers with Moisture-Absorbing Liners & Jute Bags",
+      "fr": "Conteneurs pour Produits Secs avec Rehausses Anti-Humidité & Sacs en Jute",
+      "ru": "Контейнеры с Влагопоглощающими Вкладышами и Джутовые Мешки"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_063",
+      "en": "Specialty single-origin Ethiopian Arabica commands high premiums in Eurasian urban coffee houses.",
+      "fr": "L'Arabica éthiopien d'origine unique bénéficie d'une prime élevée dans les salons de café eurasiatiques.",
+      "ru": "Эфиопская арабика моносортов пользуется высоким спросом в кофейнях Евразии."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_064",
+      "en": "Main cocoa harvest: October to March; Coffee harvest: November to February.",
+      "fr": "Récolte principale de cacao : octobre à mars ; Récolte de café : novembre à février.",
+      "ru": "Основной урожай какао: октябрь-март; Урожай кофе: ноябрь-февраль."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_065",
+      "en": "International Cocoa Organization (ICCO) moisture standards (<7.5%), phytosanitary origin certification, and mold control checks.",
+      "fr": "Normes d'humidité de l'ICCO (<7,5 %), certification phytosanitaire d'origine et contrôles anti-moisissures.",
+      "ru": "Стандарты влажности ICCO (<7,5%), фитосанитарный сертификат происхождения и контроль плесени."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_066",
+      "en": "Fresh Citrus, Avocados & Tropical Fruits",
+      "fr": "Agrumes Frais, Avocats & Fruits Tropicaux",
+      "ru": "Свежие Цитрусовые, Авокадо и Тропические Фрукты"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_067",
+      "en": "Fresh Hass avocados, oranges, lemons, pineapples, and mangoes transported via specialized temperature-controlled reefer liners.",
+      "fr": "Avocats Hass frais, oranges, citrons, ananas et meules de mangue transportés par navires frigorifiques sous température contrôlée.",
+      "ru": "Свежие авокадо Хасс, апельсины, лимоны, ананасы и манго в рефрижераторных контейнерах."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_068",
+      "en": "South Africa, Egypt, Kenya, Tanzania, Madagascar",
+      "fr": "Afrique du Sud, Égypte, Kenya, Tanzanie, Madagascar",
+      "ru": "ЮАР, Египет, Кения, Танзания, Мадагаскар"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_069",
+      "en": "Retail Grocery Chains",
+      "fr": "Chaînes de Grande Distribution",
+      "ru": "Розничные Продуктовые Сети"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_070",
+      "en": "Juice Processing",
+      "fr": "Transformation de Jus de Fruits",
+      "ru": "Производство Соков"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_071",
+      "en": "Fresh Produce Distribution",
+      "fr": "Distribution de Produits Frais",
+      "ru": "Дистрибуция Свежих Продуктов"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_072",
+      "en": "Provides fresh tropical fruits during northern winter months when Russian domestic fruit production is offline.",
+      "fr": "Fournit des fruits tropicaux frais pendant les mois d'hiver nordiques lorsque la production fruitière russe est suspendue.",
+      "ru": "Обеспечивает свежими тропическими фруктами в зимние месяцы."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_073",
+      "en": "Refrigerated Reefer Containers (+4°C to +8°C Controlled Atmosphere)",
+      "fr": "Conteneurs Frigorifiques Reefer (+4 °C à +8 °C Atmosphère Contrôlée)",
+      "ru": "Рефрижераторные Контейнеры (от +4°C до +8°C)"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_074",
+      "en": "Reefer direct shipping routes from Durban to Novorossiysk cut transit time down to 18 days, preserving shelf life.",
+      "fr": "Les lignes frigorifiques directes de Durban à Novorossiysk réduisent le transit à 18 jours, préservant la fraîcheur.",
+      "ru": "Прямые рефрижераторные маршруты из Дурбана в Новороссийск сокращают срок доставки до 18 дней."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_075",
+      "en": "Southern Hemisphere harvest runs from April through September; Egyptian citrus peaks December through April.",
+      "fr": "La récolte de l'hémisphère Sud va d'avril à septembre ; les agrumes égyptiens atteignent leur pic de décembre à avril.",
+      "ru": "Урожай Южного полушария: апрель-сентябрь; египетские цитрусовые: декабрь-апрель."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_076",
+      "en": "Cold-treatment protocol certification to ensure fruit-fly elimination and zero pesticide residue compliance.",
+      "fr": "Certification du protocole de traitement par le froid pour éliminer les mouches des fruits et garantir l'absence de résidus de pesticides.",
+      "ru": "Сертификация холодовой обработки против плодовой мухи и контроль остатков пестицидов."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_077",
+      "en": "Strategic Copper Cathodes & Battery Minerals",
+      "fr": "Cathodes de Cuivre Stratégiques & Minéraux pour Batteries",
+      "ru": "Медные Катоды и Минералы для Аккумуляторов"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_078",
+      "en": "99.99% pure grade-A copper cathodes, cobalt concentrates, lithium ore, and high-grade bauxite for advanced manufacturing.",
+      "fr": "Cathodes de cuivre pur à 99,99 % de qualité A, concentrés de cobalt, minerai de lithium et bauxite de haute qualité.",
+      "ru": "Медные катоды марка А (99,99%), кобальтовый концентрат, литиевая руда и бокситы."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_079",
+      "en": "DR Congo, Zambia, Zimbabwe, South Africa, Guinea",
+      "fr": "RDC, Zambie, Zimbabwe, Afrique du Sud, Guinée",
+      "ru": "ДР Конго, Замбия, Зимбабве, ЮАР, Гвинея"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_080",
+      "en": "High-Tech Electronics",
+      "fr": "Électronique Haute Technologie",
+      "ru": "Высокотехнологичная Электроника"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_081",
+      "en": "EV Battery Assembly",
+      "fr": "Assemblage de Batteries pour Véhicules Électriques",
+      "ru": "Сборка Аккумуляторов для Электромобилей"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_082",
+      "en": "Metallurgy & Power Wiring",
+      "fr": "Métallurgie & Câblage Électrique",
+      "ru": "Металлургия и Кабельная Промышленность"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_083",
+      "en": "Supplies essential mineral elements for global green-energy transitions, electric transport, and industrial electrical grids.",
+      "fr": "Fournit les éléments minéraux essentiels pour la transition énergétique, les transports électriques et les réseaux électriques industriels.",
+      "ru": "Поставляет ключевые минералы для зеленой энергетики, электротранспорта и энергосетей."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_084",
+      "en": "20ft Heavy-Duty Containerized Pallets & Bulk Ore Carriers",
+      "fr": "Palettes en Conteneurs Renforcés de 20 Pieds & Minéraliers Vraquiers",
+      "ru": "20-футовые Усиленные Контейнеры и Рудовозы"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_085",
+      "en": "Multimodal rail corridors connecting the Zambian Copperbelt to coastal ports are unlocking faster mineral exports.",
+      "fr": "Les corridors ferroviaires multimodaux reliant la ceinture de cuivre zambienne aux ports côtiers accélèrent les exportations.",
+      "ru": "Мультимодальные железнодорожные коридоры ускоряют экспорт минералов из Замбии."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_086",
+      "en": "Continuous year-round production and shipping.",
+      "fr": "Production et expédition continues toute l'année.",
+      "ru": "Круглогодичное производство и отгрузка."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_087",
+      "en": "Assay certificates of purity from certified independent laboratories (SGS) and ethical sourcing documentation.",
+      "fr": "Certificats d'analyse de pureté émis par des laboratoires indépendants certifiés (SGS) et documentation d'approvisionnement éthique.",
+      "ru": "Сертификаты химического анализа (SGS) и документация об этичном происхождении."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_088",
+      "en": "Raw Unrefined Shea Butter & Organic Oils",
+      "fr": "Beurre de Karité Brut Non Raffiné & Huiles Biologiques",
+      "ru": "Нерафинированное Масло Карите и Органические Масла"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_089",
+      "en": "Grade-A unrefined raw shea butter, marula oil, and botanical extracts harvested by rural women’s cooperatives in West Africa.",
+      "fr": "Beurre de karité brut de qualité A, huile de marula et extraits botaniques récoltés par des coopératives de femmes rurales en Afrique de l'Ouest.",
+      "ru": "Нерафинированное масло карите высшего качества, масло марулы и экстракты от женских кооперативов."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_090",
+      "en": "Ghana, Nigeria, Burkina Faso, Mali",
+      "fr": "Ghana, Nigéria, Burkina Faso, Mali",
+      "ru": "Гана, Нигерия, Буркина-Фасо, Мали"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_091",
+      "en": "Cosmetics & Skincare Brands",
+      "fr": "Marques de Cosmétiques & Soins de la Peau",
+      "ru": "Косметические Бренды"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_092",
+      "en": "Pharmaceutical Ointments",
+      "fr": "Pommades Pharmaceutiques",
+      "ru": "Фармацевтические Мази"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_093",
+      "en": "Confectionery Cocoa-Butter Substitutes",
+      "fr": "Substituts de Beurre de Cacao en Confiserie",
+      "ru": "Заменители Какао-Масла"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_094",
+      "en": "Serves as an essential natural ingredient for luxury cosmetics, organic body care products, and specialized food fats.",
+      "fr": "Ingrédient naturel essentiel pour les cosmétiques de luxe, les soins corporels biologiques et les graisses alimentaires spécialisées.",
+      "ru": "Ключевой ингредиент для элитной косметики, органического ухода за телом и пищевых жиров."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_095",
+      "en": "Food-Grade Drums & Boxed Block Containers",
+      "fr": "Fûts Alimentaires & Conteneurs de Blocs en Boîtes",
+      "ru": "Пищевые Бочки и Контейнеры с Блоками"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_096",
+      "en": "Organic shea butter imports into Eurasia have grown by 18% annually due to rising consumer demand for natural botanical cosmetics.",
+      "fr": "Les importations de beurre de karité bio en Eurasie augmentent de 18 % par an en raison de la demande croissante de cosmétiques naturels.",
+      "ru": "Импорт органического масла карите в Евразию растет на 18% в год."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_097",
+      "en": "Harvest and extraction peak from May through September.",
+      "fr": "Pic de récolte et d'extraction de mai à septembre.",
+      "ru": "Пик сбора и экстракции: с мая по сентябрь."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_098",
+      "en": "Organic verification certificates, free fatty acid (FFA) analysis below 2%, and peroxide value testing.",
+      "fr": "Certificats de vérification biologique, analyse des acides gras libres (AGL) inférieure à 2 % et tests d'indice de peroxyde.",
+      "ru": "Сертификаты органического продукта, анализ кислотности (FFA < 2%) и перекисного числа."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_099",
+      "en": "Organic Cotton, Textiles & Artisanal Goods",
+      "fr": "Coton Biologique, Textiles & Produits Artisanaux",
+      "ru": "Органический Хлопок, Текстиль и Ремесла"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_100",
+      "en": "Long-staple Egyptian cotton bales, organic raw cotton, woven Ankara fabrics, hand-carved hardwood art, and leather goods.",
+      "fr": "Balles de coton égyptien à fibres longues, coton brut biologique, tissus Ankara tissés, objets d'art en bois sculpté et maroquinerie.",
+      "ru": "Длинноволокнистый египетский хлопок, ткани анкара, деревянные изделия ручной работы и кожа."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_101",
+      "en": "Egypt, Mali, Ethiopia, Burkina Faso, Kenya",
+      "fr": "Égypte, Mali, Éthiopie, Burkina Faso, Kenya",
+      "ru": "Египет, Мали, Эфиопия, Буркина-Фасо, Кения"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_102",
+      "en": "Textile & Apparel Factories",
+      "fr": "Usines de Textile & d'Habillement",
+      "ru": "Текстильные и Швейные Фабрики"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_103",
+      "en": "Luxury Home Decor",
+      "fr": "Décoration d'Intérieur de Luxe",
+      "ru": "Элитный Декoр для Дома"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_104",
+      "en": "Cultural Boutiques",
+      "fr": "Boutiques Culturelles",
+      "ru": "Культурные Бутики"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_105",
+      "en": "Supplies high-grade organic fibers for garment manufacturing and connects African master artisans with international buyers.",
+      "fr": "Fournit des fibres biologiques de haute qualité pour la confection de vêtements et relie les maîtres artisans africains aux acheteurs internationaux.",
+      "ru": "Поставляет высококачественное органическое волокно для швейной промышленности и развивает ремесла."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_106",
+      "en": "Standard 40ft High-Cube Dry Containers",
+      "fr": "Conteneurs Secs Standard 40 Pieds High-Cube",
+      "ru": "Стандартные 40-футовые Контейнеры High-Cube"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_107",
+      "en": "Long-staple Egyptian Giza cotton remains the global benchmark for luxury bedding and high-end fashion textiles.",
+      "fr": "Le coton égyptien Giza à fibres longues demeure la référence mondiale pour le linge de lit de luxe et la haute couture.",
+      "ru": "Длинноволокнистый египетский хлопок Гиза остается мировым эталоном для элитного текстиля."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_108",
+      "en": "Cotton ginning and shipping peak from October through March.",
+      "fr": "Égrenage du coton et expédition maximale d'octobre à mars.",
+      "ru": "Очистка и отгрузка хлопка: с октября по март."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_109",
+      "en": "Fumigation certificates for wooden handicrafts and fiber strength/length grading reports for raw cotton bales.",
+      "fr": "Certificats de fumigation pour l'artisanat en bois et rapports de classement de la résistance/longueur des fibres de coton.",
+      "ru": "Сертификаты фумигации деревянных изделий и отсчеты качества хлопкового волокна."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_110",
+      "en": "What are the main Incoterms used in Russia–Africa commodity trade?",
+      "fr": "Quels sont les principaux Incoterms utilisés dans le commerce de marchandises Russie-Afrique ?",
+      "ru": "Какие основные Инкотермс используются в торговле между Россией и Африкой?"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_111",
+      "en": "The most commonly used Incoterms 2020 in bilateral maritime trade are FOB (Free On Board) and CIF (Cost, Insurance & Freight) or CFR (Cost & Freight). Under FOB, the seller clears goods for export and loads them on board at the port of origin (e.g. Novorossiysk or Abidjan). Under CIF, the seller also arranges and pays for maritime freight and cargo marine insurance to the destination port (e.g. Alexandria or Lagos).",
+      "fr": "Les Incoterms 2020 les plus couramment utilisés dans le commerce maritime bilatéral sont FOB (Free On Board) et CIF (Cost, Insurance & Freight) ou CFR (Cost & Freight). En FOB, le vendeur dédouane les marchandises pour l'exportation et les charge à bord au port d'origine. En CIF, le vendeur organise et paie également le fret maritime et l'assurance maritime.",
+      "ru": "Наиболее часто используемыми базисами Incoterms 2020 являются FOB, CIF и CFR. При FOB продавец очищает товар для экспорта и закружает его на борт в порту отправления. При CIF продавец также организует и оплачивает морской фрахт и страхование груза."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_112",
+      "en": "How do customs clearance and phytosanitary certificates work for agricultural products?",
+      "fr": "Comment fonctionnent le dédouanement et les certificats phytosanitaires pour les produits agricoles ?",
+      "ru": "Как устроены таможенное оформление и фитосанитарные сертификаты для сельхозпродукции?"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_113",
+      "en": "Agricultural exports like wheat, coffee, cocoa, and fruit require strict phytosanitary inspection. The exporter obtains an official certificate from their national agricultural authority (e.g., Rosselkhoznadzor in Russia or Ministry of Agriculture in Ghana/Ethiopia). Upon arrival at the destination seaport, border inspection authorities verify moisture levels, non-GMO status, pest-free condition, and issue final customs clearance.",
+      "fr": "Les exportations agricoles nécessitent une inspection phytosanitaire stricte. L'exportateur obtient un certificat officiel auprès de son autorité agricole nationale (ex. Rosselkhoznadzor en Russie ou le ministère de l'Agriculture au Ghana/Éthiopie). À l'arrivée au port de destination, les autorités vérifient l'humidité, l'absence d'OGM et de parasites.",
+      "ru": "Сельскохозяйственный экспорт требует фитосанитарного контроля. Экспортер получает официальный сертификат аграрного ведомства (например, Россельхознадзора). По прибытии в порт назначения инспекторы проверяют уровень влажности, отсутствие ГМО и вредителей."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_114",
+      "en": "What payment and settlement corridors are used for bilateral trade transactions?",
+      "fr": "Quels corridors de paiement et de règlement sont utilisés pour les transactions commerciales bilatérales ?",
+      "ru": "Какие каналы платежей и расчетов используются для двусторонних сделок?"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_115",
+      "en": "Bilateral trade uses multi-currency clearing channels including Russian Rubles (RUB), Yuan (CNY), and local African currencies (such as EGP, NGN, XAF, ZAR) via direct correspondent banking relations, letter of credit (L/C) facilities, and digital trade clearing agreements.",
+      "fr": "Le commerce bilatéral utilise des canaux de compensation multi-devises comprenant le rouble russe (RUB), le yuan (CNY) et les devises locales africaines (telles que EGP, NGN, XAF, ZAR) via des relations bancaires correspondantes directes, des lettres de crédit (L/C) et des accords de compensation numérique.",
+      "ru": "Двусторонняя торговля использует мультивалютные каналы расчетов, включая рубли (RUB), юани (CNY) и африканские валюты (EGP, NGN, XAF, ZAR) через корреспондентские счета и аккредитивы (L/C)."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_116",
+      "en": "How do refrigerated reefer containers protect tropical fruit shipments during transit?",
+      "fr": "Comment les conteneurs frigorifiques reefer protègent-ils les expéditions de fruits tropicaux pendant le transit ?",
+      "ru": "Как рефрижераторные контейнеры защищают грузы тропических фруктов во время транспортировки?"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_117",
+      "en": "Reefer containers maintain precision-controlled temperature (+4°C to +8°C) and humidity environments throughout transit. Fresh tropical produce like South African citrus or Egyptian avocados are loaded directly into reefer containers at packing facilities, transported via cold-chain trucks to port terminals, and monitored via satellite telemetry during ocean voyage.",
+      "fr": "Les conteneurs reefer maintiennent une température contrôlée (+4 °C à +8 °C) et une humidité précise pendant tout le transit. Les produits tropicaux frais sont chargés directement dans les conteneurs frigorifiques dans les installations de conditionnement et surveillés par télémétrie satellite.",
+      "ru": "Рефрижераторные контейнеры поддерживают точный температурный режим (от +4°C до +8°C) и влажность. Продукция загружается в контейнеры на упаковочных фабриках и отслеживается по спутнику."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_118",
+      "en": "What role do bonded warehouses and intermodal transport corridors play?",
+      "fr": "Quel rôle jouent les entrepôts sous douane et les corridors de transport intermodal ?",
+      "ru": "Какую роль играют таможенные склады и интермодальные транспортные коридоры?"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_119",
+      "en": "Bonded warehouses allow importers to store goods near major seaports without paying customs duties until the commodities are cleared for inland market distribution. Intermodal transport seamlessly connects maritime shipping with inland rail and heavy-duty trucking corridors across landlocked trading hubs.",
+      "fr": "Les entrepôts sous douane permettent aux importateurs de stocker des marchandises près des grands ports sans payer de droits de douane jusqu'à leur dédouanement. Le transport intermodal relie le fret maritime au rail et à la route vers les centres terrestres.",
+      "ru": "Таможенные склады позволяют хранить товары без уплаты пошлин до их оформления. Интермодальные перевозки соединяют морской транспорт с ж/д и автодорожными коридорами."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_120",
+      "en": "Bilateral Commodity Highlights",
+      "fr": "Points Forts des Produits Bilatéraux",
+      "ru": "Основные Двусторонние Товары"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_121",
+      "en": "International Trade Flow Metrics",
+      "fr": "Métriques du Flux Commercial International",
+      "ru": "Метрики Международных Торговых Потоков"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_122",
+      "en": "Source: AFRUS Trade Knowledge Base & Customs Registries",
+      "fr": "Source : Base de connaissances AFRUS & Registres douaniers",
+      "ru": "Источник: База знаний AFRUS и Таможенные реестры"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_123",
+      "en": "African Nations",
+      "fr": "Nations Africaines",
+      "ru": "Страны Африки"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_124",
+      "en": "Engaged in Bilateral Trade",
+      "fr": "Engagées dans le commerce bilatéral",
+      "ru": "Участвующие в торговле"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_125",
+      "en": "Wheat Share",
+      "fr": "Part du Blé",
+      "ru": "Доля Пшеницы"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_126",
+      "en": "In Key North & East African Markets",
+      "fr": "Sur les principaux marchés d'Afrique du Nord et de l'Est",
+      "ru": "На рынках Северной и Восточной Африки"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_127",
+      "en": "Transit Days",
+      "fr": "Jours de Transit",
+      "ru": "Дней в Пути"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_128",
+      "en": "Direct Maritime Shipping Routes",
+      "fr": "Lignes maritimes directes",
+      "ru": "Прямые морские маршруты"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_129",
+      "en": "Annual Trade",
+      "fr": "Commerce Annuel",
+      "ru": "Ежегодный Товарооборот"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_130",
+      "en": "Agri, Energy, Minerals & Goods",
+      "fr": "Agri, Énergie, Minéraux & Biens",
+      "ru": "Сельхоз, Энергия, Минералы и Товары"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_131",
+      "en": "Search commodities by name, HS code, or region...",
+      "fr": "Rechercher par nom, code SH ou région...",
+      "ru": "Поиск по названию, коду ТН ВЭД или региону..."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_132",
+      "en": "Clear",
+      "fr": "Effacer",
+      "ru": "Очистить"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_133",
+      "en": "All Streams",
+      "fr": "Tous les Flux",
+      "ru": "Все Потоки"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_134",
+      "en": "🇷🇺 Russia → Africa",
+      "fr": "🇷🇺 Russie → Afrique",
+      "ru": "🇷🇺 Россия → Африка"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_135",
+      "en": "🌍 Africa → Russia",
+      "fr": "🌍 Afrique → Russie",
+      "ru": "🌍 Африка → Россия"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_136",
+      "en": "Filter By Commodity Category:",
+      "fr": "Filtrer par Catégorie de Produit :",
+      "ru": "Фильтр по Категориям:"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_137",
+      "en": "All",
+      "fr": "Tous",
+      "ru": "Все"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_138",
+      "en": "Agricultural & Food",
+      "fr": "Agricole & Alimentaire",
+      "ru": "Сельхозпродукция и Еда"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_139",
+      "en": "Fertilizers & Agro",
+      "fr": "Engrais & Agro",
+      "ru": "Удобрения и Агрохимия"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_140",
+      "en": "Minerals & Industrial",
+      "fr": "Minéraux & Industriel",
+      "ru": "Минералы и Промышленность"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_141",
+      "en": "Consumer & Textiles",
+      "fr": "Consommation & Textiles",
+      "ru": "Потребительские Товары и Текстиль"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_142",
+      "en": "SUPPLY STREAM 01",
+      "fr": "FLUX D'APPROVISIONNEMENT 01",
+      "ru": "ПОТОК ПОСТАВОК 01"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_143",
+      "en": "Exports from Russia to Africa",
+      "fr": "Exportations de la Russie vers l'Afrique",
+      "ru": "Экспорт из России в Африку"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_144",
+      "en": "Russia is a major supplier of strategic agricultural grains, soil nutrients, heavy agricultural machinery, industrial power generators, and mining equipment to African markets. These exports play a critical role in supporting food security, boosting farm productivity per hectare, and powering infrastructure expansion across the continent.",
+      "fr": "La Russie est un fournisseur majeur de céréales agricoles stratégiques, de nutriments du sol, de machines agricoles lourdes, de générateurs d'énergie industriels et d'équipements miniers pour les marchés africains. Ces exportations jouent un rôle crucial dans le soutien de la sécurité alimentaire, l'augmentation de la productivité agricole par hectare et le développement des infrastructures sur le continent.",
+      "ru": "Россия является ключевым поставщиком зерновых культур, удобрений, тяжелой сельхозтехники, электрогенераторов и горнодобывающего оборудования в Африку. Этот экспорт играет важнейшую роль в обеспечении продовольственной безопасности и развитии инфраструктуры."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_145",
+      "en": "Origins: ",
+      "fr": "Origines : ",
+      "ru": "Происхождение: "
+    },
+    {
+      "key": "exportImportPage.exportImport.text_146",
+      "en": "Impact: ",
+      "fr": "Impact : ",
+      "ru": "Значение: "
+    },
+    {
+      "key": "exportImportPage.exportImport.text_147",
+      "en": "View Educational Profile",
+      "fr": "Voir le Profil Éducatif",
+      "ru": "Смотреть Описание"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_148",
+      "en": "DID YOU KNOW? — AGRARIAN FOOD SECURITY",
+      "fr": "LE SAVIEZ-VOUS ? — SÉCURITÉ ALIMENTAIRE AGRICOLE",
+      "ru": "ЗНАЕТЕ ЛИ ВЫ? — ПРОДОВОЛЬСТВЕННАЯ БЕЗОПАСНОСТЬ"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_149",
+      "en": "Russia Supplies Over 30% of Total Wheat Consumed in North and East Africa",
+      "fr": "La Russie fournit plus de 30 % du blé total consommé en Afrique du Nord et de l'Est",
+      "ru": "Россия поставляет более 30% всей пшеницы, потребляемой в Северной и Восточной Африке"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_150",
+      "en": "High-protein Russian milling wheat serves as the foundation for bread and bakery manufacturing across Egypt, Algeria, Sudan, Kenya, and Tanzania. Continuous bulk shipments stabilize consumer flour prices during global market fluctuations.",
+      "fr": "Le blé de meunerie russe riche en protéines sert de base à la fabrication de pain et de produits de boulangerie en Égypte, Algérie, Soudan, Kenya et Tanzanie. Les expéditions en vrac continues stabilisent les prix de la farine pour les consommateurs lors des fluctuations du marché mondial.",
+      "ru": "Высокобелковая пшеница из России является основой для производства хлеба в Египте, Алжире, Судане, Кении и Танзании. Поставки зерна стабилизируют цены на муку."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_151",
+      "en": "SUPPLY STREAM 02",
+      "fr": "FLUX D'APPROVISIONNEMENT 02",
+      "ru": "ПОТОК ПОСТАВОК 02"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_152",
+      "en": "Exports from Africa to Russia",
+      "fr": "Exportations de l'Afrique vers la Russie",
+      "ru": "Экспорт из Африки в Россию"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_153",
+      "en": "Africa exports a rich array of specialty agricultural produce, raw cocoa, arabica coffee, fresh tropical citrus, strategic energy transition minerals, organic unrefined shea butter, and handcrafted cultural goods to Russia. These commodities fuel confectionery industries, specialty roasteries, cosmetics, and advanced technological manufacturing.",
+      "fr": "L'Afrique exporte un riche éventail de produits agricoles spécialisés, de cacao brut, de café arabica, d'agrumes tropicaux frais, de minéraux stratégiques pour la transition énergétique, de beurre de karité bio non raffiné et d'articles culturels artisanaux vers la Russie. Ces produits alimentent la confiserie, les torréfacteurs, la cosmétique et l'industrie de pointe.",
+      "ru": "Африка экспортирует в Россию спешелти сельхозпродукцию, какао-бобы, кофе арабика, тропические цитрусовые, минералы для энергетики, масло карите и ремесленные товары."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_154",
+      "en": "Origins: ",
+      "fr": "Origines : ",
+      "ru": "Происхождение: "
+    },
+    {
+      "key": "exportImportPage.exportImport.text_155",
+      "en": "Impact: ",
+      "fr": "Impact : ",
+      "ru": "Значение: "
+    },
+    {
+      "key": "exportImportPage.exportImport.text_156",
+      "en": "View Educational Profile",
+      "fr": "Voir le Profil Éducatif",
+      "ru": "Смотреть Описание"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_157",
+      "en": "DID YOU KNOW? — SPECIALTY AGRARIAN HARVESTS",
+      "fr": "LE SAVIEZ-VOUS ? — RÉCOLTES AGRICOLES SPÉCIALISÉES",
+      "ru": "ЗНАЕТЕ ЛИ ВЫ? — УРОЖАЙ СПЕШЕЛТИ КУЛЬТУР"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_158",
+      "en": "West Africa Accounts for Over 60% of Global Raw Cocoa Beans Production",
+      "fr": "L'Afrique de l'Ouest représente plus de 60 % de la production mondiale de fèves de cacao brut",
+      "ru": "Западная Африка обеспечивает более 60% мирового производства какао-бобов"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_159",
+      "en": "Raw high-fat cocoa beans harvested in Côte d’Ivoire and Ghana serve as the primary ingredient for major European and Eurasian chocolate manufacturers. Direct maritime routes to Black Sea terminals ensure peak flavor preservation.",
+      "fr": "Les fèves de cacao brut riches en matières grasses récoltées en Côte d'Ivoire et au Ghana constituent l'ingrédient principal des grands chocolatiers européens et eurasiatiques. Les routes maritimes directes vers les terminaux de la Mer Noire garantissent la préservation des arômes.",
+      "ru": "Какао-бобы из Кот-д’Ивуара и Ганы являются главным ингредиентом для производителей шоколада в Евразии. Прямые морские пути сохраняют их качество."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_160",
+      "en": "International Trade Architecture",
+      "fr": "Architecture Commerciale Internationale",
+      "ru": "Архитектура Международной Торговли"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_161",
+      "en": "5-Step Bilateral Commodity Supply Chain",
+      "fr": "Chaîne d'Approvisionnement en 5 Étapes",
+      "ru": "5-Этапная Цепочка Поставок Товаров"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_162",
+      "en": "How commodities transition seamlessly from regional agrarian harvest and manufacturing hubs to international maritime transport and destination bonded warehouses.",
+      "fr": "Comment les marchandises passent de la récolte agricole et des centres de fabrication au transport maritime international et aux entrepôts sous douane.",
+      "ru": "Как товары проходят путь от сбора урожая и производства до морской транспортировки и таможенных складов."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_163",
+      "en": "Harvest & Production",
+      "fr": "Récolte & Production",
+      "ru": "Сбор Урожая и Производство"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_164",
+      "en": "Raw agricultural harvest, mineral extraction, or industrial equipment manufacturing at certified origin hubs.",
+      "fr": "Récolte agricole brute, extraction minière ou fabrication d'équipements industriels dans des centres d'origine certifiés.",
+      "ru": "Сбор сельхозпродукции, добыча полезных ископаемых или производство техники."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_165",
+      "en": "Phytosanitary & Quality",
+      "fr": "Phytosanitaire & Qualité",
+      "ru": "Фитосанитарный Контроль"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_166",
+      "en": "Testing, moisture verification, SGS inspection, and official phytosanitary origin certification.",
+      "fr": "Essais, vérification de l'humidité, inspection SGS et certification phytosanitaire officielle d'origine.",
+      "ru": "Лабораторные тесты, проверку влажности, инспекция SGS и получение фитосанитарного сертификата."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_167",
+      "en": "Port Staging & Customs",
+      "fr": "Transit Portuaire & Douane",
+      "ru": "Портовая Логистика и Таможня"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_168",
+      "en": "Inland transport to seaport terminals, export customs clearance, and container/bulk vessel loading.",
+      "fr": "Transport terrestre vers les terminaux portuaires, dédouanement à l'exportation et chargement des navires.",
+      "ru": "Доставка в портовые терминалы, экспортное таможенное оформление и погрузка на суда."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_169",
+      "en": "Multimodal Freight",
+      "fr": "Fret Multimodal",
+      "ru": "Мультимодальный Фрахт"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_170",
+      "en": "14–21 day maritime vessel voyage across Black Sea, Baltic Sea, or Atlantic/Indian Ocean shipping corridors.",
+      "fr": "Voyage maritime de 14 à 21 jours via les corridors de la Mer Noire, de la Mer Baltique ou des océans Atlantique/Indien.",
+      "ru": "Морской переход длительностью 14–21 день по Черноморским, Балтийским или Океанским маршрутам."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_171",
+      "en": "Bonded Warehousing",
+      "fr": "Entreposage sous Douane",
+      "ru": "Таможенные Склады"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_172",
+      "en": "Import customs clearance, duty assessment, and bonded warehouse staging for regional distribution.",
+      "fr": "Dédouanement à l'importation, évaluation des droits et entreposage sous douane pour la distribution régionale.",
+      "ru": "Импортное таможенное оформление, уплата пошлин и размещение на таможенных складах."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_173",
+      "en": "International Logistics Routes",
+      "fr": "Routes Logistiques Internationales",
+      "ru": "Международные Маршруты"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_174",
+      "en": "Multimodal Freight Corridors & Key Gateways",
+      "fr": "Corridors de Fret Multimodal & Portes d'Entrée",
+      "ru": "Мультимодальные Коридоры и Ключевые Порты"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_175",
+      "en": "Bilateral trade relies on strategic maritime shipping lanes, deep-water port infrastructure, and inland logistics hubs connecting Russia with West, East, North, and Southern Africa.",
+      "fr": "Le commerce bilatéral repose sur des voies maritimes stratégiques, des infrastructures portuaires en eau profonde et des hubs logistiques terrestres reliant la Russie à l'Afrique.",
+      "ru": "Двусторонняя торговля опирается на морские пути, портовую инфраструктуру и логистические хабы."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_176",
+      "en": "Black Sea & Mediterranean Corridor",
+      "fr": "Corridor Mer Noire & Méditerranée",
+      "ru": "Черноморско-Средиземноморский Коридор"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_177",
+      "en": "Connects Russia’s deep-water Novorossiysk seaport directly with North African hubs (Alexandria, Port Said, Casablanca, Algiers) via 5–8 day maritime transit. Primary route for bulk grain, sunflower oil, and fertilizers.",
+      "fr": "Relie directement le port en eau profonde de Novorossiysk en Russie aux hubs d'Afrique du Nord (Alexandrie, Port-Saïd, Casablanca, Alger) en 5 à 8 jours de transit maritime.",
+      "ru": "Соединяет порт Новороссийск с портами Северной Африки (Александрия, Порт-Саид, Касабланка) за 5–8 дней. Основной маршрут для зерна и удобрений."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_178",
+      "en": "Key Ports: Novorossiysk, Kavkaz → Alexandria, Port Said, Casablanca",
+      "fr": "Ports clés : Novorossiysk, Kavkaz → Alexandrie, Port-Saïd, Casablanca",
+      "ru": "Порты: Новороссийск, Кавказ → Александрия, Порт-Саид, Касабланка"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_179",
+      "en": "Baltic & Atlantic West Africa Corridor",
+      "fr": "Corridor Baltique & Afrique de l'Ouest Atlantique",
+      "ru": "Балтийско-Атлантический Коридор"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_180",
+      "en": "Connects St. Petersburg and Ust-Luga terminals with West African commercial gateways (Lagos / Lekki Deep Sea, Abidjan, Tema, Douala) in 18–22 days. Handles containerized cocoa, machinery, and fertilizer jumbo bags.",
+      "fr": "Relie les terminaux de Saint-Pétersbourg et d'Oust-Louga aux portes commerciales d'Afrique de l'Ouest (Lagos, Abidjan, Tema, Douala) en 18 à 22 jours.",
+      "ru": "Соединяет Санкт-Петербург и Усть-Лугу с портами Западной Африки (Лагос, Абиджан, Тема, Дуала) за 18–22 дня. Перевозит какао, технику и удобрения."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_181",
+      "en": "Key Ports: St. Petersburg → Abidjan, Tema, Lagos / Lekki, Douala",
+      "fr": "Ports clés : Saint-Pétersbourg → Abidjan, Tema, Lagos / Lekki, Douala",
+      "ru": "Порты: Санкт-Петербург → Абиджан, Тема, Лагос, Дуала"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_182",
+      "en": "Red Sea & Indian Ocean Corridor",
+      "fr": "Corridor Mer Rouge & Océan Indien",
+      "ru": "Коридор Красного Моря и Индийского Океана"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_183",
+      "en": "Connects Black Sea and Far East seaports (Vladivostok) with East African gateways (Mombasa, Dar es Salaam, Djibouti, Durban). Handles mineral ores, coffee, tea, and heavy power equipment.",
+      "fr": "Relie les ports de la Mer Noire et d'Extrême-Orient (Vladivostok) aux portes d'Afrique de l'Est (Mombasa, Dar es Salaam, Djibouti, Durban). Traite les minerais, le café, le thé et les équipements lourds.",
+      "ru": "Соединяет порты Черного Моря и Дальнего Востока с Восточной Африкой (Момбаса, Дар-эс-Салам, Джибути, Дурбан). Перевозит руду, кофе, чай и оборудование."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_184",
+      "en": "Key Ports: Novorossiysk / Vladivostok → Djibouti, Mombasa, Durban",
+      "fr": "Ports clés : Novorossiysk / Vladivostok → Djibouti, Mombasa, Durban",
+      "ru": "Порты: Новороссийск / Владивосток → Джибути, Момбаса, Дурбан"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_185",
+      "en": "Regulatory Knowledge Framework",
+      "fr": "Cadre Réglementaire",
+      "ru": "Нормативно-Правовая База"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_186",
+      "en": "Customs Clearance & Trade Terms",
+      "fr": "Dédouanement & Termes Commerciaux",
+      "ru": "Таможенное Оформление и Правила Торговли"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_187",
+      "en": "Standardized international trade rules, phytosanitary origin documentation, and multi-currency clearing procedures governing bilateral exchange.",
+      "fr": "Règles du commerce international, documentation phytosanitaire d'origine et procédures de compensation multi-devises régissant les échanges bilatéraux.",
+      "ru": "Стандарты международной торговли, фитосанитарные документы и мультивалютные взаиморасчеты."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_188",
+      "en": "Incoterms 2020 Standards",
+      "fr": "Normes Incoterms 2020",
+      "ru": "Стандарты Инкотермс 2020"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_189",
+      "en": "FOB, CIF & CFR Frameworks",
+      "fr": "Cadres FOB, CIF & CFR",
+      "ru": "Базисы FOB, CIF и CFR"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_190",
+      "en": "Standard contractual terms define risk transfer, maritime freight responsibilities, and marine cargo insurance between origin suppliers and destination buyers.",
+      "fr": "Les termes contractuels définissent le transfert de risque, les responsabilités de fret maritime et l'assurance maritime.",
+      "ru": "Условия контрактов определяют переход рисков, оплату фрахта и страхование грузов."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_191",
+      "en": "Certification & Quality",
+      "fr": "Certification & Qualité",
+      "ru": "Сертификация и Качество"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_192",
+      "en": "Phytosanitary & SGS Compliance",
+      "fr": "Conformité Phytosanitaire & SGS",
+      "ru": "Фитосанитария и Стандарты SGS"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_193",
+      "en": "Official state certification verifying freedom from agricultural pests, non-GMO status, moisture thresholds, and international health standards.",
+      "fr": "Certification officielle vérifiant l'absence de parasites, le statut non-OGM, les seuils d'humidité et les normes sanitaires.",
+      "ru": "Официальные сертификаты об отсутствии вредителей, ГМО, уровне влажности и качестве."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_194",
+      "en": "Financial Settlement",
+      "fr": "Règlement Financier",
+      "ru": "Финансовые Расчеты"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_195",
+      "en": "Multi-Currency Trade Clearing",
+      "fr": "Compensation Multi-Devises",
+      "ru": "Мультивалютный Клиринг"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_196",
+      "en": "Direct settlement channels using Russian Rubles (RUB), Yuan (CNY), and regional currencies via correspondent banking and letter of credit (L/C) structures.",
+      "fr": "Canaux de règlement direct utilisant le rouble russe (RUB), le yuan (CNY) et les devises régionales via des comptes correspondants et des lettres de crédit (L/C).",
+      "ru": "Прямые расчеты в рублях (RUB), юанях (CNY) и национальных валютах через корреспондентские счета и аккредитивы."
+    },
+    {
+      "key": "exportImportPage.exportImport.text_197",
+      "en": "Educational FAQ",
+      "fr": "FAQ Éducative",
+      "ru": "Вопросы и Ответы"
+    },
+    {
+      "key": "exportImportPage.exportImport.text_198",
+      "en": "Frequently Asked Trade Questions",
+      "fr": "Foire Aux Questions Commerciales",
+      "ru": "Часто Задаваемые Вопросы о Торговле"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_001",
+      "en": "International Maritime Shipping",
+      "fr": "Transport Maritime International",
+      "ru": "Международные Морские Перевозки"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_002",
+      "en": "Bulk Cargo Vessels & Container Liners Navigating Global Trade Corridors",
+      "fr": "Navires vraquiers et porte-conteneurs naviguant sur les corridors commerciaux mondiaux",
+      "ru": "Сухогрузы и контейнеровозы на международных торговых маршрутах"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_003",
+      "en": "Container Terminals & Seaports",
+      "fr": "Terminaux à Conteneurs & Ports Maritimes",
+      "ru": "Контейнерные Терминалы и Морские Порты"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_004",
+      "en": "Gantry Cranes & Cold-Storage Logistics at Baltic, Black Sea & African Ports",
+      "fr": "Portiques et logistique sous chaîne du froid dans les ports de la Baltique, de la Mer Noire et d'Afrique",
+      "ru": "Краны и холодовая логистика в портах Балтики, Черного моря и Африки"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_005",
+      "en": "Agrarian Export Terminals",
+      "fr": "Terminaux d'Exportation Agroalimentaires",
+      "ru": "Аграрные Экспортные Терминалы"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_006",
+      "en": "Deep-Water Grain Elevators & Phytosanitary Storage Inspection Facilities",
+      "fr": "Élévateurs à grain en eau profonde et installations d'inspection phytosanitaire",
+      "ru": "Глубоководные зерновые элеваторы и фитосанитарные комплексы"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_007",
+      "en": "Industrial Energy & Equipment Exports",
+      "fr": "Exportations d'Énergie & d'Équipements Industriels",
+      "ru": "Экспорт Энергетического и Промышленного Оборудования"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_008",
+      "en": "Turbines, Generators & Heavy Machinery Shipments across Eurasia & Africa",
+      "fr": "Expéditions de turbines, générateurs et machines lourdes à travers l'Eurasie et l'Afrique",
+      "ru": "Поставки турбин, генераторов и тяжелой техники между Евразией и Африкой"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_009",
+      "en": "Russian Exports",
+      "fr": "Exportations Russes",
+      "ru": "Российский Экспорт"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_010",
+      "en": "African Exports",
+      "fr": "Exportations Africaines",
+      "ru": "Африканский Экспорт"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_011",
+      "en": "Commodity Categories",
+      "fr": "Catégories de Produits",
+      "ru": "Категории Товаров"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_012",
+      "en": "Freight Corridors",
+      "fr": "Corridors de Fret",
+      "ru": "Транспортные Коридоры"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_013",
+      "en": "Customs & Incoterms",
+      "fr": "Douanes & Incoterms",
+      "ru": "Таможня и Инкотермс"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_014",
+      "en": "EXPORT & IMPORT CATALOG",
+      "fr": "CATALOGUE D'EXPORTATION & D'IMPORTATION",
+      "ru": "КАТАЛОГ ЭКСПОРТА И ИМПОРТА"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_015",
+      "en": "Russia & Africa",
+      "fr": "Russie & Afrique",
+      "ru": "Россия и Африка"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_016",
+      "en": "Commodity Catalog",
+      "fr": "Catalogue des Produits",
+      "ru": "Каталог Товаров"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_017",
+      "en": "Explore the major commodities traded between Russia and Africa, understand their economic importance, discover supply chains, and learn how these products contribute to international trade and long-term economic cooperation.",
+      "fr": "Explorez les principales marchandises échangées entre la Russie et l'Afrique, comprenez leur importance économique, découvrez les chaînes d'approvisionnement et découvrez comment ces produits contribuent au commerce international et à la coopération économique à long terme.",
+      "ru": "Изучите основные товары, торгуемые между Россией и Африкой, оцените их экономическую значимость, узнайте о цепочках поставок и долгосрочном экономическом сотрудничестве."
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_018",
+      "en": "Explore Commodities",
+      "fr": "Explorer les Produits",
+      "ru": "Обзор Товаров"
+    },
+    {
+      "key": "exportImportPage.exportImportHero.text_019",
+      "en": "Learn About Trade",
+      "fr": "En Savoir Plus sur le Commerce",
+      "ru": "Узнать о Торговле"
+    }
+  ]
+}

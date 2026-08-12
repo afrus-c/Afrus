@@ -1,0 +1,10 @@
+{
+  "id": "shoes--women-s-shoes",
+  "categoryId": "shoes",
+  "name": "Women's Shoes",
+  "nameI18n": {
+    "en": "Women's Shoes",
+    "fr": "Chaussures Femme",
+    "ru": "Женская Обувь"
+  }
+}

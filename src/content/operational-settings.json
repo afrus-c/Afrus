@@ -1,0 +1,55 @@
+{
+  "commerce": {
+    "usdToRubRate": 92,
+    "lowStockThreshold": 5,
+    "defaultInventoryWhenAvailable": 25,
+    "freeShippingThresholdRub": 13800,
+    "freeShippingThresholdUsd": 150,
+    "promoCodes": [
+      { "code": "AFRUS10", "percent": 10, "enabled": true },
+      { "code": "WELCOME10", "percent": 10, "enabled": true },
+      { "code": "AFRICA15", "percent": 15, "enabled": true },
+      { "code": "VIP15", "percent": 15, "enabled": true },
+      { "code": "FREESHIP", "percent": 5, "enabled": true }
+    ]
+  },
+  "seo": {
+    "siteName": "AFRUS",
+    "defaultTitle": "AFRUS • Russia & Africa Gateway",
+    "defaultDescription": "AFRUS connects Russia and Africa through trade, education, business, culture, events, and professional services.",
+    "socialImage": "/flags/afrus logo.jpeg",
+    "indexSite": true,
+    "routes": [
+      { "path": "/", "title": "AFRUS • Russia & Africa Gateway", "description": "Trade, education, business, culture, events, and professional services connecting Russia and Africa.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/about", "title": "About AFRUS", "description": "Learn about AFRUS and its mission connecting Russia and Africa.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/trade", "title": "Russia–Africa Trade | AFRUS", "description": "Explore bilateral trade and logistics opportunities between Russia and Africa.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/export-import", "title": "Export and Import | AFRUS", "description": "Export, import, sourcing, documentation, and logistics guidance.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/business-in-russia", "title": "Business in Russia | AFRUS", "description": "Market-entry and business support for African enterprises entering Russia.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/business-in-africa", "title": "Business in Africa | AFRUS", "description": "Market-entry and investment support for Russian enterprises entering Africa.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/study-in-russia", "title": "Study in Russia | AFRUS", "description": "Universities, admissions, scholarships, and student support in Russia.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/learn-english", "title": "Learn English | AFRUS", "description": "English-language programs for study, business, travel, and international communication.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/learn-french", "title": "Learn French | AFRUS", "description": "French-language programs for study, business, diplomacy, and international communication.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/money-transfer", "title": "Russia–Africa Money Transfer Guide | AFRUS", "description": "Educational guide to cross-border payments and financial clearing.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/concierge", "title": "Executive Concierge | AFRUS", "description": "Premium travel, visa, translation, hotel, medical, and delegation support.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/store", "title": "AFRUS Store", "description": "Shop authentic African fashion, food, art, gifts, accessories, and lifestyle products.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/checkout", "title": "Review Your Order | AFRUS Store", "description": "Review your AFRUS Store order and select a delivery method.", "image": "/flags/afrus logo.jpeg", "index": false },
+      { "path": "/review-order", "title": "Review Your Order | AFRUS Store", "description": "Review your AFRUS Store order inquiry.", "image": "/flags/afrus logo.jpeg", "index": false },
+      { "path": "/order-review", "title": "Review Your Order | AFRUS Store", "description": "Review your AFRUS Store order inquiry.", "image": "/flags/afrus logo.jpeg", "index": false },
+      { "path": "/events", "title": "Events | AFRUS", "description": "Russia–Africa forums, conferences, festivals, and networking events.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/festivals", "title": "Festivals and Culture | AFRUS", "description": "Discover Russia–Africa cultural festivals, art, music, and heritage events.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/forum", "title": "Economic Forum | AFRUS", "description": "Bilateral economic forums, delegations, investment, and B2B meetings.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/news", "title": "News | AFRUS", "description": "Latest Russia–Africa trade, education, business, and cultural news.", "image": "/flags/afrus logo.jpeg", "index": true },
+      { "path": "/contact", "title": "Contact AFRUS", "description": "Contact AFRUS offices and liaison channels in Russia and Africa.", "image": "/flags/afrus logo.jpeg", "index": true }
+    ]
+  },
+  "checkout": {
+    "shippingMethods": [
+      { "id": "pickup", "label": "Moscow Showroom Pickup", "labelI18n": { "en": "Moscow Showroom Pickup", "fr": "Retrait au showroom de Moscou", "ru": "Самовывоз из шоурума в Москве" }, "description": "Free pickup at AFRUS Moscow", "descriptionI18n": { "en": "Free pickup at AFRUS Moscow", "fr": "Retrait gratuit chez AFRUS à Moscou", "ru": "Бесплатный самовывоз из AFRUS в Москве" }, "priceRub": 0, "priceUsd": 0, "enabled": true },
+      { "id": "courier", "label": "Express Courier", "labelI18n": { "en": "Express Courier", "fr": "Livraison express", "ru": "Экспресс-доставка" }, "description": "Courier delivery across supported destinations", "descriptionI18n": { "en": "Courier delivery across supported destinations", "fr": "Livraison par coursier vers les destinations desservies", "ru": "Курьерская доставка по доступным направлениям" }, "priceRub": 1380, "priceUsd": 15, "enabled": true }
+    ],
+    "paymentInstructions": "Orders are confirmed directly with AFRUS. No card details are collected on this website.",
+    "paymentInstructionsI18n": { "en": "Orders are confirmed directly with AFRUS. No card details are collected on this website.", "fr": "Les commandes sont confirmées directement auprès d’AFRUS. Aucune donnée de carte bancaire n’est collectée sur ce site.", "ru": "Заказы подтверждаются напрямую с AFRUS. Данные банковских карт на сайте не собираются." },
+    "orderMessagePrefix": "Hello AFRUS, I would like to confirm the following store order:",
+    "orderMessagePrefixI18n": { "en": "Hello AFRUS, I would like to confirm the following store order:", "fr": "Bonjour AFRUS, je souhaite confirmer la commande suivante :", "ru": "Здравствуйте, AFRUS! Я хотел(а) бы подтвердить следующий заказ:" }
+  }
+}

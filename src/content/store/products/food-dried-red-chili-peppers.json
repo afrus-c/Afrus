@@ -1,0 +1,34 @@
+{
+    "id":  "food-dried-red-chili-peppers",
+    "title":  "Dried African Red Chili Peppers",
+    "category":  "African Food",
+    "subcategory":  "Tea \u0026 Spices",
+    "priceUsd": 12,
+    "priceRub": 1104,
+    "origin":  "Nigeria / West Africa",
+    "description":  "Sun-dried aromatic red bird-eye chili peppers known for rich heat and depth in African soups, stews, and marinades.",
+    "image":  "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Authentic Spice",
+    "brand":  "Savannah Harvest",
+    "inventoryCount":  150,
+    "titleI18n":  {
+                      "en":  "Dried African Red Chili Peppers",
+                      "fr":  "Piments Rouges Africains Séchés",
+                      "ru":  "Сушеный Африканский Красный Перец Чили"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Sun-dried aromatic red bird-eye chili peppers known for rich heat and depth in African soups, stews, and marinades.",
+                            "fr":  "Piments rouges séchés au soleil reconnus pour leur piquant riche et leur arôme profond dans les soupes et marinades.",
+                            "ru":  "Высушенный на солнце ароматный красный перец с насыщенной остротой для супов, соусов и маринадов."
+                        },
+    "categoryId":  "african-food",
+    "subcategoryId":  "african-food--tea-spices",
+    "badgeI18n":  {
+                      "ru":  "Настоящая специя",
+                      "en":  "Authentic Spice",
+                      "fr":  "Épice authentique"
+                  }
+}

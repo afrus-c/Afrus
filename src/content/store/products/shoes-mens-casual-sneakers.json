@@ -1,0 +1,42 @@
+{
+    "id":  "shoes-mens-casual-sneakers",
+    "title":  "Men\u0027s Casual Sneakers",
+    "category":  "Shoes",
+    "subcategory":  "Men\u0027s Shoes",
+    "priceUsd": 65,
+    "priceRub": 5980,
+    "origin":  "AFRUS Footwear",
+    "description":  "Modern men\u0027s casual sneakers featuring a comfortable-looking design suitable for everyday wear, travel, walking, and casual outfits.",
+    "image":  "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Casual Comfort",
+    "brand":  "AFRUS Urban",
+    "availableSizes":  [
+                           "40",
+                           "41",
+                           "42",
+                           "43",
+                           "44",
+                           "45"
+                       ],
+    "inventoryCount":  40,
+    "titleI18n":  {
+                      "en":  "Men\u0027s Casual Sneakers",
+                      "fr":  "Baskets Décontractées Légères Homme",
+                      "ru":  "Мужские Легкие Кроссовки"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Modern men\u0027s casual sneakers featuring a comfortable-looking design suitable for everyday wear, travel, walking, and casual outfits.",
+                            "fr":  "Baskets basses respirantes pour un confort de marche optimal.",
+                            "ru":  "Дышащие низкие кроссовки для ежедневной ходьбы."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--men-s-shoes",
+    "badgeI18n":  {
+                      "ru":  "Повседневный комфорт",
+                      "en":  "Casual Comfort",
+                      "fr":  "Confort décontracté"
+                  }
+}

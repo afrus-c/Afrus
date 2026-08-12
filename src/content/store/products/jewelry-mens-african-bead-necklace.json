@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-mens-african-bead-necklace",
+    "title":  "Men\u0027s African Bead Necklace",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Men\u0027s Jewelry",
+    "priceUsd": 36,
+    "priceRub": 3312,
+    "origin":  "Dakar, Senegal",
+    "description":  "A distinctive necklace featuring African-inspired beads and an original handcrafted design. Suitable for casual outfits, cultural events, and statement styling.",
+    "image":  "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Handcrafted",
+    "brand":  "Senegal Artisans",
+    "inventoryCount":  20,
+    "titleI18n":  {
+                      "en":  "Men\u0027s African Bead Necklace",
+                      "fr":  "Collier Africain en Perles Homme",
+                      "ru":  "Мужские Африканские Бусы"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A distinctive necklace featuring African-inspired beads and an original handcrafted design. Suitable for casual outfits, cultural events, and statement styling.",
+                            "fr":  "Collier traditionnel en bois et perles de verre avec médaillon tribal.",
+                            "ru":  "Традиционное колье из деревянных и стеклянных бусин."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--men-s-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Ручная работа",
+                      "en":  "Handcrafted",
+                      "fr":  "Fabriqué à la main"
+                  }
+}

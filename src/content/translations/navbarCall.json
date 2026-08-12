@@ -1,0 +1,12 @@
+{
+  "namespace": "homePage.navbar",
+  "adminLabelFr": "Coordonnées de la barre de navigation",
+  "entries": [
+    {
+      "key": "homePage.navbar.callRussia",
+      "en": "Call Russia Office",
+      "fr": "Appeler le bureau de Russie",
+      "ru": "Позвонить в офис в России"
+    }
+  ]
+}

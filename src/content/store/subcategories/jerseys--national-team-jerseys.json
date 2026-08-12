@@ -1,0 +1,10 @@
+{
+  "id": "jerseys--national-team-jerseys",
+  "categoryId": "jerseys",
+  "name": "National Team Jerseys",
+  "nameI18n": {
+    "en": "National Team Jerseys",
+    "fr": "Maillots des Équipes Nationales",
+    "ru": "Форма Сборных Команд"
+  }
+}

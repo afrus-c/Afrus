@@ -1,0 +1,10 @@
+{
+  "id": "jerseys--club-jerseys",
+  "categoryId": "jerseys",
+  "name": "Club Jerseys",
+  "nameI18n": {
+    "en": "Club Jerseys",
+    "fr": "Maillots de Clubs",
+    "ru": "Клубные Джерси"
+  }
+}

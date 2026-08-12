@@ -1,0 +1,11 @@
+{
+  "name": "Cameroon-Russia Cultural Association",
+  "logoText": "CAM-RUS",
+  "id": "cameroon-russia-cultural-association",
+  "nameI18n": {
+    "en": "Cameroon-Russia Cultural Association",
+    "fr": "Association culturelle Cameroun-Russie",
+    "ru": "Камерунско-Российская Культурная Ассоциация"
+  },
+  "order": 8
+}

@@ -1,0 +1,34 @@
+{
+    "id":  "mask-traditional-wooden-tribal",
+    "title":  "Traditional Wooden Tribal Mask",
+    "category":  "Masks",
+    "subcategory":  "Traditional African Masks",
+    "priceUsd": 85,
+    "priceRub": 7820,
+    "origin":  "Bamako, Mali",
+    "description":  "A handcrafted African-inspired wooden mask featuring traditional patterns, carved details, and a distinctive cultural aesthetic. Suitable for collectors, cultural displays, and interior decoration.",
+    "image":  "/uploads/store/mask_wooden_tribal_1786180585105.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Artisan Carved",
+    "brand":  "Mali Heritage Art",
+    "inventoryCount":  18,
+    "titleI18n":  {
+                      "en":  "Traditional Wooden Tribal Mask",
+                      "fr":  "Masque Tribal Traditionnel en Bois",
+                      "ru":  "Традиционная Деревянная Африканская Маска"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A handcrafted African-inspired wooden mask featuring traditional patterns, carved details, and a distinctive cultural aesthetic. Suitable for collectors, cultural displays, and interior decoration.",
+                            "fr":  "Masque mural tribal africain authentique sculpté à la main en acajou.",
+                            "ru":  "Аутентичная резная настенная маска из массива ценных пород."
+                        },
+    "categoryId":  "masks",
+    "subcategoryId":  "masks--traditional-african-masks",
+    "badgeI18n":  {
+                      "ru":  "Ремесленный Резной",
+                      "en":  "Artisan Carved",
+                      "fr":  "Artisan sculpté"
+                  }
+}

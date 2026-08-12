@@ -1,0 +1,34 @@
+{
+    "id":  "food-dried-hibiscus-flowers",
+    "title":  "Dried Hibiscus Flowers (Zobo / Karkadeh)",
+    "category":  "African Food",
+    "subcategory":  "Tea \u0026 Spices",
+    "priceUsd": 15,
+    "priceRub": 1380,
+    "origin":  "Sudan \u0026 Egypt",
+    "description":  "100% natural handpicked dried Hibiscus Sabdariffa flowers for preparing refreshing cold Zobo tea or hot herbal infusion.",
+    "image":  "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Best Seller",
+    "brand":  "Nile Herbal",
+    "inventoryCount":  120,
+    "titleI18n":  {
+                      "en":  "Dried Hibiscus Flowers (Zobo / Karkadeh)",
+                      "fr":  "Fleurs d\u0027Hibiscus Séchées (Bissap / Karkadeh)",
+                      "ru":  "Цветы Каркаде (Гибискус / Зобо)"
+                  },
+    "descriptionI18n":  {
+                            "en":  "100% natural handpicked dried Hibiscus Sabdariffa flowers for preparing refreshing cold Zobo tea or hot herbal infusion.",
+                            "fr":  "Fleurs d\u0027hibiscus 100% naturelles séchées pour préparer la boisson rafraîchissante bissap ou en infusion chaude.",
+                            "ru":  "100% натуральные сушеные цветы гибискуса для приготовления освежающего напитка зобо и горячего каркаде."
+                        },
+    "categoryId":  "african-food",
+    "subcategoryId":  "african-food--tea-spices",
+    "badgeI18n":  {
+                      "ru":  "Бестселлер",
+                      "en":  "Best Seller",
+                      "fr":  "Meilleur vendeur"
+                  }
+}

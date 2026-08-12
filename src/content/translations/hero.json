@@ -1,0 +1,48 @@
+{
+  "namespace": "hero",
+  "adminLabelFr": "Bannière principale de l’accueil",
+  "entries": [
+    {
+      "key": "hero.badge",
+      "en": "RUSSIA–AFRICA BILATERAL HUB",
+      "fr": "CENTRE BILATÉRAL RUSSIE–AFRIQUE",
+      "ru": "ДВУСТОРОННИЙ ХАБ РОССИЯ–АФРИКА"
+    },
+    {
+      "key": "hero.title",
+      "en": "Connecting Russia & Africa through Trade, Education & Business",
+      "fr": "Connecter la Russie et l'Afrique par le Commerce, l'Éducation et les Affaires",
+      "ru": "Объединяя Россию и Африку в Торговле, Образовании и Бизнесе"
+    },
+    {
+      "key": "hero.subtitle",
+      "en": "Your official intergovernmental gateway for cross-border commodities freight, university admissions in Russia, financial corridors, and diplomatic concierge.",
+      "fr": "Votre passerelle intergouvernementale officielle pour le fret de marchandises, les admissions universitaires en Russie, les corridors financiers et la conciergerie diplomatique.",
+      "ru": "Ваш официальный межправительственный портал для грузов, поступления в вузы РФ, финансовых коридоров и VIP-консьержа."
+    },
+    {
+      "key": "hero.stat_universities",
+      "en": "Top Universities",
+      "fr": "Universités de Renom",
+      "ru": "Ведущие Вузы"
+    },
+    {
+      "key": "hero.stat_trade_corridors",
+      "en": "Active Trade Routes",
+      "fr": "Routes Commerciales Actives",
+      "ru": "Активные Маршруты"
+    },
+    {
+      "key": "hero.stat_students",
+      "en": "Students Assisted",
+      "fr": "Étudiants Accompagnés",
+      "ru": "Студентов Обучено"
+    },
+    {
+      "key": "hero.stat_countries",
+      "en": "African Nations",
+      "fr": "Nations Africaines",
+      "ru": "Страны Африки"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "trade",
+  "image": "/uploads/home-hero/trade_logistics_hub_1785919873629.jpg",
+  "category": "ECONOMIC PARTNERSHIP",
+  "headline": "Connecting Russia and Africa Through Trade",
+  "description": "Building trusted pathways for export, import, logistics, and business cooperation between Russian and African markets.",
+  "ctaText": "Explore Trade",
+  "path": "/trade",
+  "categoryI18n": {
+    "en": "ECONOMIC PARTNERSHIP",
+    "fr": "PARTENARIAT ÉCONOMIQUE",
+    "ru": "ЭКОНОМИЧЕСКОЕ ПАРТНЕРСТВО"
+  },
+  "headlineI18n": {
+    "en": "Connecting Russia and Africa Through Trade",
+    "fr": "Connecter la Russie et l’Afrique par le commerce",
+    "ru": "Соединение России и Африки через торговлю"
+  },
+  "descriptionI18n": {
+    "en": "Building trusted pathways for export, import, logistics, and business cooperation between Russian and African markets.",
+    "fr": "Créer des voies fiables pour l’exportation, l’importation, la logistique et la coopération commerciale entre les marchés russes et africains.",
+    "ru": "Создание надежных путей экспорта, импорта, логистики и делового сотрудничества между рынками России и Африки."
+  },
+  "ctaTextI18n": {
+    "en": "Explore Trade",
+    "fr": "Explorer le commerce",
+    "ru": "Изучите торговлю"
+  },
+  "order": 1
+}

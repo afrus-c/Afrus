@@ -1,0 +1,41 @@
+{
+    "id":  "shoes-womens-african-inspired-flats",
+    "title":  "Women\u0027s African-Inspired Flats",
+    "category":  "Shoes",
+    "subcategory":  "Women\u0027s Shoes",
+    "priceUsd": 46,
+    "priceRub": 4232,
+    "origin":  "Dakar, Senegal",
+    "description":  "Elegant women\u0027s flats combining a comfortable everyday silhouette with distinctive African-inspired patterns and decorative details.",
+    "image":  "https://images.unsplash.com/photo-1535043934128-cf0b28d52f95?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.7,
+    "badge":  "Elegant Pattern",
+    "brand":  "Senegal Shoe Studio",
+    "availableSizes":  [
+                           "36",
+                           "37",
+                           "38",
+                           "39",
+                           "40"
+                       ],
+    "inventoryCount":  28,
+    "titleI18n":  {
+                      "en":  "Women\u0027s African-Inspired Flats",
+                      "fr":  "Ballerines Pointues Imprimées Femme",
+                      "ru":  "Женские Балетки с Африканским Принтом"
+                  },
+    "descriptionI18n":  {
+                            "en":  "Elegant women\u0027s flats combining a comfortable everyday silhouette with distinctive African-inspired patterns and decorative details.",
+                            "fr":  "Ballerines pointues chics arborant un imprimé wax africain.",
+                            "ru":  "Элегантные остроносые балетки из ткани с восковым принтом."
+                        },
+    "categoryId":  "shoes",
+    "subcategoryId":  "shoes--women-s-shoes",
+    "badgeI18n":  {
+                      "ru":  "Элегантный узор",
+                      "en":  "Elegant Pattern",
+                      "fr":  "Modèle élégant"
+                  }
+}

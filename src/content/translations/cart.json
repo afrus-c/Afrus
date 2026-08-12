@@ -1,0 +1,126 @@
+{
+  "namespace": "cart",
+  "adminLabelFr": "Panier d’achat",
+  "entries": [
+    {
+      "key": "cart.title",
+      "en": "Your Shopping Cart",
+      "fr": "Votre Panier d'Achats",
+      "ru": "Ваша Корзина Покупок"
+    },
+    {
+      "key": "cart.empty_title",
+      "en": "Your Cart is Currently Empty",
+      "fr": "Votre Panier est Actuellement Vide",
+      "ru": "Ваша Корзина Пуста"
+    },
+    {
+      "key": "cart.empty_subtitle",
+      "en": "Explore our authentic African fashion, masks, jerseys, and specialty foods.",
+      "fr": "Découvrez nos tenues africaines authentiques, masques, maillots et spécialités culinaires.",
+      "ru": "Ознакомьтесь с нашей оригинальной одеждой, масками, спортивными джерси и африканскими продуктами."
+    },
+    {
+      "key": "cart.browse_catalog",
+      "en": "Browse Store Catalog",
+      "fr": "Parcourir le Catalogue",
+      "ru": "Перейти в Каталог"
+    },
+    {
+      "key": "cart.order_summary",
+      "en": "Order Summary",
+      "fr": "Résumé de la Commande",
+      "ru": "Итоговый Расчет"
+    },
+    {
+      "key": "cart.items_count",
+      "en": "Items",
+      "fr": "Articles",
+      "ru": "Товаров"
+    },
+    {
+      "key": "cart.total",
+      "en": "Subtotal",
+      "fr": "Sous-total",
+      "ru": "Промежуточный Итог"
+    },
+    {
+      "key": "cart.estimated_total",
+      "en": "Estimated Total",
+      "fr": "Total Estimé",
+      "ru": "Итоговая Сумма"
+    },
+    {
+      "key": "cart.shipping_note",
+      "en": "Shipping cost & delivery options calculated at checkout via WhatsApp/Telegram inquiry.",
+      "fr": "Frais de livraison et modes d'expédition calculés lors de la confirmation via WhatsApp/Telegram.",
+      "ru": "Стоимость и варианты доставки рассчитываются при оформлении заказа в WhatsApp/Telegram."
+    },
+    {
+      "key": "cart.checkout_btn",
+      "en": "Proceed to Order Inquiry",
+      "fr": "Finaliser la Demande de Commande",
+      "ru": "Оформить Заявку на Заказ"
+    },
+    {
+      "key": "cart.clear",
+      "en": "Clear Cart",
+      "fr": "Vider le Panier",
+      "ru": "Очистить Корзину"
+    },
+    {
+      "key": "cart.item_subtotal",
+      "en": "Item Subtotal",
+      "fr": "Sous-total Article",
+      "ru": "Сумма по позиции"
+    },
+    {
+      "key": "cart.free_delivery",
+      "en": "Free Delivery over $100",
+      "fr": "Livraison gratuite dès 100$",
+      "ru": "Бесплатная доставка от $100"
+    },
+    {
+      "key": "cart.close",
+      "en": "Close cart",
+      "fr": "Fermer le panier",
+      "ru": "Закрыть корзину"
+    },
+    {
+      "key": "cart.scroll_left",
+      "en": "Scroll tabs left",
+      "fr": "Faire défiler les onglets vers la gauche",
+      "ru": "Прокрутить вкладки влево"
+    },
+    {
+      "key": "cart.scroll_right",
+      "en": "Scroll tabs right",
+      "fr": "Faire défiler les onglets vers la droite",
+      "ru": "Прокрутить вкладки вправо"
+    },
+    {
+      "key": "cart.delivery_method",
+      "en": "Delivery Method",
+      "fr": "Mode de livraison",
+      "ru": "Способ доставки"
+    },
+    {
+      "key": "cart.applied_promo",
+      "en": "Applied Promo Code",
+      "fr": "Code promotionnel appliqué",
+      "ru": "Применённый промокод"
+    },
+    {
+      "key": "cart.off",
+      "en": "OFF",
+      "fr": "DE RÉDUCTION",
+      "ru": "СКИДКА"
+    },
+    {
+      "key": "cart.customer_request",
+      "en": "Customer Request",
+      "fr": "Demande du client",
+      "ru": "Запрос клиента"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "id":  "mask-african-wall-decorative",
+    "title":  "African Wall Decorative Mask",
+    "category":  "Masks",
+    "subcategory":  "Decorative Masks",
+    "priceUsd": 75,
+    "priceRub": 6900,
+    "origin":  "Kumasi, Ghana",
+    "description":  "A striking African-inspired decorative mask designed for wall display. Its artistic patterns and handcrafted appearance make it a distinctive addition to home or office interiors.",
+    "image":  "/uploads/store/mask_wall_decorative_1786180624605.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Wall Display",
+    "brand":  "Ashanti Crafts",
+    "inventoryCount":  25,
+    "titleI18n":  {
+                      "en":  "African Wall Decorative Mask",
+                      "fr":  "Masque Décoratif Mural",
+                      "ru":  "Декоративная Настенная Маска"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A striking African-inspired decorative mask designed for wall display. Its artistic patterns and handcrafted appearance make it a distinctive addition to home or office interiors.",
+                            "fr":  "Masque décoratif en bois poli pour la maison ou le bureau de direction.",
+                            "ru":  "Полированная деревянная маска для интерьера дома или офиса."
+                        },
+    "categoryId":  "masks",
+    "subcategoryId":  "masks--decorative-masks",
+    "badgeI18n":  {
+                      "ru":  "Настенный дисплей",
+                      "en":  "Wall Display",
+                      "fr":  "Affichage mural"
+                  }
+}

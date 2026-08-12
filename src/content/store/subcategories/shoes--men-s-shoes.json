@@ -1,0 +1,10 @@
+{
+  "id": "shoes--men-s-shoes",
+  "categoryId": "shoes",
+  "name": "Men's Shoes",
+  "nameI18n": {
+    "en": "Men's Shoes",
+    "fr": "Chaussures Homme",
+    "ru": "Мужская Обувь"
+  }
+}

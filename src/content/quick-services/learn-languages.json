@@ -1,0 +1,29 @@
+{
+  "id": "learn-languages",
+  "title": "Learn English & French",
+  "category": "language",
+  "description": "Specialized language immersion programs tailored for students, diplomats, and international business leaders.",
+  "iconName": "Languages",
+  "badge": "Academy",
+  "titleI18n": {
+    "en": "Learn English & French",
+    "fr": "Apprendre l'anglais et le français",
+    "ru": "Изучите английский и французский языки"
+  },
+  "descriptionI18n": {
+    "en": "Specialized language immersion programs tailored for students, diplomats, and international business leaders.",
+    "fr": "Programmes d'immersion linguistique spécialisés adaptés aux étudiants, aux diplomates et aux chefs d'entreprise internationaux.",
+    "ru": "Специализированные программы языкового погружения, специально разработанные для студентов, дипломатов и лидеров международного бизнеса."
+  },
+  "badgeI18n": {
+    "en": "Academy",
+    "fr": "Académie",
+    "ru": "Академия"
+  },
+  "linkTextI18n": {
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "order": 10
+}

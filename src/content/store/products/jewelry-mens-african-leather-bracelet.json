@@ -1,0 +1,34 @@
+{
+    "id":  "jewelry-mens-african-leather-bracelet",
+    "title":  "Men\u0027s African Leather Bracelet",
+    "category":  "Bracelets \u0026 Jewelry",
+    "subcategory":  "Men\u0027s Jewelry",
+    "priceUsd": 32,
+    "priceRub": 2944,
+    "origin":  "Nairobi, Kenya",
+    "description":  "A stylish men\u0027s bracelet combining durable leather with African-inspired decorative details. Designed for casual everyday wear and cultural-inspired fashion.",
+    "image":  "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Leather Accent",
+    "brand":  "Maasai Leather Craft",
+    "inventoryCount":  28,
+    "titleI18n":  {
+                      "en":  "Men\u0027s African Leather Bracelet",
+                      "fr":  "Bracelet Africain en Cuir Homme",
+                      "ru":  "Мужской Кожаный Африканский Браслет"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A stylish men\u0027s bracelet combining durable leather with African-inspired decorative details. Designed for casual everyday wear and cultural-inspired fashion.",
+                            "fr":  "Bracelet en cuir véritable tressé avec pampille en laiton en forme du continent africain.",
+                            "ru":  "Плетеный кожаный браслет с латунным кулоном контура Африки."
+                        },
+    "categoryId":  "bracelets-jewelry",
+    "subcategoryId":  "bracelets-jewelry--men-s-jewelry",
+    "badgeI18n":  {
+                      "ru":  "Кожаный Акцент",
+                      "en":  "Leather Accent",
+                      "fr":  "Accent en cuir"
+                  }
+}

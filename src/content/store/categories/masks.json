@@ -1,0 +1,13 @@
+{
+  "id": "masks",
+  "name": "Masks",
+  "description": "Hand-carved African wooden masks, ceremonial wall art, and painted heritage artwork.",
+  "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+  "icon": "🎭",
+  "itemCount": 4,
+  "nameI18n": {
+    "en": "Masks",
+    "fr": "Masques",
+    "ru": "Африканские Маски"
+  }
+}

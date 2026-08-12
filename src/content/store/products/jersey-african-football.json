@@ -1,0 +1,41 @@
+{
+    "id":  "jersey-african-football",
+    "title":  "African Football Jersey",
+    "category":  "Jerseys",
+    "subcategory":  "Football Jerseys",
+    "priceUsd": 48,
+    "priceRub": 4416,
+    "origin":  "AFRUS Sport",
+    "description":  "A stylish football jersey inspired by African football culture, combining bold colors and distinctive design elements with a comfortable modern fit.",
+    "image":  "/uploads/store/jersey_african_football_1786179987944.jpg",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.9,
+    "badge":  "Afro Heritage",
+    "brand":  "AFRUS Athletics",
+    "availableSizes":  [
+                           "S",
+                           "M",
+                           "L",
+                           "XL",
+                           "XXL"
+                       ],
+    "inventoryCount":  25,
+    "titleI18n":  {
+                      "en":  "African Football Jersey",
+                      "fr":  "Maillot de Football Style Africain",
+                      "ru":  "Футбольная Джерси в Африканском Стиле"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A stylish football jersey inspired by African football culture, combining bold colors and distinctive design elements with a comfortable modern fit.",
+                            "fr":  "Maillot de football personnalisé arborant des motifs africains audacieux et colorés.",
+                            "ru":  "Форма с яркими африканскими орнаментами и контрастными цветами."
+                        },
+    "categoryId":  "jerseys",
+    "subcategoryId":  "jerseys--football-jerseys",
+    "badgeI18n":  {
+                      "ru":  "Афро-наследие",
+                      "en":  "Afro Heritage",
+                      "fr":  "Patrimoine afro"
+                  }
+}

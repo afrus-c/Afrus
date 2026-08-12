@@ -1,0 +1,34 @@
+{
+    "id":  "souvenir-african-handmade-wooden-figurine",
+    "title":  "African Handmade Wooden Figurine",
+    "category":  "Souvenirs",
+    "subcategory":  "Cultural Gifts",
+    "priceUsd": 38,
+    "priceRub": 3496,
+    "origin":  "Kisii, Kenya",
+    "description":  "A handcrafted wooden figurine inspired by African artistic traditions. Its distinctive design makes it suitable as a cultural gift, decorative piece, or addition to a personal collection.",
+    "image":  "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format\u0026fit=crop\u0026w=800\u0026q=80",
+    "inStock":  true,
+    "availabilityStatus":  "In Stock",
+    "rating":  4.8,
+    "badge":  "Wooden Figurine",
+    "brand":  "Kenya Artisan Guild",
+    "inventoryCount":  28,
+    "titleI18n":  {
+                      "en":  "African Handmade Wooden Figurine",
+                      "fr":  "Statuette d\u0027Animal en Bois Fait Main",
+                      "ru":  "Деревянная Фигурка Животного Ручной Работы"
+                  },
+    "descriptionI18n":  {
+                            "en":  "A handcrafted wooden figurine inspired by African artistic traditions. Its distinctive design makes it suitable as a cultural gift, decorative piece, or addition to a personal collection.",
+                            "fr":  "Statuette en ébène sculptée à la main représentant la faune ou des symboles culturels.",
+                            "ru":  "Резная фигурка дикого животного из черного дерева."
+                        },
+    "categoryId":  "souvenirs",
+    "subcategoryId":  "souvenirs--cultural-gifts",
+    "badgeI18n":  {
+                      "ru":  "Деревянная Фигурка",
+                      "en":  "Wooden Figurine",
+                      "fr":  "Figurine en bois"
+                  }
+}

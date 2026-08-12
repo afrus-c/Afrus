@@ -1,0 +1,46 @@
+{
+  "id": "news-3",
+  "title": "AFRUS Launches Executive Concierge Hub for Diplomatic & Business Delegations",
+  "category": "Concierge & Tourism",
+  "date": "July 15, 2026",
+  "readTime": "3 min read",
+  "excerpt": "A new high-touch VIP concierge suite offering fast-track airport clearances, certified diplomatic translators, and executive security transport.",
+  "content": "Designed for international CEOs, government ministers, investors, and trade delegations, AFRUS Concierge provides an end-to-end luxury hospitality buffer in Moscow, St. Petersburg, and regional economic capitals. From private jet charters to tailored B2B matchmaking, the service guarantees ultimate confidentiality and prestige.",
+  "image": "/uploads/editorial/concierge_executive_1785919904384.jpg",
+  "author": "Sarah Nguema, Client Relations",
+  "titleI18n": {
+    "en": "AFRUS Launches Executive Concierge Hub for Diplomatic & Business Delegations",
+    "fr": "AFRUS Lance un Hub de Conciergerie Exécutive pour les Délégations Diplomatiques & d'Affaires",
+    "ru": "AFRUS запускает VIP-консьерж центр для дипломатических и деловых делегаций"
+  },
+  "categoryI18n": {
+    "en": "Concierge & Tourism",
+    "fr": "Concierge & Tourisme",
+    "ru": "Консьерж и туризм"
+  },
+  "dateI18n": {
+    "en": "July 15, 2026",
+    "fr": "15 Juillet 2026",
+    "ru": "15 Июля 2026"
+  },
+  "readTimeI18n": {
+    "en": "3 min read",
+    "fr": "3 min de lecture",
+    "ru": "3 мин чтения"
+  },
+  "excerptI18n": {
+    "en": "A new high-touch VIP concierge suite offering fast-track airport clearances, certified diplomatic translators, and executive security transport.",
+    "fr": "Une nouvelle suite de conciergerie VIP haut de gamme offrant des formalités d'aéroport accélérées, des traducteurs diplomatiques certifiés et des transports de sécurité exécutifs.",
+    "ru": "Новый VIP-пакет услуг, включающий ускоренное прохождение аэропортов, сертифицированных дипломатических переводчиков и представительский охраняемый транспорт."
+  },
+  "contentI18n": {
+    "en": "Designed for international CEOs, government ministers, investors, and trade delegations, AFRUS Concierge provides an end-to-end luxury hospitality buffer in Moscow, St. Petersburg, and regional economic capitals. From private jet charters to tailored B2B matchmaking, the service guarantees ultimate confidentiality and prestige.",
+    "fr": "Conçu pour les PDG internationaux, les ministres du gouvernement, les investisseurs et les délégations commerciales, AFRUS Concierge fournit un tampon d'hospitalité de luxe de bout en bout à Moscou, Saint-Pétersbourg et dans les capitales économiques régionales. Des charters de jets privés aux rencontres B2B sur mesure, le service garantit une confidentialité et un prestige ultimes.",
+    "ru": "Разработанный для международных руководителей, министров правительств, инвесторов и торговых делегаций, AFRUS Concierge обеспечивает комплексный буфер роскошного гостеприимства в Москве, Санкт-Петербурге и региональных экономических столицах. От чартеров частных самолетов до индивидуальных контактов B2B — эта услуга гарантирует максимальную конфиденциальность и престиж."
+  },
+  "authorI18n": {
+    "en": "Sarah Nguema, Client Relations",
+    "fr": "Sarah Nguema, Relation Client",
+    "ru": "Сара Нгема, отдел по работе с клиентами"
+  }
+}

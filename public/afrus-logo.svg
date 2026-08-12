@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220">
+  <defs>
+    <!-- Cowrie Shell 3D Shading Gradients -->
+    <linearGradient id="whiteShell" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#F0F2F5"/>
+      <stop offset="100%" stop-color="#D5DAE1"/>
+    </linearGradient>
+
+    <linearGradient id="blueShell" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2555D6"/>
+      <stop offset="60%" stop-color="#0039A6"/>
+      <stop offset="100%" stop-color="#002470"/>
+    </linearGradient>
+
+    <linearGradient id="redShell" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EE382B"/>
+      <stop offset="60%" stop-color="#D52B1E"/>
+      <stop offset="100%" stop-color="#9E180E"/>
+    </linearGradient>
+
+    <radialGradient id="shellHighlight" cx="35%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="shellShadow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Clip Paths for Tricolor Shell Bands -->
+    <clipPath id="shellOutlineClip">
+      <!-- Natural Cowrie Shell Shape -->
+      <path d="M 80 25 C 125 25, 145 65, 145 110 C 145 155, 120 190, 80 190 C 40 190, 15 155, 15 110 C 15 65, 35 25, 80 25 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Ground Shadow under Cowrie Shell -->
+  <ellipse cx="80" cy="188" rx="55" ry="12" fill="url(#shellShadow)"/>
+
+  <!-- Cowrie Shell Base with Tricolor Flag Overlay -->
+  <g transform="rotate(-12, 80, 110)">
+    <!-- Main Shell Body Group -->
+    <g clip-path="url(#shellOutlineClip)">
+      <!-- Top Band: White (0px to 75px) -->
+      <rect x="0" y="0" width="160" height="78" fill="url(#whiteShell)"/>
+      <!-- Middle Band: Blue (78px to 138px) -->
+      <rect x="0" y="78" width="160" height="60" fill="url(#blueShell)"/>
+      <!-- Bottom Band: Red (138px to 210px) -->
+      <rect x="0" y="138" width="160" height="72" fill="url(#redShell)"/>
+
+      <!-- Glossy 3D Highlight Curve -->
+      <ellipse cx="60" cy="80" rx="65" ry="75" fill="url(#shellHighlight)"/>
+    </g>
+
+    <!-- Cowrie Outer Rim Contour Line -->
+    <path d="M 80 25 C 125 25, 145 65, 145 110 C 145 155, 120 190, 80 190 C 40 190, 15 155, 15 110 C 15 65, 35 25, 80 25 Z" 
+          fill="none" stroke="#111827" stroke-width="2.5" stroke-opacity="0.2"/>
+
+    <!-- Natural Cowrie Serrated Central Slit/Aperture -->
+    <!-- Dark Interior Aperture -->
+    <path d="M 80 40 Q 86 75 84 110 Q 82 145 78 175 Q 73 145 74 110 Q 75 75 80 40 Z" fill="#0A0A0A"/>
+
+    <!-- Serrated Teeth Ridges along Right Side of Slit -->
+    <path d="
+      M 83 50 L 91 53 L 83 58
+      M 84 62 L 93 65 L 84 70
+      M 84 74 L 94 77 L 84 82
+      M 84 86 L 94 89 L 84 94
+      M 84 98 L 94 101 L 84 106
+      M 83 110 L 93 113 L 83 118
+      M 82 122 L 92 125 L 82 130
+      M 81 134 L 91 137 L 81 142
+      M 80 146 L 89 149 L 80 154
+      M 79 158 L 87 161 L 79 165
+    " stroke="#0A0A0A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Serrated Teeth Ridges along Left Side of Slit -->
+    <path d="
+      M 78 52 L 70 55 L 78 60
+      M 77 64 L 68 67 L 77 72
+      M 77 76 L 67 79 L 77 84
+      M 77 88 L 67 91 L 77 96
+      M 76 100 L 66 103 L 76 108
+      M 75 112 L 65 115 L 75 120
+      M 75 124 L 65 127 L 75 132
+      M 74 136 L 65 139 L 74 144
+      M 73 148 L 65 151 L 73 156
+    " stroke="#0A0A0A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Typography Section -->
+  <g transform="translate(190, 0)">
+    <!-- AFRUS Main Wordmark -->
+    <text x="10" y="115" 
+          font-family="system-ui, -apple-system, 'Montserrat', 'Inter', sans-serif" 
+          font-size="88" 
+          font-weight="900" 
+          letter-spacing="6" 
+          fill="#0F172A">AFRUS</text>
+
+    <!-- Underline Swoosh Curve -->
+    <path d="M 8 132 Q 180 145 355 132" fill="none" stroke="#0F172A" stroke-width="3.5" stroke-linecap="round"/>
+
+    <!-- "Together..." Handwritten Cursive Subtext -->
+    <text x="105" y="172" 
+          font-family="'Brush Script MT', 'Caveat', 'Dancing Script', 'Segoe Print', cursive, sans-serif" 
+          font-size="42" 
+          font-style="italic" 
+          font-weight="500" 
+          fill="#0F172A">Together...</text>
+  </g>
+</svg>
