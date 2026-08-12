@@ -6,7 +6,8 @@ export default function handler(request, response) {
   try {
     configuration();
     response.status(200).json({ ok: true });
-  } catch {
-    response.status(503).json({ ok: false, configured: false });
+  } catch (error) {
+    const message = error instanceof Error ? error.message : 'Invalid OAuth configuration.';
+    response.status(503).json({ ok: false, configured: false, error: message });
   }
 }
