@@ -2,6 +2,7 @@ backend:
   name: github
   repo: satoshi3090/afrus
   branch: main
+  site_domain: afrusculture.netlify.app
   auth_scope: repo
   use_graphql: true
   squash_merges: true
