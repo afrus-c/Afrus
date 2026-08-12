@@ -1,0 +1,33 @@
+{
+  "badgeI18n": {
+    "en": "Traditional Staple",
+    "fr": "Produit traditionnel",
+    "ru": "Традиционный продукт"
+  },
+  "isNewArrival": false,
+  "origin": "Cameroon",
+  "inStock": true,
+  "inventoryCount": 11,
+  "priceRub": 2116,
+  "titleI18n": {
+    "en": "Fufu",
+    "fr": "Foufou",
+    "ru": "Фуфу"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "african-food--grains-flours",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "en": "Traditional Cameroonian fufu with a smooth texture, ideal for serving with rich soups, stews and sauces.",
+    "fr": "Foufou camerounais traditionnel à la texture lisse, idéal avec des soupes, ragoûts et sauces généreuses.",
+    "ru": "Традиционный камерунский фуфу с нежной текстурой — идеальное дополнение к густым супам, рагу и соусам."
+  },
+  "id": "125",
+  "image": "/uploads/store/fufu-product.png",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 103,
+  "category": "",
+  "subcategory": ""
+}
