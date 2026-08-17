@@ -10,5 +10,11 @@
       "destination": "https://afrusculture-admin.netlify.app/admin/",
       "permanent": false
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
 }
