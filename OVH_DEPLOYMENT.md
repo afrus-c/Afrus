@@ -4,10 +4,10 @@ The website and `/admin/` are static Vite output. A small OAuth process runs pri
 
 ## GitHub repository configuration
 
-Create or choose the GitHub repository that will own the website. Configure it in Decap before deployment:
+The website repository is `afrus21/Afrus`. If it is ever moved, update Decap with:
 
 ```bash
-npm run cms:configure -- github-owner/repository-name
+npm run cms:configure -- new-owner/new-repository-name
 ```
 
 Add a protected `production` environment to that repository with these secrets:
@@ -32,7 +32,7 @@ Create a GitHub OAuth App under the repository owner's account:
 
 Copy `.env.ovh.example` to a root-owned environment file outside the public website directory. Never commit the real values.
 
-The private OVH environment file must use the same `GITHUB_REPOSITORY=github-owner/repository-name` value configured above. The OAuth service verifies that the authenticated GitHub user has push, maintain, or admin permission before returning a token to Decap.
+The private OVH environment file must use `GITHUB_REPOSITORY=afrus21/Afrus`, matching Decap. The OAuth service verifies that the authenticated GitHub user has push, maintain, or admin permission before returning a token to Decap.
 
 ## OAuth service
 
@@ -57,9 +57,43 @@ location / {
 
 Only GitHub users with repository write access can publish through Decap CMS.
 
+## DNS and HTTPS prerequisite
+
+This deployment targets an OVH VPS or cloud server with SSH, Nginx, Node.js 22,
+and systemd. It is not compatible with OVH shared hosting because the private
+OAuth process must remain running.
+
+Before requesting a certificate, point both DNS records to the OVH server:
+
+- `afrusculture.ru` -> server IPv4 address (`A` record)
+- `www.afrusculture.ru` -> `afrusculture.ru` (`CNAME`) or the same IPv4 address
+
+Create `/var/www/afrus/current/dist`, place an initial production build there,
+and install `.deploy/nginx-afrus-http.conf` first. After `sudo nginx -t` passes,
+reload Nginx and request the certificate:
+
+```bash
+sudo certbot certonly --webroot \
+  --webroot-path /var/www/afrus/current/dist \
+  -d afrusculture.ru \
+  -d www.afrusculture.ru
+```
+
+The final template expects the resulting files under
+`/etc/letsencrypt/live/afrusculture.ru/`. Install `.deploy/nginx-afrus.conf`
+only after those files exist, then run `sudo nginx -t` before reloading. Verify
+automatic renewal with `sudo certbot renew --dry-run`.
+
 ## Production installation templates
 
 Templates are provided in `.deploy/afrus-oauth.service` and `.deploy/nginx-afrus.conf`. Review the OVH username and deployment paths before installing them.
+
+Create the static deployment directory and make the dedicated GitHub Actions
+SSH user its owner. Replace `OVH_DEPLOY_USER` with the actual account name:
+
+```bash
+sudo install -d -o OVH_DEPLOY_USER -g OVH_DEPLOY_USER -m 0755 /var/www/afrus/current/dist
+```
 
 ```bash
 sudo install -d -m 0750 /etc/afrus

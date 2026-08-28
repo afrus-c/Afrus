@@ -41,6 +41,22 @@ jobs:
         with:
           name: afrus-dist
           path: dist
+      - name: Validate deployment settings
+        env:
+          OVH_HOST: ${{ secrets.OVH_HOST }}
+          OVH_PORT: ${{ secrets.OVH_PORT }}
+          OVH_USER: ${{ secrets.OVH_USER }}
+          OVH_SSH_KEY: ${{ secrets.OVH_SSH_KEY }}
+          OVH_KNOWN_HOSTS: ${{ secrets.OVH_KNOWN_HOSTS }}
+          OVH_DEPLOY_PATH: ${{ secrets.OVH_DEPLOY_PATH }}
+        run: |
+          test -n "$OVH_HOST" || { echo "OVH_HOST is missing"; exit 1; }
+          test -n "$OVH_USER" || { echo "OVH_USER is missing"; exit 1; }
+          test -n "$OVH_SSH_KEY" || { echo "OVH_SSH_KEY is missing"; exit 1; }
+          test -n "$OVH_KNOWN_HOSTS" || { echo "OVH_KNOWN_HOSTS is missing"; exit 1; }
+          test -n "$OVH_DEPLOY_PATH" || { echo "OVH_DEPLOY_PATH is missing"; exit 1; }
+          test "$OVH_DEPLOY_PATH" = "/var/www/afrus/current/dist" || { echo "OVH_DEPLOY_PATH must be /var/www/afrus/current/dist"; exit 1; }
+          test -z "$OVH_PORT" || { case "$OVH_PORT" in *[!0-9]*) echo "OVH_PORT must be numeric"; exit 1;; esac; }
       - name: Configure SSH
         env:
           OVH_SSH_KEY: ${{ secrets.OVH_SSH_KEY }}
@@ -51,6 +67,16 @@ jobs:
           chmod 600 ~/.ssh/afrus_deploy
           printf '%s\n' "$OVH_KNOWN_HOSTS" > ~/.ssh/known_hosts
           chmod 600 ~/.ssh/known_hosts
+      - name: Verify remote deployment directory
+        env:
+          OVH_HOST: ${{ secrets.OVH_HOST }}
+          OVH_PORT: ${{ secrets.OVH_PORT }}
+          OVH_USER: ${{ secrets.OVH_USER }}
+          OVH_DEPLOY_PATH: ${{ secrets.OVH_DEPLOY_PATH }}
+        run: >-
+          ssh -i ~/.ssh/afrus_deploy -p "${OVH_PORT:-22}"
+          "${OVH_USER}@${OVH_HOST}"
+          "test -d '${OVH_DEPLOY_PATH}' && test -w '${OVH_DEPLOY_PATH}'"
       - name: Upload production build
         env:
           OVH_HOST: ${{ secrets.OVH_HOST }}
