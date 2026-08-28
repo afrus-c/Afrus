@@ -1,7 +1,9 @@
 backend:
   name: github
-  repo: satoshi3090/afrus
+  repo: afrus21/Afrus
   branch: main
+  base_url: https://www.afrusculture.ru
+  auth_endpoint: api/auth
   auth_scope: repo
   use_graphql: true
   squash_merges: true
