@@ -28,6 +28,9 @@ const expectedConfig = [
 for (const [label, pattern] of expectedConfig) {
   if (!pattern.test(config)) errors.push(`Admin config is missing the expected ${label}.`);
 }
+if (/^\s*local_backend\s*:/m.test(config)) {
+  errors.push('Production admin config must not enable the unauthenticated local backend.');
+}
 
 const configuredRepository = config.match(/^\s*repo:\s*([^\s]+)\s*$/m)?.[1];
 if (process.env.GITHUB_REPOSITORY && configuredRepository !== process.env.GITHUB_REPOSITORY) {

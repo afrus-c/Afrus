@@ -14,8 +14,6 @@ backend:
     uploadMedia: 'content: upload {{path}}'
     deleteMedia: 'content: delete media {{path}}'
 
-local_backend: true
-
 logo_url: /afrus-logo-transparent-v3.png
 locale: fr
 show_preview_links: true
