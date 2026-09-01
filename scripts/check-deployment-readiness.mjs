@@ -117,6 +117,9 @@ const oauthServer = fs.readFileSync('server/oauth-server.mjs', 'utf8');
 if (!/process\.env\.OAUTH_HOST/.test(oauthServer) || !/0\.0\.0\.0/.test(oauthServer)) {
   errors.push('OAuth service must support an explicit container-network bind address.');
 }
+if (!/authorizing:github/.test(oauthServer) || !/window\.opener\.postMessage\(handshake, targetOrigin\)/.test(oauthServer)) {
+  errors.push('OAuth service must perform the Decap popup handshake before redirecting to GitHub.');
+}
 
 const oauthEnvironment = fs.readFileSync('.env.ovh.example', 'utf8');
 for (const name of ['GITHUB_CLIENT_ID', 'GITHUB_CLIENT_SECRET', 'GITHUB_REPOSITORY', 'OAUTH_STATE_SECRET', 'CMS_ORIGIN', 'OAUTH_PORT']) {
