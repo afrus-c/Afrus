@@ -156,8 +156,11 @@ export const Footer: React.FC = () => {
             <span>© {currentYear} {siteSettings.brand.name}. {t('homePage.footer.text_020')}</span>
           </div>
 
-          <div className="text-center sm:text-right text-[11px]">
-            {t('homePage.footer.text_021')}
+          <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-2 text-center text-[11px] sm:justify-end sm:text-right">
+            <Link to="/legal" className="font-semibold text-slate-300 hover:text-amber-400 transition-colors">
+              {t('footer.privacy')}
+            </Link>
+            <span>{t('homePage.footer.text_021')}</span>
           </div>
         </div>
 

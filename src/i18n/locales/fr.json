@@ -211,6 +211,38 @@
     "terms": "Conditions d'Utilisation",
     "disclaimer": "Réseau officiel de commerce, d'éducation et de corridors financiers."
   },
+  "legal": {
+    "badge": "Informations juridiques",
+    "title": "Mentions légales, confidentialité et conditions",
+    "intro": "Cette page explique comment le site AFRUS traite les informations, les conditions applicables à l'utilisation de nos contenus et services de demande, ainsi que les limites des informations publiées.",
+    "effectiveDate": "Date d'entrée en vigueur : 1er septembre 2026",
+    "sections": {
+      "privacy": {
+        "title": "Avis de confidentialité",
+        "body": "AFRUS ne recueille pas les données de carte bancaire et ne traite aucun paiement sur ce site. Les informations que vous choisissez d'envoyer par e-mail, WhatsApp, Telegram ou un autre service lié sont traitées par ce service selon ses propres règles de confidentialité et peuvent être utilisées par AFRUS pour répondre à votre demande, préparer un devis ou coordonner un service demandé.\n\nVotre préférence linguistique et le contenu de votre panier peuvent être enregistrés localement dans votre navigateur. Vous pouvez supprimer ces informations dans les paramètres du navigateur. N'envoyez pas de passeports, d'identifiants bancaires ou d'autres documents très sensibles via des liens de messagerie publics."
+      },
+      "cookies": {
+        "title": "Cookies et stockage local",
+        "body": "Le site utilise le stockage du navigateur pour mémoriser la langue choisie et le contenu du panier. Ces fonctions sont opérationnelles et ne créent pas de profil utilisateur AFRUS. AFRUS n'utilise actuellement ni cookies publicitaires ni outil d'analyse intégré au site. Les sites tiers ouverts depuis AFRUS peuvent utiliser leurs propres cookies et technologies de suivi."
+      },
+      "terms": {
+        "title": "Conditions d'utilisation du site",
+        "body": "Vous pouvez utiliser ce site pour des demandes personnelles ou professionnelles licites. Il est interdit de perturber le site, de tenter un accès non autorisé, de copier un contenu protégé pour le republier à des fins commerciales ou de transmettre un contenu faux, illégal ou nuisible. Les produits, disponibilités, prix, calendriers et descriptions de services peuvent changer avant la confirmation écrite d'une commande ou d'une mission par AFRUS."
+      },
+      "services": {
+        "title": "Services et avertissement professionnel",
+        "body": "Le contenu du site est fourni à titre général et ne crée pas à lui seul un contrat, ne garantit pas une admission, n'obtient pas un visa, n'exécute pas un transfert, ne réserve pas un stock et ne constitue pas un conseil juridique, fiscal, financier ou d'immigration. Tout service dépend des critères d'éligibilité, de la loi applicable, des exigences de tiers, de la disponibilité et d'une confirmation écrite. Les prix finaux, taux de change, frais de livraison et délais sont confirmés directement au client."
+      },
+      "rights": {
+        "title": "Propriété intellectuelle et liens externes",
+        "body": "Sauf indication contraire, AFRUS possède ou est autorisé à utiliser la conception, la marque et les contenus originaux du site. Les noms, logos et contenus appartenant aux universités, autorités, partenaires, prestataires de paiement et autres tiers restent la propriété de leurs titulaires respectifs. Les liens externes sont fournis à titre pratique ; AFRUS ne contrôle ni ces sites ni leur disponibilité, sécurité ou politique de confidentialité."
+      }
+    },
+    "contact": {
+      "title": "Questions ou demandes relatives à la confidentialité",
+      "body": "Contactez AFRUS pour poser une question sur cette page, demander la correction ou la suppression d'informations figurant dans un dossier de demande AFRUS, ou signaler une préoccupation concernant l'utilisation de vos informations. Nous pouvons être amenés à vérifier votre identité avant de traiter une demande."
+    }
+  },
   "moneyTransferContent": {
     "text_0001": "100000",
     "text_0002": "PAIEMENTS TRANSFRONTALIERS",

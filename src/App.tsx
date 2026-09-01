@@ -26,6 +26,7 @@ import { Festivals } from './pages/Festivals';
 import { Forum } from './pages/Forum';
 import { News } from './pages/News';
 import { Contact } from './pages/Contact';
+import { Legal } from './pages/Legal';
 import { NewsReaderModal } from './components/modals/NewsReaderModal';
 
 import { NewsItem } from './types';
@@ -136,6 +137,9 @@ export default function App() {
                   path="/contact"
                   element={<Contact />}
                 />
+                <Route path="/legal" element={<Legal />} />
+                <Route path="/privacy" element={<Legal />} />
+                <Route path="/terms" element={<Legal />} />
                 <Route
                   path="*"
                   element={<Navigate to="/" replace />}

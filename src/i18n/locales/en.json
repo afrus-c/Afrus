@@ -211,6 +211,38 @@
     "terms": "Terms of Service",
     "disclaimer": "Official trade, education, and financial corridor network."
   },
+  "legal": {
+    "badge": "Legal information",
+    "title": "Legal, Privacy & Terms",
+    "intro": "This page explains how the AFRUS website handles information, the conditions that apply when using our content and inquiry services, and the limits of the information published here.",
+    "effectiveDate": "Effective date: 1 September 2026",
+    "sections": {
+      "privacy": {
+        "title": "Privacy notice",
+        "body": "AFRUS does not collect card details or process payments on this website. Information you choose to send through email, WhatsApp, Telegram or another linked service is handled by that service under its own privacy terms and may be used by AFRUS to answer your inquiry, prepare a quotation or coordinate a requested service.\n\nYour language preference and shopping-cart selections may be stored locally in your browser. You can remove this information through your browser settings. Do not submit passports, banking credentials or other highly sensitive documents through public messaging links."
+      },
+      "cookies": {
+        "title": "Cookies and local storage",
+        "body": "The website uses browser storage to remember your selected language and shopping-cart contents. These features are functional and do not create an AFRUS user profile. AFRUS does not currently operate advertising cookies or an on-site analytics tracker. Third-party websites opened from AFRUS may use their own cookies and tracking technologies."
+      },
+      "terms": {
+        "title": "Website terms of use",
+        "body": "You may use this website for lawful personal or business inquiries. You must not interfere with the website, attempt unauthorized access, copy protected content for commercial republication, or submit false, unlawful or harmful material. Product listings, availability, prices, schedules and service descriptions may change before AFRUS confirms an order or engagement in writing."
+      },
+      "services": {
+        "title": "Services and professional disclaimer",
+        "body": "Website content is general information and does not itself create a contract, guarantee admission, secure a visa, complete a transfer, reserve inventory or constitute legal, tax, financial or immigration advice. Any service is subject to eligibility checks, applicable law, third-party requirements, availability and written confirmation. Final prices, exchange rates, delivery charges and timelines are confirmed directly with the customer."
+      },
+      "rights": {
+        "title": "Intellectual property and external links",
+        "body": "Unless otherwise stated, AFRUS owns or is authorized to use the website design, branding and original content. Names, logos and materials belonging to universities, authorities, partners, payment providers and other third parties remain the property of their respective owners. External links are provided for convenience; AFRUS does not control those websites or their availability, security or privacy practices."
+      }
+    },
+    "contact": {
+      "title": "Questions or privacy requests",
+      "body": "Contact AFRUS to ask about this page, request correction or deletion of information held in an AFRUS inquiry record, or raise a concern about the use of your information. We may need to verify your identity before acting on a request."
+    }
+  },
   "moneyTransferContent": {
     "text_0001": "100000",
     "text_0002": "CROSS-BORDER PAYMENTS",
