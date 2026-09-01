@@ -7,8 +7,13 @@ const requiredFiles = [
   '.deploy/afrus-oauth.service',
   '.deploy/nginx-afrus-http.conf',
   '.deploy/nginx-afrus.conf',
+  '.deploy/nginx-coolify.conf',
   '.github/workflows/deploy-ovh.yml',
-  '.env.ovh.example'
+  '.env.ovh.example',
+  '.dockerignore',
+  'Dockerfile',
+  'docker-compose.yml',
+  'COOLIFY_DEPLOYMENT.md'
 ];
 
 const errors = [];
@@ -66,6 +71,36 @@ if (!/location\s+\/\.well-known\/acme-challenge\//.test(bootstrapNginx)) {
   errors.push('HTTP Nginx bootstrap template is missing the ACME challenge route.');
 }
 
+const dockerfile = fs.readFileSync('Dockerfile', 'utf8');
+for (const [label, pattern] of [
+  ['web image target', /FROM\s+nginx:[^\s]+\s+AS\s+web/i],
+  ['OAuth image target', /FROM\s+node:[^\s]+\s+AS\s+oauth/i],
+  ['production dependency install', /npm\s+ci\s+--omit=dev/]
+]) {
+  if (!pattern.test(dockerfile)) errors.push(`Dockerfile is missing the expected ${label}.`);
+}
+
+const compose = fs.readFileSync('docker-compose.yml', 'utf8');
+if (!/^\s{2}web:\s*$/m.test(compose) || !/^\s{2}oauth:\s*$/m.test(compose)) {
+  errors.push('Docker Compose must define separate web and oauth services.');
+}
+if (!/GITHUB_REPOSITORY:\s*\$\{GITHUB_REPOSITORY:-afrus-c\/Afrus\}/.test(compose)) {
+  errors.push('Docker Compose must default to the afrus-c/Afrus repository.');
+}
+if (/^\s{4}ports:\s*$/m.test(compose)) {
+  errors.push('Docker Compose must not publish container ports directly; Coolify handles public routing.');
+}
+
+const coolifyNginx = fs.readFileSync('.deploy/nginx-coolify.conf', 'utf8');
+if (!/proxy_pass\s+http:\/\/oauth:8787;/.test(coolifyNginx)) {
+  errors.push('Coolify Nginx config must proxy OAuth requests over the private Compose network.');
+}
+
+const oauthServer = fs.readFileSync('server/oauth-server.mjs', 'utf8');
+if (!/process\.env\.OAUTH_HOST/.test(oauthServer) || !/0\.0\.0\.0/.test(oauthServer)) {
+  errors.push('OAuth service must support an explicit container-network bind address.');
+}
+
 const oauthEnvironment = fs.readFileSync('.env.ovh.example', 'utf8');
 for (const name of ['GITHUB_CLIENT_ID', 'GITHUB_CLIENT_SECRET', 'GITHUB_REPOSITORY', 'OAUTH_STATE_SECRET', 'CMS_ORIGIN', 'OAUTH_PORT']) {
   if (!new RegExp(`^${name}=.+$`, 'm').test(oauthEnvironment)) {
@@ -89,5 +124,5 @@ if (errors.length) {
 if (configuredRepository === 'your-github-owner/your-repository') {
   console.log('AFRUS deployment template is ready. Choose a repository with: npm run cms:configure -- owner/repository');
 } else {
-  console.log(`AFRUS deployment configuration is ready for ${configuredRepository} and OVH connection.`);
+  console.log(`AFRUS deployment configuration is ready for ${configuredRepository}, Coolify, and OVH connection.`);
 }

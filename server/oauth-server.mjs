@@ -9,8 +9,10 @@ if (process.env.OAUTH_STATE_SECRET.length < 32) throw new Error('OAUTH_STATE_SEC
 
 const app = express();
 const port = Number(process.env.OAUTH_PORT || 8787);
+const host = process.env.OAUTH_HOST || '127.0.0.1';
 const origin = new URL(process.env.CMS_ORIGIN).origin;
 if (!Number.isInteger(port) || port < 1 || port > 65535) throw new Error('OAUTH_PORT must be a valid TCP port.');
+if (!['127.0.0.1', '0.0.0.0'].includes(host)) throw new Error('OAUTH_HOST must be 127.0.0.1 or 0.0.0.0.');
 if (new URL(process.env.CMS_ORIGIN).protocol !== 'https:' && !/^https?:\/\/(?:localhost|127\.0\.0\.1)(?::\d+)?$/.test(origin)) {
   throw new Error('CMS_ORIGIN must use HTTPS outside local development.');
 }
@@ -125,4 +127,4 @@ app.get('/api/callback', rateLimit, async (request, response) => {
   }
 });
 
-app.listen(port, '127.0.0.1', () => console.log(`AFRUS OAuth service listening on 127.0.0.1:${port}`));
+app.listen(port, host, () => console.log(`AFRUS OAuth service listening on ${host}:${port}`));

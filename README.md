@@ -21,7 +21,9 @@ npm run deploy:check
 
 ## Production
 
-The static Vite build is deployed to OVH. A private Node process handles GitHub OAuth for Decap CMS behind the same HTTPS origin. Follow `OVH_DEPLOYMENT.md`; never commit GitHub client secrets or OAuth state secrets.
+For Coolify, use the included `docker-compose.yml` and follow `COOLIFY_DEPLOYMENT.md`. The Compose deployment serves the static Vite build through Nginx and runs the GitHub OAuth service on a private internal network.
+
+For a manual OVH deployment, follow `OVH_DEPLOYMENT.md`. Never commit GitHub client secrets or OAuth state secrets.
 
 Choose the repository before deployment:
 

@@ -1,0 +1,27 @@
+services:
+  web:
+    build:
+      context: .
+      target: web
+    restart: unless-stopped
+    depends_on:
+      oauth:
+        condition: service_healthy
+    expose:
+      - "80"
+
+  oauth:
+    build:
+      context: .
+      target: oauth
+    restart: unless-stopped
+    environment:
+      GITHUB_CLIENT_ID: ${GITHUB_CLIENT_ID:?Set GITHUB_CLIENT_ID in Coolify}
+      GITHUB_CLIENT_SECRET: ${GITHUB_CLIENT_SECRET:?Set GITHUB_CLIENT_SECRET in Coolify}
+      GITHUB_REPOSITORY: ${GITHUB_REPOSITORY:-afrus-c/Afrus}
+      OAUTH_STATE_SECRET: ${OAUTH_STATE_SECRET:?Set OAUTH_STATE_SECRET in Coolify}
+      CMS_ORIGIN: ${CMS_ORIGIN:?Set CMS_ORIGIN to the public HTTPS origin}
+      OAUTH_HOST: 0.0.0.0
+      OAUTH_PORT: 8787
+    expose:
+      - "8787"

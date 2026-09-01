@@ -1,0 +1,14 @@
+.git
+.github
+.agents
+.codex
+.chrome-*
+node_modules
+dist
+coverage
+*.log
+.env
+.env.*
+!.env.example
+!.env.ovh.example
+legal-page-audit*.png
