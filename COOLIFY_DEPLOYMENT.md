@@ -16,7 +16,7 @@ Do not assign a public domain or host port to the `oauth` service. Nginx forward
 
 ## Required environment variables
 
-Configure these values in Coolify. Mark secrets as protected and never commit their real values:
+Use `.env.coolify.example` as the reference and configure its values in Coolify. Mark secrets as protected and never commit their real values:
 
 ```text
 GITHUB_CLIENT_ID=<GitHub OAuth App client ID>

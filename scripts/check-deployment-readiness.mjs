@@ -10,6 +10,7 @@ const requiredFiles = [
   '.deploy/nginx-coolify.conf',
   '.github/workflows/deploy-ovh.yml',
   '.env.ovh.example',
+  '.env.coolify.example',
   '.dockerignore',
   'Dockerfile',
   'docker-compose.yml',
@@ -89,6 +90,16 @@ if (!/GITHUB_REPOSITORY:\s*\$\{GITHUB_REPOSITORY:-afrus-c\/Afrus\}/.test(compose
 }
 if (/^\s{4}ports:\s*$/m.test(compose)) {
   errors.push('Docker Compose must not publish container ports directly; Coolify handles public routing.');
+}
+
+const coolifyEnvironment = fs.readFileSync('.env.coolify.example', 'utf8');
+for (const name of ['GITHUB_CLIENT_ID', 'GITHUB_CLIENT_SECRET', 'GITHUB_REPOSITORY', 'OAUTH_STATE_SECRET', 'CMS_ORIGIN', 'OAUTH_HOST', 'OAUTH_PORT']) {
+  if (!new RegExp(`^${name}=.+$`, 'm').test(coolifyEnvironment)) {
+    errors.push(`Coolify environment template is missing ${name}.`);
+  }
+}
+if (!/^GITHUB_REPOSITORY=afrus-c\/Afrus$/m.test(coolifyEnvironment)) {
+  errors.push('Coolify environment template must target afrus-c/Afrus.');
 }
 
 const coolifyNginx = fs.readFileSync('.deploy/nginx-coolify.conf', 'utf8');
