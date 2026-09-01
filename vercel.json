@@ -2,13 +2,19 @@
   "redirects": [
     {
       "source": "/admin",
-      "destination": "https://afrusculture-admin.netlify.app/admin/",
+      "destination": "/admin/",
       "permanent": false
-    },
+    }
+  ],
+  "headers": [
     {
-      "source": "/admin/",
-      "destination": "https://afrusculture-admin.netlify.app/admin/",
-      "permanent": false
+      "source": "/admin/(.*)",
+      "headers": [
+        {
+          "key": "Cross-Origin-Opener-Policy",
+          "value": "same-origin-allow-popups"
+        }
+      ]
     }
   ],
   "rewrites": [

@@ -43,7 +43,16 @@ export default async function handler(request, response) {
     }
 
     const message = `authorization:github:success:${JSON.stringify({ token: result.access_token, provider: 'github' })}`;
-    response.status(200).send(`<!doctype html><html><body><script nonce="afrus-oauth">window.opener.postMessage(${JSON.stringify(message)}, ${JSON.stringify(config.origin)});window.close();</script><p>Authentication complete. You may close this window.</p></body></html>`);
+    response.status(200).send(`<!doctype html><html><body><script nonce="afrus-oauth">
+      const message = ${JSON.stringify(message)};
+      if ('BroadcastChannel' in window) {
+        const channel = new BroadcastChannel('afrus-oauth');
+        channel.postMessage(message);
+        channel.close();
+      }
+      if (window.opener) window.opener.postMessage(message, ${JSON.stringify(config.origin)});
+      window.close();
+    </script><p>Authentication complete. You may close this window.</p></body></html>`);
   } catch (error) {
     console.error(error);
     response.status(500).send(errorPage('GitHub authentication failed. Please try again or contact an administrator.'));
