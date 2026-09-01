@@ -4,7 +4,7 @@ The website and `/admin/` are static Vite output. A small OAuth process runs pri
 
 ## GitHub repository configuration
 
-The website repository is `afrus21/Afrus`. If it is ever moved, update Decap with:
+The website repository is `afrus-c/Afrus`. If it is ever moved, update Decap with:
 
 ```bash
 npm run cms:configure -- new-owner/new-repository-name
@@ -32,7 +32,7 @@ Create a GitHub OAuth App under the repository owner's account:
 
 Copy `.env.ovh.example` to a root-owned environment file outside the public website directory. Never commit the real values.
 
-The private OVH environment file must use `GITHUB_REPOSITORY=afrus21/Afrus`, matching Decap. The OAuth service verifies that the authenticated GitHub user has push, maintain, or admin permission before returning a token to Decap.
+The private OVH environment file must use `GITHUB_REPOSITORY=afrus-c/Afrus`, matching Decap. The OAuth service verifies that the authenticated GitHub user has push, maintain, or admin permission before returning a token to Decap.
 
 ## OAuth service
 

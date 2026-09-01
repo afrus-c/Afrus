@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: afrus21/Afrus
+  repo: afrus-c/Afrus
   branch: main
   base_url: https://www.afrusculture.ru
   auth_endpoint: api/auth
