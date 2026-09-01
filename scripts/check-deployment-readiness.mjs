@@ -109,8 +109,8 @@ if (!/proxy_pass\s+http:\/\/oauth:8787;/.test(coolifyNginx)) {
 if (!/return\s+301\s+https:\/\/www\.afrusculture\.ru\$request_uri;/.test(coolifyNginx)) {
   errors.push('Coolify Nginx config must redirect the bare domain to the canonical www OAuth origin.');
 }
-if (!/Cross-Origin-Opener-Policy\s+"same-origin-allow-popups"/.test(coolifyNginx)) {
-  errors.push('Coolify Nginx config must preserve the OAuth popup connection to the admin portal.');
+if (!/location\s+\^~\s+\/admin\/\s*\{[\s\S]*?Cross-Origin-Opener-Policy\s+"same-origin-allow-popups"[\s\S]*?\}/.test(coolifyNginx)) {
+  errors.push('Coolify admin location must preserve the OAuth popup connection to the portal.');
 }
 
 const oauthServer = fs.readFileSync('server/oauth-server.mjs', 'utf8');
