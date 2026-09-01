@@ -8,7 +8,7 @@ This repository includes a Docker Compose deployment with two services:
 ## Create the Coolify resource
 
 1. In Coolify, create a resource from the GitHub repository `afrus-c/Afrus`.
-2. Select Docker Compose as the build pack and use `docker-compose.yml` from the repository root.
+2. Select Docker Compose as the build pack and use `docker-compose.yaml` from the repository root.
 3. Assign the production domain to the `web` service on container port `80`.
 4. Enable HTTPS in Coolify.
 

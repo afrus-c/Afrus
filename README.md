@@ -21,7 +21,7 @@ npm run deploy:check
 
 ## Production
 
-For Coolify, use the included `docker-compose.yml` and follow `COOLIFY_DEPLOYMENT.md`. The Compose deployment serves the static Vite build through Nginx and runs the GitHub OAuth service on a private internal network.
+For Coolify, use the included `docker-compose.yaml` and follow `COOLIFY_DEPLOYMENT.md`. The Compose deployment serves the static Vite build through Nginx and runs the GitHub OAuth service on a private internal network.
 
 For a manual OVH deployment, follow `OVH_DEPLOYMENT.md`. Never commit GitHub client secrets or OAuth state secrets.
 

@@ -13,7 +13,7 @@ const requiredFiles = [
   '.env.coolify.example',
   '.dockerignore',
   'Dockerfile',
-  'docker-compose.yml',
+  'docker-compose.yaml',
   'COOLIFY_DEPLOYMENT.md'
 ];
 
@@ -81,7 +81,7 @@ for (const [label, pattern] of [
   if (!pattern.test(dockerfile)) errors.push(`Dockerfile is missing the expected ${label}.`);
 }
 
-const compose = fs.readFileSync('docker-compose.yml', 'utf8');
+const compose = fs.readFileSync('docker-compose.yaml', 'utf8');
 if (!/^\s{2}web:\s*$/m.test(compose) || !/^\s{2}oauth:\s*$/m.test(compose)) {
   errors.push('Docker Compose must define separate web and oauth services.');
 }
@@ -105,6 +105,12 @@ if (!/^GITHUB_REPOSITORY=afrus-c\/Afrus$/m.test(coolifyEnvironment)) {
 const coolifyNginx = fs.readFileSync('.deploy/nginx-coolify.conf', 'utf8');
 if (!/proxy_pass\s+http:\/\/oauth:8787;/.test(coolifyNginx)) {
   errors.push('Coolify Nginx config must proxy OAuth requests over the private Compose network.');
+}
+if (!/return\s+301\s+https:\/\/www\.afrusculture\.ru\$request_uri;/.test(coolifyNginx)) {
+  errors.push('Coolify Nginx config must redirect the bare domain to the canonical www OAuth origin.');
+}
+if (!/Cross-Origin-Opener-Policy\s+"same-origin-allow-popups"/.test(coolifyNginx)) {
+  errors.push('Coolify Nginx config must preserve the OAuth popup connection to the admin portal.');
 }
 
 const oauthServer = fs.readFileSync('server/oauth-server.mjs', 'utf8');
