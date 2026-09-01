@@ -131,7 +131,13 @@ app.get('/api/callback', rateLimit, async (request, response) => {
 
     const message = `authorization:github:success:${JSON.stringify({ token: result.access_token, provider: 'github' })}`;
     response.type('html').send(`<!doctype html><html><body><script nonce="afrus-oauth">
-      window.opener.postMessage(${JSON.stringify(message)}, ${JSON.stringify(origin)});
+      const message = ${JSON.stringify(message)};
+      if ('BroadcastChannel' in window) {
+        const channel = new BroadcastChannel('afrus-oauth');
+        channel.postMessage(message);
+        channel.close();
+      }
+      if (window.opener) window.opener.postMessage(message, ${JSON.stringify(origin)});
       window.close();
     </script><p>Authentication complete. You may close this window.</p></body></html>`);
   } catch (error) {

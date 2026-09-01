@@ -3,6 +3,7 @@ import fs from 'node:fs';
 const requiredFiles = [
   'public/admin/index.html',
   'public/admin/config.yml',
+  'public/admin/admin-oauth-bridge.js',
   'server/oauth-server.mjs',
   '.deploy/afrus-oauth.service',
   '.deploy/nginx-afrus-http.conf',
@@ -119,6 +120,14 @@ if (!/process\.env\.OAUTH_HOST/.test(oauthServer) || !/0\.0\.0\.0/.test(oauthSer
 }
 if (!/authorizing:github/.test(oauthServer) || !/window\.opener\.postMessage\(handshake, targetOrigin\)/.test(oauthServer)) {
   errors.push('OAuth service must perform the Decap popup handshake before redirecting to GitHub.');
+}
+if (!/BroadcastChannel\('afrus-oauth'\)/.test(oauthServer)) {
+  errors.push('OAuth callback must support returning credentials when the browser severs window.opener.');
+}
+
+const oauthBridge = fs.readFileSync('public/admin/admin-oauth-bridge.js', 'utf8');
+if (!/BroadcastChannel\('afrus-oauth'\)/.test(oauthBridge) || !/window\.postMessage\(event\.data, window\.location\.origin\)/.test(oauthBridge)) {
+  errors.push('Admin portal must relay the same-origin OAuth fallback to Decap.');
 }
 
 const oauthEnvironment = fs.readFileSync('.env.ovh.example', 'utf8');
