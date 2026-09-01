@@ -21,6 +21,25 @@ const adminIndexRedirect = () => ({
 export default defineConfig(() => {
   return {
     plugins: [adminIndexRedirect(), react(), tailwindcss()],
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks(id) {
+            const moduleId = id.replace(/\\/g, '/');
+            if (moduleId.includes('/src/i18n/locales/') || moduleId.includes('/src/content/translations/') || moduleId.endsWith('/src/content/inline-translations.json')) {
+              return 'translations';
+            }
+            if (!moduleId.includes('/node_modules/')) return undefined;
+            if (moduleId.includes('/motion/')) return 'motion';
+            if (moduleId.includes('/swiper/')) return 'swiper';
+            if (moduleId.includes('/lucide-react/')) return 'icons';
+            if (moduleId.includes('/i18next/') || moduleId.includes('/react-i18next/')) return 'i18n';
+            if (moduleId.includes('/react/') || moduleId.includes('/react-dom/') || moduleId.includes('/react-router')) return 'react';
+            return undefined;
+          }
+        }
+      }
+    },
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { lazy, Suspense, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { LanguageProvider } from './context/LanguageContext';
 import { CartProvider } from './context/CartContext';
@@ -7,32 +7,39 @@ import { ScrollToTop } from './components/ScrollToTop';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { FloatingContactWidget } from './components/FloatingContactWidget';
-import { Home } from './pages/Home';
-import { About } from './pages/About';
-import { Trade } from './pages/Trade';
-import { ExportImport } from './pages/ExportImport';
-import { BusinessInRussia } from './pages/BusinessInRussia';
-import { BusinessInAfrica } from './pages/BusinessInAfrica';
-import { StudyInRussia } from './pages/StudyInRussia';
-import { LearnEnglish } from './pages/LearnEnglish';
-import { LearnFrench } from './pages/LearnFrench';
-import { MoneyTransfer } from './pages/MoneyTransfer';
-import { Concierge } from './pages/Concierge';
-import { Store } from './pages/Store';
-import { ProductDetails } from './pages/ProductDetails';
-import { Checkout } from './pages/Checkout';
-import { Events } from './pages/Events';
-import { Festivals } from './pages/Festivals';
-import { Forum } from './pages/Forum';
-import { News } from './pages/News';
-import { Contact } from './pages/Contact';
-import { Legal } from './pages/Legal';
 import { NewsReaderModal } from './components/modals/NewsReaderModal';
 
 import { NewsItem } from './types';
 
 import { WHATSAPP_CONFIG, openWhatsAppConsultation, getWhatsAppMessageForSubject } from './data/content';
 import { SeoDefaults } from './components/SeoDefaults';
+
+const Home = lazy(() => import('./pages/Home').then((module) => ({ default: module.Home })));
+const About = lazy(() => import('./pages/About').then((module) => ({ default: module.About })));
+const Trade = lazy(() => import('./pages/Trade').then((module) => ({ default: module.Trade })));
+const ExportImport = lazy(() => import('./pages/ExportImport').then((module) => ({ default: module.ExportImport })));
+const BusinessInRussia = lazy(() => import('./pages/BusinessInRussia').then((module) => ({ default: module.BusinessInRussia })));
+const BusinessInAfrica = lazy(() => import('./pages/BusinessInAfrica').then((module) => ({ default: module.BusinessInAfrica })));
+const StudyInRussia = lazy(() => import('./pages/StudyInRussia').then((module) => ({ default: module.StudyInRussia })));
+const LearnEnglish = lazy(() => import('./pages/LearnEnglish').then((module) => ({ default: module.LearnEnglish })));
+const LearnFrench = lazy(() => import('./pages/LearnFrench').then((module) => ({ default: module.LearnFrench })));
+const MoneyTransfer = lazy(() => import('./pages/MoneyTransfer').then((module) => ({ default: module.MoneyTransfer })));
+const Concierge = lazy(() => import('./pages/Concierge').then((module) => ({ default: module.Concierge })));
+const Store = lazy(() => import('./pages/Store').then((module) => ({ default: module.Store })));
+const ProductDetails = lazy(() => import('./pages/ProductDetails').then((module) => ({ default: module.ProductDetails })));
+const Checkout = lazy(() => import('./pages/Checkout').then((module) => ({ default: module.Checkout })));
+const Events = lazy(() => import('./pages/Events').then((module) => ({ default: module.Events })));
+const Festivals = lazy(() => import('./pages/Festivals').then((module) => ({ default: module.Festivals })));
+const Forum = lazy(() => import('./pages/Forum').then((module) => ({ default: module.Forum })));
+const News = lazy(() => import('./pages/News').then((module) => ({ default: module.News })));
+const Contact = lazy(() => import('./pages/Contact').then((module) => ({ default: module.Contact })));
+const Legal = lazy(() => import('./pages/Legal').then((module) => ({ default: module.Legal })));
+
+const PageLoading = () => (
+  <div className="min-h-[60vh] bg-slate-950 flex items-center justify-center" aria-hidden="true">
+    <div className="h-10 w-10 rounded-full border-2 border-slate-700 border-t-amber-400 animate-spin" />
+  </div>
+);
 
 export default function App() {
   const [selectedNews, setSelectedNews] = useState<NewsItem | null>(null);
@@ -52,6 +59,7 @@ export default function App() {
           <div>
             <Navbar onOpenInquiry={handleOpenInquiry} />
             <main>
+              <Suspense fallback={<PageLoading />}>
               <Routes>
                 <Route
                   path="/"
@@ -145,6 +153,7 @@ export default function App() {
                   element={<Navigate to="/" replace />}
                 />
               </Routes>
+              </Suspense>
             </main>
           </div>
           <Footer />
