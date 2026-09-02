@@ -221,7 +221,14 @@
 
   function placeInNavbar(switcher) {
     var navbar = document.querySelector('[class*="AppHeader"]');
-    if (!navbar) return;
+    if (!navbar) {
+      var authenticationPage = document.querySelector('[class*="StyledAuthenticationPage"]');
+      var loginButton = authenticationPage && authenticationPage.querySelector('button');
+      if (loginButton && switcher.previousElementSibling !== loginButton) {
+        loginButton.insertAdjacentElement('afterend', switcher);
+      }
+      return;
+    }
 
     var quickAddLabels = ['quick add', 'ajout rapide', 'быстрое добавление'];
     var walker = document.createTreeWalker(navbar, NodeFilter.SHOW_TEXT);
