@@ -6,25 +6,26 @@ const rateBuckets = new Map();
 export const configuration = () => {
   const missing = required.filter((name) => !process.env[name]);
   if (missing.length) throw new Error(`Missing required environment variables: ${missing.join(', ')}`);
-  if (!/^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(process.env.GITHUB_REPOSITORY)) {
+  const values = Object.fromEntries(required.map((name) => [name, process.env[name].trim()]));
+  if (!/^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(values.GITHUB_REPOSITORY)) {
     throw new Error('GITHUB_REPOSITORY must use owner/repository format.');
   }
-  if (process.env.OAUTH_STATE_SECRET.length < 32) {
+  if (values.OAUTH_STATE_SECRET.length < 32) {
     throw new Error('OAUTH_STATE_SECRET must contain at least 32 characters.');
   }
 
-  const origin = new URL(process.env.CMS_ORIGIN).origin;
-  if (new URL(process.env.CMS_ORIGIN).protocol !== 'https:') {
+  const origin = new URL(values.CMS_ORIGIN).origin;
+  if (new URL(values.CMS_ORIGIN).protocol !== 'https:') {
     throw new Error('CMS_ORIGIN must use HTTPS.');
   }
 
   return {
     callbackUrl: `${origin}/api/callback`,
-    clientId: process.env.GITHUB_CLIENT_ID,
-    clientSecret: process.env.GITHUB_CLIENT_SECRET,
+    clientId: values.GITHUB_CLIENT_ID,
+    clientSecret: values.GITHUB_CLIENT_SECRET,
     origin,
-    repository: process.env.GITHUB_REPOSITORY,
-    stateSecret: process.env.OAUTH_STATE_SECRET
+    repository: values.GITHUB_REPOSITORY,
+    stateSecret: values.OAUTH_STATE_SECRET
   };
 };
 
