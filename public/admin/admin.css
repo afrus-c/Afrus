@@ -91,7 +91,7 @@ body {
 }
 
 /* Decap retains these component names in its generated Emotion classes. */
-body > div:not(.admin-loader):not(.admin-error) {
+body > #nc-root {
   min-height: 100vh;
 }
 
