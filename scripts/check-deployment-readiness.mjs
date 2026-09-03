@@ -27,7 +27,7 @@ const config = fs.readFileSync('public/admin/config.yml', 'utf8');
 const expectedConfig = [
   ['GitHub repository', /^\s*repo:\s*[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+\s*$/m],
   ['main branch', /^\s*branch:\s*main\s*$/m],
-  ['production OAuth origin', /^\s*base_url:\s*https:\/\/www\.afrusculture\.ru\s*$/m],
+  ['production OAuth origin', /^\s*base_url:\s*https:\/\/www\.afrusculture\.com\s*$/m],
   ['OAuth endpoint', /^\s*auth_endpoint:\s*api\/auth\s*$/m],
   ['editorial workflow', /^\s*publish_mode:\s*editorial_workflow\s*$/m],
   ['uploads folder', /^\s*media_folder:\s*public\/uploads\s*$/m]

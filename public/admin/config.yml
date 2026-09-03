@@ -2,7 +2,7 @@ backend:
   name: github
   repo: afrus-c/Afrus
   branch: main
-  base_url: https://www.afrusculture.ru
+  base_url: https://www.afrusculture.com
   auth_endpoint: api/auth
   auth_scope: repo
   use_graphql: true
