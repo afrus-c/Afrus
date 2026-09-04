@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "oauth:start": "node server/oauth-server.mjs",
+    "lws:start": "node server/lws-app.mjs",
     "oauth:health": "node scripts/check-oauth-health.mjs",
     "cms:configure": "node scripts/configure-cms-repository.mjs",
     "deploy:check": "node scripts/check-deployment-readiness.mjs",
