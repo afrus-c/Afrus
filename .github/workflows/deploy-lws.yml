@@ -32,6 +32,8 @@ jobs:
           cp -R dist lws-release/dist
           cp -R server lws-release/server
           cp package.json package-lock.json lws-release/
+          mkdir -p lws-release/tmp
+          printf '%s\n' "$GITHUB_SHA" > lws-release/tmp/restart.txt
 
       - name: Upload application to LWS
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
