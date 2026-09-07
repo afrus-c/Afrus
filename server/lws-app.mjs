@@ -28,6 +28,10 @@ const distDirectory = path.resolve(path.dirname(fileURLToPath(import.meta.url)),
 
 app.disable('x-powered-by');
 app.set('trust proxy', 1);
+app.use((_request, response, next) => {
+  response.setHeader('Cross-Origin-Opener-Policy', 'same-origin-allow-popups');
+  next();
+});
 
 const sign = (value) => crypto.createHmac('sha256', values.OAUTH_STATE_SECRET).update(value).digest('base64url');
 
@@ -109,7 +113,7 @@ app.get('/api/auth', rateLimit, (_request, response) => {
     const handshake = ${JSON.stringify(handshake)};
     const authorizeUrl = ${JSON.stringify(authorize.toString())};
     if (!window.opener) {
-      document.body.textContent = 'Return to the AFRUS admin portal and start the GitHub login again.';
+      window.location.assign(authorizeUrl);
     } else {
       window.addEventListener('message', (event) => {
         if (event.origin === targetOrigin && event.data === handshake) window.location.assign(authorizeUrl);
@@ -154,6 +158,8 @@ app.get('/api/callback', rateLimit, async (request, response) => {
         channel.postMessage(message);
         channel.close();
       }
+      localStorage.setItem('afrus-oauth-message', message);
+      localStorage.removeItem('afrus-oauth-message');
       if (window.opener) window.opener.postMessage(message, ${JSON.stringify(origin)});
       window.close();
     </script><p>Authentication complete. You may close this window.</p></body></html>`);

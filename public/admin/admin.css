@@ -223,6 +223,18 @@ button[class*="PublishButton"]:hover {
   color: #0f172a !important;
 }
 
+/* Keep the first character of selected CMS values from being clipped. */
+[class*="ControlContainer"] [class*="ValueContainer"] {
+  padding-left: 1rem !important;
+  overflow: visible !important;
+}
+
+[class*="ControlContainer"] [class*="SingleValue"] {
+  margin-left: 0 !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+}
+
 [class*="ControlContainer"] input:focus,
 [class*="ControlContainer"] textarea:focus,
 [class*="ControlContainer"] select:focus {
@@ -285,9 +297,24 @@ button[class*="PublishButton"]:hover {
 
 [class*="DropdownList"],
 [class*="MenuList"] {
+  min-width: 280px !important;
+  width: max-content !important;
+  max-width: min(380px, calc(100vw - 24px)) !important;
   border-radius: 9px !important;
   border: 1px solid #dbe3ee !important;
   box-shadow: 0 16px 38px rgba(15, 23, 42, 0.16) !important;
+}
+
+[class*="DropdownList"] a,
+[class*="DropdownList"] button,
+[class*="DropdownList"] [class*="MenuItem"],
+[class*="MenuList"] a,
+[class*="MenuList"] button,
+[class*="MenuList"] [class*="MenuItem"] {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  line-height: 1.35 !important;
 }
 
 [class*="MenuItem"]:hover,

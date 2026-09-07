@@ -1,0 +1,47 @@
+name: Build and deploy to LWS
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: afrus-lws-production
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build
+
+      - name: Prepare LWS application package
+        run: |
+          mkdir -p lws-release
+          cp -R dist lws-release/dist
+          cp -R server lws-release/server
+          cp package.json package-lock.json lws-release/
+
+      - name: Upload application to LWS
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.LWS_FTP_SERVER }}
+          username: ${{ secrets.LWS_FTP_USERNAME }}
+          password: ${{ secrets.LWS_FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./lws-release/
+          server-dir: public_html/afrusculture.ru/
+          state-name: .afrus-lws-deploy-state.json
+          dangerous-clean-slate: false
