@@ -166,15 +166,20 @@ app.get('/api/callback', rateLimit, async (request, response) => {
     const message = `authorization:github:success:${JSON.stringify({ token: result.access_token, provider: 'github' })}`;
     response.type('html').send(`<!doctype html><html><body><script nonce="afrus-oauth">
       const message = ${JSON.stringify(message)};
+      localStorage.setItem('afrus-oauth-message', message);
       if ('BroadcastChannel' in window) {
         const channel = new BroadcastChannel('afrus-oauth');
         channel.postMessage(message);
-        channel.close();
+        window.setTimeout(() => {
+          channel.postMessage(message);
+          channel.close();
+        }, 500);
       }
-      localStorage.setItem('afrus-oauth-message', message);
-      localStorage.removeItem('afrus-oauth-message');
       if (window.opener) window.opener.postMessage(message, ${JSON.stringify(origin)});
-      window.close();
+      window.setTimeout(() => {
+        if (window.opener) window.opener.postMessage(message, ${JSON.stringify(origin)});
+        window.close();
+      }, 900);
     </script><p>Authentication complete. You may close this window.</p></body></html>`);
   } catch (error) {
     console.error(error);
