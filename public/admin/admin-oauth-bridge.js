@@ -1,8 +1,32 @@
 (function () {
+  var fallbackScheduled = false;
+
+  var persistSessionFallback = function (message) {
+    if (fallbackScheduled || !message.startsWith('authorization:github:success:')) return;
+    var marker = 'authorization:github:success:';
+    try {
+      var credentials = JSON.parse(message.slice(marker.length));
+      if (!credentials.token) return;
+      fallbackScheduled = true;
+      window.setTimeout(function () {
+        localStorage.setItem('decap-cms-user', JSON.stringify({
+          token: credentials.token,
+          provider: 'github',
+          backendName: 'github'
+        }));
+        localStorage.removeItem('afrus-oauth-message');
+        window.location.replace('/admin/');
+      }, 1200);
+    } catch (_error) {
+      // Let Decap's standard OAuth handler display malformed-response errors.
+    }
+  };
+
   var relay = function (message) {
     if (typeof message !== 'string') return;
     if (!message.startsWith('authorization:github:')) return;
     window.postMessage(message, window.location.origin);
+    persistSessionFallback(message);
   };
 
   var relayPending = function () {
