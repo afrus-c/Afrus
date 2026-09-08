@@ -113,9 +113,26 @@ app.get('/api/auth', rateLimit, (_request, response) => {
   authorize.searchParams.set('redirect_uri', callbackUrl);
   authorize.searchParams.set('scope', 'repo');
   authorize.searchParams.set('state', createState());
+  const handshake = 'authorizing:github';
   response.type('html').send(`<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>AFRUS GitHub Login</title></head><body><script nonce="afrus-oauth">
+    const targetOrigin = ${JSON.stringify(origin)};
+    const handshake = ${JSON.stringify(handshake)};
     const authorizeUrl = ${JSON.stringify(authorize.toString())};
-    window.location.replace(authorizeUrl);
+    let redirected = false;
+    const continueToGitHub = () => {
+      if (redirected) return;
+      redirected = true;
+      window.location.replace(authorizeUrl);
+    };
+    if (window.opener) {
+      window.addEventListener('message', (event) => {
+        if (event.origin === targetOrigin && event.data === handshake) continueToGitHub();
+      });
+      window.opener.postMessage(handshake, targetOrigin);
+      window.setTimeout(continueToGitHub, 1200);
+    } else {
+      continueToGitHub();
+    }
   </script><p>Connecting to GitHub...</p></body></html>`);
 });
 
