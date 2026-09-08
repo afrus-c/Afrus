@@ -15,8 +15,9 @@ if (values.OAUTH_STATE_SECRET.length < 32) {
   throw new Error('OAUTH_STATE_SECRET must contain at least 32 characters.');
 }
 
-const origin = new URL(values.CMS_ORIGIN).origin;
-if (new URL(values.CMS_ORIGIN).protocol !== 'https:') {
+const cmsUrl = new URL(values.CMS_ORIGIN);
+const origin = cmsUrl.origin;
+if (cmsUrl.protocol !== 'https:') {
   throw new Error('CMS_ORIGIN must use HTTPS.');
 }
 
@@ -28,6 +29,12 @@ const distDirectory = path.resolve(path.dirname(fileURLToPath(import.meta.url)),
 
 app.disable('x-powered-by');
 app.set('trust proxy', 1);
+app.use((request, response, next) => {
+  if (request.hostname.toLowerCase() !== cmsUrl.hostname.toLowerCase()) {
+    return response.redirect(308, `${origin}${request.originalUrl}`);
+  }
+  next();
+});
 app.use((_request, response, next) => {
   response.setHeader('Cross-Origin-Opener-Policy', 'same-origin-allow-popups');
   next();
