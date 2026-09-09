@@ -17,13 +17,20 @@ export default function handler(request, response) {
       const targetOrigin = ${JSON.stringify(config.origin)};
       const handshake = ${JSON.stringify(handshake)};
       const authorizeUrl = ${JSON.stringify(authorize.toString())};
+      let redirected = false;
+      const continueToGitHub = () => {
+        if (redirected) return;
+        redirected = true;
+        window.location.replace(authorizeUrl);
+      };
       if (!window.opener) {
         document.body.textContent = 'Return to the AFRUS admin portal and start the GitHub login again.';
       } else {
         window.addEventListener('message', (event) => {
-          if (event.origin === targetOrigin && event.data === handshake) window.location.assign(authorizeUrl);
+          if (event.origin === targetOrigin && event.data === handshake) continueToGitHub();
         });
         window.opener.postMessage(handshake, targetOrigin);
+        window.setTimeout(continueToGitHub, 1200);
       }
     </script><p>Connecting to GitHub...</p></body></html>`);
   } catch (error) {

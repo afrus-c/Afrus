@@ -45,13 +45,21 @@ export default async function handler(request, response) {
     const message = `authorization:github:success:${JSON.stringify({ token: result.access_token, provider: 'github' })}`;
     response.status(200).send(`<!doctype html><html><body><script nonce="afrus-oauth">
       const message = ${JSON.stringify(message)};
+      const targetOrigin = ${JSON.stringify(config.origin)};
+      localStorage.setItem('afrus-oauth-message', message);
       if ('BroadcastChannel' in window) {
         const channel = new BroadcastChannel('afrus-oauth');
         channel.postMessage(message);
-        channel.close();
+        window.setTimeout(() => {
+          channel.postMessage(message);
+          channel.close();
+        }, 500);
       }
-      if (window.opener) window.opener.postMessage(message, ${JSON.stringify(config.origin)});
-      window.close();
+      if (window.opener) {
+        window.opener.postMessage(message, targetOrigin);
+        window.setTimeout(() => window.opener.postMessage(message, targetOrigin), 500);
+      }
+      window.setTimeout(() => window.close(), 900);
     </script><p>Authentication complete. You may close this window.</p></body></html>`);
   } catch (error) {
     console.error(error);

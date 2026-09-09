@@ -2,7 +2,7 @@ backend:
   name: github
   repo: afrus-c/Afrus
   branch: main
-  base_url: https://www.afrusculture.ru
+  base_url: https://afrus-psi.vercel.app
   auth_endpoint: api/auth
   auth_scope: repo
   use_graphql: true
@@ -15,6 +15,8 @@ backend:
     deleteMedia: 'content: delete media {{path}}'
 
 logo_url: /afrus-logo-transparent-v3.png
+site_url: https://www.afrusculture.ru
+display_url: https://www.afrusculture.ru
 locale: fr
 show_preview_links: true
 
