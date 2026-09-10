@@ -552,6 +552,7 @@ collections:
                   - { label: Profile URL, name: url, widget: string }
               - { label: Facebook URL, name: facebookUrl, widget: string }
               - { label: Instagram URL, name: instagramUrl, widget: string }
+              - { label: YouTube URL, name: youtubeUrl, widget: string }
           - label: Offices
             name: offices
             widget: list

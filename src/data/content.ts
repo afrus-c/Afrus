@@ -28,5 +28,6 @@ export const CONTACT_INFO = {
   telegramUrl: siteSettings.contact.telegram.url,
   facebookUrl: siteSettings.contact.facebookUrl,
   instagramUrl: siteSettings.contact.instagramUrl,
+  youtubeUrl: siteSettings.contact.youtubeUrl,
   offices: siteSettings.offices
 };

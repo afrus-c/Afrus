@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Mail, Phone, MessageCircle, Send, Facebook, Instagram, ShieldCheck } from 'lucide-react';
+import { Mail, Phone, MessageCircle, Send, Facebook, Instagram, Youtube, ShieldCheck } from 'lucide-react';
 import { CONTACT_INFO } from '../data/content';
 import { useLanguage } from '../context/LanguageContext';
 import siteSettings from '../content/site-settings.json';
@@ -48,6 +48,17 @@ export const Footer: React.FC = () => {
                 id="footer-ig-link"
               >
                 <Instagram className="w-4 h-4" />
+              </a>
+              <a
+                href={CONTACT_INFO.youtubeUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-9 h-9 rounded-xl bg-slate-900 border border-slate-800 hover:border-red-500 hover:bg-red-600 hover:text-white text-slate-300 flex items-center justify-center transition-colors shadow-md"
+                title="AFRUS YouTube"
+                aria-label="AFRUS YouTube"
+                id="footer-youtube-link"
+              >
+                <Youtube className="w-4 h-4" />
               </a>
               <a
                 href={CONTACT_INFO.telegramUrl}
