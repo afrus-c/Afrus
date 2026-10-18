@@ -12,9 +12,9 @@ Add these Actions repository secrets:
 
 Add this Actions repository variable:
 
-- `SPACEWEB_SERVER_DIR`: the FTP path for the document root serving `www.afrusculture.ru`, ending in `/` (for example, `public_html/` if that is the path shown by SpaceWeb)
+- `SPACEWEB_SERVER_DIR`: the destination path relative to the FTP account's assigned folder, ending in `/`. The FTP account shown in the SpaceWeb panel is assigned to `/home/a/afrusssglob/`, and the site's document root is its `public_html` subfolder, so use `public_html/`.
 
-The `Build and deploy to SpaceWeb` workflow deploys the built `dist/` directory on every push to `main`. It can also be started manually in GitHub Actions. It does not delete unrelated files on the server. Verify the remote path before the first deployment so it points at the correct domain's document root.
+The `Build and deploy to SpaceWeb` workflow uses standard FTP on port 21 and deploys the built `dist/` directory on every push to `main`. It can also be started manually in GitHub Actions. It does not delete unrelated files on the server. Verify the remote path before the first deployment so it points at the correct domain's document root.
 
 ## Domain and HTTPS
 
