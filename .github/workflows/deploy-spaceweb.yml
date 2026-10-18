@@ -1,0 +1,40 @@
+name: Build and deploy to SpaceWeb
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: afrus-spaceweb-production
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build
+
+      - name: Upload static site to SpaceWeb
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.SPACEWEB_FTP_SERVER }}
+          username: ${{ secrets.SPACEWEB_FTP_USERNAME }}
+          password: ${{ secrets.SPACEWEB_FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./dist/
+          server-dir: ${{ vars.SPACEWEB_SERVER_DIR }}
+          state-name: .afrus-spaceweb-deploy-state.json
+          dangerous-clean-slate: false
