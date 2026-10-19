@@ -2,6 +2,7 @@ import crypto from 'node:crypto';
 
 const required = ['GITHUB_CLIENT_ID', 'GITHUB_CLIENT_SECRET', 'GITHUB_REPOSITORY', 'OAUTH_STATE_SECRET', 'CMS_ORIGIN'];
 const rateBuckets = new Map();
+const callbackUrl = 'https://afrus-psi.vercel.app/api/callback';
 
 export const configuration = () => {
   const missing = required.filter((name) => !process.env[name]);
@@ -20,7 +21,8 @@ export const configuration = () => {
   }
 
   return {
-    callbackUrl: `${origin}/api/callback`,
+    // The OAuth callback runs on Vercel; CMS_ORIGIN is the SpaceWeb admin site.
+    callbackUrl,
     clientId: values.GITHUB_CLIENT_ID,
     clientSecret: values.GITHUB_CLIENT_SECRET,
     origin,
