@@ -8,7 +8,7 @@
   "origin": "Cameroon",
   "inStock": true,
   "inventoryCount": 11,
-  "priceRub": 1039.55,
+  "priceRub": 555,
   "titleI18n": {
     "en": "Fufu",
     "fr": "Foufou",
@@ -27,7 +27,7 @@
   "image": "/uploads/store/fufu-product.png",
   "description": "",
   "rating": 5,
-  "priceUsd": 12.25,
+  "priceUsd": 15,
   "category": "",
   "subcategory": ""
 }
