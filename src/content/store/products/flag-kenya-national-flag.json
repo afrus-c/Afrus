@@ -1,34 +1,34 @@
 {
-    "id":  "flag-kenya-national-flag",
-    "title":  "Kenya National Flag",
-    "category":  "Flags",
-    "subcategory":  "African Country Flags",
-    "priceUsd": 22,
-    "priceRub": 2024,
-    "origin":  "Nairobi, Kenya",
-    "description":  "A high-quality national flag representing Kenya, suitable for cultural celebrations, educational displays, events, offices, and decorative use.",
-    "image":  "/flags/kenya.svg",
-    "inStock":  true,
-    "availabilityStatus":  "In Stock",
-    "rating":  4.9,
-    "badge":  "National Flag",
-    "brand":  "AFRUS Diplomatic Flags",
-    "inventoryCount":  45,
-    "titleI18n":  {
-                      "en":  "Kenya National Flag",
-                      "fr":  "Drapeau National du Kenya",
-                      "ru":  "Флаг Кении Государственный"
-                  },
-    "descriptionI18n":  {
-                            "en":  "A high-quality national flag representing Kenya, suitable for cultural celebrations, educational displays, events, offices, and decorative use.",
-                            "fr":  "Drapeau national officiel du Kenya arborant le bouclier et les lances Masaï.",
-                            "ru":  "Официальный флаг Кении со щитом и копьями Масаи."
-                        },
-    "categoryId":  "flags",
-    "subcategoryId":  "flags--african-country-flags",
-    "badgeI18n":  {
-                      "ru":  "Национальный флаг",
-                      "en":  "National Flag",
-                      "fr":  "Drapeau national"
-                  }
+  "badgeI18n": {
+    "ru": "Национальный флаг",
+    "en": "National Flag",
+    "fr": "Drapeau national"
+  },
+  "badge": "National Flag",
+  "origin": "Nairobi, Kenya",
+  "brand": "AFRUS Diplomatic Flags",
+  "availabilityStatus": "In Stock",
+  "inStock": true,
+  "inventoryCount": 45,
+  "priceRub": 2024,
+  "titleI18n": {
+    "en": "Kenya National Flag",
+    "fr": "Drapeau National du Kenya",
+    "ru": "Флаг Кении Государственный"
+  },
+  "title": "Kenya National Flag",
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "en": "A high-quality national flag representing Kenya, suitable for cultural celebrations, educational displays, events, offices, and decorative use.",
+    "fr": "Drapeau national officiel du Kenya arborant le bouclier et les lances Masaï.",
+    "ru": "Официальный флаг Кении со щитом и копьями Масаи."
+  },
+  "id": "flag-kenya-national-flag",
+  "image": "/uploads/copy_6788de36-671a-49c5-9916-8ca664694e04.jpeg",
+  "description": "A high-quality national flag representing Kenya, suitable for cultural celebrations, educational displays, events, offices, and decorative use.",
+  "rating": 4.9,
+  "priceUsd": 22,
+  "category": "Flags",
+  "subcategory": "African Country Flags"
 }
