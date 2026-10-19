@@ -55,7 +55,9 @@ export const validState = (state = '', secret) => {
 export const secure = (response) => {
   response.setHeader('Cache-Control', 'no-store');
   response.setHeader('Content-Security-Policy', "default-src 'none'; script-src 'nonce-afrus-oauth'; style-src 'unsafe-inline'; base-uri 'none'; frame-ancestors 'none'");
-  response.setHeader('Cross-Origin-Opener-Policy', 'same-origin-allow-popups');
+  // The CMS page uses same-origin-allow-popups. The OAuth popup is cross-origin,
+  // so it must keep COOP at the default unsafe-none to retain window.opener.
+  response.setHeader('Cross-Origin-Opener-Policy', 'unsafe-none');
   response.setHeader('Referrer-Policy', 'no-referrer');
   response.setHeader('X-Content-Type-Options', 'nosniff');
   response.setHeader('X-Frame-Options', 'DENY');
