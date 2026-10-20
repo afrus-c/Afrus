@@ -1,0 +1,32 @@
+{
+  "isNewArrival": true,
+  "origin": "MALI",
+  "availableSizes": [
+    "XXL"
+  ],
+  "availabilityStatus": "100",
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU MALI",
+    "en": "MALI FLAG",
+    "ru": "ФЛАГ МАЛИ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le drapeau national du Mali est un tricolore vertical composé des couleurs panafricaines : vert, jaune (or) et rouge",
+    "en": "The national flag of Mali is a vertical tricolor composed of the Pan-African colors: green, yellow (gold), and red.",
+    "ru": "Государственный флаг Мали представляет собой вертикальный триколор, состоящий из панафриканских цветов: зелёного, жёлтого (золотого) и красного."
+  },
+  "id": "00004",
+  "image": "/uploads/copy_455b0b81-d136-4a9f-a04d-f47784de2531.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
