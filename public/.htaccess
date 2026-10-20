@@ -1,0 +1,16 @@
+<IfModule mod_headers.c>
+  Header always set Cross-Origin-Opener-Policy "unsafe-none"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Let Apache serve real files and folders as usual.
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Send app routes, including shared product links, to the React app.
+  RewriteRule ^ index.html [L]
+</IfModule>
