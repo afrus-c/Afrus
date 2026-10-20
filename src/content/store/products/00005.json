@@ -1,0 +1,33 @@
+{
+  "isNewArrival": true,
+  "origin": "RUSSIE",
+  "brand": "AFRUS FLAG",
+  "availableSizes": [
+    "XXL"
+  ],
+  "availabilityStatus": "5",
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU RUSSIE",
+    "en": "RUSSIAN FLAG",
+    "ru": "РОССИЙСКИЙ ФЛАГ"
+  },
+  "title": "",
+  "isFeatured": true,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le drapeau de la Russie est composé de trois bandes horizontales de même largeur : blanc en haut, bleu au milieu et rouge en bas",
+    "en": "The flag of Russia consists of three horizontal stripes of equal width: white at the top, blue in the middle, and red at the bottom.",
+    "ru": "Флаг России состоит из трёх горизонтальных полос одинаковой ширины: белой — вверху, синей — посередине и красной — внизу."
+  },
+  "id": "00005",
+  "image": "/uploads/copy_627e3a24-43b6-46d0-9139-05cd58ee36f9.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
