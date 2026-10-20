@@ -1,0 +1,32 @@
+{
+  "isNewArrival": true,
+  "origin": "RDC CONGO",
+  "brand": "AFRUS FLAG",
+  "availableSizes": [
+    "XXL"
+  ],
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU RDC ",
+    "en": "RDC FLAG ",
+    "ru": "ФЛАГ Демократической Республики Конго"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le drapeau de la République démocratique du Congo (RDC) est constitué d'un fond bleu ciel, traversé en diagonale par une bande rouge finement encadrée de jaune, et doté d'une étoile jaune à cinq branches dans son coin supérieur gauche",
+    "en": "The flag of the Democratic Republic of the Congo (DRC) consists of a sky-blue background, crossed diagonally by a red stripe thinly bordered in yellow, and features a five-pointed yellow star in its upper-left corner.",
+    "ru": "Флаг Демократической Республики Конго (ДРК) представляет собой полотнище небесно-голубого цвета, которое по диагонали пересекает красная полоса с узкой жёлтой каймой; в верхнем левом углу расположена пятиконечная жёлтая звезда."
+  },
+  "id": "00008",
+  "image": "/uploads/copy_c8fc1ac2-ebb2-46d3-bc8a-2ed36f0e96a3.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
