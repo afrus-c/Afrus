@@ -1,0 +1,32 @@
+{
+  "isNewArrival": true,
+  "origin": "COTE D'IVOIRE",
+  "brand": "AFRUS FLAG",
+  "availableSizes": [
+    "XXL"
+  ],
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU COTE D'IVOIRE",
+    "ru": "Флаг Кот-д’Ивуара",
+    "en": "Flag of Ivory Coast"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le drapeau national de la Côte d'Ivoire est un drapeau tricolore composé de trois bandes verticales de largeur égale : orange, blanc et vert (l'orange étant placé du côté du mât).",
+    "en": "The national flag of Côte d'Ivoire is a tricolor flag consisting of three vertical stripes of equal width: orange, white, and green (with the orange stripe positioned on the hoist side).",
+    "ru": "Национальный флаг Кот-д’Ивуара представляет собой трёхцветное полотнище, состоящее из трёх вертикальных полос равной ширины: оранжевой, белой и зелёной (причём оранжевая полоса расположена у древкового края)."
+  },
+  "id": "00010",
+  "image": "/uploads/copy_f300986f-d53b-45de-bfd3-18231248286f.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
