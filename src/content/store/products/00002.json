@@ -1,0 +1,33 @@
+{
+  "isNewArrival": true,
+  "origin": "RUSSIE",
+  "availableSizes": [
+    "XXL"
+  ],
+  "galleryImages": [],
+  "availabilityStatus": "5",
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU ANGOLAIS",
+    "en": "Angolan flag",
+    "ru": "Флаг Анголы"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le drapeau de l'Angola a été adopté le 11 novembre 1975, jour de l'indépendance du pays vis-à-vis du Portugal.",
+    "en": "The flag of Angola was adopted on November 11, 1975, the country's independence day from Portugal.",
+    "ru": "Флаг Анголы был принят 11 ноября 1975 года, в День независимости страны от Португалии."
+  },
+  "id": "00002",
+  "image": "/uploads/copy_5f643e31-cc8a-4036-b7ac-1ef354b88c13.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
