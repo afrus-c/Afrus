@@ -1,0 +1,32 @@
+{
+  "isNewArrival": true,
+  "origin": "BENIN",
+  "brand": "AFRUS FLAG",
+  "availableSizes": [
+    "XXL"
+  ],
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU BENIN",
+    "en": "BENIN FLAG",
+    "ru": "ФЛАГ БЕНИНА"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le drapeau du Bénin est composé d'une bande verticale verte du côté de la hampe (sur les deux cinquièmes de la longueur) et de deux bandes horizontales égales (jaune en haut et rouge en bas)",
+    "en": "The flag of Benin consists of a green vertical stripe on the hoist side (covering two-fifths of its length) and two equal horizontal stripes (yellow on top and red on the bottom).",
+    "ru": "Флаг Бенина состоит из зелёной вертикальной полосы у древкового края (занимающей две пятые его длины) и двух равных горизонтальных полос (жёлтой — сверху и красной — снизу)."
+  },
+  "id": "00009",
+  "image": "/uploads/copy_f128b384-5754-481c-999c-405744a91502.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
