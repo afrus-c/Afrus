@@ -1,0 +1,35 @@
+{
+  "badgeI18n": {
+    "fr": "NOUS VAINCRONS "
+  },
+  "isNewArrival": true,
+  "origin": "BURKINA FASO",
+  "availableSizes": [
+    "XXL"
+  ],
+  "availabilityStatus": "",
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU BURKINA FASO",
+    "ru": "Флаг Буркина-Фасо",
+    "en": "Flag of Burkina Faso"
+  },
+  "title": "",
+  "isFeatured": true,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le drapeau du Burkina Faso est composé de deux bandes horizontales égales et d'une étoile jaune au centre.",
+    "en": "The flag of Burkina Faso consists of two equal horizontal stripes and a yellow star in the center.",
+    "ru": "Флаг Буркина-Фасо состоит из двух равных горизонтальных полос и жёлтой звезды в центре."
+  },
+  "id": "00006",
+  "image": "/uploads/copy_a14d9192-d52a-41c8-8390-3367c360ba74.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
