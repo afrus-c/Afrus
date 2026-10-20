@@ -1,0 +1,34 @@
+{
+  "isNewArrival": true,
+  "origin": "senegal",
+  "material": "",
+  "brand": "AFRUS FLAG",
+  "availableSizes": [
+    "XXL"
+  ],
+  "availabilityStatus": "",
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU SENEGAL ",
+    "en": "SENEGAL FLAG",
+    "ru": "ФЛАГ СЕНЕГАЛА"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "ru": "Флаг Сенегала состоит из трех вертикальных полос равного размера (зеленой, золотисто-желтой и красной), с зеленой пятиконечной звездой в центре желтой полосы.",
+    "fr": "Le drapeau du Sénégal est composé de trois bandes verticales d'égales dimensions (vert, or/jaune et rouge) avec une étoile verte à cinq branches au centre de la bande jaune",
+    "en": "The flag of Senegal consists of three vertical stripes of equal size (green, gold/yellow, and red) with a five-pointed green star in the center of the yellow stripe."
+  },
+  "id": "00003",
+  "image": "/uploads/copy_7b31be7b-ecbe-4347-80b6-c8cfecb7c883.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
