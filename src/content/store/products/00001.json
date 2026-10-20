@@ -1,0 +1,34 @@
+{
+  "isNewArrival": true,
+  "badge": "",
+  "origin": "CAMEROUN",
+  "brand": "AFRUS COUTURE",
+  "availableSizes": [
+    "XXL"
+  ],
+  "availabilityStatus": "Quality sup",
+  "inStock": true,
+  "inventoryCount": 500,
+  "priceRub": 1999,
+  "titleI18n": {
+    "en": "FLAG CAMEROON",
+    "fr": "DRAPEAU DU CAMEROUN",
+    "ru": "ФЛАГ КАМЕРУНА"
+  },
+  "title": "",
+  "isFeatured": true,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "fr": "Le Drapeau du Cameroun se compose de trois bandes verticales de couleurs vert, rouge et jaune, avec une étoile jaune à cinq branches placée au centre de la bande rouge",
+    "en": "The Flag of Cameroon consists of three vertical stripes of green, red and yellow colors, with a yellow five-pointed star placed in the center of the red stripe",
+    "ru": "Флаг Камеруна состоит из трех вертикальных полос зеленого, красного и желтого цветов, в центре красной полосы расположена желтая пятиконечная звезда"
+  },
+  "id": "00001",
+  "image": "/uploads/copy_6788de36-671a-49c5-9916-8ca664694e04.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 25,
+  "category": "",
+  "subcategory": ""
+}
