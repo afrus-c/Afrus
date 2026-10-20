@@ -1,0 +1,33 @@
+{
+  "isNewArrival": true,
+  "origin": "NIGERIA",
+  "brand": "AFRUS FLAG",
+  "availableSizes": [
+    "XXL"
+  ],
+  "availabilityStatus": "",
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 1999,
+  "titleI18n": {
+    "fr": "DRAPEAU NIGERIA",
+    "en": "NIGERIA FLAG",
+    "ru": "ФЛАГ НИГЕРИИ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "flags--african-country-flags",
+  "categoryId": "flags",
+  "descriptionI18n": {
+    "ru": "Государственный флаг Нигерии был официально принят 1 октября 1960 года — в день получения страной независимости от Великобритании",
+    "en": "The national flag of Nigeria was officially adopted on October 1, 1960 — the day the country gained its independence from Great Britain.",
+    "fr": "Le drapeau national du Nigeria a été officiellement adopté le 1er octobre 1960 — jour où le pays a accédé à l'indépendance vis-à-vis de la Grande-Bretagne."
+  },
+  "id": "00007",
+  "image": "/uploads/copy_b8960639-4200-4010-b19d-e309355f0e31.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 26,
+  "category": "",
+  "subcategory": ""
+}
