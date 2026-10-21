@@ -1,0 +1,34 @@
+{
+  "isNewArrival": true,
+  "origin": "CAMEROUN",
+  "material": "PLANTIN",
+  "brand": "AFRUS CUISINE",
+  "availableSizes": [
+    "600 g"
+  ],
+  "specifications": [],
+  "inStock": true,
+  "inventoryCount": 100,
+  "priceRub": 600,
+  "titleI18n": {
+    "fr": "CHIPS DE PLANTAIN ",
+    "ru": "Чипсы из плантанов",
+    "en": "plantain chips"
+  },
+  "title": "",
+  "isFeatured": true,
+  "subcategoryId": "african-food--dried-foods-snacks",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "fr": "Chips de plantain : le croustillant qui fait craquer !\n\nDécouvrez nos délicieuses chips de plantain, préparées à partir de bananes plantains vertes soigneusement sélectionnées et finement tranchées pour vous offrir une texture irrésistiblement croustillante.\n\nDorées à la perfection, savoureuses et délicatement salées ou relevées d’une touche d’épices, elles sont idéales pour vos apéritifs, vos pauses gourmandes et vos petits moments de plaisir.\n\nPourquoi y résister ? Un goût authentique, un croquant incomparable et une explosion de saveurs à chaque bouchée !\n\nCraquez pour le plaisir, savourez l’authenticité Africaine !",
+    "en": "Plantain chips: the crunchy that cracks you up!\n\nDiscover our delicious plantain chips, prepared from carefully selected green plantains and thinly sliced to offer you an irresistibly crispy texture.\n\nBrowned to perfection, tasty and delicately salted or enhanced with a touch of spices, they are ideal for your aperitifs, your gourmet breaks and your little moments of pleasure.\n\nWhy resist it? An authentic taste, an incomparable crunch and an explosion of flavors with each bite!\n\nFall for the pleasure, savor the African authenticity!",
+    "ru": "Чипсы из плантанов: хрустящие до умопомрачения!\n\nПопробуйте наши восхитительные чипсы из плантанов, приготовленные из тщательно отобранных зеленых плантанов, нарезанных тонкими ломтиками, чтобы придать им невероятно хрустящую текстуру.\n\nИдеально подрумяненные, вкусные, с легкой щепоткой соли или специй, они идеально подходят для аперитива, изысканных перекусов и маленьких радостей.\n\nЗачем сопротивляться? Настоящий вкус, ни с чем не сравнимый хруст и взрыв вкуса с каждым кусочком!\n\nПочувствуйте удовольствие, насладитесь африканской аутентичностью!"
+  },
+  "id": "CH-000015",
+  "image": "/uploads/copy_4693927e-d751-4199-b176-c3f0eb9f9263.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 9,
+  "category": "",
+  "subcategory": ""
+}
