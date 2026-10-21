@@ -1,0 +1,33 @@
+{
+  "isNewArrival": true,
+  "origin": "NORD CAMEROUN",
+  "material": "boeuf",
+  "brand": "afrus cuisine",
+  "availableSizes": [
+    "100 g"
+  ],
+  "inStock": true,
+  "inventoryCount": 1000,
+  "priceRub": 1000,
+  "titleI18n": {
+    "fr": "KILICHI",
+    "en": "KILISHI",
+    "ru": "КИЛИШИ"
+  },
+  "title": "",
+  "isFeatured": true,
+  "subcategoryId": "african-food--dried-foods-snacks",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "en": "The kilishi is the gourmet and 100% authentic snack from Africa. This gastronomic treasure from Niger, Nigeria, Chad, Cameroon and Benin reinvents the concept of dried meat with an inimitable ancestral know-how.\n* A unique texture: Selected thin strips of beef, delicately dried in the sun to obtain an incomparable crispness and lightness.\n* An explosion of flavors: Coated with a creamy sauce based on peanut paste, local spices and chili pepper, each bite offers a perfect balance between smoked, spicy and crunchy.\n* The ideal protein snack: Naturally rich in protein and low in fat, it is the perfect healthy and exotic alternative for your aperitifs or your gourmet breaks.\nSuccumb to an intense taste experience and travel to the heart of the Sahel from the first bite!",
+    "fr": "Le kilichi est l’en-cas gourmand et 100 % authentique d'Afrique . Ce trésor gastronomique du Niger, du Nigeria, du Tchad, du Cameroun et du Bénin réinvente le concept de la viande séchée avec un savoir-faire ancestral inimitable.\n• Une texture unique : De fines lanières de bœuf sélectionnées, délicatement séchées au soleil pour obtenir un croustillant et une légèreté incomparables.\n• Une explosion de saveurs : Enrobé d'une sauce onctueuse à base de pâte d'arachide, d'épices locales et de piment, chaque bouchée offre un équilibre parfait entre le fumé, l'épicé et le croquant.\n• Le snack protéiné idéal : Naturellement riche en protéines et faible en matières grasses, c'est l'alternative saine et exotique parfaite pour vos apéritifs ou vos pauses gourmandes.\nSuccombez à une expérience gustative intense et voyagez au cœur du Sahel dès la première bouchée !",
+    "ru": "Киличи  — это изысканная и на 100 % аутентичная африканская закуска.  Это гастрономическое сокровище из Нигера, Нигерии, Чада, Камеруна и Бенина переосмысливает концепцию вяленого мяса, используя неподражаемые традиционные методы. \n* Уникальная текстура: отборные тонкие полоски говядины, деликатно высушенные на солнце, чтобы добиться несравненной хрусткости и легкости. \n* Взрыв вкуса: каждый кусочек покрыт сливочным соусом на основе арахисовой пасты, местных специй и перца чили, что обеспечивает идеальный баланс копченого, острого и хрустящего вкусов. \n* Идеальная белковая закуска: высокое содержание белка и низкое содержание жира делают ее идеальной здоровой и экзотической альтернативой для аперитива или изысканного перекуса. \n Погрузитесь в мир ярких вкусовых ощущений и перенеситесь в самое сердце Сахеля с первым же кусочком!"
+  },
+  "id": "KI-000016",
+  "image": "/uploads/copy_2f6d6c23-1f63-4f5e-8e58-adc2ef7ac186.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 13,
+  "category": "",
+  "subcategory": ""
+}
