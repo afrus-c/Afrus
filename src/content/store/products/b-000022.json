@@ -1,0 +1,30 @@
+{
+  "isNewArrival": true,
+  "badge": "AFRUS",
+  "origin": "CAMEROUN",
+  "brand": "AFRUS",
+  "inStock": true,
+  "inventoryCount": 1345678,
+  "priceRub": 1000,
+  "titleI18n": {
+    "fr": "BEURRE DE KARITÉ",
+    "en": "SHEA BUTTER",
+    "ru": "МАСЛО ШИ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "accessories--women-s-accessories",
+  "categoryId": "perfume",
+  "descriptionI18n": {
+    "fr": "Le beurre de karité est une matière grasse naturelle extraite des amandes des fruits de l'arbre à karité (Vitellaria paradoxa), originaire de la zone sahélienne et tropicale d'Afrique.",
+    "en": "Shea butter is a natural fat extracted from the almonds of the fruits of the shea tree (Vitellaria paradoxa), native to the Sahelian and tropical zone of Africa.",
+    "ru": "Масло ши — это натуральный жир, получаемый из плодов дерева ши (Vitellaria paradoxa), произрастающего в сахельской и тропической зонах Африки."
+  },
+  "id": "B-000022",
+  "image": "/uploads/copy_746105af-ea50-4fab-92bf-435463cd71c7.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 15,
+  "category": "",
+  "subcategory": ""
+}
