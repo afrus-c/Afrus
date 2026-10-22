@@ -1,0 +1,30 @@
+{
+  "isNewArrival": true,
+  "badge": "AFRUS",
+  "origin": "CAMEROUN",
+  "brand": "AFRUS",
+  "inStock": true,
+  "inventoryCount": 134456,
+  "priceRub": 1500,
+  "titleI18n": {
+    "fr": "MIEL",
+    "en": "HONEY",
+    "ru": "МЕД"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "african-food--dried-foods-snacks",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "fr": "est une substance sucrée et visqueuse produite par les abeilles mellifères (principalement Apis mellifera) à partir du nectar des fleurs ou du miellat",
+    "en": "is a sweet and viscous substance produced by honey bees (mainly Apis mellifera) from the nectar of flowers or honeydew",
+    "ru": "Это сладкое и вязкое вещество, которое медоносные пчёлы (в основном Apis mellifera) производят из цветочного нектара или пади."
+  },
+  "id": "M-000020",
+  "image": "/uploads/copy_a6e7b5fb-0bba-48ec-8589-4b676ad6390d.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 20,
+  "category": "",
+  "subcategory": ""
+}
