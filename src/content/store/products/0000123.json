@@ -1,0 +1,33 @@
+{
+  "isNewArrival": false,
+  "origin": "CAMEROUN",
+  "brand": "AFRUS CUISINE",
+  "availableSizes": [
+    "100g"
+  ],
+  "availabilityStatus": "",
+  "inStock": true,
+  "inventoryCount": 222,
+  "priceRub": 1000,
+  "titleI18n": {
+    "en": "KILICHI",
+    "fr": "KILICHI",
+    "ru": "КИЛИШИ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "african-food--dried-foods-snacks",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "fr": "Le kilichi (ou kilishi) est une spécialité culinaire traditionnelle de viande séchée, épicée et grillée, très populaire au Cameroun, particulièrement dans la partie septentrionale (dans la région de l'Adamaoua et à Ngaoundéré ou Garoua)",
+    "en": "Kilichi (or kilishi) is a traditional culinary specialty of dried, spicy and grilled meat, very popular in Cameroon, especially in the northern part (in the Adamaoua region and Ngaoundéré or Garoua)",
+    "ru": "Киличи (или килиши) - традиционное кулинарное блюдо из сушеного, острого и приготовленного на гриле мяса, очень популярное в Камеруне, особенно в северной части (в регионе Адамауа и Нгаундере или Гаруа)."
+  },
+  "id": "0000123",
+  "image": "/uploads/images-2.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 15,
+  "category": "",
+  "subcategory": ""
+}
