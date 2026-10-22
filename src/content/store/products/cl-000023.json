@@ -1,0 +1,35 @@
+{
+  "isNewArrival": true,
+  "badge": "AFRUS",
+  "origin": "BURKINA FASO",
+  "material": "LIN",
+  "brand": "AFRUS",
+  "availableSizes": [
+    "XXL",
+    "M"
+  ],
+  "inStock": true,
+  "inventoryCount": 1000000,
+  "priceRub": 10000,
+  "titleI18n": {
+    "fr": "NOIR-AFRITUDE ",
+    "en": "BLACK AFRICAN",
+    "ru": "АФРИКАНЕЦ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "african-clothes--traditional-wear",
+  "categoryId": "african-clothes",
+  "descriptionI18n": {
+    "fr": "Fais a la main il épousera les courbes de votre corps a la perfection ",
+    "en": "Made by hand, it will perfectly match the curves of your body",
+    "ru": "Изготовленное вручную, оно идеально подчеркнет изгибы вашего тела"
+  },
+  "id": "CL-000023",
+  "image": "/uploads/copy_0dbb4f35-2e14-43f3-a60f-110f72f434c4.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 130,
+  "category": "",
+  "subcategory": ""
+}
