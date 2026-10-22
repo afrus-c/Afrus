@@ -1,0 +1,33 @@
+{
+  "isNewArrival": true,
+  "badge": "AFRUS CUISINE",
+  "origin": "CAMEROUN",
+  "brand": "AFRUS CUISINE",
+  "availableSizes": [
+    "750 g"
+  ],
+  "inStock": true,
+  "inventoryCount": 2000,
+  "priceRub": 1500,
+  "titleI18n": {
+    "fr": "ARACHIDES GRILLÉES ET DÉPULPÉES",
+    "ru": "АРАХИСОВЫЕ КОРИЧНЕВЫЕ И БЕЛЫЕ",
+    "en": "ROASTED AND DEPULPED PEANUTS"
+  },
+  "title": "",
+  "isFeatured": true,
+  "subcategoryId": "african-food--dried-foods-snacks",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "en": "Roasted peanuts (peanuts) go very well with many salty, sweet preparations or as a snack :\nAs an aperitif\nCold drinks: Pale or amber beers, cider, iced teas or fruity cocktails (with lime or lime).\nClassic accompaniments: Olives, crackers, plantain chips or various nuts (trail mix).\nFlavored variants: With a hint of rosemary, Parmesan, or spicy /Cajun version",
+    "fr": "Les cacahuètes grillées (cacahuètes) se marient très bien avec de nombreuses préparations salées, sucrées ou en collation :\nÀ l'apéritif\nBoissons froides: Bières pâles ou ambrées, cidre, thés glacés ou cocktails fruités (au citron vert ou citron vert).\nAccompagnements classiques: Olives, craquelins, chips de banane plantain ou diverses noix (mélange montagnard).\nVariantes aromatisées: Avec un soupçon de romarin, de parmesan ou de version épicée / Cajun",
+    "ru": "Жареный арахис (земляной орех) прекрасно сочетается со многими солеными и сладкими блюдами, а также может использоваться в качестве закуски :\nВ качестве аперитива\nХолодные напитки: светлое или янтарное пиво, сидр, холодный чай или фруктовые коктейли (с лаймом или лаймовой цедрой).\nКлассические дополнения: оливки, крекеры, чипсы из подорожника или различные орехи (снэки).\nВарианты с добавками: с розмарином, пармезаном или в остром каджунском стиле"
+  },
+  "id": "AR-000017",
+  "image": "/uploads/copy_dbb03684-bf3b-40a6-9faa-50cf2b47a9f1.png",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 20,
+  "category": "",
+  "subcategory": ""
+}
