@@ -1,0 +1,33 @@
+{
+  "isNewArrival": true,
+  "badge": "AFRUS",
+  "origin": "CAMEROUN",
+  "brand": "AFRUS",
+  "availableSizes": [
+    "400 g"
+  ],
+  "inStock": true,
+  "inventoryCount": 10008,
+  "priceRub": 600,
+  "titleI18n": {
+    "fr": "MAÏS-ARACHIDES GRILLÉES",
+    "en": "ROASTED CORN-PEANUTS",
+    "ru": "МАЙС-АРАХИС, ОБЖАРЕННЫЙ НА ГРИЛЕ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "african-food--dried-foods-snacks",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "fr": "parfois appelé Sakiss ou Nkeka, est un en-cas populaire et traditionnel au Cameroun, très apprécié au quotidien ou à la sortie des écoles.\n\n Ingrédients principaux : Du maïs séché (ou parfois du maïs frais) et des arachides (cacahuètes) non décortiquées ou décortiquées",
+    "en": "sometimes called Sakiss or Nkeka, is a popular and traditional snack in Cameroon, very appreciated on a daily basis or at the end of schools.\n\n Main ingredients: Dried corn (or sometimes fresh corn) and unpeeled or shelled peanuts (peanuts)",
+    "ru": "Кукуруза в початках, которую иногда называют сакисс или нкэка, — популярная традиционная закуска в Камеруне, которую едят каждый день или в конце учебного дня. \n\n Основные ингредиенты: сушёная кукуруза (иногда свежая) и неочищенный или очищенный арахис (земляной орех)."
+  },
+  "id": "MA-000019",
+  "image": "/uploads/copy_7f8df543-8383-475b-ae19-3b73386a99ba.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 9,
+  "category": "",
+  "subcategory": ""
+}
