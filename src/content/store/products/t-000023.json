@@ -1,0 +1,33 @@
+{
+  "isNewArrival": true,
+  "badge": "AFRUS",
+  "origin": "COTE D'IVOIRE",
+  "brand": "AFRUS",
+  "availableSizes": [
+    "MINI S"
+  ],
+  "inStock": true,
+  "inventoryCount": 100009,
+  "priceRub": 5000,
+  "titleI18n": {
+    "fr": "MINI TAM-TAM",
+    "en": "MINI TAM-TAM",
+    "ru": "МИНИ ТАМ-ТАМ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "african-food--traditional-ingredients",
+  "categoryId": "souvenirs",
+  "descriptionI18n": {
+    "fr": "Idéale pour la décoration , cadeaux , souvenirs ",
+    "en": "Ideal for decoration, gifts, souvenirs",
+    "ru": "Идеально для декора, подарков и памятных сувениров"
+  },
+  "id": "T-000023",
+  "image": "/uploads/copy_154d217c-7708-46f7-ada2-6c43cd147cb2.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 65,
+  "category": "",
+  "subcategory": ""
+}
