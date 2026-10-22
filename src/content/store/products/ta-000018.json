@@ -1,0 +1,34 @@
+{
+  "isNewArrival": true,
+  "badge": "AFRUS",
+  "origin": "CAMEROUN",
+  "material": "MANIOC",
+  "brand": "AFRUS",
+  "availableSizes": [
+    "750 g"
+  ],
+  "inStock": true,
+  "inventoryCount": 10007,
+  "priceRub": 1500,
+  "titleI18n": {
+    "fr": "TAPIOCA JAUNE",
+    "en": "YELLOW GARI",
+    "ru": "ЖЕЛТЫЙ ГАРИ"
+  },
+  "title": "",
+  "isFeatured": false,
+  "subcategoryId": "african-food--dried-foods-snacks",
+  "categoryId": "african-food",
+  "descriptionI18n": {
+    "en": "YELLOW GARI It is a pre-gelatinized, granular cassava semolina or flour, obtained after peeling, grating, fermentation, spinning and roasting (dry cooking) of the cassava pulp.",
+    "fr": "C'est une semoule ou farine de manioc pré-gélatinisée, granuleuse, obtenue après l'épluchage, le râpage, la fermentation, l'essorage et la torréfaction (cuisson à sec) de la pulpe de manioc.",
+    "ru": "Это предварительно клейстеризованная гранулированная маниоковая крупа или мука, получаемая после очистки, измельчения, ферментации, отжима и обжарки (сухой варки) мякоти маниока."
+  },
+  "id": "TA-000018",
+  "image": "/uploads/copy_23661274-aeee-433c-8cc3-c936d9283c35.jpeg",
+  "description": "",
+  "rating": 5,
+  "priceUsd": 20,
+  "category": "",
+  "subcategory": ""
+}
